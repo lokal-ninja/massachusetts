@@ -1,6 +1,6 @@
 ---
 title: Lee
 url: /lee/
-latitude: 42.304253700000004
-longitude: -73.2481616
+latitude: 42.303919900000004
+longitude: -73.23409740000001
 ---

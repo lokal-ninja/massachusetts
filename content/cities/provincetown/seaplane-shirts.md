@@ -1,4 +1,0 @@
----
-title: "Seaplane Shirts"
-url: /provincetown/seaplane-shirts/
----

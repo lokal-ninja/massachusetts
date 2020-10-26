@@ -1,6 +1,6 @@
 ---
 title: Chicopee
 url: /chicopee/
-latitude: 42.1766579
-longitude: -72.57187730000001
+latitude: 42.1487691
+longitude: -72.6071119
 ---

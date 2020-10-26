@@ -1,6 +1,6 @@
 ---
 title: Dunstable
 url: /dunstable/
-latitude: 42.6750898
-longitude: -71.4828433
+latitude: 42.676478100000004
+longitude: -71.49880780000001
 ---

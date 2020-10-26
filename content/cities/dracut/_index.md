@@ -1,6 +1,6 @@
 ---
 title: Dracut
 url: /dracut/
-latitude: 42.670368700000004
-longitude: -71.30200520000001
+latitude: 42.6818928
+longitude: -71.2963726
 ---

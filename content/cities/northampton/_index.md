@@ -1,6 +1,6 @@
 ---
 title: Northampton
 url: /northampton/
-latitude: 42.323344000000006
-longitude: -72.6718895
+latitude: 42.3178989
+longitude: -72.63110060000001
 ---

@@ -1,12 +1,12 @@
 id: 4630786054
 type: node
-shop: alcohol
-latitude: 42.3579195
-longitude: -71.0702138
+shop: wine
+latitude: 42.357922900000005
+longitude: -71.07019840000001
 postcode: "02114"
 city: Boston
 street: "Charles Street"
 housenumber: 63
-phone: ""
-opening_hours: "M-Th 9am-10pm F-Sa 9am-11pm Su 12-8pm"
-website: ""
+phone: "+1-617-742-8571"
+opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00"
+website: "https://www.beaconhillwine.com/beacon-hill"
