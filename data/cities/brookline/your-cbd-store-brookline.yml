@@ -1,6 +1,5 @@
 id: 7977645520
 type: node
-shop: cannabis
 latitude: 42.3414121
 longitude: -71.12587590000001
 postcode: "02446"
@@ -8,5 +7,5 @@ city: Brookline
 street: "Beacon Street"
 housenumber: 1414
 phone: ""
-opening_hours: "10:00am-7:00pm"
+opening_hours: "10:00-19:00"
 website: ""

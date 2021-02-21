@@ -1,4 +1,5 @@
 ---
 title: "The Rug Company"
 url: /boston/the-rug-company/
+shop: furniture
 ---

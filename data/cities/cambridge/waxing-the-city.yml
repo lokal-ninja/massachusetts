@@ -1,6 +1,5 @@
 id: 6090838124
 type: node
-shop: beauty
 latitude: 42.3923561
 longitude: -71.1248704
 postcode: ""
@@ -8,5 +7,5 @@ city: Cambridge
 street: "Massachusetts Avenue"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
+opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 8036341670
 type: node
-shop: optician
 latitude: 42.3526219
 longitude: -71.04657590000001
 postcode: "02210"
@@ -8,5 +7,5 @@ city: Boston
 street: "Seaport Boulevard"
 housenumber: 72
 phone: "+1-617-307-7498"
-opening_hours: "Mo-Sa 11:00-19:00; Sun 12:00-18:00"
+opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
 website: "https://www.warbyparker.com/retail/boston/boston-seaport"
