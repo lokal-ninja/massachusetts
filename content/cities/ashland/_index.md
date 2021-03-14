@@ -1,6 +1,6 @@
 ---
 title: Ashland
 url: /ashland/
-latitude: 42.2612067
-longitude: -71.4633956
+latitude: 42.260661400000004
+longitude: -71.4641337
 ---

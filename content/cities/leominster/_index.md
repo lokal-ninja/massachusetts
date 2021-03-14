@@ -1,6 +1,6 @@
 ---
 title: Leominster
 url: /leominster/
-latitude: 42.5192095
-longitude: -71.7678956
+latitude: 42.526744300000004
+longitude: -71.7614891
 ---

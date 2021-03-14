@@ -1,6 +1,6 @@
 ---
 title: West Newton
 url: /west-newton/
-latitude: 42.3500967
-longitude: -71.2328332
+latitude: 42.349443400000006
+longitude: -71.22649410000001
 ---

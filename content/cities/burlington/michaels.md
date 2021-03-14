@@ -1,5 +1,5 @@
 ---
-title: "Michael's"
+title: "Michaels"
 url: /burlington/michaels/
-shop: gift
+shop: craft
 ---
