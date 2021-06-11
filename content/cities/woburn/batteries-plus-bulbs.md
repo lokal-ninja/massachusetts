@@ -1,5 +1,5 @@
 ---
-title: "Batteries plus Bulbs"
+title: "Batteries Plus Bulbs"
 url: /woburn/batteries-plus-bulbs/
 shop: electronics
 ---
