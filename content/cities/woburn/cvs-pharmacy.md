@@ -1,5 +1,5 @@
 ---
-title: "CVS/pharmacy"
+title: "CVS Pharmacy"
 url: /woburn/cvs-pharmacy/
 shop: chemist
 ---

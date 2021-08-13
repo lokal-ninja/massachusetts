@@ -1,11 +1,11 @@
-id: 1459218350
+id: 1459246063
 type: node
-latitude: 42.3182494
-longitude: -72.6318136
+latitude: 42.3189196
+longitude: -72.6311628
 postcode: "01060"
 city: Northampton
-street: "Main Street"
-housenumber: 189
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Su-Th 10:00-21:00; Fr,Sa 10:00-22:00"
+opening_hours: ""
 website: ""
