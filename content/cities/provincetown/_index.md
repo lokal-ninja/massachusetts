@@ -1,6 +1,6 @@
 ---
 title: Provincetown
 url: /provincetown/
-latitude: 42.058436
-longitude: -70.17863750000001
+latitude: 42.0525612
+longitude: -70.1858639
 ---
