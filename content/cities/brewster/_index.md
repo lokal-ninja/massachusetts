@@ -1,6 +1,6 @@
 ---
 title: Brewster
 url: /brewster/
-latitude: 41.7601093
-longitude: -70.082796
+latitude: 41.752
+longitude: -70.07
 ---

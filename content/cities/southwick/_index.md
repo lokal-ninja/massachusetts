@@ -1,6 +1,6 @@
 ---
 title: southwick
 url: /southwick/
-latitude: 
-longitude: 
+latitude: 42.024
+longitude: -72.788
 ---

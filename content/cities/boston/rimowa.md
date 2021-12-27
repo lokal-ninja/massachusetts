@@ -1,5 +1,5 @@
 ---
 title: "Rimowa"
 url: /boston/rimowa/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Townsend
 url: /townsend/
-latitude: 42.6657791
-longitude: -71.7155644
+latitude: 42.649
+longitude: -71.66
 ---

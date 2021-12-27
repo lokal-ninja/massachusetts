@@ -1,6 +1,6 @@
 ---
 title: Sandwich
 url: /sandwich/
-latitude: 41.7579043
-longitude: -70.4968152
+latitude: 41.703
+longitude: -70.485
 ---

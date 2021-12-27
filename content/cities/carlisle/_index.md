@@ -1,6 +1,6 @@
 ---
 title: Carlisle
 url: /carlisle/
-latitude: 42.529259700000004
-longitude: -71.3495046
+latitude: 42.528
+longitude: -71.342
 ---

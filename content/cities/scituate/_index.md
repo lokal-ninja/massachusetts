@@ -1,6 +1,6 @@
 ---
 title: Scituate
 url: /scituate/
-latitude: 42.1939754
-longitude: -70.76971280000001
+latitude: 42.205
+longitude: -70.732
 ---

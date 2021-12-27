@@ -1,5 +1,5 @@
 ---
 title: "Kiskadees"
 url: /plymouth/kiskadees/
-shop: coffee
+shop: Kaffee
 ---

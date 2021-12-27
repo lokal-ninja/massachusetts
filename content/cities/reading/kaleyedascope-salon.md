@@ -1,5 +1,5 @@
 ---
 title: "Kaleyedascope Salon"
 url: /reading/kaleyedascope-salon/
-shop: hairdresser
+shop: Friseur
 ---

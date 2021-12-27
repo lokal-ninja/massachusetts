@@ -1,6 +1,6 @@
 ---
 title: Wendell
 url: /wendell/
-latitude: 42.555351
-longitude: -72.4045523
+latitude: 42.542
+longitude: -72.401
 ---

@@ -1,6 +1,6 @@
 ---
 title: Harvard
 url: /harvard/
-latitude: 42.501419000000006
-longitude: -71.5845822
+latitude: 42.538
+longitude: -71.577
 ---

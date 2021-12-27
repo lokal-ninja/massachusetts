@@ -1,5 +1,5 @@
 ---
 title: "Dudley Dry Cleaners"
 url: /cambridge/dudley-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

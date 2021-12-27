@@ -1,6 +1,6 @@
 ---
 title: Tyngsborough
 url: /tyngsborough/
-latitude: 
-longitude: 
+latitude: 42.684
+longitude: -71.428
 ---

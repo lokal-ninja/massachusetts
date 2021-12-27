@@ -1,6 +1,6 @@
 ---
 title: Nashua
 url: /nashua/
-latitude: 
-longitude: 
+latitude: 42.7
+longitude: -71.436
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terry's Kids Laundromat"
 url: /lowell/terrys-kids-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

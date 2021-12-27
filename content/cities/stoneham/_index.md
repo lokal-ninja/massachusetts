@@ -1,6 +1,6 @@
 ---
 title: Stoneham
 url: /stoneham/
-latitude: 42.4802635
-longitude: -71.0993581
+latitude: 42.498
+longitude: -71.12
 ---

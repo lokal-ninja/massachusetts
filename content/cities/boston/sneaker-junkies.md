@@ -1,5 +1,5 @@
 ---
 title: "Sneaker Junkies"
 url: /boston/sneaker-junkies/
-shop: shoes
+shop: Schuhe
 ---

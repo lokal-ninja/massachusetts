@@ -1,5 +1,5 @@
 ---
 title: "The Cutting Studio"
 url: /woburn/the-cutting-studio/
-shop: hairdresser
+shop: Friseur
 ---

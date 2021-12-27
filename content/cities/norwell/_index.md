@@ -1,6 +1,6 @@
 ---
 title: Norwell
 url: /norwell/
-latitude: 42.1617681
-longitude: -70.7939307
+latitude: 42.159
+longitude: -70.857
 ---

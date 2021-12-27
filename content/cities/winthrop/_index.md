@@ -1,6 +1,6 @@
 ---
 title: Winthrop
 url: /winthrop/
-latitude: 42.375097600000004
-longitude: -70.982827
+latitude: 42.386
+longitude: -70.975
 ---

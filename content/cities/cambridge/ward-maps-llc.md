@@ -1,5 +1,5 @@
 ---
 title: "Ward Maps LLC"
 url: /cambridge/ward-maps-llc/
-shop: gift
+shop: Andenken
 ---

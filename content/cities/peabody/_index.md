@@ -1,6 +1,6 @@
 ---
 title: Peabody
 url: /peabody/
-latitude: 42.5278731
-longitude: -70.92866090000001
+latitude: 42.54
+longitude: -70.943
 ---

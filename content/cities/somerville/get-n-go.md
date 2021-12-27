@@ -1,5 +1,5 @@
 ---
 title: "Get-N-Go"
 url: /somerville/get-n-go/
-shop: convenience
+shop: Lebensmittel
 ---

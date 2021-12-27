@@ -1,5 +1,5 @@
 ---
 title: "Hobart's Country Store"
 url: /tewksbury/hobarts-country-store/
-shop: general
+shop: Dorfladen
 ---

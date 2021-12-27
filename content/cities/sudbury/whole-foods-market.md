@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /sudbury/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

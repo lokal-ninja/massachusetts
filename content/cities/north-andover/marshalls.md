@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /north-andover/marshalls/
-shop: department store
+shop: Warenhaus
 ---

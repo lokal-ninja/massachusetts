@@ -1,6 +1,6 @@
 ---
 title: North Billerica
 url: /north-billerica/
-latitude: 42.5834258
-longitude: -71.2845035
+latitude: 42.581
+longitude: -71.288
 ---

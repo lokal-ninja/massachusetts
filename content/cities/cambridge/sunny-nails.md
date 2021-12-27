@@ -1,5 +1,5 @@
 ---
 title: "Sunny Nails"
 url: /cambridge/sunny-nails/
-shop: beauty
+shop: Kosmetik
 ---

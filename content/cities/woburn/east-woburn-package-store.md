@@ -1,5 +1,5 @@
 ---
 title: "East Woburn Package Store"
 url: /woburn/east-woburn-package-store/
-shop: alcohol
+shop: Spirituosen
 ---

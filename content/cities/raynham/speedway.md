@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /raynham/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

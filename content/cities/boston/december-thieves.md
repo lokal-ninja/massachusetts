@@ -1,5 +1,5 @@
 ---
 title: "December Thieves"
 url: /boston/december-thieves/
-shop: shop
+shop: Allgemein
 ---

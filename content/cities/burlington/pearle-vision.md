@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /burlington/pearle-vision/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hugo's of Melrose"
 url: /melrose/hugos-of-melrose/
-shop: appliance
+shop: Haushaltsgeräte
 ---

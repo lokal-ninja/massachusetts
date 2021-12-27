@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /swampscott/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

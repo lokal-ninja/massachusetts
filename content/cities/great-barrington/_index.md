@@ -1,6 +1,6 @@
 ---
 title: Great Barrington
 url: /great-barrington/
-latitude: 42.2103722
-longitude: -73.3389121
+latitude: 42.193
+longitude: -73.361
 ---

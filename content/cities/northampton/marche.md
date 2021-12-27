@@ -1,5 +1,5 @@
 ---
 title: "Marché"
 url: /northampton/marche/
-shop: hairdresser
+shop: Friseur
 ---

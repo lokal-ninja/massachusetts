@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hyannis/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

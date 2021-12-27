@@ -1,6 +1,6 @@
 ---
 title: Medway
 url: /medway/
-latitude: 42.1417641
-longitude: -71.39672560000001
+latitude: 42.157
+longitude: -71.393
 ---

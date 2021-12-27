@@ -1,5 +1,5 @@
 ---
 title: "C Mart Quincy"
 url: /quincy/c-mart-quincy/
-shop: supermarket
+shop: Supermarkt
 ---

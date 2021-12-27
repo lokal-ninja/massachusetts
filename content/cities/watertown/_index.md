@@ -1,6 +1,6 @@
 ---
 title: Watertown
 url: /watertown/
-latitude: 42.3709299
-longitude: -71.1828321
+latitude: 42.37
+longitude: -71.155
 ---

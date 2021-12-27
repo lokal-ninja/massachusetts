@@ -1,5 +1,5 @@
 ---
 title: "Larry's Package Store"
 url: /bellingham/larrys-package-store/
-shop: alcohol
+shop: Spirituosen
 ---

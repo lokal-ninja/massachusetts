@@ -1,5 +1,5 @@
 ---
 title: "Star Market"
 url: /newtonville/star-market/
-shop: supermarket
+shop: Supermarkt
 ---

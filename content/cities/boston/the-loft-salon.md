@@ -1,5 +1,5 @@
 ---
 title: "The Loft Salon"
 url: /boston/the-loft-salon/
-shop: beauty
+shop: Kosmetik
 ---

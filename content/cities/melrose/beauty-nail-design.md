@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nail Design"
 url: /melrose/beauty-nail-design/
-shop: beauty
+shop: Kosmetik
 ---

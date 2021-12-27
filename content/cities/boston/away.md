@@ -1,5 +1,5 @@
 ---
 title: "Away"
 url: /boston/away/
-shop: bag
+shop: Taschen & Koffer
 ---

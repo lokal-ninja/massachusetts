@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /burlington/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

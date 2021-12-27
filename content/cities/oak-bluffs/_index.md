@@ -1,6 +1,6 @@
 ---
 title: Oak Bluffs
 url: /oak-bluffs/
-latitude: 
-longitude: 
+latitude: 41.456
+longitude: -70.558
 ---

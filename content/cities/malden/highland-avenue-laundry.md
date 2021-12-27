@@ -1,5 +1,5 @@
 ---
 title: "Highland Avenue Laundry"
 url: /malden/highland-avenue-laundry/
-shop: laundry
+shop: Wäscherei
 ---

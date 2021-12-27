@@ -1,6 +1,6 @@
 ---
 title: Ludlow
 url: /ludlow/
-latitude: 42.239815400000005
-longitude: -71.8481275
+latitude: 42.168
+longitude: -72.484
 ---

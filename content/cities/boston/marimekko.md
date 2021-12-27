@@ -1,5 +1,5 @@
 ---
 title: "Marimekko"
 url: /boston/marimekko/
-shop: clothes
+shop: Kleidung
 ---

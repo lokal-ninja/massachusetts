@@ -1,5 +1,5 @@
 ---
 title: "Chameleon"
 url: /provincetown/chameleon/
-shop: clothes
+shop: Kleidung
 ---

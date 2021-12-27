@@ -1,5 +1,5 @@
 ---
 title: "Haffners"
 url: /methuen/haffners/
-shop: gas
+shop: Gasflaschen
 ---

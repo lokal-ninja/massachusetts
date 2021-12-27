@@ -1,6 +1,6 @@
 ---
 title: Westboro
 url: /westboro/
-latitude: 
-longitude: 
+latitude: 42.285
+longitude: -71.604
 ---

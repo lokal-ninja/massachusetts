@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /plymouth/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

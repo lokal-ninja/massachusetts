@@ -1,5 +1,5 @@
 ---
 title: "Hourglass Gift Gallery"
 url: /melrose/hourglass-gift-gallery/
-shop: gift
+shop: Andenken
 ---

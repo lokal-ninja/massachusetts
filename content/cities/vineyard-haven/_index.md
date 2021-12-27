@@ -1,6 +1,6 @@
 ---
 title: Vineyard Haven
 url: /vineyard-haven/
-latitude: 41.4542914
-longitude: -70.60380260000001
+latitude: 41.454
+longitude: -70.603
 ---

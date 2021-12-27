@@ -1,6 +1,6 @@
 ---
 title: Swansea
 url: /swansea/
-latitude: 41.748157500000005
-longitude: -71.1897684
+latitude: 41.752
+longitude: -71.228
 ---

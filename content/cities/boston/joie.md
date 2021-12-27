@@ -1,5 +1,5 @@
 ---
 title: "Joie"
 url: /boston/joie/
-shop: clothes
+shop: Kleidung
 ---

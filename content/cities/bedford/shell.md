@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bedford/shell/
-shop: convenience
+shop: Lebensmittel
 ---

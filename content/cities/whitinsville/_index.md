@@ -1,6 +1,6 @@
 ---
 title: Whitinsville
 url: /whitinsville/
-latitude: 
-longitude: 
+latitude: 42.126
+longitude: -71.648
 ---

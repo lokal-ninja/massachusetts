@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /charlestown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

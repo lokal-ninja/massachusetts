@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /quincy/target/
-shop: department store
+shop: Warenhaus
 ---

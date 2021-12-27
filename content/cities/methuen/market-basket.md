@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /methuen/market-basket/
-shop: supermarket
+shop: Supermarkt
 ---

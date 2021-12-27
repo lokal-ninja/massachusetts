@@ -1,6 +1,6 @@
 ---
 title: Needham
 url: /needham/
-latitude: 42.2806488
-longitude: -71.23648440000001
+latitude: 42.293
+longitude: -71.25
 ---

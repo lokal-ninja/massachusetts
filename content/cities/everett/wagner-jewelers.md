@@ -1,5 +1,5 @@
 ---
 title: "Wagner Jewelers"
 url: /everett/wagner-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

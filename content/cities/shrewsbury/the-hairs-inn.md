@@ -1,5 +1,5 @@
 ---
 title: "The Hair's Inn"
 url: /shrewsbury/the-hairs-inn/
-shop: hairdresser
+shop: Friseur
 ---

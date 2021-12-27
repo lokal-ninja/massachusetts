@@ -1,6 +1,6 @@
 ---
 title: South Hadley
 url: /south-hadley/
-latitude: 42.249546300000006
-longitude: -72.58225800000001
+latitude: 42.236
+longitude: -72.562
 ---

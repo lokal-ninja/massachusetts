@@ -1,5 +1,5 @@
 ---
 title: "Swank"
 url: /somerville/swank/
-shop: charity
+shop: Gebrauchtwaren
 ---

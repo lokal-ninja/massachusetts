@@ -1,6 +1,6 @@
 ---
 title: Brockton
 url: /brockton/
-latitude: 42.083433500000005
-longitude: -71.0183787
+latitude: 42.052
+longitude: -71.067
 ---

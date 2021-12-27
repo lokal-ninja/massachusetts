@@ -1,6 +1,6 @@
 ---
 title: Hyannis
 url: /hyannis/
-latitude: 41.651513
-longitude: -70.2825918
+latitude: 41.67
+longitude: -70.294
 ---

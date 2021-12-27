@@ -1,5 +1,5 @@
 ---
 title: "Cordani Factory Outlet"
 url: /wakefield/cordani-factory-outlet/
-shop: shoes
+shop: Schuhe
 ---

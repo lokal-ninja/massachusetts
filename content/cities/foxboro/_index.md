@@ -1,6 +1,6 @@
 ---
 title: Foxboro
 url: /foxboro/
-latitude: 
-longitude: 
+latitude: 42.103
+longitude: -71.258
 ---

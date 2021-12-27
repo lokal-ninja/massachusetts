@@ -1,5 +1,5 @@
 ---
 title: "Amherst Eco Laundry"
 url: /amherst/amherst-eco-laundry/
-shop: laundry
+shop: Wäscherei
 ---

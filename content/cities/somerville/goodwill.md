@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /somerville/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boxborough
 url: /boxborough/
-latitude: 42.4934474
-longitude: -71.51410440000001
+latitude: 42.482
+longitude: -71.512
 ---

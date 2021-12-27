@@ -1,5 +1,5 @@
 ---
 title: "Akris"
 url: /boston/akris/
-shop: clothes
+shop: Kleidung
 ---

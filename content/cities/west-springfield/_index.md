@@ -1,6 +1,6 @@
 ---
 title: West Springfield
 url: /west-springfield/
-latitude: 42.105237
-longitude: -72.6213712
+latitude: 42.106
+longitude: -72.643
 ---

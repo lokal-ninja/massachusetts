@@ -1,5 +1,5 @@
 ---
 title: "Northeast Alternatives"
 url: /fall-river/northeast-alternatives/
-shop: cannabis
+shop: Hanf
 ---

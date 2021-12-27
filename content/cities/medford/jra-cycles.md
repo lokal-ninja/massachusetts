@@ -1,5 +1,5 @@
 ---
 title: "JRA Cycles"
 url: /medford/jra-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

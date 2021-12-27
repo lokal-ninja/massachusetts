@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Florists"
 url: /stoneham/evergreen-florists/
-shop: florist
+shop: Blumen
 ---

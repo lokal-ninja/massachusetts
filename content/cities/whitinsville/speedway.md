@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /whitinsville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

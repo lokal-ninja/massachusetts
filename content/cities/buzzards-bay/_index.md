@@ -1,6 +1,6 @@
 ---
 title: Buzzards Bay
 url: /buzzards-bay/
-latitude: 41.745383000000004
-longitude: -70.618087
+latitude: 41.752
+longitude: -70.594
 ---

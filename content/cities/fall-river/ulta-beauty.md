@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /fall-river/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

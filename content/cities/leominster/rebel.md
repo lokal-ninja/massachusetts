@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /leominster/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

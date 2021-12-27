@@ -1,5 +1,5 @@
 ---
 title: "Wampum"
 url: /provincetown/wampum/
-shop: gift
+shop: Andenken
 ---

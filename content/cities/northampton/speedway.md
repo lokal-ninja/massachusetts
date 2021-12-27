@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /northampton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

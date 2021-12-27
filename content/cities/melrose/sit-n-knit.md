@@ -1,5 +1,5 @@
 ---
 title: "Sit 'N Knit"
 url: /melrose/sit-n-knit/
-shop: craft
+shop: Basteln
 ---

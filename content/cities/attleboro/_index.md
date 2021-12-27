@@ -1,6 +1,6 @@
 ---
 title: Attleboro
 url: /attleboro/
-latitude: 41.943812900000005
-longitude: -71.2806515
+latitude: 41.902
+longitude: -71.368
 ---

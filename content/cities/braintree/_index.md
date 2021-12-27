@@ -1,6 +1,6 @@
 ---
 title: Braintree
 url: /braintree/
-latitude: 42.2064195
-longitude: -71.00506700000001
+latitude: 42.232
+longitude: -70.979
 ---

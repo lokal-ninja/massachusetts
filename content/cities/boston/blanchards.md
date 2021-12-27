@@ -1,5 +1,5 @@
 ---
 title: "Blanchards"
 url: /boston/blanchards/
-shop: alcohol
+shop: Spirituosen
 ---

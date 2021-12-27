@@ -1,5 +1,5 @@
 ---
 title: "Frameworks"
 url: /cambridge/frameworks/
-shop: frame
+shop: Rahmen
 ---

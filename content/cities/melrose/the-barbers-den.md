@@ -1,5 +1,5 @@
 ---
 title: "The Barber's Den"
 url: /melrose/the-barbers-den/
-shop: hairdresser
+shop: Friseur
 ---

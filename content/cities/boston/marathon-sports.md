@@ -1,5 +1,5 @@
 ---
 title: "Marathon Sports"
 url: /boston/marathon-sports/
-shop: sports
+shop: Sport
 ---

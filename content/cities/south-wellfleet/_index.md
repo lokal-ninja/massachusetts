@@ -1,6 +1,6 @@
 ---
 title: South Wellfleet
 url: /south-wellfleet/
-latitude: 41.9181613
-longitude: -69.9952985
+latitude: 41.917
+longitude: -69.989
 ---

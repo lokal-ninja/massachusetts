@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /stoneham/avenue/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /barnstable-hyannis/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

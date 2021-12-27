@@ -1,5 +1,5 @@
 ---
 title: "SalonCapri"
 url: /boston/saloncapri/
-shop: beauty
+shop: Kosmetik
 ---

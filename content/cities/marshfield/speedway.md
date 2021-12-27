@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marshfield/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /cambridge/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

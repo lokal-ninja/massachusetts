@@ -1,6 +1,6 @@
 ---
 title: Westhampton
 url: /westhampton/
-latitude: 42.3097341
-longitude: -72.77839250000001
+latitude: 42.301
+longitude: -72.746
 ---

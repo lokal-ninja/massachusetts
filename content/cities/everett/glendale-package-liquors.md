@@ -1,5 +1,5 @@
 ---
 title: "Glendale Package Liquors"
 url: /everett/glendale-package-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

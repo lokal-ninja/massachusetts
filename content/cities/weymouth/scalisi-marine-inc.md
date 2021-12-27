@@ -1,5 +1,5 @@
 ---
 title: "Scalisi Marine Inc"
 url: /weymouth/scalisi-marine-inc/
-shop: shop
+shop: Allgemein
 ---

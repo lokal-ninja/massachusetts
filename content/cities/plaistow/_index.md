@@ -1,6 +1,6 @@
 ---
 title: Plaistow
 url: /plaistow/
-latitude: 
-longitude: 
+latitude: 42.816
+longitude: -71.106
 ---

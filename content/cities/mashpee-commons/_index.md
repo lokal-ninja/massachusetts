@@ -1,6 +1,6 @@
 ---
 title: Mashpee Commons
 url: /mashpee-commons/
-latitude: 
-longitude: 
+latitude: 41.616
+longitude: -70.491
 ---

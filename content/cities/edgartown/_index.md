@@ -1,6 +1,6 @@
 ---
 title: Edgartown
 url: /edgartown/
-latitude: 41.3890052
-longitude: -70.5133599
+latitude: 41.396
+longitude: -70.53
 ---

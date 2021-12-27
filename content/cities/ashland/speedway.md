@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ashland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

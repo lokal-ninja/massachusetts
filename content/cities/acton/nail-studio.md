@@ -1,5 +1,5 @@
 ---
 title: "Nail Studio"
 url: /acton/nail-studio/
-shop: beauty
+shop: Kosmetik
 ---

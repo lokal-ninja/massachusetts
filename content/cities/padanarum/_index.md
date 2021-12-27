@@ -1,6 +1,6 @@
 ---
 title: Padanarum
 url: /padanarum/
-latitude: 
-longitude: 
+latitude: 41.587
+longitude: -70.944
 ---

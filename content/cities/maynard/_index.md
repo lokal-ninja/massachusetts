@@ -1,6 +1,6 @@
 ---
 title: Maynard
 url: /maynard/
-latitude: 42.4321064
-longitude: -71.4539683
+latitude: 42.431
+longitude: -71.459
 ---

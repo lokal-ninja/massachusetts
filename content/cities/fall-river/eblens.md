@@ -1,5 +1,5 @@
 ---
 title: "EbLens"
 url: /fall-river/eblens/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uvida"
 url: /east-boston/uvida/
-shop: gift
+shop: Andenken
 ---

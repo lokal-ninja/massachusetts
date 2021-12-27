@@ -1,6 +1,6 @@
 ---
 title: Cotuit
 url: /cotuit/
-latitude: 41.6167808
-longitude: -70.436975
+latitude: 41.622
+longitude: -70.435
 ---

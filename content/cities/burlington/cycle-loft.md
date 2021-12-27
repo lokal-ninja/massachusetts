@@ -1,5 +1,5 @@
 ---
 title: "Cycle Loft"
 url: /burlington/cycle-loft/
-shop: bicycle
+shop: Fahrrad
 ---

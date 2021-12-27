@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /lunenburg/acme/
-shop: carpet
+shop: Teppiche
 ---

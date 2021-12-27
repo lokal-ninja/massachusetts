@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /chicopee/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

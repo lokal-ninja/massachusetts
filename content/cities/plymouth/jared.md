@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /plymouth/jared/
-shop: jewelry
+shop: Schmuck
 ---

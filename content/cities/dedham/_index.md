@@ -1,6 +1,6 @@
 ---
 title: Dedham
 url: /dedham/
-latitude: 42.2489143
-longitude: -71.1755732
+latitude: 42.232
+longitude: -71.178
 ---

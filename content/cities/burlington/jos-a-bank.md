@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /burlington/jos-a-bank/
-shop: clothes
+shop: Kleidung
 ---

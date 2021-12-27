@@ -1,6 +1,6 @@
 ---
 title: Boxford
 url: /boxford/
-latitude: 
-longitude: 
+latitude: 42.675
+longitude: -71.003
 ---

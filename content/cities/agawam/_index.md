@@ -1,6 +1,6 @@
 ---
 title: Agawam
 url: /agawam/
-latitude: 42.066186
-longitude: -72.64846270000001
+latitude: 42.089
+longitude: -72.63
 ---
