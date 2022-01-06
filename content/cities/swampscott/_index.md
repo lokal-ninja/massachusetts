@@ -1,6 +1,6 @@
 ---
 title: Swampscott
 url: /swampscott/
-latitude: 42.479
-longitude: -70.905
+latitude: 42.48
+longitude: -70.904
 ---
