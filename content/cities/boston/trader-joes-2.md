@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /boston/trader-joes-2/
-shop: Supermarkt
+shop: supermarket
 ---

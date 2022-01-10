@@ -1,5 +1,5 @@
 ---
 title: "Eastie Smoke Shop"
 url: /east-boston/eastie-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

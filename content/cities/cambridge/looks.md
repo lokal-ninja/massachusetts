@@ -1,5 +1,5 @@
 ---
 title: "Looks"
 url: /cambridge/looks/
-shop: Kleidung
+shop: clothes
 ---

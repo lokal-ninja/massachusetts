@@ -1,5 +1,5 @@
 ---
 title: "Thos. Moser"
 url: /boston/thos-moser/
-shop: Möbel
+shop: furniture
 ---

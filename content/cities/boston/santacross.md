@@ -1,5 +1,5 @@
 ---
 title: "Santacross"
 url: /boston/santacross/
-shop: Schuhe
+shop: shoes
 ---

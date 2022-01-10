@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /littleton/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

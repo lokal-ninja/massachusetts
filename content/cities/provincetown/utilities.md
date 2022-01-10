@@ -1,5 +1,5 @@
 ---
 title: "Utilities"
 url: /provincetown/utilities/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curaleaf"
 url: /provincetown/curaleaf/
-shop: Hanf
+shop: cannabis
 ---

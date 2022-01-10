@@ -1,5 +1,5 @@
 ---
 title: "Goodcare Auto Services"
 url: /waltham/goodcare-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

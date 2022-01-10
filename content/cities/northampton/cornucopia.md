@@ -1,5 +1,5 @@
 ---
 title: "Cornucopia"
 url: /northampton/cornucopia/
-shop: Bioladen
+shop: health food
 ---

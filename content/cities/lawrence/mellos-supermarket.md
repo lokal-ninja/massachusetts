@@ -1,5 +1,5 @@
 ---
 title: "Mello's Supermarket"
 url: /lawrence/mellos-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

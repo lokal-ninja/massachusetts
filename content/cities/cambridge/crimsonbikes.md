@@ -1,5 +1,5 @@
 ---
 title: "CrimsonBikes"
 url: /cambridge/crimsonbikes/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /palmer/walgreens/
-shop: Drogerie
+shop: chemist
 ---

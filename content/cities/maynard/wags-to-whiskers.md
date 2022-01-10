@@ -1,5 +1,5 @@
 ---
 title: "Wags to Whiskers"
 url: /maynard/wags-to-whiskers/
-shop: Tiere
+shop: pet
 ---

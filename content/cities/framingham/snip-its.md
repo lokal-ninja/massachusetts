@@ -1,5 +1,5 @@
 ---
 title: "Snip-Its"
 url: /framingham/snip-its/
-shop: Friseur
+shop: hairdresser
 ---

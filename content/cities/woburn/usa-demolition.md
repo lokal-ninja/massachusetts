@@ -1,5 +1,5 @@
 ---
 title: "USA Demolition"
 url: /woburn/usa-demolition/
-shop: Allgemein
+shop: shop
 ---

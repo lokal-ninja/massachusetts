@@ -1,5 +1,5 @@
 ---
 title: "Anton's Cleaners"
 url: /stoughton/antons-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Fields Market"
 url: /greenfield/green-fields-market/
-shop: Supermarkt
+shop: supermarket
 ---

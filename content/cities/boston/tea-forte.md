@@ -1,5 +1,5 @@
 ---
 title: "Tea Forte"
 url: /boston/tea-forte/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brewster Bike"
 url: /brewster/brewster-bike/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Everything But Water"
 url: /lynnfield/everything-but-water/
-shop: Kleidung
+shop: clothes
 ---

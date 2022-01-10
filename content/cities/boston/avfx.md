@@ -1,5 +1,5 @@
 ---
 title: "avfx"
 url: /boston/avfx/
-shop: Hifi
+shop: hifi
 ---

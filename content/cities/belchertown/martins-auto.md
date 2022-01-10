@@ -1,5 +1,5 @@
 ---
 title: "Martin's Auto"
 url: /belchertown/martins-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

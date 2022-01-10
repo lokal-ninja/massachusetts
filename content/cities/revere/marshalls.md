@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /revere/marshalls/
-shop: Warenhaus
+shop: department store
 ---

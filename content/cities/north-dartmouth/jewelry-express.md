@@ -1,5 +1,5 @@
 ---
 title: "Jewelry Express"
 url: /north-dartmouth/jewelry-express/
-shop: Schmuck
+shop: jewelry
 ---

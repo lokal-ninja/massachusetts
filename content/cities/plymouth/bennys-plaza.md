@@ -1,5 +1,5 @@
 ---
 title: "Bennys Plaza"
 url: /plymouth/bennys-plaza/
-shop: Warenhaus
+shop: department store
 ---

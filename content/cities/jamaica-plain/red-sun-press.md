@@ -1,5 +1,5 @@
 ---
 title: "Red Sun Press"
 url: /jamaica-plain/red-sun-press/
-shop: Kopieren
+shop: copyshop
 ---

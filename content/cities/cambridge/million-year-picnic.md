@@ -1,5 +1,5 @@
 ---
 title: "Million Year Picnic"
 url: /cambridge/million-year-picnic/
-shop: Bücher
+shop: books
 ---

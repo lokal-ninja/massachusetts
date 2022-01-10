@@ -1,5 +1,5 @@
 ---
 title: "JPeauty Spa"
 url: /fall-river/jpeauty-spa/
-shop: Kosmetik
+shop: beauty
 ---

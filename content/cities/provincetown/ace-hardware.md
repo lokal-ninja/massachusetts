@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /provincetown/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

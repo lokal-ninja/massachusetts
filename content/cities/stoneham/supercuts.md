@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /stoneham/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

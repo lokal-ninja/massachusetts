@@ -1,5 +1,5 @@
 ---
 title: "Neal's Collision Center"
 url: /dracut/neals-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

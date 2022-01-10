@@ -1,5 +1,5 @@
 ---
 title: "Riverside Car Care Center"
 url: /woburn/riverside-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

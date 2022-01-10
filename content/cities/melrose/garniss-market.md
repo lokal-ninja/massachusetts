@@ -1,5 +1,5 @@
 ---
 title: "Garniss Market"
 url: /melrose/garniss-market/
-shop: Lebensmittel
+shop: convenience
 ---

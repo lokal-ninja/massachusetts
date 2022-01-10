@@ -1,5 +1,5 @@
 ---
 title: "SUNS"
 url: /boston/suns/
-shop: Möbel
+shop: furniture
 ---

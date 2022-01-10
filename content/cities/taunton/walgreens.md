@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /taunton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

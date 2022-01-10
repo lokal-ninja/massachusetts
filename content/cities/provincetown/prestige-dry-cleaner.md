@@ -1,5 +1,5 @@
 ---
 title: "Prestige Dry Cleaner"
 url: /provincetown/prestige-dry-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

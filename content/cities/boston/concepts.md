@@ -1,5 +1,5 @@
 ---
 title: "Concepts"
 url: /boston/concepts/
-shop: Kleidung
+shop: clothes
 ---

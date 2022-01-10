@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /fall-river/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

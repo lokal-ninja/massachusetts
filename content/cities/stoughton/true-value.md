@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /stoughton/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

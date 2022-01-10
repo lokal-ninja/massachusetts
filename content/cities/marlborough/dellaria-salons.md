@@ -1,5 +1,5 @@
 ---
 title: "Dellaria Salons"
 url: /marlborough/dellaria-salons/
-shop: Friseur
+shop: hairdresser
 ---

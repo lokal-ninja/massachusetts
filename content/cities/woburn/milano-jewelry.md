@@ -1,5 +1,5 @@
 ---
 title: "Milano Jewelry"
 url: /woburn/milano-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

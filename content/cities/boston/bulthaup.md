@@ -1,5 +1,5 @@
 ---
 title: "bulthaup"
 url: /boston/bulthaup/
-shop: Raumausstattung
+shop: interior decoration
 ---

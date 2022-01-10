@@ -1,5 +1,5 @@
 ---
 title: "Joanna's Tailoring"
 url: /malden/joannas-tailoring/
-shop: Wäscherei
+shop: laundry
 ---

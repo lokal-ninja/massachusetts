@@ -1,5 +1,5 @@
 ---
 title: "Lexington Community Farm"
 url: /lexington/lexington-community-farm/
-shop: Hofladen
+shop: farm
 ---

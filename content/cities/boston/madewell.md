@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /boston/madewell/
-shop: Kleidung
+shop: clothes
 ---

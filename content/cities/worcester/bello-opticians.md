@@ -1,5 +1,5 @@
 ---
 title: "Bello Opticians"
 url: /worcester/bello-opticians/
-shop: Optiker
+shop: optician
 ---

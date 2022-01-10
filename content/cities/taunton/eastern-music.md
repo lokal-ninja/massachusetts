@@ -1,5 +1,5 @@
 ---
 title: "Eastern Music"
 url: /taunton/eastern-music/
-shop: Musik
+shop: music
 ---

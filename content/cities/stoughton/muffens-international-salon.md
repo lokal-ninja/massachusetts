@@ -1,5 +1,5 @@
 ---
 title: "Muffen's International Salon"
 url: /stoughton/muffens-international-salon/
-shop: Friseur
+shop: hairdresser
 ---

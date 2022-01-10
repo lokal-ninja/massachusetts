@@ -1,5 +1,5 @@
 ---
 title: "Glass Half Full"
 url: /provincetown/glass-half-full/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Behind the Hair"
 url: /watertown/behind-the-hair/
-shop: Friseur
+shop: hairdresser
 ---

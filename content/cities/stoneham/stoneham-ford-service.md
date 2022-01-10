@@ -1,5 +1,5 @@
 ---
 title: "Stoneham Ford Service"
 url: /stoneham/stoneham-ford-service/
-shop: Autowerkstatt
+shop: car repair
 ---

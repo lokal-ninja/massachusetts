@@ -1,5 +1,5 @@
 ---
 title: "Quad Bikes"
 url: /cambridge/quad-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

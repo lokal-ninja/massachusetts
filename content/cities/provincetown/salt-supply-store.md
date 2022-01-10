@@ -1,5 +1,5 @@
 ---
 title: "Salt Supply Store"
 url: /provincetown/salt-supply-store/
-shop: Raumausstattung
+shop: interior decoration
 ---

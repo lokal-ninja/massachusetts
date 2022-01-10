@@ -1,5 +1,5 @@
 ---
 title: "City Feed"
 url: /boston/city-feed/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Street Barbers"
 url: /wakefield/main-street-barbers/
-shop: Friseur
+shop: hairdresser
 ---

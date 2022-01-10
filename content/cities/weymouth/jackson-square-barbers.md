@@ -1,5 +1,5 @@
 ---
 title: "Jackson Square Barbers"
 url: /weymouth/jackson-square-barbers/
-shop: Friseur
+shop: hairdresser
 ---

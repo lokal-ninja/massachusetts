@@ -1,5 +1,5 @@
 ---
 title: "Powers Liquors"
 url: /lowell/powers-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /hyannis/kmart/
-shop: Warenhaus
+shop: department store
 ---

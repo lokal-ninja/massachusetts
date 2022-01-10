@@ -1,5 +1,5 @@
 ---
 title: "Native Views"
 url: /shelburne-falls/native-views/
-shop: Andenken
+shop: gift
 ---

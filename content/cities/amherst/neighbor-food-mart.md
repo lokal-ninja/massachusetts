@@ -1,5 +1,5 @@
 ---
 title: "Neighbor Food Mart"
 url: /amherst/neighbor-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

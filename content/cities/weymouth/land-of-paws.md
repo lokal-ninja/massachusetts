@@ -1,5 +1,5 @@
 ---
 title: "Land of Paws"
 url: /weymouth/land-of-paws/
-shop: Allgemein
+shop: shop
 ---

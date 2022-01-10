@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sturbridge/walmart/
-shop: Warenhaus
+shop: department store
 ---

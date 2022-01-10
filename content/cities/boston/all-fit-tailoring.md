@@ -1,5 +1,5 @@
 ---
 title: "All Fit Tailoring"
 url: /boston/all-fit-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /quincy/walmart/
-shop: Warenhaus
+shop: department store
 ---

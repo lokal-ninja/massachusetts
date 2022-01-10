@@ -1,5 +1,5 @@
 ---
 title: "Boston Tattoo Company"
 url: /cambridge/boston-tattoo-company/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coastal Nissan"
 url: /norwell/coastal-nissan/
-shop: Autohaus
+shop: car
 ---

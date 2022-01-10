@@ -1,5 +1,5 @@
 ---
 title: "Public Spectacle Opticians"
 url: /plymouth/public-spectacle-opticians/
-shop: Optiker
+shop: optician
 ---

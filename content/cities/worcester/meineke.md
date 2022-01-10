@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /worcester/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

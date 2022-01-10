@@ -1,5 +1,5 @@
 ---
 title: "Country Garden"
 url: /hyannis/country-garden/
-shop: Garten-Center
+shop: garden centre
 ---

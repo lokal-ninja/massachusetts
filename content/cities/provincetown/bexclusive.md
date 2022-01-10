@@ -1,5 +1,5 @@
 ---
 title: "BExclusive"
 url: /provincetown/bexclusive/
-shop: Kleidung
+shop: clothes
 ---

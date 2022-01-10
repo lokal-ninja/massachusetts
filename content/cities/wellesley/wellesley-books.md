@@ -1,5 +1,5 @@
 ---
 title: "Wellesley Books"
 url: /wellesley/wellesley-books/
-shop: Bücher
+shop: books
 ---

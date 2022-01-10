@@ -1,5 +1,5 @@
 ---
 title: "Brite Kleen"
 url: /bolton/brite-kleen/
-shop: Wäscherei
+shop: laundry
 ---

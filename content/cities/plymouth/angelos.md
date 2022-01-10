@@ -1,5 +1,5 @@
 ---
 title: "Angelo's"
 url: /plymouth/angelos/
-shop: Feinkost
+shop: deli
 ---

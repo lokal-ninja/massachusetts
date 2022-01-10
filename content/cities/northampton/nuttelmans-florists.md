@@ -1,5 +1,5 @@
 ---
 title: "Nuttelman's Florists"
 url: /northampton/nuttelmans-florists/
-shop: Blumen
+shop: florist
 ---

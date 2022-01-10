@@ -1,5 +1,5 @@
 ---
 title: "Big Y"
 url: /northampton/big-y/
-shop: Supermarkt
+shop: supermarket
 ---

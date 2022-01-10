@@ -1,5 +1,5 @@
 ---
 title: "Big Picture Framing"
 url: /cambridge/big-picture-framing/
-shop: Rahmen
+shop: frame
 ---

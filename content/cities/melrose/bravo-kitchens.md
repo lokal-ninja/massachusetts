@@ -1,5 +1,5 @@
 ---
 title: "Bravo Kitchens"
 url: /melrose/bravo-kitchens/
-shop: Raumausstattung
+shop: interior decoration
 ---

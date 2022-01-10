@@ -1,5 +1,5 @@
 ---
 title: "Bluemoon Smoke Shop"
 url: /boston/bluemoon-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

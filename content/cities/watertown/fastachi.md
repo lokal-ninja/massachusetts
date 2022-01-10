@@ -1,5 +1,5 @@
 ---
 title: "Fastachi"
 url: /watertown/fastachi/
-shop: Schokolade
+shop: chocolate
 ---

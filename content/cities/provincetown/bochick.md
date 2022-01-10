@@ -1,5 +1,5 @@
 ---
 title: "Bochick"
 url: /provincetown/bochick/
-shop: Kleidung
+shop: clothes
 ---

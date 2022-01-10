@@ -1,5 +1,5 @@
 ---
 title: "Guilio's Bakery"
 url: /wakefield/guilios-bakery/
-shop: Bäckerei
+shop: bakery
 ---

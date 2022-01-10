@@ -1,5 +1,5 @@
 ---
 title: "Elite Transmissions"
 url: /palmer/elite-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

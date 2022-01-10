@@ -1,5 +1,5 @@
 ---
 title: "Stony Brook Acres"
 url: /westford/stony-brook-acres/
-shop: Kramladen
+shop: variety store
 ---

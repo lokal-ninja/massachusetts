@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /methuen/gamestop/
-shop: Videospiele
+shop: video games
 ---

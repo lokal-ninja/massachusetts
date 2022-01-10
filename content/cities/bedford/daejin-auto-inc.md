@@ -1,5 +1,5 @@
 ---
 title: "Daejin Auto Inc"
 url: /bedford/daejin-auto-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

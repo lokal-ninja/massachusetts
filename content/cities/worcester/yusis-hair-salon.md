@@ -1,5 +1,5 @@
 ---
 title: "Yusi's Hair Salon"
 url: /worcester/yusis-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

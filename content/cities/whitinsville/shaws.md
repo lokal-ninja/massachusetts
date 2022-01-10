@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /whitinsville/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

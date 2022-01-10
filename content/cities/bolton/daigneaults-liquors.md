@@ -1,5 +1,5 @@
 ---
 title: "Daigneault's Liquors"
 url: /bolton/daigneaults-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

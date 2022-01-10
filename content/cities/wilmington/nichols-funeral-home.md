@@ -1,5 +1,5 @@
 ---
 title: "Nichols Funeral Home"
 url: /wilmington/nichols-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

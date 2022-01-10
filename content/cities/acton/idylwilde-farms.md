@@ -1,5 +1,5 @@
 ---
 title: "Idylwilde Farms"
 url: /acton/idylwilde-farms/
-shop: Supermarkt
+shop: supermarket
 ---

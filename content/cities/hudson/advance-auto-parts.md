@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /hudson/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

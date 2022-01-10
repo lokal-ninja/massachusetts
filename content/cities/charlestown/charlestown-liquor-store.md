@@ -1,5 +1,5 @@
 ---
 title: "Charlestown Liquor Store"
 url: /charlestown/charlestown-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

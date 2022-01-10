@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /leominster/shell/
-shop: Lebensmittel
+shop: convenience
 ---

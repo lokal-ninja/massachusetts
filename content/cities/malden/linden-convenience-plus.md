@@ -1,5 +1,5 @@
 ---
 title: "Linden Convenience Plus"
 url: /malden/linden-convenience-plus/
-shop: Lebensmittel
+shop: convenience
 ---

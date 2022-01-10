@@ -1,5 +1,5 @@
 ---
 title: "Dandi Lyons Ice Cream"
 url: /reading/dandi-lyons-ice-cream/
-shop: Eisprodukte
+shop: ice cream
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corner Cycle"
 url: /falmouth/corner-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

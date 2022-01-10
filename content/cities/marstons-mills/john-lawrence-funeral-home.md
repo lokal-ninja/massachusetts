@@ -1,5 +1,5 @@
 ---
 title: "John Lawrence Funeral Home"
 url: /marstons-mills/john-lawrence-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

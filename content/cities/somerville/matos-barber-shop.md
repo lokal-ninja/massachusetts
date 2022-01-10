@@ -1,5 +1,5 @@
 ---
 title: "Matos Barber Shop"
 url: /somerville/matos-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

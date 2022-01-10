@@ -1,5 +1,5 @@
 ---
 title: "Boston Foreign Motor"
 url: /boston/boston-foreign-motor/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Versatile Kitchens"
 url: /melrose/versatile-kitchens/
-shop: Baumarkt
+shop: doityourself
 ---

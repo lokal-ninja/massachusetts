@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /boston/hudson-2/
-shop: Zeitungen
+shop: newsagent
 ---

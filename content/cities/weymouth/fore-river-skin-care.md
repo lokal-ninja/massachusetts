@@ -1,5 +1,5 @@
 ---
 title: "Fore River Skin Care"
 url: /weymouth/fore-river-skin-care/
-shop: Kosmetik
+shop: beauty
 ---

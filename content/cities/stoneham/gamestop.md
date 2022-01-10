@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /stoneham/gamestop/
-shop: Videospiele
+shop: video games
 ---

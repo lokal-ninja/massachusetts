@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /stoneham/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

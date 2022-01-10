@@ -1,5 +1,5 @@
 ---
 title: "Marangela"
 url: /woburn/marangela/
-shop: Friseur
+shop: hairdresser
 ---

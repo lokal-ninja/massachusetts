@@ -1,5 +1,5 @@
 ---
 title: "Blossoms"
 url: /tyngsborough/blossoms/
-shop: Blumen
+shop: florist
 ---

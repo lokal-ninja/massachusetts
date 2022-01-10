@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fall-river/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

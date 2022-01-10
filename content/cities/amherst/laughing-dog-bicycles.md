@@ -1,5 +1,5 @@
 ---
 title: "Laughing Dog Bicycles"
 url: /amherst/laughing-dog-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

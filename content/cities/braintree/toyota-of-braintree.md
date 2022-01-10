@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Braintree"
 url: /braintree/toyota-of-braintree/
-shop: Autohaus
+shop: car
 ---

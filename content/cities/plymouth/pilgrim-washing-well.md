@@ -1,5 +1,5 @@
 ---
 title: "Pilgrim Washing Well"
 url: /plymouth/pilgrim-washing-well/
-shop: Wäscherei
+shop: laundry
 ---

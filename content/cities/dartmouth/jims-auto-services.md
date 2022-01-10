@@ -1,5 +1,5 @@
 ---
 title: "Jim's Auto Services"
 url: /dartmouth/jims-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

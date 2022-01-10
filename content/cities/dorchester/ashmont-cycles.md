@@ -1,5 +1,5 @@
 ---
 title: "Ashmont Cycles"
 url: /dorchester/ashmont-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

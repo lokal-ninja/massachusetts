@@ -1,5 +1,5 @@
 ---
 title: "Market Square Jewelers"
 url: /newburyport/market-square-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

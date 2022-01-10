@@ -1,5 +1,5 @@
 ---
 title: "Shinola Detroit"
 url: /boston/shinola-detroit/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /framingham/old-navy/
-shop: Kleidung
+shop: clothes
 ---

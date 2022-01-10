@@ -1,5 +1,5 @@
 ---
 title: "Sport Loft"
 url: /chelmsford/sport-loft/
-shop: Sport
+shop: sports
 ---

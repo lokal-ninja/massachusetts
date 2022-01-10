@@ -1,5 +1,5 @@
 ---
 title: "Stoneham Ford"
 url: /stoneham/stoneham-ford/
-shop: Autohaus
+shop: car
 ---

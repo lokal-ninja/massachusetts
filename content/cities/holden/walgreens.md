@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /holden/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stylecraft Supply"
 url: /wakefield/stylecraft-supply/
-shop: Farben
+shop: paint
 ---

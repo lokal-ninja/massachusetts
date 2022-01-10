@@ -1,5 +1,5 @@
 ---
 title: "Harvard Farmers Market"
 url: /harvard/harvard-farmers-market/
-shop: Hofladen
+shop: farm
 ---

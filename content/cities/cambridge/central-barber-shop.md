@@ -1,5 +1,5 @@
 ---
 title: "Central Barber Shop"
 url: /cambridge/central-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

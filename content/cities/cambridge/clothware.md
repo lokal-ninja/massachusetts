@@ -1,5 +1,5 @@
 ---
 title: "Clothware"
 url: /cambridge/clothware/
-shop: Kleidung
+shop: clothes
 ---

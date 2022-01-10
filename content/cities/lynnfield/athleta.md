@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /lynnfield/athleta/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christmas Tree Shops"
 url: /west-yarmouth/christmas-tree-shops/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO Transmissions"
 url: /wilmington/aamco-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

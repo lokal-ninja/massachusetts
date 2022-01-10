@@ -1,5 +1,5 @@
 ---
-title: Software
+title: software
 url: /software/
 icon: other
 ---

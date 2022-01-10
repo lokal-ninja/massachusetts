@@ -1,5 +1,5 @@
 ---
 title: "Nuggets"
 url: /boston/nuggets/
-shop: Musik
+shop: music
 ---

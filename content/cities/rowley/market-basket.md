@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /rowley/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

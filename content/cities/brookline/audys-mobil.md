@@ -1,5 +1,5 @@
 ---
 title: "Audy's Mobil"
 url: /brookline/audys-mobil/
-shop: Kiosk
+shop: kiosk
 ---

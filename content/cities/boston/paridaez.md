@@ -1,5 +1,5 @@
 ---
 title: "Paridaez"
 url: /boston/paridaez/
-shop: Kleidung
+shop: clothes
 ---

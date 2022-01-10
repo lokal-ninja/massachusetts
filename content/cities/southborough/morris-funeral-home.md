@@ -1,5 +1,5 @@
 ---
 title: "Morris Funeral Home"
 url: /southborough/morris-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

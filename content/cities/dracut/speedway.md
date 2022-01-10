@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dracut/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

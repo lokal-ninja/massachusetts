@@ -1,5 +1,5 @@
 ---
 title: "Firestone and Parson"
 url: /boston/firestone-and-parson/
-shop: Schmuck
+shop: jewelry
 ---

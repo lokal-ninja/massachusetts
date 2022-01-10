@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /woburn/metropcs/
-shop: Handy
+shop: mobile phone
 ---

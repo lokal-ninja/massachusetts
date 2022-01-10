@@ -1,5 +1,5 @@
 ---
 title: "Kirkwood Printing"
 url: /wilmington/kirkwood-printing/
-shop: Kopieren
+shop: copyshop
 ---

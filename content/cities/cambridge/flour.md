@@ -1,5 +1,5 @@
 ---
 title: "Flour"
 url: /cambridge/flour/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marylou's"
 url: /plymouth/marylous/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxima"
 url: /arlington/maxima/
-shop: Andenken
+shop: gift
 ---

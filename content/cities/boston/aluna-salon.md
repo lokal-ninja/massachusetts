@@ -1,5 +1,5 @@
 ---
 title: "Aluna Salon"
 url: /boston/aluna-salon/
-shop: Friseur
+shop: hairdresser
 ---

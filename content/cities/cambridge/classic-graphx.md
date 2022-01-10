@@ -1,5 +1,5 @@
 ---
 title: "Classic Graphx"
 url: /cambridge/classic-graphx/
-shop: Kopieren
+shop: copyshop
 ---

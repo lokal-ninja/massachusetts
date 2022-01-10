@@ -1,5 +1,5 @@
 ---
 title: "Newburyport Farmers' Market"
 url: /newburyport/newburyport-farmers-market/
-shop: Hofladen
+shop: farm
 ---

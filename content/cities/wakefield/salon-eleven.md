@@ -1,5 +1,5 @@
 ---
 title: "Salon Eleven"
 url: /wakefield/salon-eleven/
-shop: Friseur
+shop: hairdresser
 ---

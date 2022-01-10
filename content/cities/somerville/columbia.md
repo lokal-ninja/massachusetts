@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /somerville/columbia/
-shop: Kleidung
+shop: clothes
 ---

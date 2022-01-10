@@ -1,5 +1,5 @@
 ---
 title: "Canal Auto Shop"
 url: /salem/canal-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

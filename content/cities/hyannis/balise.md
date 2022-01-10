@@ -1,5 +1,5 @@
 ---
 title: "Balise"
 url: /hyannis/balise/
-shop: Autohaus
+shop: car
 ---

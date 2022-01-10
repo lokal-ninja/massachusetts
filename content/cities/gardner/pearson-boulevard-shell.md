@@ -1,5 +1,5 @@
 ---
 title: "Pearson Boulevard Shell"
 url: /gardner/pearson-boulevard-shell/
-shop: Lebensmittel
+shop: convenience
 ---

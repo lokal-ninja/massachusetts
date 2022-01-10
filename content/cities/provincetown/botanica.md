@@ -1,5 +1,5 @@
 ---
 title: "Botanica"
 url: /provincetown/botanica/
-shop: Andenken
+shop: gift
 ---

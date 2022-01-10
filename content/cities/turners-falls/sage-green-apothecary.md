@@ -1,5 +1,5 @@
 ---
 title: "Sage Green Apothecary"
 url: /turners-falls/sage-green-apothecary/
-shop: Kräuter
+shop: herbalist
 ---

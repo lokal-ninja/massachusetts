@@ -1,5 +1,5 @@
 ---
 title: "Pawsitively Best Friends"
 url: /newburyport/pawsitively-best-friends/
-shop: Tiere
+shop: pet
 ---

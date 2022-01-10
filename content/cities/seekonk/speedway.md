@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /seekonk/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

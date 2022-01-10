@@ -1,5 +1,5 @@
 ---
 title: "Follow the Honey"
 url: /cambridge/follow-the-honey/
-shop: Allgemein
+shop: shop
 ---

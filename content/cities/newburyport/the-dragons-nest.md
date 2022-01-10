@@ -1,5 +1,5 @@
 ---
 title: "The Dragon's Nest"
 url: /newburyport/the-dragons-nest/
-shop: Spielzeug
+shop: toys
 ---

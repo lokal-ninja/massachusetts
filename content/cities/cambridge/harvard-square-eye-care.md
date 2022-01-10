@@ -1,5 +1,5 @@
 ---
 title: "Harvard Square Eye Care"
 url: /cambridge/harvard-square-eye-care/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Threading Place"
 url: /boston/the-threading-place/
-shop: Friseur
+shop: hairdresser
 ---

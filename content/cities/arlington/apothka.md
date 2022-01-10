@@ -1,5 +1,5 @@
 ---
 title: "Apothka"
 url: /arlington/apothka/
-shop: Hanf
+shop: cannabis
 ---

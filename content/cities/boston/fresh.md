@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /boston/fresh/
-shop: Kosmetik
+shop: beauty
 ---

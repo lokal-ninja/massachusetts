@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /natick/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

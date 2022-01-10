@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /acton/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

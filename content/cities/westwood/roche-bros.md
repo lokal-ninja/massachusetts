@@ -1,5 +1,5 @@
 ---
 title: "Roche Bros."
 url: /westwood/roche-bros/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /watertown/old-navy/
-shop: Kleidung
+shop: clothes
 ---

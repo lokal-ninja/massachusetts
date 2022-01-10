@@ -1,5 +1,5 @@
 ---
 title: "Performance Music Center"
 url: /woburn/performance-music-center/
-shop: Instrumente
+shop: musical instrument
 ---

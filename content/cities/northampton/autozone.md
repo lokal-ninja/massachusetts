@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /northampton/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shear Attention"
 url: /malden/shear-attention/
-shop: Friseur
+shop: hairdresser
 ---

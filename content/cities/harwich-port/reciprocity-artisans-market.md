@@ -1,5 +1,5 @@
 ---
 title: "Reciprocity Artisans Market"
 url: /harwich-port/reciprocity-artisans-market/
-shop: Kramladen
+shop: variety store
 ---

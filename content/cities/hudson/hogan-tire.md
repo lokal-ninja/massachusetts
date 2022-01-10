@@ -1,5 +1,5 @@
 ---
 title: "Hogan Tire"
 url: /hudson/hogan-tire/
-shop: Reifen
+shop: tyres
 ---

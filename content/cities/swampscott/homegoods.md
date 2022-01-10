@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /swampscott/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

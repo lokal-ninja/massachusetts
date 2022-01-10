@@ -1,5 +1,5 @@
 ---
 title: "Depot Automotive"
 url: /wakefield/depot-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

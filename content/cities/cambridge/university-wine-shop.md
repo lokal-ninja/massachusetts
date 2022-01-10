@@ -1,5 +1,5 @@
 ---
 title: "University Wine Shop"
 url: /cambridge/university-wine-shop/
-shop: Spirituosen
+shop: alcohol
 ---

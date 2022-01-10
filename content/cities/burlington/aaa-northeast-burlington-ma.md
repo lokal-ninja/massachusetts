@@ -1,5 +1,5 @@
 ---
 title: "AAA Northeast-Burlington MA"
 url: /burlington/aaa-northeast-burlington-ma/
-shop: Reisebüro
+shop: travel agency
 ---

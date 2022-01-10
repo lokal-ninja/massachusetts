@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /woburn/kohls/
-shop: Warenhaus
+shop: department store
 ---

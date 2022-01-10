@@ -1,5 +1,5 @@
 ---
 title: "Circle Furniture"
 url: /cambridge/circle-furniture/
-shop: Möbel
+shop: furniture
 ---

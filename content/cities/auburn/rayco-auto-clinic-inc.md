@@ -1,5 +1,5 @@
 ---
 title: "Rayco Auto Clinic, INC"
 url: /auburn/rayco-auto-clinic-inc/
-shop: Autoteile
+shop: car parts
 ---

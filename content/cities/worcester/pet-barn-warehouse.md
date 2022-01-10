@@ -1,5 +1,5 @@
 ---
 title: "Pet Barn Warehouse"
 url: /worcester/pet-barn-warehouse/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boston Auto Body"
 url: /boston/boston-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

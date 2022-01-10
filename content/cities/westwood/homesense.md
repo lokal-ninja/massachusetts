@@ -1,5 +1,5 @@
 ---
 title: "Homesense"
 url: /westwood/homesense/
-shop: Warenhaus
+shop: department store
 ---

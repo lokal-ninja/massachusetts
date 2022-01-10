@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /south-yarmouth/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom Rack"
 url: /framingham/nordstrom-rack/
-shop: Kleidung
+shop: clothes
 ---

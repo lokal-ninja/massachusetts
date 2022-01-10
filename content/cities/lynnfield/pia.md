@@ -1,5 +1,5 @@
 ---
 title: "Pia"
 url: /lynnfield/pia/
-shop: Kleidung
+shop: clothes
 ---

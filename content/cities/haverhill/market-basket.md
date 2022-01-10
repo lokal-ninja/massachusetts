@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /haverhill/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

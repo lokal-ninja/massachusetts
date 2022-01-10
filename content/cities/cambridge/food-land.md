@@ -1,5 +1,5 @@
 ---
 title: "Food Land"
 url: /cambridge/food-land/
-shop: Supermarkt
+shop: supermarket
 ---

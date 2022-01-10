@@ -1,5 +1,5 @@
 ---
 title: "L'elite Bridal"
 url: /boston/lelite-bridal/
-shop: Kleidung
+shop: clothes
 ---

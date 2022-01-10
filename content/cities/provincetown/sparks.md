@@ -1,5 +1,5 @@
 ---
 title: "Sparks"
 url: /provincetown/sparks/
-shop: Schmuck
+shop: jewelry
 ---

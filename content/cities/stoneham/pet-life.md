@@ -1,5 +1,5 @@
 ---
 title: "Pet Life"
 url: /stoneham/pet-life/
-shop: Tiere
+shop: pet
 ---

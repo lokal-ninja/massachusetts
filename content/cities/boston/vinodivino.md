@@ -1,5 +1,5 @@
 ---
 title: "vinodivino"
 url: /boston/vinodivino/
-shop: Wein
+shop: wine
 ---

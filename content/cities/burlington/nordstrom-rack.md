@@ -1,5 +1,5 @@
 ---
 title: "NORDSTROM rack"
 url: /burlington/nordstrom-rack/
-shop: Warenhaus
+shop: department store
 ---
