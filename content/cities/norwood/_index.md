@@ -1,6 +1,6 @@
 ---
 title: Norwood
 url: /norwood/
-latitude: 42.171
-longitude: -71.194
+latitude: 42.18
+longitude: -71.222
 ---
