@@ -1,6 +1,6 @@
 ---
 title: Saugus
 url: /saugus/
-latitude: 42.464
-longitude: -71.028
+latitude: 42.488
+longitude: -71.019
 ---
