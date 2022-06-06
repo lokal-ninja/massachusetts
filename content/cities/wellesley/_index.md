@@ -1,6 +1,6 @@
 ---
 title: Wellesley
 url: /wellesley/
-latitude: 42.301
-longitude: -71.293
+latitude: 42.306
+longitude: -71.314
 ---
