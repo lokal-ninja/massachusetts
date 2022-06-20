@@ -1,6 +1,6 @@
 ---
 title: Allston
 url: /allston/
-latitude: 42.356
-longitude: -71.14
+latitude: 42.36
+longitude: -71.127
 ---
