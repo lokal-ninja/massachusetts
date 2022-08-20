@@ -1,6 +1,6 @@
 ---
 title: Everett
 url: /everett/
-latitude: 42.42
-longitude: -71.044
+latitude: 42.403
+longitude: -71.068
 ---
