@@ -1,5 +1,5 @@
 ---
 title: "Natural Food Exchange"
-url: /reading/natural-food-exchange/
+url: /stoneham/natural-food-exchange/
 shop: supermarket
 ---
