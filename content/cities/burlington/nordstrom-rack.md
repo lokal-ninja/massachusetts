@@ -1,5 +1,5 @@
 ---
-title: "NORDSTROM rack"
+title: "Nordstrom Rack"
 url: /burlington/nordstrom-rack/
-shop: department store
+shop: clothes
 ---
