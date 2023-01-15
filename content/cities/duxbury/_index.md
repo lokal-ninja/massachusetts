@@ -1,6 +1,6 @@
 ---
 title: Duxbury
 url: /duxbury/
-latitude: 42.015
-longitude: -70.717
+latitude: 42.024
+longitude: -70.683
 ---
