@@ -1,5 +1,5 @@
 ---
 title: "TNT Nutrition"
 url: /hadley/tnt-nutrition/
-shop: shop
+shop: nutrition supplements
 ---
