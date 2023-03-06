@@ -1,6 +1,6 @@
 ---
 title: Barnstable,Hyannis
 url: /barnstable-hyannis/
-latitude: 41.657
-longitude: -70.284
+latitude: 41.674
+longitude: -70.309
 ---
