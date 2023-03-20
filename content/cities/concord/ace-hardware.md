@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
-url: /bedford/ace-hardware/
+url: /concord/ace-hardware/
 shop: doityourself
 ---

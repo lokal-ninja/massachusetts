@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /bedford/tj-maxx/
-shop: clothes
+shop: department store
 ---
