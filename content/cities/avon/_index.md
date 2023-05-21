@@ -1,6 +1,6 @@
 ---
 title: Avon
 url: /avon/
-latitude: 42.126
-longitude: -71.037
+latitude: 42.121
+longitude: -71.03
 ---
