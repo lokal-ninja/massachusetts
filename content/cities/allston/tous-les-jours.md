@@ -1,5 +1,5 @@
 ---
-title: "Tous Les Jours"
+title: "Tous les Jours"
 url: /allston/tous-les-jours/
 shop: bakery
 ---
