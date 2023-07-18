@@ -1,6 +1,6 @@
 ---
 title: Fairhaven
 url: /fairhaven/
-latitude: 41.656
-longitude: -70.912
+latitude: 41.64
+longitude: -70.884
 ---
