@@ -1,6 +1,6 @@
 ---
 title: Revere
 url: /revere/
-latitude: 42.417
-longitude: -71.003
+latitude: 42.399
+longitude: -70.999
 ---
