@@ -1,6 +1,6 @@
 ---
 title: Jamaica Plain
 url: /jamaica-plain/
-latitude: 42.308
-longitude: -71.115
+latitude: 42.312
+longitude: -71.114
 ---
