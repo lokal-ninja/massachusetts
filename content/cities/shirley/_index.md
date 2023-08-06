@@ -1,6 +1,6 @@
 ---
 title: Shirley
 url: /shirley/
-latitude: 42.545
-longitude: -71.651
+latitude: 42.544
+longitude: -71.653
 ---
