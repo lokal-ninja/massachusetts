@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /saugus/speedway/
+url: /saugus/speedway-broadway/
 shop: convenience
 ---

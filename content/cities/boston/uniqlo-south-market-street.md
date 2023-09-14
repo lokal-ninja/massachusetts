@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
-url: /boston/uniqlo/
+url: /boston/uniqlo-south-market-street/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /boston/cvs-pharmacy/
+url: /boston/cvs-pharmacy-newbury-street/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonnell Ford"
-url: /winchester/bonnell-ford/
+url: /winchester/bonnell-ford-cambridge-street/
 shop: car repair
 ---

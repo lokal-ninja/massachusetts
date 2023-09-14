@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /boston/adidas/
+url: /boston/adidas-newbury-street/
 shop: sports
 ---

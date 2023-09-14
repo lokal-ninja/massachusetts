@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
-url: /boston/sunglass-hut/
+url: /boston/sunglass-hut-newbury-street/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /boston/supercuts/
+url: /boston/supercuts-boylston-street/
 shop: hairdresser
 ---

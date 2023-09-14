@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brockton/speedway/
+url: /brockton/speedway-north-pearl-street/
 shop: convenience
 ---

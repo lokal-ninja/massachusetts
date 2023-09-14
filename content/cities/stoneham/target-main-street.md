@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /stoneham/target/
+url: /stoneham/target-main-street/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hyannis/speedway/
+url: /hyannis/speedway-iyannough-road/
 shop: convenience
 ---

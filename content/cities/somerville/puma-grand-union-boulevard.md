@@ -1,5 +1,5 @@
 ---
 title: "Puma"
-url: /somerville/puma/
+url: /somerville/puma-grand-union-boulevard/
 shop: clothes
 ---

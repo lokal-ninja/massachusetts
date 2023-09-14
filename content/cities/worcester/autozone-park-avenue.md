@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /worcester/autozone/
+url: /worcester/autozone-park-avenue/
 shop: car parts
 ---

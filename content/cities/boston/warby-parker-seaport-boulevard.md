@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
-url: /boston/warby-parker/
+url: /boston/warby-parker-seaport-boulevard/
 shop: optician
 ---

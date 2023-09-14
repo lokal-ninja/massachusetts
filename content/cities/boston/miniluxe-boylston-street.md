@@ -1,5 +1,5 @@
 ---
 title: "MiniLuxe"
-url: /boston/miniluxe/
+url: /boston/miniluxe-boylston-street/
 shop: beauty
 ---

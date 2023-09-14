@@ -1,5 +1,5 @@
 ---
 title: "Fjällräven"
-url: /boston/fjallraven/
+url: /boston/fjallraven-seaport-boulevard/
 shop: outdoor
 ---

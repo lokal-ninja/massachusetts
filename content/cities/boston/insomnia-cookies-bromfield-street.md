@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
-url: /boston/insomnia-cookies/
+url: /boston/insomnia-cookies-bromfield-street/
 shop: pastry
 ---

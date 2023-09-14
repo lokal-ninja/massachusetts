@@ -1,5 +1,5 @@
 ---
 title: "Russells"
-url: /maynard/russells/
+url: /maynard/russells-main-street/
 shop: convenience
 ---

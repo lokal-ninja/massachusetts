@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /beverly/speedway/
+url: /beverly/speedway-enon-street/
 shop: convenience
 ---
