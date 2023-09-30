@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
-url: /dartmouth/bjs-wholesale-club/
+url: /north-dartmouth/bjs-wholesale-club/
 shop: wholesale
 ---
