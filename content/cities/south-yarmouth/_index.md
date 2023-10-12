@@ -1,6 +1,6 @@
 ---
 title: South Yarmouth
 url: /south-yarmouth/
-latitude: 41.655
-longitude: -70.208
+latitude: 41.66
+longitude: -70.202
 ---
