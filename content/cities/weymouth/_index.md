@@ -1,6 +1,6 @@
 ---
 title: Weymouth
 url: /weymouth/
-latitude: 42.243
-longitude: -70.962
+latitude: 42.244
+longitude: -70.934
 ---
