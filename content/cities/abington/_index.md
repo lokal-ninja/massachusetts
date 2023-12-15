@@ -1,6 +1,6 @@
 ---
 title: Abington
 url: /abington/
-latitude: 42.145
-longitude: -70.955
+latitude: 42.11
+longitude: -70.927
 ---
