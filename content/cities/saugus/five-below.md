@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /saugus/five-below/
-shop: gift
+shop: variety store
 ---
