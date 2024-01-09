@@ -1,6 +1,6 @@
 ---
 title: North Reading
 url: /north-reading/
-latitude: 42.574
-longitude: -71.079
+latitude: 42.571
+longitude: -71.113
 ---
