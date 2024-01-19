@@ -1,6 +1,6 @@
 ---
 title: Marstons Mills
 url: /marstons-mills/
-latitude: 41.654
-longitude: -70.413
+latitude: 41.649
+longitude: -70.422
 ---
