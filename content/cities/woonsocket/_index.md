@@ -1,6 +1,6 @@
 ---
 title: Woonsocket
 url: /woonsocket/
-latitude: 42.016
-longitude: -71.475
+latitude: 42.015
+longitude: -71.482
 ---

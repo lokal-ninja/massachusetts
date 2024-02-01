@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raynham/speedway-broadway/
+url: /worcester/speedway-belmont-street/
 shop: convenience
 ---
