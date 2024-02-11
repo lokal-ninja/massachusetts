@@ -1,0 +1,5 @@
+---
+title: "Trader Joe's"
+url: /needham/trader-joes/
+shop: supermarket
+---

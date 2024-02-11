@@ -1,6 +1,6 @@
 ---
 title: Charlestown
 url: /charlestown/
-latitude: 42.375
-longitude: -71.064
+latitude: 42.376
+longitude: -71.066
 ---
