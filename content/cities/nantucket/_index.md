@@ -1,6 +1,6 @@
 ---
 title: Nantucket
 url: /nantucket/
-latitude: 41.284
-longitude: -70.097
+latitude: 41.272
+longitude: -70.092
 ---

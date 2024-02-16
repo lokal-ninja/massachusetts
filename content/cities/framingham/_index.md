@@ -1,6 +1,6 @@
 ---
 title: Framingham
 url: /framingham/
-latitude: 42.299
-longitude: -71.425
+latitude: 42.298
+longitude: -71.448
 ---

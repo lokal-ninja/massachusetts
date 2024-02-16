@@ -1,6 +1,6 @@
 ---
 title: Walpole
 url: /walpole/
-latitude: 42.156
-longitude: -71.202
+latitude: 42.157
+longitude: -71.242
 ---
