@@ -1,6 +1,6 @@
 ---
 title: Chestnut Hill
 url: /chestnut-hill/
-latitude: 42.327
-longitude: -71.148
+latitude: 42.324
+longitude: -71.163
 ---
