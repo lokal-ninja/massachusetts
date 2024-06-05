@@ -7,5 +7,5 @@ city: Boston
 street: "Newbury Street"
 housenumber: 321
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 11:00-20:00; Fr,Sa 10:00-20:00; Su 11:00-22:00"
 website: "https://corridornyc.com/pages/"
