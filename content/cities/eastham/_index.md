@@ -1,6 +1,6 @@
 ---
 title: Eastham
 url: /eastham/
-latitude: 41.837
-longitude: -69.973
+latitude: 41.852
+longitude: -69.988
 ---

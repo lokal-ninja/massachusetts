@@ -1,6 +1,6 @@
 ---
 title: Mansfield
 url: /mansfield/
-latitude: 42.013
-longitude: -71.227
+latitude: 42.015
+longitude: -71.232
 ---

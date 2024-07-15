@@ -1,6 +1,6 @@
 ---
 title: Billerica
 url: /billerica/
-latitude: 42.58
-longitude: -71.289
+latitude: 42.559
+longitude: -71.266
 ---

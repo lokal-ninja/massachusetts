@@ -1,6 +1,6 @@
 ---
 title: Osterville
 url: /osterville/
-latitude: 41.628
-longitude: -70.384
+latitude: 41.654
+longitude: -70.393
 ---

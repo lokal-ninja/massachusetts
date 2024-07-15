@@ -1,6 +1,6 @@
 ---
 title: Marblehead
 url: /marblehead/
-latitude: 42.501
-longitude: -70.859
+latitude: 42.503
+longitude: -70.856
 ---
