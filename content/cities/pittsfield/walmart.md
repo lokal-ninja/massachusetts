@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /pittsfield/walmart/
-shop: supermarket
+shop: department store
 ---

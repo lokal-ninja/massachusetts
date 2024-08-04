@@ -1,6 +1,6 @@
 ---
 title: Winchendon
 url: /winchendon/
-latitude: 42.682
-longitude: -72.049
+latitude: 42.694
+longitude: -72.016
 ---
