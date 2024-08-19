@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /fall-river/stop-and-shop-rodman-street/
+url: /pittsfield/stop-and-shop-merrill-road/
 shop: supermarket
 ---
