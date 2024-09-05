@@ -1,5 +1,5 @@
 ---
 title: "Resinate"
 url: /worcester/resinate/
-shop: cannabis
+shop: Hanf
 ---

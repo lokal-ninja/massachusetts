@@ -1,5 +1,5 @@
 ---
 title: "FatFace UK"
 url: /lynnfield/fatface-uk/
-shop: clothes
+shop: Kleidung
 ---

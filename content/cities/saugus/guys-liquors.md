@@ -1,5 +1,5 @@
 ---
 title: "Guy's Liquors"
 url: /saugus/guys-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

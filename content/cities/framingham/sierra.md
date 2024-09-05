@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /framingham/sierra/
-shop: outdoor
+shop: Outdoor
 ---

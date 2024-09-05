@@ -1,5 +1,5 @@
 ---
 title: "Jeff Ollivierre's Carpets"
 url: /dartmouth/jeff-ollivierres-carpets/
-shop: carpet
+shop: Teppiche
 ---

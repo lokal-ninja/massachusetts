@@ -1,5 +1,5 @@
 ---
 title: "Quebrada Baking Co."
 url: /wellesley/quebrada-baking-co/
-shop: bakery
+shop: Bäckerei
 ---

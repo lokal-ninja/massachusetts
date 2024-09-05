@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /lynnfield/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

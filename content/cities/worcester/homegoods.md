@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /worcester/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Egger's Furniture"
 url: /middleborough/eggers-furniture/
-shop: furniture
+shop: Möbel
 ---

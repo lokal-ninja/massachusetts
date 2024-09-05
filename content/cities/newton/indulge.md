@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /newton/indulge/
-shop: confectionery
+shop: Süßwaren
 ---

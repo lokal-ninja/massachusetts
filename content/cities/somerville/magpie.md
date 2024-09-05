@@ -1,5 +1,5 @@
 ---
 title: "Magpie"
 url: /somerville/magpie/
-shop: gift
+shop: Andenken
 ---

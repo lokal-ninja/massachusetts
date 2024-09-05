@@ -1,5 +1,5 @@
 ---
 title: "Cartier"
 url: /boston/cartier/
-shop: jewelry
+shop: Schmuck
 ---

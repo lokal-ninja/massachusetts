@@ -1,5 +1,5 @@
 ---
 title: "La Favorita"
 url: /allston/la-favorita/
-shop: convenience
+shop: Lebensmittel
 ---

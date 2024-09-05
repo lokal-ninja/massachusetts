@@ -1,5 +1,5 @@
 ---
 title: "Filson"
 url: /boston/filson/
-shop: outdoor
+shop: Outdoor
 ---

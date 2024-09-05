@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /everett/dsw/
-shop: shoes
+shop: Schuhe
 ---

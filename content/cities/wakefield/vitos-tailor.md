@@ -1,5 +1,5 @@
 ---
 title: "Vito's Tailor"
 url: /wakefield/vitos-tailor/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Dog Barbershop"
 url: /boston/big-dog-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

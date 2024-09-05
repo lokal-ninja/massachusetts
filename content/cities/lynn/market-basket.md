@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /lynn/market-basket/
-shop: supermarket
+shop: Supermarkt
 ---

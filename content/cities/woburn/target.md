@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /woburn/target/
-shop: department store
+shop: Warenhaus
 ---

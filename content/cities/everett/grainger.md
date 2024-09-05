@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /everett/grainger/
-shop: trade
+shop: Baustoffe
 ---

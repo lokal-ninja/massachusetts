@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /westwood/michaels/
-shop: craft
+shop: Basteln
 ---

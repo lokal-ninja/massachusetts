@@ -1,5 +1,5 @@
 ---
 title: "Mackage"
 url: /boston/mackage/
-shop: clothes
+shop: Kleidung
 ---

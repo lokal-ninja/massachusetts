@@ -1,5 +1,5 @@
 ---
 title: "Meraki Beauty Bar"
 url: /wakefield/meraki-beauty-bar/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /shrewsbury/walgreens/
-shop: chemist
+shop: Drogerie
 ---

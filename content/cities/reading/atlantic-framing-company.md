@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Framing Company"
 url: /reading/atlantic-framing-company/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kane's Donuts"
 url: /boston/kanes-donuts/
-shop: pastry
+shop: Konditorei
 ---

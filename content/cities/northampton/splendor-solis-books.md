@@ -1,5 +1,5 @@
 ---
 title: "Splendor Solis Books"
 url: /northampton/splendor-solis-books/
-shop: books
+shop: Bücher
 ---

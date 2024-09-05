@@ -1,5 +1,5 @@
 ---
 title: "Rapid Liquors"
 url: /stoneham/rapid-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

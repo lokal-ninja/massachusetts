@@ -1,5 +1,5 @@
 ---
 title: "Ideal Image"
 url: /north-andover/ideal-image/
-shop: beauty
+shop: Kosmetik
 ---

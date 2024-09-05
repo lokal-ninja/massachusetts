@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /somerville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

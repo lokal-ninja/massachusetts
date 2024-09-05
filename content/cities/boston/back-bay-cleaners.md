@@ -1,5 +1,5 @@
 ---
 title: "Back Bay Cleaners"
 url: /boston/back-bay-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

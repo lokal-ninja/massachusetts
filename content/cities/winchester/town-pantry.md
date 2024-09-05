@@ -1,5 +1,5 @@
 ---
 title: "Town Pantry"
 url: /winchester/town-pantry/
-shop: convenience
+shop: Lebensmittel
 ---

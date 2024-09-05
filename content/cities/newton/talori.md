@@ -1,5 +1,5 @@
 ---
 title: "Talori"
 url: /newton/talori/
-shop: jewelry
+shop: Schmuck
 ---

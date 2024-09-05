@@ -1,5 +1,5 @@
 ---
 title: "The Billiards Cafe"
 url: /ayer/the-billiards-cafe/
-shop: shop
+shop: Allgemein
 ---

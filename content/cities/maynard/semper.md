@@ -1,5 +1,5 @@
 ---
 title: "Semper"
 url: /maynard/semper/
-shop: beauty
+shop: Kosmetik
 ---

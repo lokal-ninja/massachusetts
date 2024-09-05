@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sturbridge/petco/
-shop: pet
+shop: Tiere
 ---

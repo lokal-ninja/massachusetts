@@ -1,5 +1,5 @@
 ---
 title: "Princess Nail Salon"
 url: /stoneham/princess-nail-salon/
-shop: beauty
+shop: Kosmetik
 ---

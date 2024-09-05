@@ -1,5 +1,5 @@
 ---
 title: "Cock N Bull Leather"
 url: /provincetown/cock-n-bull-leather/
-shop: leather
+shop: Leder
 ---

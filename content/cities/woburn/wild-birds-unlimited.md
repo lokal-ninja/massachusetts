@@ -1,5 +1,5 @@
 ---
 title: "Wild Birds Unlimited"
 url: /woburn/wild-birds-unlimited/
-shop: pet
+shop: Tiere
 ---

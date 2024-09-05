@@ -1,5 +1,5 @@
 ---
 title: "Sidekicks"
 url: /provincetown/sidekicks/
-shop: toys
+shop: Spielzeug
 ---

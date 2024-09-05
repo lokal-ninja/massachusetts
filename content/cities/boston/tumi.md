@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /boston/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

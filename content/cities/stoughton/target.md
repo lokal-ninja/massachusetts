@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /stoughton/target/
-shop: department store
+shop: Warenhaus
 ---

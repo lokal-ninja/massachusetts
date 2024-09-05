@@ -1,5 +1,5 @@
 ---
 title: "Strands Ski Shop"
 url: /worcester/strands-ski-shop/
-shop: sports
+shop: Sport
 ---

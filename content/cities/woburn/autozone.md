@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /woburn/autozone/
-shop: car parts
+shop: Autoteile
 ---

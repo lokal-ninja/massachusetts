@@ -1,5 +1,5 @@
 ---
 title: "LaserMD"
 url: /acton/lasermd/
-shop: beauty
+shop: Kosmetik
 ---

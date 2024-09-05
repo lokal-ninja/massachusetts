@@ -1,5 +1,5 @@
 ---
 title: "Big Jim's Liquors"
 url: /avon/big-jims-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

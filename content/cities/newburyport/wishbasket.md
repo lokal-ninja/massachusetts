@@ -1,5 +1,5 @@
 ---
 title: "Wishbasket"
 url: /newburyport/wishbasket/
-shop: furniture
+shop: Möbel
 ---

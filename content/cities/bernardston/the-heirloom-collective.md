@@ -1,5 +1,5 @@
 ---
 title: "The Heirloom Collective"
 url: /bernardston/the-heirloom-collective/
-shop: cannabis
+shop: Hanf
 ---

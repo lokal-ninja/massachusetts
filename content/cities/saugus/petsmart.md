@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /saugus/petsmart/
-shop: pet
+shop: Tiere
 ---

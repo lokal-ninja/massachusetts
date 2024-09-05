@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /natick/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

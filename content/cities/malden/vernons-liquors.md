@@ -1,5 +1,5 @@
 ---
 title: "Vernon's Liquors"
 url: /malden/vernons-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

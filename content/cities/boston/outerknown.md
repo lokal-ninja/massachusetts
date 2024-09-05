@@ -1,5 +1,5 @@
 ---
 title: "Outerknown"
 url: /boston/outerknown/
-shop: clothes
+shop: Kleidung
 ---

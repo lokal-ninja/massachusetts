@@ -1,5 +1,5 @@
 ---
 title: "Aroush's Tailoring"
 url: /cambridge/aroushs-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

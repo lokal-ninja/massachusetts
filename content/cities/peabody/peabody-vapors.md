@@ -1,5 +1,5 @@
 ---
 title: "Peabody Vapors"
 url: /peabody/peabody-vapors/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

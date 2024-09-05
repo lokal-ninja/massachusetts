@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /chelmsford/party-city/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Topdrawer"
 url: /brookline/topdrawer/
-shop: clothes
+shop: Kleidung
 ---

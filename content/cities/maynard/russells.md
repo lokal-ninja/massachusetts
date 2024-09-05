@@ -1,5 +1,5 @@
 ---
 title: "Russells"
 url: /maynard/russells/
-shop: convenience
+shop: Lebensmittel
 ---

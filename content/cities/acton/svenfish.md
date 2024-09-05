@@ -1,5 +1,5 @@
 ---
 title: "svenfish"
 url: /acton/svenfish/
-shop: seafood
+shop: Fisch
 ---

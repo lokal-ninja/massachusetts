@@ -1,5 +1,5 @@
 ---
 title: "Regina"
 url: /melrose/regina/
-shop: gift
+shop: Andenken
 ---

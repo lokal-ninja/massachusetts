@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Power Equipment"
 url: /holbrook/stewarts-power-equipment/
-shop: groundskeeping
+shop: Platzpflege
 ---

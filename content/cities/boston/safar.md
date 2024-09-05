@@ -1,5 +1,5 @@
 ---
 title: "Safar"
 url: /boston/safar/
-shop: hairdresser
+shop: Friseur
 ---

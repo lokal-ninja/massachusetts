@@ -1,5 +1,5 @@
 ---
 title: "Credo"
 url: /boston/credo/
-shop: beauty
+shop: Kosmetik
 ---

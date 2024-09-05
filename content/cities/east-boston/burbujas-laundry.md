@@ -1,5 +1,5 @@
 ---
 title: "Burbujas Laundry"
 url: /east-boston/burbujas-laundry/
-shop: laundry
+shop: Wäscherei
 ---

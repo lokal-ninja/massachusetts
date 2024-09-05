@@ -1,5 +1,5 @@
 ---
 title: "Aerus"
 url: /pittsfield/aerus/
-shop: appliance
+shop: Haushaltsgeräte
 ---

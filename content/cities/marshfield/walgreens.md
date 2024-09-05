@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /marshfield/walgreens/
-shop: chemist
+shop: Drogerie
 ---

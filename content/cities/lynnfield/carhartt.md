@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /lynnfield/carhartt/
-shop: clothes
+shop: Kleidung
 ---

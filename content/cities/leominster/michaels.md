@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /leominster/michaels/
-shop: craft
+shop: Basteln
 ---

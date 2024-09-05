@@ -1,5 +1,5 @@
 ---
 title: "Sea Bags"
 url: /boston/sea-bags/
-shop: bag
+shop: Taschen & Koffer
 ---

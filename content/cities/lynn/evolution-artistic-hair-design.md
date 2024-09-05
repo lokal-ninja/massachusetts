@@ -1,5 +1,5 @@
 ---
 title: "Evolution Artistic Hair Design"
 url: /lynn/evolution-artistic-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

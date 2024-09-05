@@ -1,5 +1,5 @@
 ---
 title: "Linden Market"
 url: /lynn/linden-market/
-shop: convenience
+shop: Lebensmittel
 ---

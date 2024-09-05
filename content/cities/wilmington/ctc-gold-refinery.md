@@ -1,5 +1,5 @@
 ---
 title: "CTC Gold Refinery"
 url: /wilmington/ctc-gold-refinery/
-shop: jewelry
+shop: Schmuck
 ---

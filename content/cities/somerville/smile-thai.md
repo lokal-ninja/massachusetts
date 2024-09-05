@@ -1,5 +1,5 @@
 ---
 title: "Smile Thai"
 url: /somerville/smile-thai/
-shop: massage
+shop: Massage
 ---

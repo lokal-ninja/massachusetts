@@ -1,5 +1,5 @@
 ---
 title: "Revival"
 url: /danvers/revival/
-shop: clothes
+shop: Kleidung
 ---

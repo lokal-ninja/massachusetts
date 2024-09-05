@@ -1,5 +1,5 @@
 ---
 title: "Best of Boston"
 url: /boston/best-of-boston/
-shop: gift
+shop: Andenken
 ---

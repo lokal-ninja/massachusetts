@@ -1,5 +1,5 @@
 ---
 title: "Marilyn James"
 url: /somerville/marilyn-james/
-shop: hairdresser
+shop: Friseur
 ---

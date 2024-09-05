@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /northborough/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

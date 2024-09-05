@@ -1,5 +1,5 @@
 ---
 title: "Prettyology"
 url: /boston/prettyology/
-shop: beauty
+shop: Kosmetik
 ---

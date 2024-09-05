@@ -1,5 +1,5 @@
 ---
 title: "Neighborhood Produce"
 url: /somerville/neighborhood-produce-broadway/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

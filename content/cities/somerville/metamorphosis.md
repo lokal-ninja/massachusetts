@@ -1,5 +1,5 @@
 ---
 title: "Metamorphosis"
 url: /somerville/metamorphosis/
-shop: furniture
+shop: Möbel
 ---

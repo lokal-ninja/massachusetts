@@ -1,5 +1,5 @@
 ---
 title: "Hourglass Tattoo"
 url: /cambridge/hourglass-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

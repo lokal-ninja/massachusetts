@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /worcester/shaws/
-shop: supermarket
+shop: Supermarkt
 ---

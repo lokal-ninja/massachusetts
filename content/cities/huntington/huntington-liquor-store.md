@@ -1,5 +1,5 @@
 ---
 title: "Huntington Liquor Store"
 url: /huntington/huntington-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

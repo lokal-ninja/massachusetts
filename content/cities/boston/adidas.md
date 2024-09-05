@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /boston/adidas/
-shop: sports
+shop: Sport
 ---

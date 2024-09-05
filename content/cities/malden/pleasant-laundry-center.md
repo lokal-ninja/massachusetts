@@ -1,5 +1,5 @@
 ---
 title: "Pleasant Laundry Center"
 url: /malden/pleasant-laundry-center/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /braintree/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

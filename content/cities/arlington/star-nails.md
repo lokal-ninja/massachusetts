@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
 url: /arlington/star-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "STYLES by Deborah"
 url: /amherst/styles-by-deborah/
-shop: hairdresser
+shop: Friseur
 ---

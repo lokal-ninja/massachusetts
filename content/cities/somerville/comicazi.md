@@ -1,5 +1,5 @@
 ---
 title: "Comicazi"
 url: /somerville/comicazi/
-shop: books
+shop: Bücher
 ---

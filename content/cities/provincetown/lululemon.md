@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /provincetown/lululemon/
-shop: clothes
+shop: Kleidung
 ---

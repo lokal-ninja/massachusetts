@@ -1,5 +1,5 @@
 ---
 title: "Alltown"
 url: /saugus/alltown/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /boston/barbour/
-shop: clothes
+shop: Kleidung
 ---

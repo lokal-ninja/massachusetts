@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /saugus/pearle-vision/
-shop: optician
+shop: Optiker
 ---

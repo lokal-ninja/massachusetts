@@ -1,5 +1,5 @@
 ---
 title: "Goorin Bros. Hat Shop"
 url: /boston/goorin-bros-hat-shop/
-shop: boutique
+shop: Modehaus
 ---

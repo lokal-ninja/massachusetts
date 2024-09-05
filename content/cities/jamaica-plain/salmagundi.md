@@ -1,5 +1,5 @@
 ---
 title: "Salmagundi"
 url: /jamaica-plain/salmagundi/
-shop: clothes
+shop: Kleidung
 ---

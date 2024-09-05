@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Lorraine"
 url: /lynn/flowers-by-lorraine/
-shop: florist
+shop: Blumen
 ---

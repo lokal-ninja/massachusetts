@@ -1,5 +1,5 @@
 ---
 title: "Bedworks"
 url: /cambridge/bedworks/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /millbury/dsw/
-shop: shoes
+shop: Schuhe
 ---

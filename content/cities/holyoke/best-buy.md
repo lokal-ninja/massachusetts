@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /holyoke/best-buy/
-shop: electronics
+shop: Elektronik
 ---

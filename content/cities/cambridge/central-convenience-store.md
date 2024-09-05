@@ -1,5 +1,5 @@
 ---
 title: "Central Convenience Store"
 url: /cambridge/central-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /taunton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

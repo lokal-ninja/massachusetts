@@ -1,5 +1,5 @@
 ---
 title: "Something Natural"
 url: /nantucket/something-natural/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Judy's Dirty Laundry"
 url: /provincetown/judys-dirty-laundry/
-shop: laundry
+shop: Wäscherei
 ---

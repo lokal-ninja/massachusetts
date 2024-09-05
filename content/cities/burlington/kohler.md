@@ -1,5 +1,5 @@
 ---
 title: "Kohler"
 url: /burlington/kohler/
-shop: furniture
+shop: Möbel
 ---

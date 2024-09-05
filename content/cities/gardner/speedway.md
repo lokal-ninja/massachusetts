@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gardner/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

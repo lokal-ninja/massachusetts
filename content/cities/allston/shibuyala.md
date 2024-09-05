@@ -1,5 +1,5 @@
 ---
 title: "Shibuyala"
 url: /allston/shibuyala/
-shop: beauty
+shop: Kosmetik
 ---

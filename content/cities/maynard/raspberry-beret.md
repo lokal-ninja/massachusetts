@@ -1,5 +1,5 @@
 ---
 title: "Raspberry Beret"
 url: /maynard/raspberry-beret/
-shop: shop
+shop: Allgemein
 ---

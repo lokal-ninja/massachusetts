@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /dedham/dsw/
-shop: shoes
+shop: Schuhe
 ---

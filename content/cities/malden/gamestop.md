@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /malden/gamestop/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /norton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leverett Co-Op"
 url: /leverett/leverett-co-op/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

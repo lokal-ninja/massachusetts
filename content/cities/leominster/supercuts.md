@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /leominster/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quirk Works Subaru"
 url: /braintree/quirk-works-subaru/
-shop: car
+shop: Autohaus
 ---

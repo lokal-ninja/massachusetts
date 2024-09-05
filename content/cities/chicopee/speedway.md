@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chicopee/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

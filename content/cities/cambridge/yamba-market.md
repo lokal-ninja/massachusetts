@@ -1,5 +1,5 @@
 ---
 title: "Yamba Market"
 url: /cambridge/yamba-market/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Music Go Round Boston"
 url: /natick/music-go-round-boston/
-shop: musical instrument
+shop: Instrumente
 ---

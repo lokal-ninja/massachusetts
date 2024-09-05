@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cambridge/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

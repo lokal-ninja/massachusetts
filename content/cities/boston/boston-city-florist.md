@@ -1,5 +1,5 @@
 ---
 title: "Boston City Florist"
 url: /boston/boston-city-florist/
-shop: florist
+shop: Blumen
 ---

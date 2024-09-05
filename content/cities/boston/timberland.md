@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /boston/timberland/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair by Nicole"
 url: /burlington/hair-by-nicole/
-shop: hairdresser
+shop: Friseur
 ---

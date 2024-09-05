@@ -1,5 +1,5 @@
 ---
 title: "Roosters"
 url: /lynnfield/roosters/
-shop: hairdresser
+shop: Friseur
 ---

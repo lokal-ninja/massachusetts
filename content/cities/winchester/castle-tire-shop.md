@@ -1,5 +1,5 @@
 ---
 title: "Castle Tire Shop"
 url: /winchester/castle-tire-shop/
-shop: tyres
+shop: Reifen
 ---

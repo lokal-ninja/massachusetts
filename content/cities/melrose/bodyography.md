@@ -1,5 +1,5 @@
 ---
 title: "Bodyography"
 url: /melrose/bodyography/
-shop: shop
+shop: Allgemein
 ---

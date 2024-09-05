@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /haverhill/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

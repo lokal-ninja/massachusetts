@@ -1,5 +1,5 @@
 ---
 title: "Fashion Flair Salon"
 url: /lexington/fashion-flair-salon/
-shop: hairdresser
+shop: Friseur
 ---

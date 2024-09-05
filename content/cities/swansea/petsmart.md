@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /swansea/petsmart/
-shop: pet
+shop: Tiere
 ---

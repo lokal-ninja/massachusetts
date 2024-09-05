@@ -1,5 +1,5 @@
 ---
 title: "Artery Lock Servie"
 url: /medford/artery-lock-servie/
-shop: locksmith
+shop: Schlüsseldienst
 ---

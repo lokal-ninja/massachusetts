@@ -1,5 +1,5 @@
 ---
 title: "Season Day Spa"
 url: /needham-heights/season-day-spa/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rigazio Dry Cleaning"
 url: /cambridge/rigazio-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

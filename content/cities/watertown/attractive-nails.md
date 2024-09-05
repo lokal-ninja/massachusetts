@@ -1,5 +1,5 @@
 ---
 title: "Attractive Nails"
 url: /watertown/attractive-nails/
-shop: beauty
+shop: Kosmetik
 ---

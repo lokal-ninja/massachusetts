@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /brockton/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

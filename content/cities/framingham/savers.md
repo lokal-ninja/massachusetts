@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /framingham/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

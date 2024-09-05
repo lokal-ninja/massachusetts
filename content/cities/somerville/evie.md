@@ -1,5 +1,5 @@
 ---
 title: "Evie"
 url: /somerville/evie/
-shop: hairdresser
+shop: Friseur
 ---

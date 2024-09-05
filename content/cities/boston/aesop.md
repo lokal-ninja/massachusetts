@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
 url: /boston/aesop/
-shop: beauty
+shop: Kosmetik
 ---

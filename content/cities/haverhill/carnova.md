@@ -1,5 +1,5 @@
 ---
 title: "Carnova"
 url: /haverhill/carnova/
-shop: car
+shop: Autohaus
 ---

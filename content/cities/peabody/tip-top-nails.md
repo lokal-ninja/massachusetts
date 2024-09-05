@@ -1,5 +1,5 @@
 ---
 title: "Tip Top Nails"
 url: /peabody/tip-top-nails/
-shop: beauty
+shop: Kosmetik
 ---

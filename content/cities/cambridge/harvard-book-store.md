@@ -1,5 +1,5 @@
 ---
 title: "Harvard Book Store"
 url: /cambridge/harvard-book-store/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "More Than Words"
 url: /boston/more-than-words/
-shop: books
+shop: Bücher
 ---
