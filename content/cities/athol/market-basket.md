@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /athol/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /seekonk/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

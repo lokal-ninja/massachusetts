@@ -1,5 +1,5 @@
 ---
 title: "Brideside"
 url: /boston/brideside/
-shop: Kleidung
+shop: clothes
 ---

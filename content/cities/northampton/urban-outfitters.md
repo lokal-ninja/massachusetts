@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /northampton/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

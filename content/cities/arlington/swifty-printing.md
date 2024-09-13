@@ -1,5 +1,5 @@
 ---
 title: "Swifty Printing"
 url: /arlington/swifty-printing/
-shop: Kopieren
+shop: copyshop
 ---

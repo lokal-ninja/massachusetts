@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /natick/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

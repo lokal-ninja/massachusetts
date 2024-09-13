@@ -1,5 +1,5 @@
 ---
 title: "Johnny Cupcakes"
 url: /boston/johnny-cupcakes/
-shop: Kleidung
+shop: clothes
 ---

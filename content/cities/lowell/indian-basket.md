@@ -1,5 +1,5 @@
 ---
 title: "Indian Basket"
 url: /lowell/indian-basket/
-shop: Supermarkt
+shop: supermarket
 ---

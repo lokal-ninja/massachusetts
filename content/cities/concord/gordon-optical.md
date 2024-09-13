@@ -1,5 +1,5 @@
 ---
 title: "Gordon Optical"
 url: /concord/gordon-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /boston/bodega/
-shop: Allgemein
+shop: shop
 ---

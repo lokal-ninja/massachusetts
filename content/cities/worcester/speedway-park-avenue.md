@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /worcester/speedway-park-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

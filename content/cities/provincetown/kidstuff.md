@@ -1,5 +1,5 @@
 ---
 title: "Kidstuff"
 url: /provincetown/kidstuff/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phillips Hardware"
 url: /oak-bluffs/phillips-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

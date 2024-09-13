@@ -1,5 +1,5 @@
 ---
 title: "Studio 406"
 url: /woburn/studio-406/
-shop: Friseur
+shop: hairdresser
 ---

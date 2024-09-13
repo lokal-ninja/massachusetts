@@ -1,5 +1,5 @@
 ---
 title: "Charlestown Self Storage"
 url: /charlestown/charlestown-self-storage/
-shop: Mieten
+shop: storage rental
 ---

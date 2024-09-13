@@ -1,5 +1,5 @@
 ---
 title: "Nouria"
 url: /gardner/nouria/
-shop: Lebensmittel
+shop: convenience
 ---

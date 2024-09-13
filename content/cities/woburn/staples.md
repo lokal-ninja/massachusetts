@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /woburn/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

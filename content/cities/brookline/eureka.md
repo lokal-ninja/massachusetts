@@ -1,5 +1,5 @@
 ---
 title: "Eureka!"
 url: /brookline/eureka/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New England Nurseries"
 url: /bedford/new-england-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

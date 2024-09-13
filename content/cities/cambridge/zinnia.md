@@ -1,5 +1,5 @@
 ---
 title: "Zinnia"
 url: /cambridge/zinnia/
-shop: Schmuck
+shop: jewelry
 ---

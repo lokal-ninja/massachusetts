@@ -1,5 +1,5 @@
 ---
 title: "Vigi Photography"
 url: /malden/vigi-photography/
-shop: Foto
+shop: photo
 ---

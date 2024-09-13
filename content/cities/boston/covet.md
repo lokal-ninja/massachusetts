@@ -1,5 +1,5 @@
 ---
 title: "Covet"
 url: /boston/covet/
-shop: Gebrauchtwaren
+shop: charity
 ---

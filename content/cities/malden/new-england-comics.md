@@ -1,5 +1,5 @@
 ---
 title: "New England Comics"
 url: /malden/new-england-comics/
-shop: Bücher
+shop: books
 ---

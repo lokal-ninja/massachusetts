@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /woburn/mattress-firm/
-shop: Betten
+shop: bed
 ---

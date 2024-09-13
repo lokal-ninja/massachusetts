@@ -1,5 +1,5 @@
 ---
 title: "Alltown"
 url: /tyngsborough/alltown/
-shop: Lebensmittel
+shop: convenience
 ---

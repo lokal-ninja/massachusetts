@@ -1,5 +1,5 @@
 ---
 title: "Dorchester Car Care"
 url: /dorchester/dorchester-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

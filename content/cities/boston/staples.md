@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /boston/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

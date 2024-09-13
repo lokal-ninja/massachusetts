@@ -1,5 +1,5 @@
 ---
 title: "Dellaria Salons"
 url: /somerville/dellaria-salons/
-shop: Friseur
+shop: hairdresser
 ---

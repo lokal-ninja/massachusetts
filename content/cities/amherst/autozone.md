@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /amherst/autozone/
-shop: Autoteile
+shop: car parts
 ---

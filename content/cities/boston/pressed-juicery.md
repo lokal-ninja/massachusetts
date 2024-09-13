@@ -1,5 +1,5 @@
 ---
 title: "Pressed Juicery"
 url: /boston/pressed-juicery/
-shop: Bioladen
+shop: health food
 ---

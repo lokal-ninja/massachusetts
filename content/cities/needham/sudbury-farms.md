@@ -1,5 +1,5 @@
 ---
 title: "Sudbury Farms"
 url: /needham/sudbury-farms/
-shop: Supermarkt
+shop: supermarket
 ---

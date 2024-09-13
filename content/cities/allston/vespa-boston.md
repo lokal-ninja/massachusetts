@@ -1,5 +1,5 @@
 ---
 title: "Vespa Boston"
 url: /allston/vespa-boston/
-shop: Motorrad
+shop: motorcycle
 ---

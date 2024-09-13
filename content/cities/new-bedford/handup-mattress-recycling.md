@@ -1,5 +1,5 @@
 ---
 title: "HandUp Mattress Recycling"
 url: /new-bedford/handup-mattress-recycling/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SNIPES"
 url: /boston/snipes/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylor Rental"
 url: /somerville/taylor-rental/
-shop: Mieten
+shop: storage rental
 ---

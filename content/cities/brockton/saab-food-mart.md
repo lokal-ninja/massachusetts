@@ -1,5 +1,5 @@
 ---
 title: "Saab Food Mart"
 url: /brockton/saab-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

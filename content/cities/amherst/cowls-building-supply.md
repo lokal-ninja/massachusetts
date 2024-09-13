@@ -1,5 +1,5 @@
 ---
 title: "Cowls Building Supply"
 url: /amherst/cowls-building-supply/
-shop: Baumarkt
+shop: doityourself
 ---

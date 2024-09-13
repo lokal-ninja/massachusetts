@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Cuts"
 url: /allston/beautiful-cuts/
-shop: Friseur
+shop: hairdresser
 ---

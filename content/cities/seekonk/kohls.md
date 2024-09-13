@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /seekonk/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucy Parsons Center"
 url: /boston/lucy-parsons-center/
-shop: Bücher
+shop: books
 ---

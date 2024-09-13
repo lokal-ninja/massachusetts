@@ -1,5 +1,5 @@
 ---
 title: "The Smoke Depot"
 url: /jamaica-plain/the-smoke-depot/
-shop: Tabak
+shop: tobacco
 ---

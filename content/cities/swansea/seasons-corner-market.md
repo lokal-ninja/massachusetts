@@ -1,5 +1,5 @@
 ---
 title: "Seasons Corner Market"
 url: /swansea/seasons-corner-market/
-shop: Lebensmittel
+shop: convenience
 ---

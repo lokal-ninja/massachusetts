@@ -1,5 +1,5 @@
 ---
 title: "Corsello Butcheria"
 url: /easthampton/corsello-butcheria/
-shop: Metzgerei
+shop: butcher
 ---

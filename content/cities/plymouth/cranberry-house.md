@@ -1,5 +1,5 @@
 ---
 title: "Cranberry House"
 url: /plymouth/cranberry-house/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trucchi's Supermarkets"
 url: /west-bridgewater/trucchis-supermarkets/
-shop: Supermarkt
+shop: supermarket
 ---

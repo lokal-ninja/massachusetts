@@ -1,5 +1,5 @@
 ---
 title: "Guangdong Tailor"
 url: /quincy/guangdong-tailor/
-shop: Schneiderei
+shop: tailor
 ---

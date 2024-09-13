@@ -1,5 +1,5 @@
 ---
 title: "The Classic Hair Design"
 url: /wakefield/the-classic-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

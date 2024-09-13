@@ -1,5 +1,5 @@
 ---
 title: "Alltown"
 url: /gardner/alltown/
-shop: Lebensmittel
+shop: convenience
 ---

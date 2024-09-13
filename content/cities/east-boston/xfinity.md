@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /east-boston/xfinity/
-shop: Handy
+shop: mobile phone
 ---

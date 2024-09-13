@@ -1,5 +1,5 @@
 ---
 title: "Vinal General Store"
 url: /somerville/vinal-general-store/
-shop: Dorfladen
+shop: general
 ---

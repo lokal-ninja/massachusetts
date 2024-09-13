@@ -1,5 +1,5 @@
 ---
 title: "Black Friday Year Round"
 url: /lynn/black-friday-year-round/
-shop: Warenhaus
+shop: department store
 ---

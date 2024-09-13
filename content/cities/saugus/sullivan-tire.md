@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire"
 url: /saugus/sullivan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

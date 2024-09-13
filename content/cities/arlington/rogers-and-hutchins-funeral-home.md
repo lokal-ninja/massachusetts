@@ -1,5 +1,5 @@
 ---
 title: "Rogers And Hutchins Funeral Home"
 url: /arlington/rogers-and-hutchins-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

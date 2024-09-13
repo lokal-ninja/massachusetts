@@ -1,5 +1,5 @@
 ---
 title: "Murphy Funeral Home"
 url: /boston/murphy-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

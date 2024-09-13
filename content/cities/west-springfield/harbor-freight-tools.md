@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /west-springfield/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

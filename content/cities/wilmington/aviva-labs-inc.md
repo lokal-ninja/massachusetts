@@ -1,5 +1,5 @@
 ---
 title: "Aviva Labs, Inc."
 url: /wilmington/aviva-labs-inc/
-shop: Kosmetik
+shop: beauty
 ---

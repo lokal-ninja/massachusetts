@@ -1,5 +1,5 @@
 ---
 title: "Maziply Toys"
 url: /kingston/maziply-toys/
-shop: Spielzeug
+shop: toys
 ---

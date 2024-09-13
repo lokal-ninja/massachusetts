@@ -1,5 +1,5 @@
 ---
 title: "Thomson Safaris"
 url: /watertown/thomson-safaris/
-shop: Reisebüro
+shop: travel agency
 ---

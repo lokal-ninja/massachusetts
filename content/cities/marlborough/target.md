@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /marlborough/target/
-shop: Warenhaus
+shop: department store
 ---

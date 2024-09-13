@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /methuen/walgreens/
-shop: Drogerie
+shop: chemist
 ---

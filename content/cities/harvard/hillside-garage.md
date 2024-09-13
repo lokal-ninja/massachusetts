@@ -1,5 +1,5 @@
 ---
 title: "Hillside Garage"
 url: /harvard/hillside-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

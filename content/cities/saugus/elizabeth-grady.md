@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Grady"
 url: /saugus/elizabeth-grady/
-shop: Kosmetik
+shop: beauty
 ---

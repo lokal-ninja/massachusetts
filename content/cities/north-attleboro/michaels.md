@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /north-attleboro/michaels/
-shop: Basteln
+shop: craft
 ---

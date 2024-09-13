@@ -1,5 +1,5 @@
 ---
 title: "Smooth Automotive"
 url: /arlington/smooth-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yankee Clipper Barber"
 url: /melrose/yankee-clipper-barber/
-shop: Friseur
+shop: hairdresser
 ---

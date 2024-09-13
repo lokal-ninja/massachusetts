@@ -1,5 +1,5 @@
 ---
 title: "Duxbury Package Store"
 url: /duxbury/duxbury-package-store/
-shop: Dorfladen
+shop: general
 ---

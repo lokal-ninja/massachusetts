@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicopee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

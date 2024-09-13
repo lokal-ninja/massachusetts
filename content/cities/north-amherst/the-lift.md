@@ -1,5 +1,5 @@
 ---
 title: "The Lift"
 url: /north-amherst/the-lift/
-shop: Kosmetik
+shop: beauty
 ---

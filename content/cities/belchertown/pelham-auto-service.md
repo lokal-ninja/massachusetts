@@ -1,5 +1,5 @@
 ---
 title: "Pelham Auto Service"
 url: /belchertown/pelham-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

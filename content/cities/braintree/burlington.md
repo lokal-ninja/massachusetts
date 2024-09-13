@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /braintree/burlington/
-shop: Warenhaus
+shop: department store
 ---

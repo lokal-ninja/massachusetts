@@ -1,5 +1,5 @@
 ---
 title: "Accurate Auto Body"
 url: /woburn/accurate-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

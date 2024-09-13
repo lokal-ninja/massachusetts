@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mashpee/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Center and Bike Shop"
 url: /lowell/outdoor-center-and-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

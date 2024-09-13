@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /waltham/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

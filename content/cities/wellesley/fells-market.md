@@ -1,5 +1,5 @@
 ---
 title: "Fells Market"
 url: /wellesley/fells-market/
-shop: Lebensmittel
+shop: convenience
 ---

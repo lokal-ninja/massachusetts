@@ -1,5 +1,5 @@
 ---
 title: "Brito Wireless"
 url: /lawrence/brito-wireless/
-shop: Handy
+shop: mobile phone
 ---

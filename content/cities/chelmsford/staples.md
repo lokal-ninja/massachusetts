@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chelmsford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

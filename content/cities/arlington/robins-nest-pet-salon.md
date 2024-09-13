@@ -1,5 +1,5 @@
 ---
 title: "Robins Nest Pet Salon"
 url: /arlington/robins-nest-pet-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

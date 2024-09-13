@@ -1,5 +1,5 @@
 ---
 title: "Gather Here"
 url: /cambridge/gather-here/
-shop: Basteln
+shop: craft
 ---

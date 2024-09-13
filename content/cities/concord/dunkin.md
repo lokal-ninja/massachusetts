@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /concord/dunkin/
-shop: Konditorei
+shop: pastry
 ---

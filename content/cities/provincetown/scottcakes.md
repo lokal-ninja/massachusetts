@@ -1,5 +1,5 @@
 ---
 title: "Scottcakes"
 url: /provincetown/scottcakes/
-shop: Bäckerei
+shop: bakery
 ---

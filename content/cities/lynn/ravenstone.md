@@ -1,5 +1,5 @@
 ---
 title: "Ravenstone"
 url: /lynn/ravenstone/
-shop: Andenken
+shop: gift
 ---

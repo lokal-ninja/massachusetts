@@ -1,5 +1,5 @@
 ---
 title: "Royale Salon"
 url: /peabody/royale-salon/
-shop: Friseur
+shop: hairdresser
 ---

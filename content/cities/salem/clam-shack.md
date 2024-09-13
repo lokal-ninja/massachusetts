@@ -1,5 +1,5 @@
 ---
 title: "Clam Shack"
 url: /salem/clam-shack/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AR Enterprise"
 url: /arlington/ar-enterprise/
-shop: Autowerkstatt
+shop: car repair
 ---

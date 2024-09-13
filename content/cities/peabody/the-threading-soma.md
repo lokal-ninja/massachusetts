@@ -1,5 +1,5 @@
 ---
 title: "The Threading Soma"
 url: /peabody/the-threading-soma/
-shop: Kosmetik
+shop: beauty
 ---

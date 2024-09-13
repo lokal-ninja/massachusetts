@@ -1,5 +1,5 @@
 ---
 title: "Hair Screen"
 url: /allston/hair-screen/
-shop: Friseur
+shop: hairdresser
 ---

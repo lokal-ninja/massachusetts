@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Postal"
 url: /malden/sunrise-postal/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /needham/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

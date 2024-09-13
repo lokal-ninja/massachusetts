@@ -1,5 +1,5 @@
 ---
 title: "Century Auto"
 url: /malden/century-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

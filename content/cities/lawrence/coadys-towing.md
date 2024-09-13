@@ -1,5 +1,5 @@
 ---
 title: "Coady's Towing"
 url: /lawrence/coadys-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

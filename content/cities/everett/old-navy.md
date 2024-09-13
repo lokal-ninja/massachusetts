@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /everett/old-navy/
-shop: Kleidung
+shop: clothes
 ---

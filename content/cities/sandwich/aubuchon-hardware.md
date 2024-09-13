@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /sandwich/aubuchon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

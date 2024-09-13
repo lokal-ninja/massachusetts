@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /burlington/carters/
-shop: Kleidung
+shop: clothes
 ---

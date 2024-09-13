@@ -1,5 +1,5 @@
 ---
 title: "Dudley Automotive Services"
 url: /arlington/dudley-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

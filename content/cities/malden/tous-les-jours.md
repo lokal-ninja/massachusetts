@@ -1,5 +1,5 @@
 ---
 title: "Tous les Jours"
 url: /malden/tous-les-jours/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mekong Market"
 url: /lynn/mekong-market/
-shop: Supermarkt
+shop: supermarket
 ---

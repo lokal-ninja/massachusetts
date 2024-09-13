@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /saugus/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

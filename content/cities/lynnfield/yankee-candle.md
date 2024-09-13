@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle"
 url: /lynnfield/yankee-candle/
-shop: Kerzen
+shop: candles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fitness Hub"
 url: /boston/fitness-hub/
-shop: Kleidung
+shop: clothes
 ---

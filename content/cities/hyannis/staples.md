@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hyannis/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

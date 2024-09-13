@@ -1,5 +1,5 @@
 ---
 title: "Jade Moran Jewelry"
 url: /somerville/jade-moran-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easy Convenience Store"
 url: /arlington/easy-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

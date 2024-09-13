@@ -1,5 +1,5 @@
 ---
 title: "Mark A. King LLC"
 url: /lynn/mark-a-king-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

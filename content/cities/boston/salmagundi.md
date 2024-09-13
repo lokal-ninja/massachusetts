@@ -1,5 +1,5 @@
 ---
 title: "Salmagundi"
 url: /boston/salmagundi/
-shop: Kleidung
+shop: clothes
 ---

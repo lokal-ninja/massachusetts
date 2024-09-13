@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /peabody/burlington/
-shop: Warenhaus
+shop: department store
 ---

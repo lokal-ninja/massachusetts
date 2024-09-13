@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /natick/burlington/
-shop: Warenhaus
+shop: department store
 ---

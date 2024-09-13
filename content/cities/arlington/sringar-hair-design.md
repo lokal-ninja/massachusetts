@@ -1,5 +1,5 @@
 ---
 title: "Sringar Hair Design"
 url: /arlington/sringar-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

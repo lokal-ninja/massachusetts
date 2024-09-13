@@ -1,5 +1,5 @@
 ---
 title: "SkiMD"
 url: /natick/skimd/
-shop: Sport
+shop: sports
 ---

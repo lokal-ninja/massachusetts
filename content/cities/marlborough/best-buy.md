@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /marlborough/best-buy/
-shop: Elektronik
+shop: electronics
 ---

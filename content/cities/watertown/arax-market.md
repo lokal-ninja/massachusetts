@@ -1,5 +1,5 @@
 ---
 title: "Arax Market"
 url: /watertown/arax-market/
-shop: Supermarkt
+shop: supermarket
 ---

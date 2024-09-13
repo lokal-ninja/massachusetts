@@ -1,5 +1,5 @@
 ---
 title: "Hermès"
 url: /boston/hermes/
-shop: Kleidung
+shop: clothes
 ---

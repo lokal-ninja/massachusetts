@@ -1,5 +1,5 @@
 ---
 title: "MJ Coco Salon"
 url: /reading/mj-coco-salon/
-shop: Friseur
+shop: hairdresser
 ---

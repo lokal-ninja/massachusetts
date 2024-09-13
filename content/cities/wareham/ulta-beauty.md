@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /wareham/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

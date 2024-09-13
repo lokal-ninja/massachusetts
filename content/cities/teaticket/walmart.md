@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /teaticket/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

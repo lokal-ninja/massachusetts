@@ -1,5 +1,5 @@
 ---
 title: "Peck Funeral Homes"
 url: /braintree/peck-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

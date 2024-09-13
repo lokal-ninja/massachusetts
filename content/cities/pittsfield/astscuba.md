@@ -1,5 +1,5 @@
 ---
 title: "ASTscuba"
 url: /pittsfield/astscuba/
-shop: Tauchen
+shop: diving
 ---

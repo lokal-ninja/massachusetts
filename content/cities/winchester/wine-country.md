@@ -1,5 +1,5 @@
 ---
 title: "Wine Country"
 url: /winchester/wine-country/
-shop: Wein
+shop: wine
 ---

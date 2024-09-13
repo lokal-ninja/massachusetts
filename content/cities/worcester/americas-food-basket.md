@@ -1,5 +1,5 @@
 ---
 title: "America's Food Basket"
 url: /worcester/americas-food-basket/
-shop: Supermarkt
+shop: supermarket
 ---

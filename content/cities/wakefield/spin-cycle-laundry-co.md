@@ -1,5 +1,5 @@
 ---
 title: "Spin Cycle Laundry Co"
 url: /wakefield/spin-cycle-laundry-co/
-shop: Wäscherei
+shop: laundry
 ---

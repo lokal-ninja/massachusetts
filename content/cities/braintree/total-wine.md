@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /braintree/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

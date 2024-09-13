@@ -1,5 +1,5 @@
 ---
 title: "Skin Sense"
 url: /melrose/skin-sense/
-shop: Kosmetik
+shop: beauty
 ---

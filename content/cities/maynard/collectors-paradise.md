@@ -1,5 +1,5 @@
 ---
 title: "Collector's Paradise"
 url: /maynard/collectors-paradise/
-shop: Antiquitäten
+shop: antiques
 ---

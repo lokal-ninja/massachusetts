@@ -1,5 +1,5 @@
 ---
 title: "McGill's"
 url: /wakefield/mcgills/
-shop: Lebensmittel
+shop: convenience
 ---

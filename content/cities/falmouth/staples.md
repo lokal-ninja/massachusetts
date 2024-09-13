@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /falmouth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

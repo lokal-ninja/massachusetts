@@ -1,5 +1,5 @@
 ---
 title: "Brite White Laundromat"
 url: /arlington/brite-white-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

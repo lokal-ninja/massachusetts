@@ -1,5 +1,5 @@
 ---
 title: "Apothecorner"
 url: /new-bedford/apothecorner/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winchester Optical"
 url: /winchester/winchester-optical/
-shop: Optiker
+shop: optician
 ---

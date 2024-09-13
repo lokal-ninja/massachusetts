@@ -1,5 +1,5 @@
 ---
 title: "Kenneth Scott"
 url: /provincetown/kenneth-scott/
-shop: Kleidung
+shop: clothes
 ---

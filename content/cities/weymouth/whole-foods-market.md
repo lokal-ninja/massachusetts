@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /weymouth/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /norwell/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brockton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

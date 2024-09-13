@@ -1,5 +1,5 @@
 ---
 title: "Christmas Motors"
 url: /maynard/christmas-motors/
-shop: Autohaus
+shop: car
 ---

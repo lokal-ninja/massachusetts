@@ -1,5 +1,5 @@
 ---
 title: "Temescal Wellness"
 url: /pittsfield/temescal-wellness/
-shop: Hanf
+shop: cannabis
 ---

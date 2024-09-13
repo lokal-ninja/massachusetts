@@ -1,5 +1,5 @@
 ---
 title: "Esposito Bakery"
 url: /saugus/esposito-bakery/
-shop: Bäckerei
+shop: bakery
 ---

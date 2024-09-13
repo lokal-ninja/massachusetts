@@ -1,5 +1,5 @@
 ---
 title: "AWOL"
 url: /allston/awol/
-shop: Schuhe
+shop: shoes
 ---

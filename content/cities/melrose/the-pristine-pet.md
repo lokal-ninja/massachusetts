@@ -1,5 +1,5 @@
 ---
 title: "The Pristine Pet"
 url: /melrose/the-pristine-pet/
-shop: Tiersalon
+shop: pet grooming
 ---

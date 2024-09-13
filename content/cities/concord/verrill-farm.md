@@ -1,5 +1,5 @@
 ---
 title: "Verrill Farm"
 url: /concord/verrill-farm/
-shop: Hofladen
+shop: farm
 ---

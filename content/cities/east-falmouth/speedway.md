@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /east-falmouth/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

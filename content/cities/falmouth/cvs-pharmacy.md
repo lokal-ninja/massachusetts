@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /falmouth/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

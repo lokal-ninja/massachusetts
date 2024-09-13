@@ -1,5 +1,5 @@
 ---
 title: "reiwatakiya"
 url: /boston/reiwatakiya/
-shop: Kosmetik
+shop: beauty
 ---

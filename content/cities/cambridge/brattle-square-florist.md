@@ -1,5 +1,5 @@
 ---
 title: "Brattle Square Florist"
 url: /cambridge/brattle-square-florist/
-shop: Blumen
+shop: florist
 ---

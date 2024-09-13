@@ -1,5 +1,5 @@
 ---
 title: "Montvale Tire"
 url: /melrose/montvale-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

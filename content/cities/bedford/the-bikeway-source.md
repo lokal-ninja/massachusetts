@@ -1,5 +1,5 @@
 ---
 title: "The Bikeway Source"
 url: /bedford/the-bikeway-source/
-shop: Fahrrad
+shop: bicycle
 ---

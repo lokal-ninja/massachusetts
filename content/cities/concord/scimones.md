@@ -1,5 +1,5 @@
 ---
 title: "Scimone's"
 url: /concord/scimones/
-shop: Hofladen
+shop: farm
 ---

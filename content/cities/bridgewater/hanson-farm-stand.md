@@ -1,5 +1,5 @@
 ---
 title: "Hanson Farm Stand"
 url: /bridgewater/hanson-farm-stand/
-shop: Hofladen
+shop: farm
 ---

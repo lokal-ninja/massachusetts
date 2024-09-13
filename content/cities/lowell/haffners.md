@@ -1,5 +1,5 @@
 ---
 title: "Haffner's"
 url: /lowell/haffners/
-shop: Lebensmittel
+shop: convenience
 ---

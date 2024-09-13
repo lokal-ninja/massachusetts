@@ -1,5 +1,5 @@
 ---
 title: "Sevan Bakery"
 url: /watertown/sevan-bakery/
-shop: Supermarkt
+shop: supermarket
 ---

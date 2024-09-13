@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /danvers/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /boston/whole-foods-market-harrison-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

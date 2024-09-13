@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /orleans/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

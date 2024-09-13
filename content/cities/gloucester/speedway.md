@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gloucester/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

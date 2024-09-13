@@ -1,5 +1,5 @@
 ---
 title: "Highlands Non Stop Cuts"
 url: /holyoke/highlands-non-stop-cuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arrow"
 url: /cambridge/arrow/
-shop: Schneiderei
+shop: tailor
 ---

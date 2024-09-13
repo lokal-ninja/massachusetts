@@ -1,5 +1,5 @@
 ---
 title: "MC Racing"
 url: /stow/mc-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

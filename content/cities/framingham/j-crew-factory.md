@@ -1,5 +1,5 @@
 ---
 title: "J.Crew Factory"
 url: /framingham/j-crew-factory/
-shop: Kleidung
+shop: clothes
 ---

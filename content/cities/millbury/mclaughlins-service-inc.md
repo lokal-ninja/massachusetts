@@ -1,5 +1,5 @@
 ---
 title: "McLaughlin's Service Inc"
 url: /millbury/mclaughlins-service-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

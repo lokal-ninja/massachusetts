@@ -1,5 +1,5 @@
 ---
 title: "ProCut Salon"
 url: /framingham/procut-salon/
-shop: Friseur
+shop: hairdresser
 ---

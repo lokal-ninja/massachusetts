@@ -1,5 +1,5 @@
 ---
 title: "LaundroMutt"
 url: /cambridge/laundromutt/
-shop: Tiersalon
+shop: pet grooming
 ---

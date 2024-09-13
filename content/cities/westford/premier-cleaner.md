@@ -1,5 +1,5 @@
 ---
 title: "Premier Cleaner"
 url: /westford/premier-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

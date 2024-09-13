@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /hudson/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

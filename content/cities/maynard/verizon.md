@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /maynard/verizon/
-shop: Handy
+shop: mobile phone
 ---

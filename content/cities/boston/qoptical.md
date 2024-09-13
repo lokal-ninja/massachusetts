@@ -1,5 +1,5 @@
 ---
 title: "QOptical"
 url: /boston/qoptical/
-shop: Optiker
+shop: optician
 ---

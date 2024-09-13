@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /hingham/mattress-firm/
-shop: Betten
+shop: bed
 ---

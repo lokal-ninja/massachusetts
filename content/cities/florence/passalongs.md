@@ -1,5 +1,5 @@
 ---
 title: "Passalongs"
 url: /florence/passalongs/
-shop: Blumen
+shop: florist
 ---

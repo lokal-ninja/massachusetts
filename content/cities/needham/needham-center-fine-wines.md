@@ -1,5 +1,5 @@
 ---
 title: "Needham Center Fine Wines"
 url: /needham/needham-center-fine-wines/
-shop: Wein
+shop: wine
 ---

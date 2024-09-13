@@ -1,5 +1,5 @@
 ---
 title: "Balagan Cannabis"
 url: /northampton/balagan-cannabis/
-shop: Hanf
+shop: cannabis
 ---

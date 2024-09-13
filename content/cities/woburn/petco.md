@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /woburn/petco/
-shop: Tiere
+shop: pet
 ---

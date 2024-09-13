@@ -1,5 +1,5 @@
 ---
 title: "George's Auto Body"
 url: /woburn/georges-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

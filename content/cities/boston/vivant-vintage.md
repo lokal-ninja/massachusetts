@@ -1,5 +1,5 @@
 ---
 title: "Vivant Vintage"
 url: /boston/vivant-vintage/
-shop: Kleidung
+shop: clothes
 ---

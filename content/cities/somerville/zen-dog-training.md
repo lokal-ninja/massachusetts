@@ -1,5 +1,5 @@
 ---
 title: "Zen Dog Training"
 url: /somerville/zen-dog-training/
-shop: Tiersalon
+shop: pet grooming
 ---

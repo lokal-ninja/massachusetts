@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
 url: /chelmsford/cost-cutters/
-shop: Friseur
+shop: hairdresser
 ---

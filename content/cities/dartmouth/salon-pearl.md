@@ -1,5 +1,5 @@
 ---
 title: "Salon Pearl"
 url: /dartmouth/salon-pearl/
-shop: Friseur
+shop: hairdresser
 ---

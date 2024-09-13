@@ -1,5 +1,5 @@
 ---
 title: "Friendly's Variety"
 url: /holyoke/friendlys-variety/
-shop: Lebensmittel
+shop: convenience
 ---

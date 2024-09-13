@@ -1,5 +1,5 @@
 ---
 title: "Cigar City"
 url: /weymouth/cigar-city/
-shop: Tabak
+shop: tobacco
 ---

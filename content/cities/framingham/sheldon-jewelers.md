@@ -1,5 +1,5 @@
 ---
 title: "Sheldon Jewelers"
 url: /framingham/sheldon-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

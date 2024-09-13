@@ -1,5 +1,5 @@
 ---
 title: "Cadillac of Norwood"
 url: /norwood/cadillac-of-norwood/
-shop: Autohaus
+shop: car
 ---

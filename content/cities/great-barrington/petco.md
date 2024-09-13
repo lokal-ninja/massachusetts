@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /great-barrington/petco/
-shop: Tiere
+shop: pet
 ---

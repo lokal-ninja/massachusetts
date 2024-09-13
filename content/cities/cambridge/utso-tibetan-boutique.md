@@ -1,5 +1,5 @@
 ---
 title: "Utso Tibetan Boutique"
 url: /cambridge/utso-tibetan-boutique/
-shop: Andenken
+shop: gift
 ---

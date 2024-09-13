@@ -1,5 +1,5 @@
 ---
 title: "Papercuts Bookshop"
 url: /jamaica-plain/papercuts-bookshop/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anchor Self Storage"
 url: /mashpee/anchor-self-storage/
-shop: Mieten
+shop: storage rental
 ---

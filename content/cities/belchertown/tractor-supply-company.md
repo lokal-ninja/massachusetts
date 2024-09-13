@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /belchertown/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

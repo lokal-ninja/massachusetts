@@ -1,5 +1,5 @@
 ---
 title: "Latin Market"
 url: /everett/latin-market/
-shop: Lebensmittel
+shop: convenience
 ---

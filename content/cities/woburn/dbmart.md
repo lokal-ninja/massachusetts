@@ -1,5 +1,5 @@
 ---
 title: "DBMart"
 url: /woburn/dbmart/
-shop: Lebensmittel
+shop: convenience
 ---

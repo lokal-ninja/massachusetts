@@ -1,5 +1,5 @@
 ---
 title: "Gnomon Copy"
 url: /cambridge/gnomon-copy/
-shop: Kopieren
+shop: copyshop
 ---

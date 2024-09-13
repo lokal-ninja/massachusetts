@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /saugus/walgreens/
-shop: Drogerie
+shop: chemist
 ---

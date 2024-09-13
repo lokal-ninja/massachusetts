@@ -1,5 +1,5 @@
 ---
 title: "Soma's Aromas"
 url: /pittsfield/somas-aromas/
-shop: Kerzen
+shop: candles
 ---

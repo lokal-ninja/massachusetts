@@ -1,5 +1,5 @@
 ---
 title: "Mini Food Mart"
 url: /hyannis/mini-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

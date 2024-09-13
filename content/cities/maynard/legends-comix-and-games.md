@@ -1,5 +1,5 @@
 ---
 title: "Legends Comix and Games"
 url: /maynard/legends-comix-and-games/
-shop: Videospiele
+shop: video games
 ---

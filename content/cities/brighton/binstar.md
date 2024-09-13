@@ -1,5 +1,5 @@
 ---
 title: "BinStar"
 url: /brighton/binstar/
-shop: Kramladen
+shop: variety store
 ---

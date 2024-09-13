@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /fall-river/verizon/
-shop: Handy
+shop: mobile phone
 ---

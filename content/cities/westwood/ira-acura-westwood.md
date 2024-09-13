@@ -1,5 +1,5 @@
 ---
 title: "Ira Acura Westwood"
 url: /westwood/ira-acura-westwood/
-shop: Autohaus
+shop: car
 ---

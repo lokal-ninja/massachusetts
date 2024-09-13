@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /brockton/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

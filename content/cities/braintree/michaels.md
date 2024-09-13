@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /braintree/michaels/
-shop: Basteln
+shop: craft
 ---

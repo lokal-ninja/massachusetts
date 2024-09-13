@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /taunton/speedway-cape-road/
-shop: Lebensmittel
+shop: convenience
 ---

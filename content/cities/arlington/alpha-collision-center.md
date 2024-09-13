@@ -1,5 +1,5 @@
 ---
 title: "Alpha Collision Center"
 url: /arlington/alpha-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

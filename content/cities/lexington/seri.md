@@ -1,5 +1,5 @@
 ---
 title: "Seri"
 url: /lexington/seri/
-shop: Friseur
+shop: hairdresser
 ---

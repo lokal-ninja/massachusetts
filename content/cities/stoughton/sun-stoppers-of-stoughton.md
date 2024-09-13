@@ -1,5 +1,5 @@
 ---
 title: "Sun Stoppers of Stoughton"
 url: /stoughton/sun-stoppers-of-stoughton/
-shop: Autowerkstatt
+shop: car repair
 ---

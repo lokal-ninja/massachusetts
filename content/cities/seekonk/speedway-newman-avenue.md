@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /seekonk/speedway-newman-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

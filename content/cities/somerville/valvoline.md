@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /somerville/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

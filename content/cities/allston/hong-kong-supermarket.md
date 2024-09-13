@@ -1,5 +1,5 @@
 ---
 title: "Hong Kong Supermarket"
 url: /allston/hong-kong-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

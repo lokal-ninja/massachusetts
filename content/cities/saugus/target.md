@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /saugus/target/
-shop: Warenhaus
+shop: department store
 ---

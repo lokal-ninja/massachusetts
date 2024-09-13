@@ -1,5 +1,5 @@
 ---
 title: "Foppema's Farm"
 url: /northbridge/foppemas-farm/
-shop: Hofladen
+shop: farm
 ---

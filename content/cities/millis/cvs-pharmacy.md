@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /millis/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

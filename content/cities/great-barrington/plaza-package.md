@@ -1,5 +1,5 @@
 ---
 title: "Plaza Package"
 url: /great-barrington/plaza-package/
-shop: Spirituosen
+shop: alcohol
 ---

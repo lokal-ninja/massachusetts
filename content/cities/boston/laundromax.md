@@ -1,5 +1,5 @@
 ---
 title: "Laundromax"
 url: /boston/laundromax/
-shop: Wäscherei
+shop: laundry
 ---

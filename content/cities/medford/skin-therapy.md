@@ -1,5 +1,5 @@
 ---
 title: "Skin Therapy"
 url: /medford/skin-therapy/
-shop: Kosmetik
+shop: beauty
 ---

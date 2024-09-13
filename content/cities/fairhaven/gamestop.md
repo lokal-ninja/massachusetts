@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /fairhaven/gamestop/
-shop: Videospiele
+shop: video games
 ---

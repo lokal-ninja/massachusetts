@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /acton/verizon/
-shop: Handy
+shop: mobile phone
 ---

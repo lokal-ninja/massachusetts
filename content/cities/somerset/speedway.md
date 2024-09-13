@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /somerset/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

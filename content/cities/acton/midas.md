@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /acton/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

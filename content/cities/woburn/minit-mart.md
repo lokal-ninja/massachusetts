@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /woburn/minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

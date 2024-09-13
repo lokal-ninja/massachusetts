@@ -1,5 +1,5 @@
 ---
 title: "Crush Boutique"
 url: /boston/crush-boutique/
-shop: Kleidung
+shop: clothes
 ---

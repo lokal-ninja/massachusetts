@@ -1,5 +1,5 @@
 ---
 title: "Blu Day Spa"
 url: /provincetown/blu-day-spa/
-shop: Massage
+shop: massage
 ---

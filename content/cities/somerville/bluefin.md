@@ -1,5 +1,5 @@
 ---
 title: "Bluefin"
 url: /somerville/bluefin/
-shop: Fisch
+shop: seafood
 ---

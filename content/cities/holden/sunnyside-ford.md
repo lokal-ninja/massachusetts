@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Ford"
 url: /holden/sunnyside-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mass Ave Laundromat"
 url: /arlington/mass-ave-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

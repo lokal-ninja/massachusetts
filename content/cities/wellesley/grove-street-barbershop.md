@@ -1,5 +1,5 @@
 ---
 title: "Grove Street Barbershop"
 url: /wellesley/grove-street-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /saugus/marshalls/
-shop: Warenhaus
+shop: department store
 ---

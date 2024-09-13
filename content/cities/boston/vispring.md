@@ -1,5 +1,5 @@
 ---
 title: "Vispring"
 url: /boston/vispring/
-shop: Betten
+shop: bed
 ---

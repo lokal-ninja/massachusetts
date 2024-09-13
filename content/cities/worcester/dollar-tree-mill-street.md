@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /worcester/dollar-tree-mill-street/
-shop: Kramladen
+shop: variety store
 ---

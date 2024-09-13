@@ -1,5 +1,5 @@
 ---
 title: "Swanson Jewelers"
 url: /arlington/swanson-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

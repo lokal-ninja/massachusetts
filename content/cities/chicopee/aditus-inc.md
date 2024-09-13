@@ -1,5 +1,5 @@
 ---
 title: "Aditus Inc"
 url: /chicopee/aditus-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

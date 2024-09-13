@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /lynnfield/loft/
-shop: Kleidung
+shop: clothes
 ---

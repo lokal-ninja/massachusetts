@@ -1,5 +1,5 @@
 ---
 title: "Tremont Street Garage"
 url: /melrose/tremont-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

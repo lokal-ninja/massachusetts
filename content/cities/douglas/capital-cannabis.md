@@ -1,5 +1,5 @@
 ---
 title: "Capital Cannabis"
 url: /douglas/capital-cannabis/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /townsend/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regina Gifts Inc"
 url: /arlington/regina-gifts-inc/
-shop: Andenken
+shop: gift
 ---

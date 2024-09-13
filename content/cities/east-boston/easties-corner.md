@@ -1,5 +1,5 @@
 ---
 title: "Eastie's Corner"
 url: /east-boston/easties-corner/
-shop: Lebensmittel
+shop: convenience
 ---

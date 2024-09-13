@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /wilmington/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

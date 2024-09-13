@@ -1,5 +1,5 @@
 ---
 title: "Ojee's Beauty Salon"
 url: /boston/ojees-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

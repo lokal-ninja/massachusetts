@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /saugus/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /weymouth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Plus - Campus Auto Supply"
 url: /amherst/auto-plus-campus-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

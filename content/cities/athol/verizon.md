@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /athol/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /beverly/aubuchon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

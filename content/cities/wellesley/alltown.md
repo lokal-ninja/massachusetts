@@ -1,5 +1,5 @@
 ---
 title: "Alltown"
 url: /wellesley/alltown/
-shop: Lebensmittel
+shop: convenience
 ---

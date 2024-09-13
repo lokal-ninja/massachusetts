@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /pittsfield/michaels/
-shop: Basteln
+shop: craft
 ---

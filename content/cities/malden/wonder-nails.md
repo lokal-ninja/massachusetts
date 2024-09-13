@@ -1,5 +1,5 @@
 ---
 title: "Wonder Nails"
 url: /malden/wonder-nails/
-shop: Kosmetik
+shop: beauty
 ---

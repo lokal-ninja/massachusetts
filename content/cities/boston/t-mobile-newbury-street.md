@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /boston/t-mobile-newbury-street/
-shop: Handy
+shop: mobile phone
 ---

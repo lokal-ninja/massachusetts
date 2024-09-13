@@ -1,5 +1,5 @@
 ---
 title: "Kennedy's Auto Repair"
 url: /weymouth/kennedys-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

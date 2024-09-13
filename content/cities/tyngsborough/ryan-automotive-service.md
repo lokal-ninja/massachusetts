@@ -1,5 +1,5 @@
 ---
 title: "Ryan Automotive Service"
 url: /tyngsborough/ryan-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

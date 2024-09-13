@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /braintree/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

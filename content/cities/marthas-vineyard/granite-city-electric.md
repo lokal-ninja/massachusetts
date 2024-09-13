@@ -1,5 +1,5 @@
 ---
 title: "Granite City Electric"
 url: /marthas-vineyard/granite-city-electric/
-shop: Lampen
+shop: lamps
 ---

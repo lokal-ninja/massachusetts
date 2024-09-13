@@ -1,5 +1,5 @@
 ---
 title: "Barney's Bicycle Shop"
 url: /worcester/barneys-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PhoneBros"
 url: /pittsfield/phonebros/
-shop: Handy
+shop: mobile phone
 ---

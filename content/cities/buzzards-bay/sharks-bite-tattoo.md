@@ -1,5 +1,5 @@
 ---
 title: "Sharks Bite Tattoo"
 url: /buzzards-bay/sharks-bite-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

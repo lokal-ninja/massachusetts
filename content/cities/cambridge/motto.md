@@ -1,5 +1,5 @@
 ---
 title: "Motto"
 url: /cambridge/motto/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sassoon Salon"
 url: /boston/sassoon-salon/
-shop: Friseur
+shop: hairdresser
 ---

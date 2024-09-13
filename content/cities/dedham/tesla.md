@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /dedham/tesla/
-shop: Autohaus
+shop: car
 ---

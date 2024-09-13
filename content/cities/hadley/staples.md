@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hadley/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Herb's Locksmith"
 url: /arlington/herbs-locksmith/
-shop: Schlüsseldienst
+shop: locksmith
 ---

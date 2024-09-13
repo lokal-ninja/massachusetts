@@ -1,5 +1,5 @@
 ---
 title: "Car Lot Express"
 url: /stow/car-lot-express/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades Karolina"
 url: /malden/variedades-karolina/
-shop: Warenhaus
+shop: department store
 ---

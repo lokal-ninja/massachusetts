@@ -1,5 +1,5 @@
 ---
 title: "Concord Teacakes"
 url: /concord/concord-teacakes/
-shop: Konditorei
+shop: pastry
 ---

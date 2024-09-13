@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /hadley/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

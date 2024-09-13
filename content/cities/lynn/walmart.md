@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /lynn/walmart/
-shop: Warenhaus
+shop: department store
 ---

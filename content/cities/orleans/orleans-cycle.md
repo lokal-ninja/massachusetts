@@ -1,5 +1,5 @@
 ---
 title: "Orleans Cycle"
 url: /orleans/orleans-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

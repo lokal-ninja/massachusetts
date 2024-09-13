@@ -1,5 +1,5 @@
 ---
 title: "WardMaps"
 url: /cambridge/wardmaps/
-shop: Andenken
+shop: gift
 ---

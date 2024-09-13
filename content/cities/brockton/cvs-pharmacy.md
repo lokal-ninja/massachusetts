@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /brockton/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

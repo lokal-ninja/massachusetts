@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Grady"
 url: /boston/elizabeth-grady/
-shop: Kosmetik
+shop: beauty
 ---

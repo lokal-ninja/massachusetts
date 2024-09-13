@@ -1,5 +1,5 @@
 ---
 title: "Mayflower"
 url: /boston/mayflower/
-shop: Hanf
+shop: cannabis
 ---

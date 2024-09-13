@@ -1,5 +1,5 @@
 ---
 title: "Busted Knuckle Bicycle Shop"
 url: /roslindale/busted-knuckle-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

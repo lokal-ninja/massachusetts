@@ -1,5 +1,5 @@
 ---
 title: "Lady M"
 url: /boston/lady-m/
-shop: Konditorei
+shop: pastry
 ---

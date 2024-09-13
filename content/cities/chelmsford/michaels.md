@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /chelmsford/michaels/
-shop: Basteln
+shop: craft
 ---

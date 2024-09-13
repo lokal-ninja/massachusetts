@@ -1,5 +1,5 @@
 ---
 title: "Jack's Cannabis Co."
 url: /northampton/jacks-cannabis-co/
-shop: Hanf
+shop: cannabis
 ---

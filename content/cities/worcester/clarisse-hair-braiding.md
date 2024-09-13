@@ -1,5 +1,5 @@
 ---
 title: "Clarisse Hair Braiding"
 url: /worcester/clarisse-hair-braiding/
-shop: Friseur
+shop: hairdresser
 ---

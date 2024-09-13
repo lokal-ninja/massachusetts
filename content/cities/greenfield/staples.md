@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /greenfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

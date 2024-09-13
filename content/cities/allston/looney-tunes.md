@@ -1,5 +1,5 @@
 ---
 title: "Looney Tunes"
 url: /allston/looney-tunes/
-shop: Musik
+shop: music
 ---

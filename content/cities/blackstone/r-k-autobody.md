@@ -1,5 +1,5 @@
 ---
 title: "R K Autobody"
 url: /blackstone/r-k-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

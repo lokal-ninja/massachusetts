@@ -1,5 +1,5 @@
 ---
 title: "Marathon Sports"
 url: /wellesley/marathon-sports/
-shop: Sport
+shop: sports
 ---

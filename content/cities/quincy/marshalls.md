@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /quincy/marshalls/
-shop: Warenhaus
+shop: department store
 ---

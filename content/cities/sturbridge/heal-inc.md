@@ -1,5 +1,5 @@
 ---
 title: "Heal, Inc"
 url: /sturbridge/heal-inc/
-shop: Hanf
+shop: cannabis
 ---

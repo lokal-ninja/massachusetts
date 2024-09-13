@@ -1,5 +1,5 @@
 ---
 title: "Breslin Funeral Home"
 url: /malden/breslin-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

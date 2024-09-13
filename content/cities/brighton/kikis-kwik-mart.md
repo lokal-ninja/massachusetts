@@ -1,5 +1,5 @@
 ---
 title: "Kiki's Kwik Mart"
 url: /brighton/kikis-kwik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

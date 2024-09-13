@@ -1,5 +1,5 @@
 ---
 title: "Ritual Arts"
 url: /allston/ritual-arts/
-shop: Religion
+shop: religion
 ---

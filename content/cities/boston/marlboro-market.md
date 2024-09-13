@@ -1,5 +1,5 @@
 ---
 title: "Marlboro Market"
 url: /boston/marlboro-market/
-shop: Lebensmittel
+shop: convenience
 ---

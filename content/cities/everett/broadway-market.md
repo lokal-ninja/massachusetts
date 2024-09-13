@@ -1,5 +1,5 @@
 ---
 title: "Broadway Market"
 url: /everett/broadway-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betsey Jenney"
 url: /boston/betsey-jenney/
-shop: Modehaus
+shop: boutique
 ---

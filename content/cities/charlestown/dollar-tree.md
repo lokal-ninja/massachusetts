@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /charlestown/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

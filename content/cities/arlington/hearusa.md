@@ -1,5 +1,5 @@
 ---
 title: "HearUSA"
 url: /arlington/hearusa/
-shop: Hörgeräte
+shop: hearing aids
 ---

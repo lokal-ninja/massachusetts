@@ -1,5 +1,5 @@
 ---
 title: "Carr Hardware"
 url: /pittsfield/carr-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

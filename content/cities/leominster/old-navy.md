@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /leominster/old-navy/
-shop: Kleidung
+shop: clothes
 ---

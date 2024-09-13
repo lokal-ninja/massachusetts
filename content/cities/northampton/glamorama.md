@@ -1,5 +1,5 @@
 ---
 title: "Glamorama"
 url: /northampton/glamorama/
-shop: Friseur
+shop: hairdresser
 ---

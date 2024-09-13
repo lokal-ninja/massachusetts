@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /danvers/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

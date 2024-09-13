@@ -1,5 +1,5 @@
 ---
 title: "Bottega Veneta"
 url: /boston/bottega-veneta/
-shop: Modehaus
+shop: boutique
 ---

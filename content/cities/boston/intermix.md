@@ -1,5 +1,5 @@
 ---
 title: "Intermix"
 url: /boston/intermix/
-shop: Kleidung
+shop: clothes
 ---

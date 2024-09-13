@@ -1,5 +1,5 @@
 ---
 title: "Good Night Medical"
 url: /winchester/good-night-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

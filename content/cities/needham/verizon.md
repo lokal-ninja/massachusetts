@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /needham/verizon/
-shop: Handy
+shop: mobile phone
 ---

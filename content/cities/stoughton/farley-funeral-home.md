@@ -1,5 +1,5 @@
 ---
 title: "Farley Funeral Home"
 url: /stoughton/farley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

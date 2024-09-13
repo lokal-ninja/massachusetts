@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /cambridge/aplus/
-shop: Lebensmittel
+shop: convenience
 ---

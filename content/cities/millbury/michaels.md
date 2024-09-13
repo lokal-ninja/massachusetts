@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /millbury/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Otaku"
 url: /arlington/otaku/
-shop: Andenken
+shop: gift
 ---

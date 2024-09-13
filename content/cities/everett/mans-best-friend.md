@@ -1,5 +1,5 @@
 ---
 title: "Man's Best Friend"
 url: /everett/mans-best-friend/
-shop: Tiersalon
+shop: pet grooming
 ---

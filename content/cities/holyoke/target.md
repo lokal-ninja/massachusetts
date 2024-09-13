@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /holyoke/target/
-shop: Warenhaus
+shop: department store
 ---

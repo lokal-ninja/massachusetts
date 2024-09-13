@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /hanover/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

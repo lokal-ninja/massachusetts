@@ -1,5 +1,5 @@
 ---
 title: "Hogan Tire"
 url: /woburn/hogan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

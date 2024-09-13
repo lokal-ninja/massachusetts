@@ -1,5 +1,5 @@
 ---
 title: "Circle Furniture"
 url: /boston/circle-furniture/
-shop: Möbel
+shop: furniture
 ---

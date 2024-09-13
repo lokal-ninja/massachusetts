@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /northborough/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

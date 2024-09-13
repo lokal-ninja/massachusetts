@@ -1,5 +1,5 @@
 ---
 title: "NOVU Aesthetics"
 url: /lynnfield/novu-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

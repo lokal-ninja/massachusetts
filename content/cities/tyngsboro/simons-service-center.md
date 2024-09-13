@@ -1,5 +1,5 @@
 ---
 title: "Simon's Service Center"
 url: /tyngsboro/simons-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

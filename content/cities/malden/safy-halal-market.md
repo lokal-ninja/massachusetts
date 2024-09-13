@@ -1,5 +1,5 @@
 ---
 title: "Safy Halal Market"
 url: /malden/safy-halal-market/
-shop: Supermarkt
+shop: supermarket
 ---

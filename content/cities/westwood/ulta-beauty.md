@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /westwood/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

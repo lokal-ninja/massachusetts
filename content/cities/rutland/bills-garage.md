@@ -1,5 +1,5 @@
 ---
 title: "Bill's Garage"
 url: /rutland/bills-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

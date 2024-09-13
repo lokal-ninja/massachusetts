@@ -1,5 +1,5 @@
 ---
 title: "Black Ink"
 url: /cambridge/black-ink/
-shop: Andenken
+shop: gift
 ---

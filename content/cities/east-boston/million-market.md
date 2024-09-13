@@ -1,5 +1,5 @@
 ---
 title: "Million Market"
 url: /east-boston/million-market/
-shop: Lebensmittel
+shop: convenience
 ---

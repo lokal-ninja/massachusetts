@@ -1,5 +1,5 @@
 ---
 title: "Precious Pets"
 url: /winthrop/precious-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

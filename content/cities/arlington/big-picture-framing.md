@@ -1,5 +1,5 @@
 ---
 title: "Big Picture Framing"
 url: /arlington/big-picture-framing/
-shop: Rahmen
+shop: frame
 ---

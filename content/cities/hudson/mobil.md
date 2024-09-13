@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /hudson/mobil/
-shop: Autowerkstatt
+shop: car repair
 ---

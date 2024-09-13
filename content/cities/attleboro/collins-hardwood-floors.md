@@ -1,5 +1,5 @@
 ---
 title: "Collins Hardwood Floors"
 url: /attleboro/collins-hardwood-floors/
-shop: Fußböden
+shop: flooring
 ---

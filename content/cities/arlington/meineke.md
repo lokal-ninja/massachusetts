@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /arlington/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

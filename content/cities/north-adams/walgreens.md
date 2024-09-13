@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /north-adams/walgreens/
-shop: Drogerie
+shop: chemist
 ---

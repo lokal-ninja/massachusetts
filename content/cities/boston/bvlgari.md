@@ -1,5 +1,5 @@
 ---
 title: "Bvlgari"
 url: /boston/bvlgari/
-shop: Modehaus
+shop: boutique
 ---

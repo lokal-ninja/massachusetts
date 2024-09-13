@@ -1,5 +1,5 @@
 ---
 title: "Kind Goods Market"
 url: /maynard/kind-goods-market/
-shop: Andenken
+shop: gift
 ---

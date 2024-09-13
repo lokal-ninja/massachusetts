@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /lynnfield/chicos/
-shop: Kleidung
+shop: clothes
 ---

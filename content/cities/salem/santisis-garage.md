@@ -1,5 +1,5 @@
 ---
 title: "Santisi's Garage"
 url: /salem/santisis-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

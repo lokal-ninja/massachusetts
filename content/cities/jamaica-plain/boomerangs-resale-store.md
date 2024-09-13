@@ -1,5 +1,5 @@
 ---
 title: "Boomerangs Resale Store"
 url: /jamaica-plain/boomerangs-resale-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

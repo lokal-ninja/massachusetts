@@ -1,5 +1,5 @@
 ---
 title: "Northampton Bicycle"
 url: /northampton/northampton-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

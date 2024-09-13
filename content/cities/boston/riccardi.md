@@ -1,5 +1,5 @@
 ---
 title: "Riccardi"
 url: /boston/riccardi/
-shop: Modehaus
+shop: boutique
 ---
