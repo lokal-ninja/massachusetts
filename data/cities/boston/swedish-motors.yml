@@ -1,11 +1,11 @@
 id: 1051737244
-type: way
+type: node
 latitude: 42.35172
 longitude: -71.12403
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 1090
+street: Commonwealth Avenue
+housenumber: "1090"
 phone: ""
 opening_hours: ""
-website: "https://bostonswedishmotors.com/"
+website: https://bostonswedishmotors.com/

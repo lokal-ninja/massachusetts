@@ -1,11 +1,11 @@
 id: 464805376
-type: way
+type: node
 latitude: 42.30622
 longitude: -71.39733
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 400
+street: Cochituate Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

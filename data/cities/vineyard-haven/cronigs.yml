@@ -1,11 +1,11 @@
 id: 216363260
-type: way
+type: node
 latitude: 41.44803
 longitude: -70.61599
 postcode: "02568"
 city: Vineyard Haven
-street: "State Road"
-housenumber: 357
-phone: "+1 508 693 4457"
+street: State Road
+housenumber: "357"
+phone: +1 508 693 4457
 opening_hours: ""
-website: "https://cronigsmarket.com/locations/"
+website: https://cronigsmarket.com/locations/

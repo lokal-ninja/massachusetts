@@ -1,11 +1,11 @@
 id: 29517218
-type: way
+type: node
 latitude: 42.41983
 longitude: -71.10147
 postcode: ""
 city: Medford
-street: "Salem Street"
-housenumber: 212
-phone: "+1 781 3910404"
+street: Salem Street
+housenumber: "212"
+phone: +1 781 3910404
 opening_hours: ""
-website: "https://store.vioc.com/ma/medford/oil-change-ab1109.html"
+website: https://store.vioc.com/ma/medford/oil-change-ab1109.html

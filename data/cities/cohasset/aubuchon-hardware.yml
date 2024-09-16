@@ -1,11 +1,11 @@
 id: 212572141
-type: way
+type: node
 latitude: 42.21886
 longitude: -70.7972
 postcode: "02025"
 city: Cohasset
-street: "Chief Justice Cushing Highway"
-housenumber: 828
-phone: "+1-781-383-0053"
+street: Chief Justice Cushing Highway
+housenumber: "828"
+phone: +1-781-383-0053
 opening_hours: ""
-website: "https://www.aubuchon.com/182"
+website: https://www.aubuchon.com/182

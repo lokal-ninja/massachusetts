@@ -1,11 +1,11 @@
 id: 379214819
-type: way
+type: node
 latitude: 42.47727
 longitude: -71.14776
 postcode: "01801"
 city: Woburn
-street: "Prospect Street"
-housenumber: 36
-phone: "+1 781 9330057"
+street: Prospect Street
+housenumber: "36"
+phone: +1 781 9330057
 opening_hours: ""
-website: "http://www.barkerlumber.com/"
+website: http://www.barkerlumber.com/

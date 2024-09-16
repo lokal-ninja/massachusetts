@@ -1,11 +1,11 @@
 id: 212484925
-type: way
+type: node
 latitude: 42.57361
 longitude: -71.1915
 postcode: ""
 city: Tewksbury
-street: "Main Street"
-housenumber: 2514
+street: Main Street
+housenumber: "2514"
 phone: ""
 opening_hours: ""
 website: ""

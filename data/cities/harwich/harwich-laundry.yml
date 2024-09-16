@@ -1,11 +1,11 @@
 id: 196422934
-type: way
+type: node
 latitude: 41.67051
 longitude: -70.08732
 postcode: "02646"
 city: Harwich
-street: "Doane Road"
-housenumber: 2
+street: Doane Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.12388
 longitude: -72.74152
 postcode: "01085"
 city: Westfield
-street: "Meadow Street"
-housenumber: 105
-phone: "+1-413-568-8000"
+street: Meadow Street
+housenumber: "105"
+phone: +1-413-568-8000
 opening_hours: ""
-website: "https://www.kettlebread.com/"
+website: https://www.kettlebread.com/

@@ -4,8 +4,8 @@ latitude: 42.39143
 longitude: -71.1237
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2098
-phone: "+1 617 868 6000"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.mohawkshades.com/"
+street: Massachusetts Avenue
+housenumber: "2098"
+phone: +1 617 868 6000
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.mohawkshades.com/

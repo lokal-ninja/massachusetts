@@ -4,8 +4,8 @@ latitude: 42.48185
 longitude: -71.06637
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 959
-phone: "+1 781 246 8828"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-17:00,12:00-15:00"
-website: "https://mylapels.com/"
+street: Main Street
+housenumber: "959"
+phone: +1 781 246 8828
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-17:00,12:00-15:00
+website: https://mylapels.com/

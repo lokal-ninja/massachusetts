@@ -4,8 +4,8 @@ latitude: 42.36055
 longitude: -71.05479
 postcode: "02109"
 city: Boston
-street: "North Market Street"
-housenumber: 7
+street: North Market Street
+housenumber: "7"
 phone: "+16177429114"
-opening_hours: "Mo-Th 07:00-19:00; Fr-Sa 07:00-20:00; Su 11:00-18:00"
-website: "https://stores.sunglasshut.com/us/ma/boston/7-n-market-st"
+opening_hours: Mo-Th 07:00-19:00; Fr-Sa 07:00-20:00; Su 11:00-18:00
+website: https://stores.sunglasshut.com/us/ma/boston/7-n-market-st

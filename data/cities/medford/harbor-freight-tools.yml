@@ -4,8 +4,8 @@ latitude: 42.40938
 longitude: -71.08755
 postcode: "02155"
 city: Medford
-street: "Commercial Street"
-housenumber: 30
-phone: "+1 781-393-1976"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/30-commercial-st-medford-02155?number=405"
+street: Commercial Street
+housenumber: "30"
+phone: +1 781-393-1976
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/30-commercial-st-medford-02155?number=405

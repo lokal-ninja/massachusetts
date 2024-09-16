@@ -4,8 +4,8 @@ latitude: 42.55562
 longitude: -71.18253
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 231
+street: Main Street
+housenumber: "231"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ma/wilmington/3736/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/ma/wilmington/3736/

@@ -4,8 +4,8 @@ latitude: 42.34755
 longitude: -71.85678
 postcode: "01520"
 city: Holden
-street: "Main Street"
-housenumber: 1061
+street: Main Street
+housenumber: "1061"
 phone: ""
-opening_hours: "Th-Sa 11:00-17:00"
+opening_hours: Th-Sa 11:00-17:00
 website: ""

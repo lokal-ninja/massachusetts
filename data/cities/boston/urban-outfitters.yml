@@ -4,8 +4,8 @@ latitude: 42.34834
 longitude: -71.08797
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 361
-phone: "+1-617-236-0088"
-opening_hours: "Mo-Th 11:00-20:00,Fr-Sa 10:00-20:00,Su 11:00-18:00"
-website: "https://www.urbanoutfitters.com/stores/newbury/"
+street: Newbury Street
+housenumber: "361"
+phone: +1-617-236-0088
+opening_hours: Mo-Th 11:00-20:00,Fr-Sa 10:00-20:00,Su 11:00-18:00
+website: https://www.urbanoutfitters.com/stores/newbury/

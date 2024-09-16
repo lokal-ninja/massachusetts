@@ -4,8 +4,8 @@ latitude: 42.50228
 longitude: -71.06945
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 442
-phone: "+1 781-245-0989"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 7:30-17:00; Su 10:00-14:00"
-website: "https://www.acehardware.com/"
+street: Main Street
+housenumber: "442"
+phone: +1 781-245-0989
+opening_hours: Mo-Fr 07:30-18:00; Sa 7:30-17:00; Su 10:00-14:00
+website: https://www.acehardware.com/

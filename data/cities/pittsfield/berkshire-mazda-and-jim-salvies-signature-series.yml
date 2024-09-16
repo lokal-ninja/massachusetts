@@ -4,8 +4,8 @@ latitude: 42.45018
 longitude: -73.23854
 postcode: "01201"
 city: Pittsfield
-street: "East Street"
-housenumber: 765
-phone: "+1 413 4993311"
+street: East Street
+housenumber: "765"
+phone: +1 413 4993311
 opening_hours: ""
-website: "https://www.berkshiremazda.com/"
+website: https://www.berkshiremazda.com/

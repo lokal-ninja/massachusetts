@@ -4,8 +4,8 @@ latitude: 42.48342
 longitude: -71.18641
 postcode: "01803"
 city: Burlington
-street: "Cambridge Street"
-housenumber: 34
+street: Cambridge Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/burlington-ma-pharmacies/34-cambridge-street-space-160-burlington-ma-01803/storeid=1023"
+website: https://www.cvs.com/store-locator/burlington-ma-pharmacies/34-cambridge-street-space-160-burlington-ma-01803/storeid=1023

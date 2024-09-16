@@ -4,8 +4,8 @@ latitude: 42.35148
 longitude: -71.0762
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 115
-phone: "+1-617-236-0105"
+street: Newbury Street
+housenumber: "115"
+phone: +1-617-236-0105
 opening_hours: ""
-website: "https://seeeyewear.com/locations/boston"
+website: https://seeeyewear.com/locations/boston

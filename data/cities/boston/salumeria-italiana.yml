@@ -4,8 +4,8 @@ latitude: 42.36352
 longitude: -71.05441
 postcode: "02109"
 city: Boston
-street: "Richmond Street"
-housenumber: 151
-phone: "+1 617-523-8743"
-opening_hours: "Mo-Th 09:30-18:00; Fr-Sa 09:00-19:00; Su 09:30-16:00"
-website: "https://www.salumeriaitaliana.com/"
+street: Richmond Street
+housenumber: "151"
+phone: +1 617-523-8743
+opening_hours: Mo-Th 09:30-18:00; Fr-Sa 09:00-19:00; Su 09:30-16:00
+website: https://www.salumeriaitaliana.com/

@@ -1,11 +1,11 @@
 id: 217053225
-type: way
+type: node
 latitude: 42.3134
 longitude: -71.27422
 postcode: "02481"
 city: Wellesley
-street: "Worcester Street"
-housenumber: 431
-phone: "+1-781-235-9000"
+street: Worcester Street
+housenumber: "431"
+phone: +1-781-235-9000
 opening_hours: ""
 website: ""

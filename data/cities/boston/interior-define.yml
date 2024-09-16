@@ -4,8 +4,8 @@ latitude: 42.35195
 longitude: -71.0746
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 77
-phone: "+1-872-802-4119"
+street: Newbury Street
+housenumber: "77"
+phone: +1-872-802-4119
 opening_hours: ""
-website: "https://www.interiordefine.com/boston"
+website: https://www.interiordefine.com/boston

@@ -1,11 +1,11 @@
 id: 212179262
-type: way
+type: node
 latitude: 42.33441
 longitude: -71.73114
 postcode: "01505"
 city: Boylston
-street: "Shrewsbury Street;Shrewsbury St"
-housenumber: 150
-phone: "+1 508-869-2905"
-opening_hours: "Su 12:00-19:00, Mo-Fr 10:00-19:00, Sa 11:00-19:00"
-website: "https://fullerrv.com"
+street: Shrewsbury Street;Shrewsbury St
+housenumber: "150"
+phone: +1 508-869-2905
+opening_hours: Su 12:00-19:00, Mo-Fr 10:00-19:00, Sa 11:00-19:00
+website: https://fullerrv.com

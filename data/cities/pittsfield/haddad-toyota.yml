@@ -1,11 +1,11 @@
 id: 213730920
-type: way
+type: node
 latitude: 42.40656
 longitude: -73.26392
 postcode: "01240"
 city: Pittsfield
-street: "Pittsfield-Lenox Road"
-housenumber: 130
+street: Pittsfield-Lenox Road
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

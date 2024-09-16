@@ -1,11 +1,11 @@
 id: 214250992
-type: way
+type: node
 latitude: 41.66143
 longitude: -70.20141
 postcode: "02664"
 city: South Yarmouth
-street: "Main Street"
-housenumber: 1093
+street: Main Street
+housenumber: "1093"
 phone: ""
 opening_hours: ""
-website: "https://capecodfence.com/capecod-ma"
+website: https://capecodfence.com/capecod-ma

@@ -1,11 +1,11 @@
 id: 211866714
-type: way
+type: node
 latitude: 41.6722
 longitude: -70.30219
 postcode: "02601"
 city: Hyannis
-street: "Iyannough Road"
-housenumber: 990
-phone: "+1 508-418-5900"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/hyannis"
+street: Iyannough Road
+housenumber: "990"
+phone: +1 508-418-5900
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/hyannis

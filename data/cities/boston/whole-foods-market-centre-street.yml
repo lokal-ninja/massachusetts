@@ -1,11 +1,11 @@
 id: 29634260
-type: way
+type: node
 latitude: 42.32133
 longitude: -71.11111
 postcode: "02130"
 city: Boston
-street: "Centre Street"
-housenumber: 413
-phone: "+1 617-553-5400"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/jamaicaplain"
+street: Centre Street
+housenumber: "413"
+phone: +1 617-553-5400
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/jamaicaplain

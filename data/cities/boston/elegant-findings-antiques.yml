@@ -4,8 +4,8 @@ latitude: 42.35859
 longitude: -71.07051
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 89
-phone: "+1-617-973-4844"
-opening_hours: "Th-Sa 12:00-17:00"
-website: "https://www.elegantfindingsantiques.com/"
+street: Charles Street
+housenumber: "89"
+phone: +1-617-973-4844
+opening_hours: Th-Sa 12:00-17:00
+website: https://www.elegantfindingsantiques.com/

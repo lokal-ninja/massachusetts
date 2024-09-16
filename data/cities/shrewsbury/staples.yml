@@ -4,8 +4,8 @@ latitude: 42.278
 longitude: -71.71279
 postcode: "01545"
 city: Shrewsbury
-street: "Boston Turnpike"
-housenumber: 571
+street: Boston Turnpike
+housenumber: "571"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ma/shrewsbury/571-boston-turnpike"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ma/shrewsbury/571-boston-turnpike

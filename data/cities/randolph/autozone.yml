@@ -1,11 +1,11 @@
 id: 686999106
-type: way
+type: node
 latitude: 42.16677
 longitude: -71.04462
 postcode: "02368"
 city: Randolph
-street: "North Main Street"
-housenumber: 260
+street: North Main Street
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ma/randolph/260-n-main-street.html"
+website: https://www.autozone.com/locations/ma/randolph/260-n-main-street.html

@@ -4,8 +4,8 @@ latitude: 42.52269
 longitude: -71.10262
 postcode: "01867"
 city: Reading
-street: "Chapin Avenue"
-housenumber: 6
-phone: "+1 781 9449797"
+street: Chapin Avenue
+housenumber: "6"
+phone: +1 781 9449797
 opening_hours: ""
-website: "https://www.missionofdeeds.org/"
+website: https://www.missionofdeeds.org/

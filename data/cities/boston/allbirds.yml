@@ -4,8 +4,8 @@ latitude: 42.35026
 longitude: -71.08086
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 205
-phone: "+1-617-430-4500"
+street: Newbury Street
+housenumber: "205"
+phone: +1-617-430-4500
 opening_hours: ""
-website: "https://www.allbirds.com/"
+website: https://www.allbirds.com/

@@ -1,11 +1,11 @@
 id: 216405252
-type: way
+type: node
 latitude: 42.50273
 longitude: -71.07392
 postcode: "01880"
 city: Wakefield
-street: "Albion Street"
-housenumber: 89
+street: Albion Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

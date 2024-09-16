@@ -4,8 +4,8 @@ latitude: 42.34971
 longitude: -71.08106
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 222
-phone: "+1-617-564-4024"
+street: Newbury Street
+housenumber: "222"
+phone: +1-617-564-4024
 opening_hours: ""
-website: "http://alunasalon.com/"
+website: http://alunasalon.com/

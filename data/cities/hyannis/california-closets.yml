@@ -1,11 +1,11 @@
 id: 211862469
-type: way
+type: node
 latitude: 41.66411
 longitude: -70.29077
 postcode: "02601"
 city: Hyannis
-street: "Falmouth Road"
-housenumber: 73
-phone: "+1-508-778-9444"
-opening_hours: "Mo-Sa 09:30-17:30; Su 12:00-17:00"
-website: "http://www.californiaclosets.com/#showrooms"
+street: Falmouth Road
+housenumber: "73"
+phone: +1-508-778-9444
+opening_hours: Mo-Sa 09:30-17:30; Su 12:00-17:00
+website: http://www.californiaclosets.com/#showrooms

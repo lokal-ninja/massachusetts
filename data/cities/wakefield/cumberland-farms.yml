@@ -1,11 +1,11 @@
 id: 29961404
-type: way
+type: node
 latitude: 42.52306
 longitude: -71.07731
 postcode: "01880"
 city: Wakefield
-street: "Lowell Street"
-housenumber: 200
+street: Lowell Street
+housenumber: "200"
 phone: "+17812450231"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.cumberlandfarms.com/stores/ma/wakefield-6734"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.cumberlandfarms.com/stores/ma/wakefield-6734

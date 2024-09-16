@@ -1,11 +1,11 @@
 id: 496749201
-type: way
+type: node
 latitude: 42.35954
 longitude: -71.78303
 postcode: ""
 city: West Boylston
-street: "Franklin Street"
-housenumber: 21
+street: Franklin Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

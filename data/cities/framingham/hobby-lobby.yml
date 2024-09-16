@@ -1,11 +1,11 @@
 id: 469538128
-type: way
+type: node
 latitude: 42.30103
 longitude: -71.39381
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 1
+street: Worcester Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

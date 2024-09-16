@@ -4,8 +4,8 @@ latitude: 42.39901
 longitude: -71.06873
 postcode: "02149"
 city: Everett
-street: "Mystic View Road"
-housenumber: 10
-phone: "+1-617-381-6219"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.gap.com/stores/ma/everett/gap-4236.html"
+street: Mystic View Road
+housenumber: "10"
+phone: +1-617-381-6219
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.gap.com/stores/ma/everett/gap-4236.html

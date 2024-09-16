@@ -1,11 +1,11 @@
 id: 213736106
-type: way
+type: node
 latitude: 42.49616
 longitude: -71.7263
 postcode: "01453"
 city: Leominster
-street: "New Lancaster Road"
-housenumber: 198
-phone: "+1 978-230-4072"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/MA-Leominster/1858"
+street: New Lancaster Road
+housenumber: "198"
+phone: +1 978-230-4072
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/MA-Leominster/1858

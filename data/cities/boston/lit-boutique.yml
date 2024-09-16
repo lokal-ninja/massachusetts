@@ -4,8 +4,8 @@ latitude: 42.35003
 longitude: -71.0816
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 223
-phone: "+1-617-421-8637"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://litboutique.com/pages/lit-boutique-on-newbury-street"
+street: Newbury Street
+housenumber: "223"
+phone: +1-617-421-8637
+opening_hours: Mo-Su 11:00-18:00
+website: https://litboutique.com/pages/lit-boutique-on-newbury-street

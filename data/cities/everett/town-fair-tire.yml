@@ -1,11 +1,11 @@
 id: 29537169
-type: way
+type: node
 latitude: 42.40258
 longitude: -71.05464
 postcode: "02149"
 city: Everett
-street: "Revere Beach Parkway"
-housenumber: 2012
-phone: "+1-617-394-9192"
-opening_hours: "Mo,Th 7:45-18:00; Tu,We,Fr 7:45-17:00; Sa 7:45-16:00"
-website: "https://www.townfairtire.com/store/tires/massachusetts/everett/"
+street: Revere Beach Parkway
+housenumber: "2012"
+phone: +1-617-394-9192
+opening_hours: Mo,Th 7:45-18:00; Tu,We,Fr 7:45-17:00; Sa 7:45-16:00
+website: https://www.townfairtire.com/store/tires/massachusetts/everett/

@@ -1,11 +1,11 @@
 id: 29515930
-type: way
+type: node
 latitude: 42.39857
 longitude: -71.13115
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2451
-phone: "+1 617-354-7600"
-opening_hours: "Mo-Sa 09:00-23:00; Su 11:00-22:00"
-website: "https://www.gotoliquorstore.com/s/norton-s-liquors/252"
+street: Massachusetts Avenue
+housenumber: "2451"
+phone: +1 617-354-7600
+opening_hours: Mo-Sa 09:00-23:00; Su 11:00-22:00
+website: https://www.gotoliquorstore.com/s/norton-s-liquors/252

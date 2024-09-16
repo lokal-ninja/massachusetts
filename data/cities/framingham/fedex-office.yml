@@ -1,11 +1,11 @@
 id: 213248599
-type: way
+type: node
 latitude: 42.30515
 longitude: -71.39395
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 375
+street: Cochituate Road
+housenumber: "375"
 phone: ""
 opening_hours: ""
-website: "http://www.fedex.com/"
+website: http://www.fedex.com/

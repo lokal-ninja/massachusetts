@@ -1,10 +1,10 @@
 id: 172234172
-type: way
+type: node
 latitude: 42.17698
 longitude: -72.57801
 postcode: "01021"
 city: Chicopee
-street: "Memorial Drive"
+street: Memorial Drive
 housenumber: 672;678
 phone: ""
 opening_hours: ""

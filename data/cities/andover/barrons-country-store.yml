@@ -1,11 +1,11 @@
 id: 211832427
-type: way
+type: node
 latitude: 42.64333
 longitude: -71.20344
 postcode: "01810"
 city: Andover
-street: "Lowell Street"
-housenumber: 429
+street: Lowell Street
+housenumber: "429"
 phone: ""
 opening_hours: ""
-website: "http://barronscountrystore.com/"
+website: http://barronscountrystore.com/

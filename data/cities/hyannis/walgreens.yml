@@ -1,11 +1,11 @@
 id: 211871238
-type: way
+type: node
 latitude: 41.65129
 longitude: -70.31485
 postcode: "02601"
 city: Hyannis
-street: "West Main Street"
-housenumber: 520
-phone: "+1-508-775-9211"
-opening_hours: "08:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-520+w+main+st-hyannis-ma-02601/id=17545"
+street: West Main Street
+housenumber: "520"
+phone: +1-508-775-9211
+opening_hours: 08:00-20:00
+website: https://www.walgreens.com/locator/walgreens-520+w+main+st-hyannis-ma-02601/id=17545

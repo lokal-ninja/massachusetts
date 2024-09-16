@@ -4,8 +4,8 @@ latitude: 42.35729
 longitude: -71.06982
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 37
-phone: "+1-617-227-5140"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
-website: "https://www.antons.com/locations/boston-charles-st/"
+street: Charles Street
+housenumber: "37"
+phone: +1-617-227-5140
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-15:00
+website: https://www.antons.com/locations/boston-charles-st/

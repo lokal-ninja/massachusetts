@@ -1,11 +1,11 @@
 id: 214612467
-type: way
+type: node
 latitude: 42.30164
 longitude: -71.33676
-postcode: "01760-1825"
+postcode: 01760-1825
 city: Natick
-street: "Worcester Street"
-housenumber: 244
-phone: "+1 508-655-1390"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ma/natick/408/"
+street: Worcester Street
+housenumber: "244"
+phone: +1 508-655-1390
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.joann.com/ma/natick/408/

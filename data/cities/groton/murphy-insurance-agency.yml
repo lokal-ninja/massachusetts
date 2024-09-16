@@ -1,11 +1,11 @@
 id: 156630932
-type: way
+type: node
 latitude: 42.60914
 longitude: -71.57299
 postcode: "01450"
 city: Groton
-street: "Main Street"
-housenumber: 201
+street: Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 214144792
-type: way
+type: node
 latitude: 42.47807
 longitude: -71.15012
 postcode: "01801"
 city: Woburn
-street: "High Street"
-housenumber: 20
-phone: "+1 781 9385666"
+street: High Street
+housenumber: "20"
+phone: +1 781 9385666
 opening_hours: ""
-website: "http://www.laradescollision.com/"
+website: http://www.laradescollision.com/

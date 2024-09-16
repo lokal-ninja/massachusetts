@@ -1,11 +1,11 @@
 id: 217086187
-type: way
+type: node
 latitude: 42.018
 longitude: -71.0079
 postcode: "02379"
 city: West Bridgewater
-street: "River Street"
-housenumber: 22
+street: River Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.newimagewb.com/"
+website: http://www.newimagewb.com/

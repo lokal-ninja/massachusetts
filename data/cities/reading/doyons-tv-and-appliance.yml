@@ -1,11 +1,11 @@
 id: 29807004
-type: way
+type: node
 latitude: 42.50997
 longitude: -71.10446
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 172
-phone: "+1 781 9443229"
+street: Main Street
+housenumber: "172"
+phone: +1 781 9443229
 opening_hours: ""
-website: "https://www.doyonsappliance.com/"
+website: https://www.doyonsappliance.com/

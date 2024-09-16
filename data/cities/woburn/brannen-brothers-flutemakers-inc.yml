@@ -1,11 +1,11 @@
 id: 29525752
-type: way
+type: node
 latitude: 42.51201
 longitude: -71.12958
 postcode: "01801"
 city: Woburn
-street: "Dragon Court"
-housenumber: 58
+street: Dragon Court
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.brannenflutes.com/"
+website: https://www.brannenflutes.com/

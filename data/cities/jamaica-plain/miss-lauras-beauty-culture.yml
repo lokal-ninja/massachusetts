@@ -4,8 +4,8 @@ latitude: 42.30818
 longitude: -71.11536
 postcode: "02130"
 city: Jamaica Plain
-street: "South Street"
-housenumber: 46
+street: South Street
+housenumber: "46"
 phone: ""
-opening_hours: "We-Th 11:00-19:00; Fr 09:00-16:00; Sa 09:00-17:00"
+opening_hours: We-Th 11:00-19:00; Fr 09:00-16:00; Sa 09:00-17:00
 website: ""

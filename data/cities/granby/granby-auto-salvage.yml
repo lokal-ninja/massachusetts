@@ -1,11 +1,11 @@
 id: 213350507
-type: way
+type: node
 latitude: 42.2615
 longitude: -72.47153
 postcode: ""
 city: Granby
-street: "School Street"
-housenumber: 115
+street: School Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

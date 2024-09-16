@@ -1,11 +1,11 @@
 id: 242948098
-type: way
+type: node
 latitude: 42.42457
 longitude: -71.37446
 postcode: "01742"
 city: Concord
-street: "Wheeler Road"
-housenumber: 11
+street: Wheeler Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

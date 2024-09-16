@@ -1,11 +1,11 @@
 id: 930861301
-type: way
+type: node
 latitude: 41.90628
 longitude: -71.03765
 postcode: "02767"
 city: Raynham
-street: "New State Highway"
-housenumber: 748
+street: New State Highway
+housenumber: "748"
 phone: ""
 opening_hours: ""
 website: ""

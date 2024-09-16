@@ -1,11 +1,11 @@
 id: 29522993
-type: way
+type: node
 latitude: 42.48138
 longitude: -71.09965
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 322
-phone: "+1 781 4380405"
+street: Main Street
+housenumber: "322"
+phone: +1 781 4380405
 opening_hours: ""
-website: "https://www.mcdonaldfs.com/"
+website: https://www.mcdonaldfs.com/

@@ -1,11 +1,11 @@
 id: 212289496
-type: way
+type: node
 latitude: 42.48682
 longitude: -71.22027
 postcode: "01803"
 city: Burlington
-street: "Middlesex Turnpike"
-housenumber: 111
-phone: "+1 781-221-4610"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ma/burlington/111-middlesex-turnpike"
+street: Middlesex Turnpike
+housenumber: "111"
+phone: +1 781-221-4610
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.staples.com/ma/burlington/111-middlesex-turnpike

@@ -4,8 +4,8 @@ latitude: 42.48778
 longitude: -71.22472
 postcode: "01803"
 city: Burlington
-street: "Third Avenue"
-housenumber: 22
-phone: "+1-781-552-5200"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://www.mgbwhome.com/Burlington-Signature-Store.html"
+street: Third Avenue
+housenumber: "22"
+phone: +1-781-552-5200
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
+website: https://www.mgbwhome.com/Burlington-Signature-Store.html

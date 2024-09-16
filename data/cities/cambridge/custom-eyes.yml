@@ -4,8 +4,8 @@ latitude: 42.3662
 longitude: -71.10314
 postcode: "02139"
 city: Cambridge
-street: "Prospect Street"
-housenumber: 50
-phone: "+1 617 349 3937"
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://customeyescorp.net/"
+street: Prospect Street
+housenumber: "50"
+phone: +1 617 349 3937
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://customeyescorp.net/

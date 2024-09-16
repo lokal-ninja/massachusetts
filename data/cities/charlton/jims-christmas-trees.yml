@@ -4,8 +4,8 @@ latitude: 42.15509
 longitude: -71.92715
 postcode: "01507"
 city: Charlton
-street: "Hammond Hill Road"
-housenumber: 25
+street: Hammond Hill Road
+housenumber: "25"
 phone: ""
-opening_hours: "Nov Th[4]-Dec 24: Mo-Th,PH 10:00-20:00; Nov Th[4]-Dec 24: Fr-Su 09:00-21:00"
-website: "http://www.jimschristmastrees.com/"
+opening_hours: 'Nov Th[4]-Dec 24: Mo-Th,PH 10:00-20:00; Nov Th[4]-Dec 24: Fr-Su 09:00-21:00'
+website: http://www.jimschristmastrees.com/

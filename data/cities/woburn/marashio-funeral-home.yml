@@ -1,11 +1,11 @@
 id: 378823481
-type: way
+type: node
 latitude: 42.47449
 longitude: -71.14399
 postcode: "01801"
 city: Woburn
-street: "Mount Pleasant Street"
-housenumber: 62
+street: Mount Pleasant Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

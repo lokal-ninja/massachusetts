@@ -4,8 +4,8 @@ latitude: 42.29957
 longitude: -71.11361
 postcode: "02130"
 city: Boston
-street: "Hyde Park Avenue"
-housenumber: 12
-phone: "+1 617-477-3118"
-opening_hours: "Th-Sa 10:00-20:00; Su-Mo, We 10:00-19:00, Tu off"
-website: "https://www.facebook.com/PolishNailandSpa"
+street: Hyde Park Avenue
+housenumber: "12"
+phone: +1 617-477-3118
+opening_hours: Th-Sa 10:00-20:00; Su-Mo, We 10:00-19:00, Tu off
+website: https://www.facebook.com/PolishNailandSpa

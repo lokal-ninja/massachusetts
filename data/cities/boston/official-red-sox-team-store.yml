@@ -4,8 +4,8 @@ latitude: 42.3458
 longitude: -71.09865
 postcode: "02215"
 city: Boston
-street: "Jersey Street"
-housenumber: 19
-phone: "+1-800-336-9299"
+street: Jersey Street
+housenumber: "19"
+phone: +1-800-336-9299
 opening_hours: ""
-website: "https://www.19jerseystreet.com/"
+website: https://www.19jerseystreet.com/

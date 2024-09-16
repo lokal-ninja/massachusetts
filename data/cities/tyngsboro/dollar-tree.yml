@@ -1,11 +1,11 @@
 id: 193819023
-type: way
+type: node
 latitude: 42.69578
 longitude: -71.44071
 postcode: "01879"
 city: Tyngsboro
-street: "Middlesex Road"
-housenumber: 440
-phone: "+1-978-226-9008"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ma/tyngsborough/1554/"
+street: Middlesex Road
+housenumber: "440"
+phone: +1-978-226-9008
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ma/tyngsborough/1554/

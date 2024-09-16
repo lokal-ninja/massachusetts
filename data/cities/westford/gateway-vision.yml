@@ -4,8 +4,8 @@ latitude: 42.5556
 longitude: -71.43926
 postcode: "01886"
 city: Westford
-street: "Littleton Road"
-housenumber: 288
-phone: "+1-978-692-2521"
-opening_hours: "Mo 09:00-18:00; Tu,Th 08:30-17:00; We,Sa 08:30-12:00; Fr 08:30-16:00"
-website: "https://www.gatewayvision.com/"
+street: Littleton Road
+housenumber: "288"
+phone: +1-978-692-2521
+opening_hours: Mo 09:00-18:00; Tu,Th 08:30-17:00; We,Sa 08:30-12:00; Fr 08:30-16:00
+website: https://www.gatewayvision.com/

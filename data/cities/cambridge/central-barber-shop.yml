@@ -1,11 +1,11 @@
 id: 650388698
-type: way
+type: node
 latitude: 42.3803
 longitude: -71.1197
 postcode: ""
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1611
+street: Massachusetts Avenue
+housenumber: "1611"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:00; Sa 09:00-15:00"
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; Sa 09:00-15:00
 website: ""

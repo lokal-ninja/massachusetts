@@ -1,11 +1,11 @@
 id: 214143793
-type: way
+type: node
 latitude: 42.48393
 longitude: -71.14734
 postcode: "01801"
 city: Woburn
-street: "Salem Street"
-housenumber: 55
+street: Salem Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://allseasonsself-storage.com/"
+website: https://allseasonsself-storage.com/

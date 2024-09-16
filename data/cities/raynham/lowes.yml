@@ -1,11 +1,11 @@
 id: 215779649
-type: way
+type: node
 latitude: 41.90766
 longitude: -71.0335
 postcode: "02767"
 city: Raynham
-street: "New State Highway"
-housenumber: 850
-phone: "+1 774-226-2036"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/MA-Raynham/1857"
+street: New State Highway
+housenumber: "850"
+phone: +1 774-226-2036
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/MA-Raynham/1857

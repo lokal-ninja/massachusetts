@@ -1,11 +1,11 @@
 id: 215960968
-type: way
+type: node
 latitude: 42.12067
 longitude: -71.23171
 postcode: "02067"
 city: Sharon
-street: "General Edwards Highway"
-housenumber: 1050
-phone: "+1 781-806-0592"
+street: General Edwards Highway
+housenumber: "1050"
+phone: +1 781-806-0592
 opening_hours: ""
-website: "https://koopmanlumber.com/"
+website: https://koopmanlumber.com/

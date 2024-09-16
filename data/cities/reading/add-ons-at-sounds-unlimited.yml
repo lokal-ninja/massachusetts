@@ -4,8 +4,8 @@ latitude: 42.52212
 longitude: -71.10298
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 505
-phone: "+1 781 9441190"
+street: Main Street
+housenumber: "505"
+phone: +1 781 9441190
 opening_hours: ""
-website: "https://www.myautotruckstuff.com/"
+website: https://www.myautotruckstuff.com/

@@ -4,8 +4,8 @@ latitude: 42.65233
 longitude: -71.31642
 postcode: "01854"
 city: Lowell
-street: "Lawrence Drive"
-housenumber: 5
-phone: "+1-978-934-6797"
-opening_hours: "Mo-Th 13:00-20:00; Fr 12:00-20:00; Sa 10:00-18:00; PH off"
-website: "https://uml.edu/bikeshop"
+street: Lawrence Drive
+housenumber: "5"
+phone: +1-978-934-6797
+opening_hours: Mo-Th 13:00-20:00; Fr 12:00-20:00; Sa 10:00-18:00; PH off
+website: https://uml.edu/bikeshop

@@ -4,8 +4,8 @@ latitude: 42.36463
 longitude: -71.19771
 postcode: "02458"
 city: Newton
-street: "California Street"
-housenumber: 232
-phone: "+1 617 483 5803"
+street: California Street
+housenumber: "232"
+phone: +1 617 483 5803
 opening_hours: ""
-website: "http://www.kokobread.com/"
+website: http://www.kokobread.com/

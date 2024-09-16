@@ -4,8 +4,8 @@ latitude: 42.34372
 longitude: -71.06556
 postcode: "02118"
 city: Boston
-street: "East Berkeley Street"
-housenumber: 105
-phone: "+1-617-542-0908"
+street: East Berkeley Street
+housenumber: "105"
+phone: +1-617-542-0908
 opening_hours: ""
-website: "https://southendframes.com/"
+website: https://southendframes.com/

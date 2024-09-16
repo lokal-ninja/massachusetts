@@ -4,8 +4,8 @@ latitude: 42.35137
 longitude: -71.07182
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 380
-phone: "+1-617-859-1700"
+street: Boylston Street
+housenumber: "380"
+phone: +1-617-859-1700
 opening_hours: ""
-website: "https://www.neenaslighting.com/info/hours-directions"
+website: https://www.neenaslighting.com/info/hours-directions

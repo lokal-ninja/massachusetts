@@ -4,8 +4,8 @@ latitude: 42.50252
 longitude: -71.07028
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 415
-phone: "+1 781 245 9797"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-18:00"
-website: "https://www.thefarmland.com/"
+street: Main Street
+housenumber: "415"
+phone: +1 781 245 9797
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-18:00
+website: https://www.thefarmland.com/

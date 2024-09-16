@@ -1,11 +1,11 @@
 id: 29679540
-type: way
+type: node
 latitude: 42.31706
 longitude: -71.10532
 postcode: "02130"
 city: Boston;Jamaica Plain
-street: "Boylston Street"
+street: Boylston Street
 housenumber: 78-82
-phone: "+1 617 524-0740"
-opening_hours: "Mo-Sa 10:00-23:00; Su 12:00-20:00"
+phone: +1 617 524-0740
+opening_hours: Mo-Sa 10:00-23:00; Su 12:00-20:00
 website: ""

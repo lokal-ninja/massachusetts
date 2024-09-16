@@ -1,11 +1,11 @@
 id: 135530551
-type: way
+type: node
 latitude: 42.4693
 longitude: -71.02689
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 1073
-phone: "+1 781-231-0489"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ma/saugus/2161/"
+street: Broadway
+housenumber: "1073"
+phone: +1 781-231-0489
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/ma/saugus/2161/

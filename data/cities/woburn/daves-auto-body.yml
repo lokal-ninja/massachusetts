@@ -1,11 +1,11 @@
 id: 29826217
-type: way
+type: node
 latitude: 42.47769
 longitude: -71.14701
 postcode: "01801"
 city: Woburn
-street: "Jefferson Avenue"
-housenumber: 8
-phone: "+1 781 9358915"
+street: Jefferson Avenue
+housenumber: "8"
+phone: +1 781 9358915
 opening_hours: ""
 website: ""

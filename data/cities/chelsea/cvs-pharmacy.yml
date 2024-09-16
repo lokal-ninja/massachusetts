@@ -1,11 +1,11 @@
 id: 196751235
-type: way
+type: node
 latitude: 42.40307
 longitude: -71.02311
 postcode: "02150"
 city: Chelsea
-street: "Revere Beach Parkway"
-housenumber: 1010
+street: Revere Beach Parkway
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/chelsea-ma-pharmacies/1010-revere-beach-pkwy-chelsea-ma-02150/storeid=109"
+website: https://www.cvs.com/store-locator/chelsea-ma-pharmacies/1010-revere-beach-pkwy-chelsea-ma-02150/storeid=109

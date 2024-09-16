@@ -4,8 +4,8 @@ latitude: 42.36152
 longitude: -71.06568
 postcode: "02114"
 city: Boston
-street: "Cambridge Street"
-housenumber: 175
+street: Cambridge Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "https://vinodivino.com/"
+website: https://vinodivino.com/

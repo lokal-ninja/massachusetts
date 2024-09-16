@@ -1,11 +1,11 @@
 id: 29828897
-type: way
+type: node
 latitude: 42.38265
 longitude: -71.11132
 postcode: "02143"
 city: Somerville
-street: "Beacon Street"
-housenumber: 263
+street: Beacon Street
+housenumber: "263"
 phone: "+18572426600"
 opening_hours: ""
-website: "https://www.sullivantire.com/locations/0117-somerville-ma"
+website: https://www.sullivantire.com/locations/0117-somerville-ma

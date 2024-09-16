@@ -1,11 +1,11 @@
 id: 214613062
-type: way
+type: node
 latitude: 42.30316
 longitude: -71.33866
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 321
-phone: "+1 508-315-6569"
+street: Worcester Street
+housenumber: "321"
+phone: +1 508-315-6569
 opening_hours: ""
-website: "https://stores.partycity.com/us/ma/natick/party-store-pc6004.html"
+website: https://stores.partycity.com/us/ma/natick/party-store-pc6004.html

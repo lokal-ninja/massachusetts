@@ -1,11 +1,11 @@
 id: 214946267
-type: way
+type: node
 latitude: 41.77549
 longitude: -70.00125
 postcode: ""
 city: Orleans
-street: "O'Connor Road"
-housenumber: 16
+street: O'Connor Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

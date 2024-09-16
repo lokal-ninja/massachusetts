@@ -4,8 +4,8 @@ latitude: 42.35113
 longitude: -71.0859
 postcode: "02115"
 city: Boston
-street: "Marlborough Street"
-housenumber: 345
-phone: "+1-617-267-3824"
+street: Marlborough Street
+housenumber: "345"
+phone: +1-617-267-3824
 opening_hours: ""
-website: "http://www.floralschool.com/"
+website: http://www.floralschool.com/

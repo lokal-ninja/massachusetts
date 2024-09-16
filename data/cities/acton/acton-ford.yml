@@ -1,11 +1,11 @@
 id: 123043223
-type: way
+type: node
 latitude: 42.44166
 longitude: -71.43108
 postcode: "01720"
 city: Acton
-street: "Powder Mill Road"
-housenumber: 76
+street: Powder Mill Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

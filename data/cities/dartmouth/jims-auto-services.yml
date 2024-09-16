@@ -1,11 +1,11 @@
 id: 212876508
-type: way
+type: node
 latitude: 41.60991
 longitude: -70.93889
 postcode: "02748"
 city: Dartmouth
-street: "Cove Road"
-housenumber: 63
+street: Cove Road
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.42681
 longitude: -71.06909
 postcode: "02148"
 city: Malden
-street: "Pleasant Street"
-housenumber: 64
-phone: "+1 781 8514101"
+street: Pleasant Street
+housenumber: "64"
+phone: +1 781 8514101
 opening_hours: ""
-website: "https://thedowntownpaw.com/"
+website: https://thedowntownpaw.com/

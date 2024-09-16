@@ -4,8 +4,8 @@ latitude: 42.31834
 longitude: -72.63092
 postcode: "01060"
 city: Northampton
-street: "Main Street"
-housenumber: 150
-phone: "+1 (413) 537-7357"
+street: Main Street
+housenumber: "150"
+phone: +1 (413) 537-7357
 opening_hours: ""
-website: "https://www.thenooc.com"
+website: https://www.thenooc.com

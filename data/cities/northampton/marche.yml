@@ -4,8 +4,8 @@ latitude: 42.32384
 longitude: -72.63051
 postcode: "01060"
 city: Northampton
-street: "Market Street"
-housenumber: 99
+street: Market Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

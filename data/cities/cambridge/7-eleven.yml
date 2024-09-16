@@ -4,8 +4,8 @@ latitude: 42.36621
 longitude: -71.10544
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 750
-phone: "+1 617-492-0830"
-opening_hours: "07:30-22:00"
-website: "https://www.7-eleven.com/locations/ma/cambridge/750-massachusetts-ave-20430"
+street: Massachusetts Avenue
+housenumber: "750"
+phone: +1 617-492-0830
+opening_hours: 07:30-22:00
+website: https://www.7-eleven.com/locations/ma/cambridge/750-massachusetts-ave-20430

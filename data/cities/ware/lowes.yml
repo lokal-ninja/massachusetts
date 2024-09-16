@@ -1,11 +1,11 @@
 id: 216450890
-type: way
+type: node
 latitude: 42.238
 longitude: -72.27519
 postcode: "01082"
 city: Ware
-street: "Palmer Road"
-housenumber: 348
-phone: "+1 413-277-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-ware/2386"
+street: Palmer Road
+housenumber: "348"
+phone: +1 413-277-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-ware/2386

@@ -1,11 +1,11 @@
 id: 200090486
-type: way
+type: node
 latitude: 42.39052
 longitude: -71.08669
 postcode: "02145"
 city: Somerville
-street: "McGrath Highway"
-housenumber: 709
+street: McGrath Highway
+housenumber: "709"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Somerville/709-MCGRATH-HWY"
+website: https://www.speedway.com/locations/MA/Somerville/709-MCGRATH-HWY

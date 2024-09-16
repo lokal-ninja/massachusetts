@@ -1,11 +1,11 @@
 id: 989704304
-type: way
+type: node
 latitude: 42.50247
 longitude: -70.89437
 postcode: "01970"
 city: Salem
-street: "Broadway"
-housenumber: 122
+street: Broadway
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

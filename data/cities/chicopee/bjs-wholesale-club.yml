@@ -4,8 +4,8 @@ latitude: 42.17654
 longitude: -72.58007
 postcode: "01020"
 city: Chicopee
-street: "Memorial Drive"
-housenumber: 650
-phone: "+1 413-593-6474"
-opening_hours: "Mo-Sa 09:00-21:00, Su 09:00-19:00"
-website: "https://www.bjs.com/cl/chicopee/0020"
+street: Memorial Drive
+housenumber: "650"
+phone: +1 413-593-6474
+opening_hours: Mo-Sa 09:00-21:00, Su 09:00-19:00
+website: https://www.bjs.com/cl/chicopee/0020

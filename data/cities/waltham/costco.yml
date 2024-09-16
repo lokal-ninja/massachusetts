@@ -1,11 +1,11 @@
 id: 295601826
-type: way
+type: node
 latitude: 42.39395
 longitude: -71.26613
 postcode: "02451"
 city: Waltham
-street: "Second Avenue"
-housenumber: 71
-phone: "+1 781-622-3883"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/waltham-ma-308.html"
+street: Second Avenue
+housenumber: "71"
+phone: +1 781-622-3883
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/waltham-ma-308.html

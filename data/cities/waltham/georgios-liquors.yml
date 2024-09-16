@@ -4,8 +4,8 @@ latitude: 42.39809
 longitude: -71.26239
 postcode: "02451"
 city: Waltham
-street: "Winter Street"
-housenumber: 475
-phone: "+1-781-373-2066"
-opening_hours: "Mo-We 09:30-21:00; Th-Sa 09:30-22:00; Su 10:00-20:00"
-website: "https://waltham.georgiosliquors.com/"
+street: Winter Street
+housenumber: "475"
+phone: +1-781-373-2066
+opening_hours: Mo-We 09:30-21:00; Th-Sa 09:30-22:00; Su 10:00-20:00
+website: https://waltham.georgiosliquors.com/

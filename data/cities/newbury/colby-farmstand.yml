@@ -1,11 +1,11 @@
 id: 214718093
-type: way
+type: node
 latitude: 42.79133
 longitude: -70.89838
 postcode: "01950"
 city: Newbury
-street: "Scotland Road"
-housenumber: 50
+street: Scotland Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.colbyfarms.com/"
+website: https://www.colbyfarms.com/

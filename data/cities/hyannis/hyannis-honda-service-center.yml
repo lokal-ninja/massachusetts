@@ -1,11 +1,11 @@
 id: 211875015
-type: way
+type: node
 latitude: 41.65562
 longitude: -70.32521
 postcode: "02644"
 city: Hyannis
-street: "West Main Street"
-housenumber: 830
+street: West Main Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
-website: "https://hyannishonda.com/"
+website: https://hyannishonda.com/

@@ -4,8 +4,8 @@ latitude: 42.34551
 longitude: -71.08657
 postcode: "02215"
 city: Boston
-street: "Clearway Street"
-housenumber: 6
+street: Clearway Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

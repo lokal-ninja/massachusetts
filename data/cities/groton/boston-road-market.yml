@@ -1,11 +1,11 @@
 id: 183646388
-type: way
+type: node
 latitude: 42.57526
 longitude: -71.51736
 postcode: "01450"
 city: Groton
-street: "Boston Road"
-housenumber: 871
+street: Boston Road
+housenumber: "871"
 phone: ""
 opening_hours: ""
 website: ""

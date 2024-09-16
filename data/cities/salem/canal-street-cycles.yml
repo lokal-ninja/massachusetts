@@ -1,11 +1,11 @@
 id: 989704298
-type: way
+type: node
 latitude: 42.50162
 longitude: -70.89704
 postcode: "01970"
 city: Salem
-street: "Canal Street"
-housenumber: 296
+street: Canal Street
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

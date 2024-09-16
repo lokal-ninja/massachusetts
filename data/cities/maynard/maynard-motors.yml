@@ -1,11 +1,11 @@
 id: 214518458
-type: way
+type: node
 latitude: 42.42441
 longitude: -71.45618
 postcode: "01754"
 city: Maynard
-street: "Great Road"
-housenumber: 145
+street: Great Road
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

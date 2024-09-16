@@ -1,11 +1,11 @@
 id: 217085851
-type: way
+type: node
 latitude: 42.02094
 longitude: -71.00319
 postcode: "02379"
 city: West Bridgewater
-street: "North Main Street"
-housenumber: 8
+street: North Main Street
+housenumber: "8"
 phone: "+15085830822"
 opening_hours: ""
-website: "https://www.trucchis.com/"
+website: https://www.trucchis.com/

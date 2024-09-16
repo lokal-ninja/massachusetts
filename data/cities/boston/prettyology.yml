@@ -4,8 +4,8 @@ latitude: 42.35218
 longitude: -71.07217
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 18
-phone: "+1-617-262-1607"
+street: Newbury Street
+housenumber: "18"
+phone: +1-617-262-1607
 opening_hours: ""
-website: "https://prettyology.com/"
+website: https://prettyology.com/

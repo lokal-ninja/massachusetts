@@ -1,11 +1,11 @@
 id: 149975440
-type: way
+type: node
 latitude: 42.32835
 longitude: -72.62804
 postcode: "01060"
 city: Northampton
-street: "North Street"
-housenumber: 173
-phone: "+1 (413) 584-3585"
+street: North Street
+housenumber: "173"
+phone: +1 (413) 584-3585
 opening_hours: ""
-website: "https://www.czelusniakfuneralhome.com"
+website: https://www.czelusniakfuneralhome.com

@@ -1,11 +1,11 @@
 id: 935169169
-type: way
+type: node
 latitude: 42.50626
 longitude: -71.13276
 postcode: "01801"
 city: Woburn
-street: "Mishawum Road"
-housenumber: 300
-phone: "+1 781-933-0980"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Mishawum Road
+housenumber: "300"
+phone: +1 781-933-0980
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

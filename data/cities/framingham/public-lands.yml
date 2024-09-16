@@ -1,11 +1,11 @@
 id: 1233460142
-type: way
+type: node
 latitude: 42.30322
 longitude: -71.39622
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 1
-phone: "+1- 508-861-1045"
-opening_hours: "10:00-19:00"
-website: "https://stores.publiclands.com/ma/framingham/5602/"
+street: Worcester Road
+housenumber: "1"
+phone: +1- 508-861-1045
+opening_hours: 10:00-19:00
+website: https://stores.publiclands.com/ma/framingham/5602/

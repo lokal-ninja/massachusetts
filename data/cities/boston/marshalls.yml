@@ -4,8 +4,8 @@ latitude: 42.34545
 longitude: -71.10012
 postcode: "02215"
 city: Boston
-street: "Brookline Avenue"
-housenumber: 126
+street: Brookline Avenue
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

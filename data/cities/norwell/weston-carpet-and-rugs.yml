@@ -4,8 +4,8 @@ latitude: 42.15938
 longitude: -70.85694
 postcode: "02061"
 city: Norwell
-street: "Washington Street"
-housenumber: 412
-phone: "+1-781-659-0011"
+street: Washington Street
+housenumber: "412"
+phone: +1-781-659-0011
 opening_hours: ""
-website: "https://westoncarpet.com/"
+website: https://westoncarpet.com/

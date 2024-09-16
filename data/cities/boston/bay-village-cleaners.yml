@@ -4,8 +4,8 @@ latitude: 42.34856
 longitude: -71.06667
 postcode: "02116"
 city: Boston
-street: "Tremont Street"
-housenumber: 350
-phone: "+1-617-423-0890"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:00"
-website: "http://bayvillagecleaners.comcastbiz.net/index2.html"
+street: Tremont Street
+housenumber: "350"
+phone: +1-617-423-0890
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-17:00
+website: http://bayvillagecleaners.comcastbiz.net/index2.html

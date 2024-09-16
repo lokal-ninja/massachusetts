@@ -4,8 +4,8 @@ latitude: 42.51707
 longitude: -71.0634
 postcode: "01880"
 city: Wakefield
-street: "Lowell Street"
-housenumber: 407
-phone: "+1 781 2459700"
+street: Lowell Street
+housenumber: "407"
+phone: +1 781 2459700
 opening_hours: ""
-website: "https://carlmichaelsalon.com/wakefield/"
+website: https://carlmichaelsalon.com/wakefield/

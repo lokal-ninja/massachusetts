@@ -1,11 +1,11 @@
 id: 39887828
-type: way
+type: node
 latitude: 42.44648
 longitude: -71.22539
 postcode: "02420"
 city: Lexington
-street: "Massachusetts Avenue"
-housenumber: 1656
-phone: "+1-781-879-1850"
+street: Massachusetts Avenue
+housenumber: "1656"
+phone: +1-781-879-1850
 opening_hours: ""
-website: "https://atlastravel.com/savvy/"
+website: https://atlastravel.com/savvy/

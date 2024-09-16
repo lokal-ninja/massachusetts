@@ -4,8 +4,8 @@ latitude: 42.35083
 longitude: -71.07692
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 138
-phone: "+1-857-331-4483"
+street: Newbury Street
+housenumber: "138"
+phone: +1-857-331-4483
 opening_hours: ""
-website: "https://bulthaup.com/en/bulthaup-boston/"
+website: https://bulthaup.com/en/bulthaup-boston/

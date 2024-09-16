@@ -4,8 +4,8 @@ latitude: 42.34464
 longitude: -71.10318
 postcode: "02215"
 city: Boston
-street: "Park Drive"
-housenumber: 401
-phone: "+1-617-236-0746"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.rei.com/stores/boston"
+street: Park Drive
+housenumber: "401"
+phone: +1-617-236-0746
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.rei.com/stores/boston

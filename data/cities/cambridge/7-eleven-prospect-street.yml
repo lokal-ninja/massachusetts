@@ -1,11 +1,11 @@
 id: 29788948
-type: way
+type: node
 latitude: 42.3721
 longitude: -71.09943
-postcode: "02139-1217"
+postcode: 02139-1217
 city: Cambridge
-street: "Prospect Street"
-housenumber: 275
-phone: "+1 617-547-4711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ma/cambridge/275-prospect-street-33550"
+street: Prospect Street
+housenumber: "275"
+phone: +1 617-547-4711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ma/cambridge/275-prospect-street-33550

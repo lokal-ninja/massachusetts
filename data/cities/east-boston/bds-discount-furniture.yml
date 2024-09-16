@@ -1,11 +1,11 @@
 id: 29764800
-type: way
+type: node
 latitude: 42.37727
 longitude: -71.04053
 postcode: "02128"
 city: East Boston
-street: "Border Street"
-housenumber: 282
+street: Border Street
+housenumber: "282"
 phone: ""
 opening_hours: ""
 website: ""

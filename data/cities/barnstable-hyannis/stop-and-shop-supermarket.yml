@@ -1,11 +1,11 @@
 id: 211868340
-type: way
+type: node
 latitude: 41.67626
 longitude: -70.3066
 postcode: "02601"
 city: Barnstable,Hyannis
-street: "Attucks Lane"
-housenumber: 425
-phone: "+1 508-771-0709"
+street: Attucks Lane
+housenumber: "425"
+phone: +1 508-771-0709
 opening_hours: ""
 website: ""

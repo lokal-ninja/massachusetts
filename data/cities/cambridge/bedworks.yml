@@ -4,8 +4,8 @@ latitude: 42.36538
 longitude: -71.10501
 postcode: "02139"
 city: Cambridge
-street: "Western Avenue"
-housenumber: 15
-phone: "+1 617 547 6000"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "http://bedworks.net"
+street: Western Avenue
+housenumber: "15"
+phone: +1 617 547 6000
+opening_hours: Tu-Sa 11:00-18:00
+website: http://bedworks.net

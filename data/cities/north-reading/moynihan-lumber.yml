@@ -1,11 +1,11 @@
 id: 214891423
-type: way
+type: node
 latitude: 42.56964
 longitude: -71.09327
 postcode: "01864"
 city: North Reading
-street: "Chestnut Street"
-housenumber: 164
+street: Chestnut Street
+housenumber: "164"
 phone: ""
 opening_hours: ""
-website: "https://moynihanlumber.com/"
+website: https://moynihanlumber.com/

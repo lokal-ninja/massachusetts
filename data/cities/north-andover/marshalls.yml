@@ -1,11 +1,11 @@
 id: 1313125394
-type: way
+type: node
 latitude: 42.57022
 longitude: -71.11196
 postcode: "01864"
 city: North Andover
-street: "Main Street"
-housenumber: 80
-phone: "+1 978 276 1870"
-opening_hours: "Mo-Fr 09:30-21:30; Sa 08:30-21:30; Su 10:00-20:00"
-website: "http://www.marshallsonline.com/"
+street: Main Street
+housenumber: "80"
+phone: +1 978 276 1870
+opening_hours: Mo-Fr 09:30-21:30; Sa 08:30-21:30; Su 10:00-20:00
+website: http://www.marshallsonline.com/

@@ -1,11 +1,11 @@
 id: 214370074
-type: way
+type: node
 latitude: 42.59751
 longitude: -71.7413
 postcode: "01462"
 city: Lunenburg
-street: "Massachusetts Avenue"
-housenumber: 635
-phone: "+1 978-582-7300"
+street: Massachusetts Avenue
+housenumber: "635"
+phone: +1 978-582-7300
 opening_hours: ""
 website: ""

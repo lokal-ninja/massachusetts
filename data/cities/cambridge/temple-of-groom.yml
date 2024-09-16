@@ -4,8 +4,8 @@ latitude: 42.36821
 longitude: -71.1087
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 908
-phone: "+1 617 945 1621"
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00"
-website: "https://templeofgroom.net/"
+street: Massachusetts Avenue
+housenumber: "908"
+phone: +1 617 945 1621
+opening_hours: Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00
+website: https://templeofgroom.net/

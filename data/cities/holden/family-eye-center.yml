@@ -4,8 +4,8 @@ latitude: 42.34068
 longitude: -71.83903
 postcode: "01520"
 city: Holden
-street: "Main Street"
-housenumber: 694
-phone: "+1 508 829 7192"
+street: Main Street
+housenumber: "694"
+phone: +1 508 829 7192
 opening_hours: ""
-website: "https://familyeyeholden.com/"
+website: https://familyeyeholden.com/

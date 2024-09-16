@@ -4,8 +4,8 @@ latitude: 42.34677
 longitude: -71.07379
 postcode: "02116"
 city: Boston
-street: "Columbus Avenue"
-housenumber: 288
-phone: "+1-617-425-1928"
+street: Columbus Avenue
+housenumber: "288"
+phone: +1-617-425-1928
 opening_hours: ""
-website: "https://www.barbershopdeluxe.com/"
+website: https://www.barbershopdeluxe.com/

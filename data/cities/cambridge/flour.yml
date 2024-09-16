@@ -4,8 +4,8 @@ latitude: 42.3578
 longitude: -71.1042
 postcode: "02139"
 city: Cambridge
-street: "Erie Street"
-housenumber: 40
-phone: "+1 617 945 0322"
-opening_hours: "Sa,Su 08:00-18:00; Mo-Fr 07:00-19:00"
-website: "https://flourbakery.com/locations/cambridgeport/"
+street: Erie Street
+housenumber: "40"
+phone: +1 617 945 0322
+opening_hours: Sa,Su 08:00-18:00; Mo-Fr 07:00-19:00
+website: https://flourbakery.com/locations/cambridgeport/

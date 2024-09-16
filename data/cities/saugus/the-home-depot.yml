@@ -1,11 +1,11 @@
 id: 29899109
-type: way
+type: node
 latitude: 42.47594
 longitude: -71.02056
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 564
-phone: "+1 781-231-9500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/saugus/ma/saugus/01906/2653"
+street: Broadway
+housenumber: "564"
+phone: +1 781-231-9500
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/saugus/ma/saugus/01906/2653

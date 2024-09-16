@@ -4,8 +4,8 @@ latitude: 42.36658
 longitude: -71.23808
 postcode: "02453"
 city: Waltham
-street: "Moody Street"
-housenumber: 565
+street: Moody Street
+housenumber: "565"
 phone: "+17813731801"
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

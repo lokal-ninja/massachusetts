@@ -1,11 +1,11 @@
 id: 325041973
-type: way
+type: node
 latitude: 42.80992
 longitude: -70.86653
 postcode: "01922"
 city: Newburyport
-street: "Water Street"
-housenumber: 50
-phone: "+1 978-499-8889"
+street: Water Street
+housenumber: "50"
+phone: +1 978-499-8889
 opening_hours: ""
-website: "https://www.chococoabaking.com/"
+website: https://www.chococoabaking.com/

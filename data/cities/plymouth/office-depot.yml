@@ -1,11 +1,11 @@
 id: 83368246
-type: way
+type: node
 latitude: 41.9513
 longitude: -70.71707
 postcode: "02360"
 city: Plymouth
-street: "Colony Place"
-housenumber: 234
+street: Colony Place
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 29642031
-type: way
+type: node
 latitude: 42.4034
 longitude: -71.09882
 postcode: "02155"
 city: Medford
-street: "Mystic Avenue"
-housenumber: 340
-phone: "+1 866 7740879"
+street: Mystic Avenue
+housenumber: "340"
+phone: +1 866 7740879
 opening_hours: ""
-website: "http://vwmedford.com/"
+website: http://vwmedford.com/

@@ -1,11 +1,11 @@
 id: 217242961
-type: way
+type: node
 latitude: 42.37802
 longitude: -72.52076
 postcode: "01002"
 city: Amherst
-street: "Cowles Lane"
-housenumber: 15
-phone: "+1 413 256 5440"
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su closed"
-website: "http://www.leftclick.us/"
+street: Cowles Lane
+housenumber: "15"
+phone: +1 413 256 5440
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su closed
+website: http://www.leftclick.us/

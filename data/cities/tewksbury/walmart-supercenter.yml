@@ -1,11 +1,11 @@
 id: 138669532
-type: way
+type: node
 latitude: 42.62315
 longitude: -71.27057
 postcode: "01876"
 city: Tewksbury
-street: "Main Street"
-housenumber: 333
-phone: "+1 978-851-6265"
-opening_hours: "Mo-Th 06:00-22:00;Fr-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2222/tewksbury-ma/whats-new"
+street: Main Street
+housenumber: "333"
+phone: +1 978-851-6265
+opening_hours: Mo-Th 06:00-22:00;Fr-Su 06:00-24:00
+website: https://www.walmart.com/store/2222/tewksbury-ma/whats-new

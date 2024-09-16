@@ -1,11 +1,11 @@
 id: 128949495
-type: way
+type: node
 latitude: 42.48602
 longitude: -71.21122
 postcode: "01803"
 city: Burlington
-street: "Burlington Mall Road"
-housenumber: 66
+street: Burlington Mall Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

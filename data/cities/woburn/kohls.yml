@@ -1,11 +1,11 @@
 id: 29808960
-type: way
+type: node
 latitude: 42.5036
 longitude: -71.12487
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 425
-phone: "+1 781-376-1222"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ma/woburn-540.shtml"
+street: Washington Street
+housenumber: "425"
+phone: +1 781-376-1222
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ma/woburn-540.shtml

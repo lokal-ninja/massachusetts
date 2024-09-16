@@ -4,8 +4,8 @@ latitude: 42.3523
 longitude: -71.07113
 postcode: "02116"
 city: Boston
-street: "Arlington Street"
-housenumber: 19
-phone: "+1-617-224-1245"
+street: Arlington Street
+housenumber: "19"
+phone: +1-617-224-1245
 opening_hours: ""
-website: "https://www.thosmoser.com/showroom/boston-ma/"
+website: https://www.thosmoser.com/showroom/boston-ma/

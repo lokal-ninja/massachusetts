@@ -4,8 +4,8 @@ latitude: 42.35113
 longitude: -71.0706
 postcode: "02116"
 city: Boston
-street: "Saint James Avenue"
-housenumber: 31
-phone: "+1-617-778-0887"
+street: Saint James Avenue
+housenumber: "31"
+phone: +1-617-778-0887
 opening_hours: ""
-website: "https://www.circlefurniture.com/about-circle-furniture/store-location.cfm?lid=Boston-2"
+website: https://www.circlefurniture.com/about-circle-furniture/store-location.cfm?lid=Boston-2

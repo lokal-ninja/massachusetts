@@ -1,11 +1,11 @@
 id: 214155117
-type: way
+type: node
 latitude: 42.46583
 longitude: -71.17683
 postcode: "01801"
 city: Woburn
-street: "Cambridge Road"
-housenumber: 201
-phone: "+1-781-897-0507"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 08:30-17:00"
-website: "https://www.colonialcadillacwoburn.com/"
+street: Cambridge Road
+housenumber: "201"
+phone: +1-781-897-0507
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 08:30-17:00
+website: https://www.colonialcadillacwoburn.com/

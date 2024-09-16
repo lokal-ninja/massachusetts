@@ -1,11 +1,11 @@
 id: 214310249
-type: way
+type: node
 latitude: 42.62884
 longitude: -71.27526
 postcode: "01876"
 city: Lowell
-street: "Rogers Street"
-housenumber: 831
+street: Rogers Street
+housenumber: "831"
 phone: ""
 opening_hours: ""
 website: ""

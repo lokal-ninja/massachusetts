@@ -1,11 +1,11 @@
 id: 216011896
-type: way
+type: node
 latitude: 42.30541
 longitude: -71.53081
 postcode: "01772"
 city: Southborough
-street: "Main Street"
-housenumber: 40
-phone: "+1-508-485-4111"
+street: Main Street
+housenumber: "40"
+phone: +1-508-485-4111
 opening_hours: ""
 website: ""

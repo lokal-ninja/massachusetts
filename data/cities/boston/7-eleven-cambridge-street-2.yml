@@ -1,11 +1,11 @@
 id: 29820662
-type: way
+type: node
 latitude: 42.35334
 longitude: -71.13853
 postcode: "02134"
 city: Boston
-street: "Cambridge Street"
-housenumber: 509
-phone: "+1 617-254-1361"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ma/allston/509-cambridge-st-37367"
+street: Cambridge Street
+housenumber: "509"
+phone: +1 617-254-1361
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ma/allston/509-cambridge-st-37367

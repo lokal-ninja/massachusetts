@@ -1,11 +1,11 @@
 id: 181174310
-type: way
+type: node
 latitude: 42.54767
 longitude: -71.47161
 postcode: "01460"
 city: Littleton
-street: "King Street"
-housenumber: 534
-phone: "+1 978 952 2547"
+street: King Street
+housenumber: "534"
+phone: +1 978 952 2547
 opening_hours: ""
-website: "https://yankeeclipperbarbershop.com/littleton/"
+website: https://yankeeclipperbarbershop.com/littleton/

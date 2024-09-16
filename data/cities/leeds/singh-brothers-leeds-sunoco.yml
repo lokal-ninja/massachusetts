@@ -1,11 +1,11 @@
 id: 155253857
-type: way
+type: node
 latitude: 42.34943
 longitude: -72.69026
 postcode: "01053"
 city: Leeds
-street: "North Main Street"
-housenumber: 430
-phone: "+1 (413) 584-9663"
+street: North Main Street
+housenumber: "430"
+phone: +1 (413) 584-9663
 opening_hours: ""
 website: ""

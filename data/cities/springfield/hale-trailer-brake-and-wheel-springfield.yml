@@ -1,11 +1,11 @@
 id: 216122893
-type: way
+type: node
 latitude: 42.15451
 longitude: -72.54593
 postcode: "01104"
 city: Springfield
-street: "Cadwell Drive"
-housenumber: 222
+street: Cadwell Drive
+housenumber: "222"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/springfield-ma/"
+website: https://haletrailer.com/locations/springfield-ma/

@@ -1,11 +1,11 @@
 id: 29788901
-type: way
+type: node
 latitude: 42.35309
 longitude: -71.13546
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 222
+street: Brighton Avenue
+housenumber: "222"
 phone: "+16177826515"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://store.vioc.com/ma/allston/oil-change-ab1110.html"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://store.vioc.com/ma/allston/oil-change-ab1110.html

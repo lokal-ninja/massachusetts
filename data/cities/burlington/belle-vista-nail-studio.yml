@@ -4,8 +4,8 @@ latitude: 42.48782
 longitude: -71.22445
 postcode: "01803"
 city: Burlington
-street: "Third Avenue"
-housenumber: 22
-phone: "+1-781-365-1861"
-opening_hours: "Mo-Fr 09:30-19:00; Sa-Su 09:00-18:00"
-website: "https://bellevistastudio.com/burlington/"
+street: Third Avenue
+housenumber: "22"
+phone: +1-781-365-1861
+opening_hours: Mo-Fr 09:30-19:00; Sa-Su 09:00-18:00
+website: https://bellevistastudio.com/burlington/

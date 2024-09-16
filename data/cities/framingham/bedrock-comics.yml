@@ -4,8 +4,8 @@ latitude: 42.29838
 longitude: -71.41023
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 371
+street: Worcester Road
+housenumber: "371"
 phone: "+15088722317"
-opening_hours: "We-Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "http://www.bedrock-comics.com/"
+opening_hours: We-Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-17:00
+website: http://www.bedrock-comics.com/

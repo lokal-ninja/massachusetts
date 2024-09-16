@@ -1,11 +1,11 @@
 id: 214253095
-type: way
+type: node
 latitude: 41.65671
 longitude: -70.2056
 postcode: "02664"
 city: South Yarmouth
-street: "Main Street"
-housenumber: 984
+street: Main Street
+housenumber: "984"
 phone: ""
 opening_hours: ""
-website: "http://www.capecodsaltwatertaffy.com"
+website: http://www.capecodsaltwatertaffy.com

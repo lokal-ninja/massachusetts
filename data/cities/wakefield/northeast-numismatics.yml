@@ -4,8 +4,8 @@ latitude: 42.50434
 longitude: -71.07081
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 358
+street: Main Street
+housenumber: "358"
 phone: ""
 opening_hours: ""
-website: "https://www.northeastcoin.com/"
+website: https://www.northeastcoin.com/

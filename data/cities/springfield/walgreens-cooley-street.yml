@@ -1,11 +1,11 @@
 id: 216088429
-type: way
+type: node
 latitude: 42.09288
 longitude: -72.4985
 postcode: "01128"
 city: Springfield
-street: "Cooley Street"
-housenumber: 381
+street: Cooley Street
+housenumber: "381"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-381+cooley+st-springfield-ma-01128/id=17787"
+website: https://www.walgreens.com/locator/walgreens-381+cooley+st-springfield-ma-01128/id=17787

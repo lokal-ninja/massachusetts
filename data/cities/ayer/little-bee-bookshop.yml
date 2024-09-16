@@ -4,8 +4,8 @@ latitude: 42.55952
 longitude: -71.58844
 postcode: "01432"
 city: Ayer
-street: "Main Street"
-housenumber: 40
+street: Main Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.littlebeebookshop.com/"
+website: https://www.littlebeebookshop.com/

@@ -1,11 +1,11 @@
 id: 723526295
-type: way
+type: node
 latitude: 42.28389
 longitude: -71.12867
 postcode: "02131"
 city: Boston
-street: "Poplar Street"
+street: Poplar Street
 housenumber: 117;127
-phone: "+1 617-858-8018"
+phone: +1 617-858-8018
 opening_hours: ""
-website: "http://www.flowerdeliverybostonma.com/"
+website: http://www.flowerdeliverybostonma.com/

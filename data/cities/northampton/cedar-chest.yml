@@ -4,8 +4,8 @@ latitude: 42.31844
 longitude: -72.63091
 postcode: "01060"
 city: Northampton
-street: "Main Street"
-housenumber: 150
-phone: "+1 (413) 584-3860 ext. 118"
-opening_hours: "Su 12:00-17:00; Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00"
-website: "https://www.explorecedarchest.com"
+street: Main Street
+housenumber: "150"
+phone: +1 (413) 584-3860 ext. 118
+opening_hours: Su 12:00-17:00; Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00
+website: https://www.explorecedarchest.com

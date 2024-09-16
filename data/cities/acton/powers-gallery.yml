@@ -1,11 +1,11 @@
 id: 196429195
-type: way
+type: node
 latitude: 42.48285
 longitude: -71.41607
 postcode: "01720"
 city: Acton
-street: "Great Road"
-housenumber: 144
+street: Great Road
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.3662
 longitude: -72.53644
 postcode: "01035"
 city: Hadley
-street: "Russell Street"
-housenumber: 458
+street: Russell Street
+housenumber: "458"
 phone: ""
-opening_hours: "08:30-23:00"
+opening_hours: 08:30-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.75755
 longitude: -71.13979
 postcode: "02726"
 city: Somerset
-street: "County Street"
-housenumber: 1821
-phone: "+1 508-765-3750"
-opening_hours: "Sa 09:00-15:30"
-website: "https://www.carconnectionsma.com/"
+street: County Street
+housenumber: "1821"
+phone: +1 508-765-3750
+opening_hours: Sa 09:00-15:30
+website: https://www.carconnectionsma.com/

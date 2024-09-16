@@ -4,8 +4,8 @@ latitude: 42.34686
 longitude: -71.07064
 postcode: "02116"
 city: Boston
-street: "Berkeley Street"
-housenumber: 73
-phone: "+1-857-263-7921"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
-website: "http://www.dtailspetboutique.com/"
+street: Berkeley Street
+housenumber: "73"
+phone: +1-857-263-7921
+opening_hours: Mo-Fr 07:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
+website: http://www.dtailspetboutique.com/

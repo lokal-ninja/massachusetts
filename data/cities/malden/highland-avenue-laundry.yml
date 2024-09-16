@@ -4,8 +4,8 @@ latitude: 42.42287
 longitude: -71.08018
 postcode: ""
 city: Malden
-street: "Highland Avenue"
-housenumber: 283
-phone: "+1 781 2498348"
+street: Highland Avenue
+housenumber: "283"
+phone: +1 781 2498348
 opening_hours: ""
-website: "http://maldenlaundry.com/"
+website: http://maldenlaundry.com/

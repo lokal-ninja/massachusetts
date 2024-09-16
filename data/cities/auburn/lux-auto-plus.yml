@@ -4,8 +4,8 @@ latitude: 42.18558
 longitude: -71.83907
 postcode: "01501"
 city: Auburn
-street: "Washington Street"
-housenumber: 525
+street: Washington Street
+housenumber: "525"
 phone: "+15082760800"
-opening_hours: "Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://www.luxautoplus.com/"
+opening_hours: Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su 11:00-16:00
+website: https://www.luxautoplus.com/

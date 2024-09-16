@@ -4,8 +4,8 @@ latitude: 42.19456
 longitude: -73.36246
 postcode: "01230"
 city: Great Barrington
-street: "Main Street"
-housenumber: 294
+street: Main Street
+housenumber: "294"
 phone: ""
 opening_hours: ""
-website: "https://janeiredale.com/"
+website: https://janeiredale.com/

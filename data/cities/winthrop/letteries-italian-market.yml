@@ -1,11 +1,11 @@
 id: 29772208
-type: way
+type: node
 latitude: 42.37414
 longitude: -70.98655
 postcode: "02152"
 city: Winthrop
-street: "Woodside Avenue"
-housenumber: 67
+street: Woodside Avenue
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.yelp.com/biz/letteries-italian-market-winthrop"
+website: https://www.yelp.com/biz/letteries-italian-market-winthrop

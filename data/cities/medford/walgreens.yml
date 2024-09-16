@@ -4,8 +4,8 @@ latitude: 42.42153
 longitude: -71.13371
 postcode: "02155"
 city: Medford
-street: "High Street"
-housenumber: 491
-phone: "+1-781-646-9622"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.walgreens.com/locator/walgreens-491+high+st-west+medford-ma-02155/id=19460"
+street: High Street
+housenumber: "491"
+phone: +1-781-646-9622
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.walgreens.com/locator/walgreens-491+high+st-west+medford-ma-02155/id=19460

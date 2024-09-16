@@ -4,8 +4,8 @@ latitude: 42.37271
 longitude: -71.12022
 postcode: "02138"
 city: Cambridge
-street: "John F. Kennedy Street"
-housenumber: 39
-phone: "+1 617-300-0770"
-opening_hours: "Mo-Sa 10:00-18:00, Su 11:00-17:00"
+street: John F. Kennedy Street
+housenumber: "39"
+phone: +1 617-300-0770
+opening_hours: Mo-Sa 10:00-18:00, Su 11:00-17:00
 website: ""

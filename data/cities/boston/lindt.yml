@@ -4,8 +4,8 @@ latitude: 42.34931
 longitude: -71.07957
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 704
-phone: "+1-617-236-0571"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.lindtusa.com/"
+street: Boylston Street
+housenumber: "704"
+phone: +1-617-236-0571
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.lindtusa.com/

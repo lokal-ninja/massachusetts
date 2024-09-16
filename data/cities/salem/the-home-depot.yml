@@ -1,11 +1,11 @@
 id: 215910131
-type: way
+type: node
 latitude: 42.50003
 longitude: -70.92308
 postcode: "01970"
 city: Salem
-street: "Trader's Way"
-housenumber: 50
-phone: "+1 978-741-9299"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Salem-MA/MA/Salem/01970/2686"
+street: Trader's Way
+housenumber: "50"
+phone: +1 978-741-9299
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Salem-MA/MA/Salem/01970/2686

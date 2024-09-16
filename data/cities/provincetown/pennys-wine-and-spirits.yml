@@ -1,11 +1,11 @@
 id: 215753776
-type: way
+type: node
 latitude: 42.05129
 longitude: -70.1957
 postcode: "02657"
 city: Provincetown
-street: "Shank Painter Road"
-housenumber: 68
+street: Shank Painter Road
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

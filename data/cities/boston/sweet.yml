@@ -4,8 +4,8 @@ latitude: 42.34977
 longitude: -71.08922
 postcode: "02115"
 city: Boston
-street: "Massachusetts Avenue"
-housenumber: 49
-phone: "+1-617-247-2253"
+street: Massachusetts Avenue
+housenumber: "49"
+phone: +1-617-247-2253
 opening_hours: ""
-website: "https://sweetcupcakes.com/"
+website: https://sweetcupcakes.com/

@@ -1,11 +1,11 @@
 id: 29916071
-type: way
+type: node
 latitude: 42.37036
 longitude: -71.15889
 postcode: "02472"
 city: Watertown
-street: "Mount Auburn Street"
-housenumber: 585
-phone: "+1 617 924 3399"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-15:00"
-website: "https://www.facebook.com/Arax-Market-171491359532004"
+street: Mount Auburn Street
+housenumber: "585"
+phone: +1 617 924 3399
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-15:00
+website: https://www.facebook.com/Arax-Market-171491359532004

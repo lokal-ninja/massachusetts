@@ -4,8 +4,8 @@ latitude: 42.35161
 longitude: -71.07305
 postcode: "02116"
 city: Boston
-street: "Berkeley Street"
-housenumber: 229
-phone: "+1-617-247-0012"
+street: Berkeley Street
+housenumber: "229"
+phone: +1-617-247-0012
 opening_hours: ""
-website: "https://www.studiooptics.net/boston-location"
+website: https://www.studiooptics.net/boston-location

@@ -1,11 +1,11 @@
 id: 453620567
-type: way
+type: node
 latitude: 42.81083
 longitude: -70.8701
 postcode: ""
 city: Newburyport
-street: "State Street"
-housenumber: 12
-phone: "+1 978-463-0002"
+street: State Street
+housenumber: "12"
+phone: +1 978-463-0002
 opening_hours: ""
 website: ""

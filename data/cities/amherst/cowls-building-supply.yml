@@ -1,11 +1,11 @@
 id: 217245415
-type: way
+type: node
 latitude: 42.41469
 longitude: -72.53104
 postcode: "01002"
 city: Amherst
-street: "Sunderland Road"
-housenumber: 125
+street: Sunderland Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

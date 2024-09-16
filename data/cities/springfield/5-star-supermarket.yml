@@ -4,8 +4,8 @@ latitude: 42.13838
 longitude: -72.51903
 postcode: "01119"
 city: Springfield
-street: "Boston Road"
-housenumber: 780
+street: Boston Road
+housenumber: "780"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

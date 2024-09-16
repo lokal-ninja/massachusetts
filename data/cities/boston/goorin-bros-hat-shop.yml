@@ -4,8 +4,8 @@ latitude: 42.35099
 longitude: -71.07662
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 130
-phone: "+1-617-247-4287"
-opening_hours: "Su 11:00-19:00; Mo-Sa 10:00-20:00"
-website: "https://www.goorin.com/pages/goorin-retail-store-boston-newbury"
+street: Newbury Street
+housenumber: "130"
+phone: +1-617-247-4287
+opening_hours: Su 11:00-19:00; Mo-Sa 10:00-20:00
+website: https://www.goorin.com/pages/goorin-retail-store-boston-newbury

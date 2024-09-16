@@ -4,8 +4,8 @@ latitude: 42.39858
 longitude: -71.0714
 postcode: "02149"
 city: Everett
-street: "Mystic View Road"
-housenumber: 1
-phone: "+1-617-420-0000"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 12:00-16:00; Su 09:00-18:00"
-website: "https://www.target.com/sl/everett/1229"
+street: Mystic View Road
+housenumber: "1"
+phone: +1-617-420-0000
+opening_hours: Mo-Fr 10:00-20:00; Sa 12:00-16:00; Su 09:00-18:00
+website: https://www.target.com/sl/everett/1229

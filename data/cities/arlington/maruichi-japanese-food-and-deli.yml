@@ -4,8 +4,8 @@ latitude: 42.4245
 longitude: -71.18525
 postcode: "02476"
 city: Arlington
-street: "Massachusetts Avenue"
-housenumber: 1398
-phone: "+1 781 777 2147"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://maruichi-arlington.edan.io/"
+street: Massachusetts Avenue
+housenumber: "1398"
+phone: +1 781 777 2147
+opening_hours: Mo-Su 10:00-19:00
+website: https://maruichi-arlington.edan.io/

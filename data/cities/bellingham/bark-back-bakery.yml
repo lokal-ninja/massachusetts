@@ -4,8 +4,8 @@ latitude: 42.08912
 longitude: -71.47427
 postcode: "02019"
 city: Bellingham
-street: "North Main Street"
-housenumber: 15
-phone: "+1 (508) 657 1487"
-opening_hours: "We-Fr 09:00-18:00;Sa 09:00-16:00"
+street: North Main Street
+housenumber: "15"
+phone: +1 (508) 657 1487
+opening_hours: We-Fr 09:00-18:00;Sa 09:00-16:00
 website: ""

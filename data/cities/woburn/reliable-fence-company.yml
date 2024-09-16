@@ -1,11 +1,11 @@
 id: 29644813
-type: way
+type: node
 latitude: 42.49091
 longitude: -71.12935
 postcode: "01801"
 city: Woburn
-street: "Salem Street"
-housenumber: 283
+street: Salem Street
+housenumber: "283"
 phone: ""
 opening_hours: ""
-website: "https://www.reliablefenceboston.com/"
+website: https://www.reliablefenceboston.com/

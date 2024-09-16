@@ -1,11 +1,11 @@
 id: 29583888
-type: way
+type: node
 latitude: 42.32659
 longitude: -71.14647
 postcode: "02467"
 city: Chestnut Hill
-street: "Boylston Street"
-housenumber: 801
+street: Boylston Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.appletonlighting.com/"
+website: https://www.appletonlighting.com/

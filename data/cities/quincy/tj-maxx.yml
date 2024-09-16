@@ -4,8 +4,8 @@ latitude: 42.24699
 longitude: -71.00468
 postcode: "02169"
 city: Quincy
-street: "Granite Street"
-housenumber: 100
+street: Granite Street
+housenumber: "100"
 phone: "+16173281763"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://tjmaxx.tjx.com/store/index.jsp

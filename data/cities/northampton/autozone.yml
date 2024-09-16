@@ -1,11 +1,11 @@
 id: 113728009
-type: way
+type: node
 latitude: 42.33013
 longitude: -72.63426
 postcode: "01060"
 city: Northampton
-street: "King Street"
-housenumber: 242
-phone: "+1 (413) 582-0001"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/ma/northampton/242-king-st.html"
+street: King Street
+housenumber: "242"
+phone: +1 (413) 582-0001
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/ma/northampton/242-king-st.html

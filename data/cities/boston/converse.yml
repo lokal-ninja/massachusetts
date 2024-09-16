@@ -4,8 +4,8 @@ latitude: 42.36759
 longitude: -71.05931
 postcode: "02114"
 city: Boston
-street: "Lovejoy Wharf"
-housenumber: 1
-phone: "+1-617-248-9530"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.converse.com/stores/store?StoreID=converse-lovejoy-wharf"
+street: Lovejoy Wharf
+housenumber: "1"
+phone: +1-617-248-9530
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.converse.com/stores/store?StoreID=converse-lovejoy-wharf

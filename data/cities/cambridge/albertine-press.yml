@@ -4,8 +4,8 @@ latitude: 42.37368
 longitude: -71.09949
 postcode: ""
 city: Cambridge
-street: "Cambridge Street"
-housenumber: 1309
-phone: "+1 617 945 5519"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-16:00"
-website: "https://albertinepress.com/contact"
+street: Cambridge Street
+housenumber: "1309"
+phone: +1 617 945 5519
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-16:00
+website: https://albertinepress.com/contact

@@ -1,11 +1,11 @@
 id: 325037960
-type: way
+type: node
 latitude: 42.81085
 longitude: -70.86545
 postcode: "01922"
 city: Newburyport
-street: "Water Street"
-housenumber: 75
-phone: "+1 978-225-7942"
+street: Water Street
+housenumber: "75"
+phone: +1 978-225-7942
 opening_hours: ""
-website: "https://www.ediblearrangements.com/default.aspx"
+website: https://www.ediblearrangements.com/default.aspx

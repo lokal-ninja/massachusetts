@@ -4,8 +4,8 @@ latitude: 42.04671
 longitude: -70.19078
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 155
+street: Commercial Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://www.westendsalon.com/"
+website: https://www.westendsalon.com/

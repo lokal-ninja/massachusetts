@@ -4,8 +4,8 @@ latitude: 42.42373
 longitude: -71.17446
 postcode: "02476"
 city: Arlington
-street: "Forest Street"
-housenumber: 5
+street: Forest Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

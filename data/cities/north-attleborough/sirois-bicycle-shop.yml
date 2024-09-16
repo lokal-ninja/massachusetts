@@ -1,11 +1,11 @@
 id: 214852866
-type: way
+type: node
 latitude: 41.98304
 longitude: -71.32601
 postcode: "02760"
 city: North Attleborough
-street: "Landry Avenue"
-housenumber: 893
-phone: "+1 508-695-6303"
+street: Landry Avenue
+housenumber: "893"
+phone: +1 508-695-6303
 opening_hours: ""
-website: "https://www.siroisbicycle.com/"
+website: https://www.siroisbicycle.com/

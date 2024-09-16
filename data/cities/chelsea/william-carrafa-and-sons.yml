@@ -1,11 +1,11 @@
 id: 29563483
-type: way
+type: node
 latitude: 42.40551
 longitude: -71.03476
 postcode: "02150"
 city: Chelsea
-street: "Washington Avenue"
-housenumber: 389
+street: Washington Avenue
+housenumber: "389"
 phone: ""
 opening_hours: ""
 website: ""

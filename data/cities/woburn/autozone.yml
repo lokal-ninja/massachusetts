@@ -1,11 +1,11 @@
 id: 214144403
-type: way
+type: node
 latitude: 42.47141
 longitude: -71.1495
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 165
-phone: "+1 781 9358135"
+street: Main Street
+housenumber: "165"
+phone: +1 781 9358135
 opening_hours: ""
-website: "https://www.autozone.com/locations/ma/woburn/165-main-st.html"
+website: https://www.autozone.com/locations/ma/woburn/165-main-st.html

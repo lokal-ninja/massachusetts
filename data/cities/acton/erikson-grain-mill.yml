@@ -1,11 +1,11 @@
 id: 196428035
-type: way
+type: node
 latitude: 42.45968
 longitude: -71.45319
 postcode: "01720"
 city: Acton
-street: "Main Street"
-housenumber: 113
-phone: "+1-978-263-4733"
-opening_hours: "Mo-We 08:00-17:00; Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-15:00"
+street: Main Street
+housenumber: "113"
+phone: +1-978-263-4733
+opening_hours: Mo-We 08:00-17:00; Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-15:00
 website: ""

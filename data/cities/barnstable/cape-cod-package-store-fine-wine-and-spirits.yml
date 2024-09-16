@@ -1,11 +1,11 @@
 id: 211878785
-type: way
+type: node
 latitude: 41.65708
 longitude: -70.34148
 postcode: "02632"
 city: Barnstable
-street: "Falmouth Road"
-housenumber: 1495
+street: Falmouth Road
+housenumber: "1495"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.498
 longitude: -71.11971
 postcode: "02180"
 city: Stoneham
-street: "Cedar Street"
-housenumber: 85
-phone: "+1 781 279 1499"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.bjs.com/"
+street: Cedar Street
+housenumber: "85"
+phone: +1 781 279 1499
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.bjs.com/

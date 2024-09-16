@@ -1,11 +1,11 @@
 id: 569475187
-type: way
+type: node
 latitude: 42.60359
 longitude: -72.74182
 postcode: "01370"
 city: Shelburne Falls
-street: "State Street"
-housenumber: 3
+street: State Street
+housenumber: "3"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

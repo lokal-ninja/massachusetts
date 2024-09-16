@@ -1,11 +1,11 @@
 id: 204439980
-type: way
+type: node
 latitude: 42.21472
 longitude: -72.61853
 postcode: "01040"
 city: Holyoke
-street: "Lincoln Street"
-housenumber: 28
+street: Lincoln Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

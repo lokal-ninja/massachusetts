@@ -1,11 +1,11 @@
 id: 46995424
-type: way
+type: node
 latitude: 42.24397
 longitude: -70.93628
-postcode: "02191-2139"
+postcode: 02191-2139
 city: North Weymouth
-street: "Bridge Street"
-housenumber: 729
-phone: "+1 781-335-0456"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ma/north-weymouth/1053"
+street: Bridge Street
+housenumber: "729"
+phone: +1 781-335-0456
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ma/north-weymouth/1053

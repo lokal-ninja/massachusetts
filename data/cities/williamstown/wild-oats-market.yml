@@ -1,11 +1,11 @@
 id: 214108378
-type: way
+type: node
 latitude: 42.70386
 longitude: -73.18661
 postcode: "01267"
 city: Williamstown
-street: "Main Street"
-housenumber: 320
-phone: "+1-413-458-8060"
-opening_hours: "Mo-Sa 07:00-20:00, Su 09:00-20:00"
-website: "https://wildoats.coop/"
+street: Main Street
+housenumber: "320"
+phone: +1-413-458-8060
+opening_hours: Mo-Sa 07:00-20:00, Su 09:00-20:00
+website: https://wildoats.coop/

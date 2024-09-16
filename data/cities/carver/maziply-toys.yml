@@ -1,11 +1,11 @@
 id: 817316189
-type: way
+type: node
 latitude: 41.84651
 longitude: -70.77304
 postcode: "02330"
 city: Carver
-street: "Pine Street"
-housenumber: 5
+street: Pine Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.maziply.com"
+website: https://www.maziply.com

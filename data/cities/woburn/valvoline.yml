@@ -1,11 +1,11 @@
 id: 214142850
-type: way
+type: node
 latitude: 42.47976
 longitude: -71.11973
 postcode: "01801"
 city: Woburn
-street: "Montvale Avenue"
-housenumber: 320
+street: Montvale Avenue
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://store.vioc.com/ma/woburn/oil-change-ab1136.html"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://store.vioc.com/ma/woburn/oil-change-ab1136.html

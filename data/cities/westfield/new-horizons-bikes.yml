@@ -1,11 +1,11 @@
 id: 213989718
-type: way
+type: node
 latitude: 42.1253
 longitude: -72.75152
 postcode: "01085"
 city: Westfield
-street: "Franklin Street"
-housenumber: 55
-phone: "+1-413-562-5237"
-opening_hours: "Tu-Fr 10:00-17:30; Sa 10:00-16:00"
-website: "https://www.newhorizonsbikes.com/"
+street: Franklin Street
+housenumber: "55"
+phone: +1-413-562-5237
+opening_hours: Tu-Fr 10:00-17:30; Sa 10:00-16:00
+website: https://www.newhorizonsbikes.com/

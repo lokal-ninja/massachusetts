@@ -1,11 +1,11 @@
 id: 29715204
-type: way
+type: node
 latitude: 42.47118
 longitude: -71.14657
 postcode: "01801"
 city: Woburn
-street: "Conn Street"
-housenumber: 26
-phone: "+1 781 5030100"
+street: Conn Street
+housenumber: "26"
+phone: +1 781 5030100
 opening_hours: ""
-website: "https://www.hannaforddumas.com/"
+website: https://www.hannaforddumas.com/

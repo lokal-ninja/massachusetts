@@ -1,11 +1,11 @@
 id: 214145784
-type: way
+type: node
 latitude: 42.47787
 longitude: -71.15129
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 302
-phone: "+1 781 8583350"
+street: Main Street
+housenumber: "302"
+phone: +1 781 8583350
 opening_hours: ""
-website: "https://www.studiolsalon.net/"
+website: https://www.studiolsalon.net/

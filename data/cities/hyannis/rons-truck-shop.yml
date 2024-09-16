@@ -1,11 +1,11 @@
 id: 211865542
-type: way
+type: node
 latitude: 41.68059
 longitude: -70.29837
 postcode: "02601"
 city: Hyannis
-street: "Thornton Drive"
-housenumber: 52
-phone: "+1-508-771-5497"
+street: Thornton Drive
+housenumber: "52"
+phone: +1-508-771-5497
 opening_hours: ""
 website: ""

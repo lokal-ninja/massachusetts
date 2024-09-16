@@ -1,11 +1,11 @@
 id: 217239814
-type: way
+type: node
 latitude: 42.37334
 longitude: -72.50202
 postcode: "01002"
 city: Amherst
-street: "College Street"
-housenumber: 338
+street: College Street
+housenumber: "338"
 phone: ""
-opening_hours: "Mo-We 09:00-22:00; Th-Sa 09:00-23:00; Su 10:00-18:00"
+opening_hours: Mo-We 09:00-22:00; Th-Sa 09:00-23:00; Su 10:00-18:00
 website: ""

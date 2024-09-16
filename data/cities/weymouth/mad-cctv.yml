@@ -1,11 +1,11 @@
 id: 191481898
-type: way
+type: node
 latitude: 42.201
 longitude: -70.94806
 postcode: ""
 city: Weymouth
-street: "Winter Street"
-housenumber: 200
+street: Winter Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

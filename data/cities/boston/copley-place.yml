@@ -1,11 +1,11 @@
 id: 29599776
-type: way
+type: node
 latitude: 42.34773
 longitude: -71.07733
 postcode: "02116"
 city: Boston
-street: "Huntington Avenue"
-housenumber: 100
-phone: "+1-617-262-6600"
+street: Huntington Avenue
+housenumber: "100"
+phone: +1-617-262-6600
 opening_hours: ""
-website: "https://www.simon.com/mall/copley-place"
+website: https://www.simon.com/mall/copley-place

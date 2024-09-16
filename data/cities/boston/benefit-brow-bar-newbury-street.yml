@@ -4,8 +4,8 @@ latitude: 42.35054
 longitude: -71.07826
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 156
-phone: "+1-617-830-7110"
+street: Newbury Street
+housenumber: "156"
+phone: +1-617-830-7110
 opening_hours: ""
-website: "https://newbury.benefitboutiques.com/"
+website: https://newbury.benefitboutiques.com/

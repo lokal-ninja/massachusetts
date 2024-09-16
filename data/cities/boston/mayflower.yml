@@ -1,11 +1,11 @@
 id: 29632035
-type: way
+type: node
 latitude: 42.34899
 longitude: -71.12965
 postcode: "02134"
 city: Boston
-street: "Harvard Avenue"
-housenumber: 230
+street: Harvard Avenue
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://mayflowermass.com/"
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-17:00
+website: https://mayflowermass.com/

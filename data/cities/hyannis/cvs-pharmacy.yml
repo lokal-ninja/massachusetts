@@ -1,11 +1,11 @@
 id: 211861551
-type: way
+type: node
 latitude: 41.65261
 longitude: -70.2887
 postcode: "02601"
 city: Hyannis
-street: "North Street"
-housenumber: 176
+street: North Street
+housenumber: "176"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hyannis-ma-pharmacies/176-north-street-hyannis-ma-02601/storeid=2322"
+website: https://www.cvs.com/store-locator/hyannis-ma-pharmacies/176-north-street-hyannis-ma-02601/storeid=2322

@@ -4,8 +4,8 @@ latitude: 42.34035
 longitude: -71.09066
 postcode: "02115"
 city: Boston
-street: "Huntington Avenue"
-housenumber: 369
+street: Huntington Avenue
+housenumber: "369"
 phone: "+16172470011"
-opening_hours: "Mo-Su 07:00-01:00"
+opening_hours: Mo-Su 07:00-01:00
 website: ""

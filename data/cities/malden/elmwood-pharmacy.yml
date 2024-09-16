@@ -1,11 +1,11 @@
 id: 29862392
-type: way
+type: node
 latitude: 42.42731
 longitude: -71.07522
 postcode: ""
 city: Malden
-street: "Pleasant Street"
-housenumber: 299
+street: Pleasant Street
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

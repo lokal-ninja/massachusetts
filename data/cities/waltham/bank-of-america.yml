@@ -1,11 +1,11 @@
 id: 216431712
-type: way
+type: node
 latitude: 42.41153
 longitude: -71.233
 postcode: "02452"
 city: Waltham
-street: "Lexington Street"
-housenumber: 1065
+street: Lexington Street
+housenumber: "1065"
 phone: ""
 opening_hours: ""
-website: "https://locators.bankofamerica.com/ma/waltham/financial-centers-waltham-14214.html"
+website: https://locators.bankofamerica.com/ma/waltham/financial-centers-waltham-14214.html

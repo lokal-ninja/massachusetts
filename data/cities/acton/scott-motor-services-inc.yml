@@ -1,11 +1,11 @@
 id: 154169037
-type: way
+type: node
 latitude: 42.5179
 longitude: -71.40656
 postcode: "01720"
 city: Acton
-street: "Eastern Road"
-housenumber: 4
+street: Eastern Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.42692
 longitude: -71.06856
 postcode: "02148"
 city: Malden
-street: "Pleasant Street"
-housenumber: 51
-phone: "+1-888-302-3588"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.sunrise-postal.com/"
+street: Pleasant Street
+housenumber: "51"
+phone: +1-888-302-3588
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.sunrise-postal.com/

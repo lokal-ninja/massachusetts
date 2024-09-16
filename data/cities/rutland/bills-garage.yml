@@ -1,11 +1,11 @@
 id: 215891534
-type: way
+type: node
 latitude: 42.37017
 longitude: -71.94899
 postcode: "01543"
 city: Rutland
-street: "Maple Avenue"
-housenumber: 74
+street: Maple Avenue
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

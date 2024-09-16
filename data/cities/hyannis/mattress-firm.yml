@@ -1,11 +1,11 @@
 id: 211863951
-type: way
+type: node
 latitude: 41.66686
 longitude: -70.29288
 postcode: "02601"
 city: Hyannis
-street: "Iyannough Road"
-housenumber: 685
-phone: "+1 508-778-2414"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-19:00"
-website: "http://store.sleepys.com/250503-sleepy-s-hyannis"
+street: Iyannough Road
+housenumber: "685"
+phone: +1 508-778-2414
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-19:00
+website: http://store.sleepys.com/250503-sleepy-s-hyannis

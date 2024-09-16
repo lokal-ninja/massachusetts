@@ -1,11 +1,11 @@
 id: 216404018
-type: way
+type: node
 latitude: 42.49587
 longitude: -71.06968
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 669
+street: Main Street
+housenumber: "669"
 phone: ""
 opening_hours: ""
-website: "https://www.northsuburbaneye.com/"
+website: https://www.northsuburbaneye.com/

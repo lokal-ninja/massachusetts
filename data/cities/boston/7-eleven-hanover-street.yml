@@ -4,8 +4,8 @@ latitude: 42.36488
 longitude: -71.05353
 postcode: "02113"
 city: Boston
-street: "Hanover Street"
-housenumber: 342
-phone: "+1 617-248-9718"
-opening_hours: "Mo-Su 07:00-21:30"
-website: "https://www.7-eleven.com/locations/ma/boston/342-hanover-st-34418"
+street: Hanover Street
+housenumber: "342"
+phone: +1 617-248-9718
+opening_hours: Mo-Su 07:00-21:30
+website: https://www.7-eleven.com/locations/ma/boston/342-hanover-st-34418

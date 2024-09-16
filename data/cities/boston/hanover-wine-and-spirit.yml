@@ -4,8 +4,8 @@ latitude: 42.3648
 longitude: -71.05328
 postcode: "02113"
 city: Boston
-street: "Hanover Street"
-housenumber: 363
+street: Hanover Street
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

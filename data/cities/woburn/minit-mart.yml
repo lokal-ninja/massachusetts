@@ -1,11 +1,11 @@
 id: 214144425
-type: way
+type: node
 latitude: 42.47007
 longitude: -71.14911
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 111
+street: Main Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

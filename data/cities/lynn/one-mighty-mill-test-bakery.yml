@@ -4,8 +4,8 @@ latitude: 42.46349
 longitude: -70.94232
 postcode: "01901"
 city: Lynn
-street: "Exchange Street"
-housenumber: 68
-phone: "+US 781 584 8648"
-opening_hours: "Mo-Sa 07:00-14:00; Su 07:00-12:00"
-website: "https://www.onemightymill.com/pages/test-bakery-and-mill"
+street: Exchange Street
+housenumber: "68"
+phone: +US 781 584 8648
+opening_hours: Mo-Sa 07:00-14:00; Su 07:00-12:00
+website: https://www.onemightymill.com/pages/test-bakery-and-mill

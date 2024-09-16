@@ -1,11 +1,11 @@
 id: 215902808
-type: way
+type: node
 latitude: 42.50154
 longitude: -70.89658
 postcode: "01970"
 city: Salem
-street: "Canal Street"
-housenumber: 292
+street: Canal Street
+housenumber: "292"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 07:30-20:00"
-website: "https://www.autozone.com/locations/ma/salem/292-canal-st.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 07:30-20:00
+website: https://www.autozone.com/locations/ma/salem/292-canal-st.html

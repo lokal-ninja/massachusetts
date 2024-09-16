@@ -4,8 +4,8 @@ latitude: 42.19504
 longitude: -73.36202
 postcode: "01230"
 city: Great Barrington
-street: "Main Street"
-housenumber: 274
-phone: "+1 413 528 4848"
+street: Main Street
+housenumber: "274"
+phone: +1 413 528 4848
 opening_hours: ""
-website: "https://www.davidgavinberkshires.com"
+website: https://www.davidgavinberkshires.com

@@ -4,8 +4,8 @@ latitude: 42.35186
 longitude: -71.07494
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 85
-phone: "+1-857-277-0585"
+street: Newbury Street
+housenumber: "85"
+phone: +1-857-277-0585
 opening_hours: ""
-website: "https://www.indochino.com/showroom/boston"
+website: https://www.indochino.com/showroom/boston

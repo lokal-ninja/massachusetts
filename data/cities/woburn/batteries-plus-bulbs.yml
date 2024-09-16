@@ -1,11 +1,11 @@
 id: 214155869
-type: way
+type: node
 latitude: 42.46829
 longitude: -71.17937
 postcode: "01801"
 city: Woburn
-street: "Cambridge Road"
+street: Cambridge Road
 housenumber: 173A
-phone: "+1-781-933-9093"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-17:00"
-website: "https://www.batteriesplus.com/store-locator/ma/woburn/batteries-plus-392"
+phone: +1-781-933-9093
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-17:00
+website: https://www.batteriesplus.com/store-locator/ma/woburn/batteries-plus-392

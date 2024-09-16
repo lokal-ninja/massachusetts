@@ -4,8 +4,8 @@ latitude: 42.35674
 longitude: -71.14252
 postcode: "02135"
 city: Boston
-street: "Guest Street"
-housenumber: 140
+street: Guest Street
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
 website: ""

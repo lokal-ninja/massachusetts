@@ -4,8 +4,8 @@ latitude: 42.32992
 longitude: -71.19204
 postcode: "02459"
 city: Newton
-street: "Union Street"
-housenumber: 49
-phone: "+1 617 969 9699"
-opening_hours: "Mo-Sa 10:00-17:45"
+street: Union Street
+housenumber: "49"
+phone: +1 617 969 9699
+opening_hours: Mo-Sa 10:00-17:45
 website: ""

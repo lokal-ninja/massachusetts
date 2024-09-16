@@ -4,8 +4,8 @@ latitude: 42.33012
 longitude: -71.20637
 postcode: "02461"
 city: Newton
-street: "Walnut Street"
-housenumber: 916
-phone: "+1 617-969-1141"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/newton"
+street: Walnut Street
+housenumber: "916"
+phone: +1 617-969-1141
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/newton

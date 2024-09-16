@@ -1,11 +1,11 @@
 id: 212865020
-type: way
+type: node
 latitude: 42.55145
 longitude: -70.94465
 postcode: "01923"
 city: Danvers
-street: "Commonwealth Avenue"
-housenumber: 96
-phone: "+1 978-646-6400"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ma/danvers/435/"
+street: Commonwealth Avenue
+housenumber: "96"
+phone: +1 978-646-6400
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ma/danvers/435/

@@ -4,8 +4,8 @@ latitude: 42.69932
 longitude: -73.11243
 postcode: "01247"
 city: North Adams
-street: "Main Street"
-housenumber: 59
+street: Main Street
+housenumber: "59"
 phone: "+14136644032"
 opening_hours: ""
-website: "https://berkshireemporium.com/"
+website: https://berkshireemporium.com/

@@ -4,8 +4,8 @@ latitude: 42.04623
 longitude: -70.19131
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 145
+street: Commercial Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://respoke.com/"
+website: https://respoke.com/

@@ -1,11 +1,11 @@
 id: 1292712623
-type: way
+type: node
 latitude: 41.95455
 longitude: -71.34501
 postcode: "02760"
 city: North Attleborough
-street: "South Washington Street"
-housenumber: 849
+street: South Washington Street
+housenumber: "849"
 phone: "+15085768700"
 opening_hours: ""
 website: ""

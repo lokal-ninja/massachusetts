@@ -1,11 +1,11 @@
 id: 163147099
-type: way
+type: node
 latitude: 42.48283
 longitude: -71.18887
 postcode: ""
 city: Burlington
-street: "Cambridge Street"
-housenumber: 33
+street: Cambridge Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 213306933
-type: way
+type: node
 latitude: 42.57353
 longitude: -71.99436
 postcode: "01440"
 city: Gardner
-street: "Main Street"
-housenumber: 130
+street: Main Street
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

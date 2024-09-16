@@ -4,8 +4,8 @@ latitude: 42.3531
 longitude: -71.04769
 postcode: "02210"
 city: Boston
-street: "Seaport Boulevard"
-housenumber: 56
-phone: "+1-888-660-1572"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.llbean.com/llb/shop/516855"
+street: Seaport Boulevard
+housenumber: "56"
+phone: +1-888-660-1572
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.llbean.com/llb/shop/516855

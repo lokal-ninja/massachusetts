@@ -1,11 +1,11 @@
 id: 211959065
-type: way
+type: node
 latitude: 41.62161
 longitude: -70.4354
 postcode: "02635"
 city: Cotuit
-street: "Main Street"
-housenumber: 737
-phone: "+1-508-428-6936"
+street: Main Street
+housenumber: "737"
+phone: +1-508-428-6936
 opening_hours: ""
-website: "http://www.cotuitfreshmarket.com/"
+website: http://www.cotuitfreshmarket.com/

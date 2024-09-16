@@ -4,8 +4,8 @@ latitude: 42.34901
 longitude: -71.15417
 postcode: "02135"
 city: Brighton
-street: "Washington Street"
-housenumber: 380
-phone: "+1-617-782-2523"
-opening_hours: "Mo-Sa 11:00-18:00; Su 11:00-16:00"
-website: "http://www.europetoday.furniture"
+street: Washington Street
+housenumber: "380"
+phone: +1-617-782-2523
+opening_hours: Mo-Sa 11:00-18:00; Su 11:00-16:00
+website: http://www.europetoday.furniture

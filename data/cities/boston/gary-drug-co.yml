@@ -4,8 +4,8 @@ latitude: 42.35772
 longitude: -71.07009
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 59
-phone: "+1-617-227-0023"
-opening_hours: "Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00"
-website: "https://www.garydrug.com/"
+street: Charles Street
+housenumber: "59"
+phone: +1-617-227-0023
+opening_hours: Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00
+website: https://www.garydrug.com/

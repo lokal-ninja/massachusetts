@@ -1,11 +1,11 @@
 id: 29682258
-type: way
+type: node
 latitude: 42.39908
 longitude: -71.13193
 postcode: ""
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2485
+street: Massachusetts Avenue
+housenumber: "2485"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ma/cambridge/oil-change-ab1111.html"
+website: https://store.vioc.com/ma/cambridge/oil-change-ab1111.html

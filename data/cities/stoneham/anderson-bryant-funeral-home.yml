@@ -1,11 +1,11 @@
 id: 29806630
-type: way
+type: node
 latitude: 42.4812
 longitude: -71.09956
 postcode: "02180"
 city: Stoneham
-street: "Common Street"
-housenumber: 4
-phone: "+1 781 4380135"
+street: Common Street
+housenumber: "4"
+phone: +1 781 4380135
 opening_hours: ""
-website: "https://www.andersonbryantfuneralhome.com/"
+website: https://www.andersonbryantfuneralhome.com/

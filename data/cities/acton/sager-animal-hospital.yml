@@ -1,11 +1,11 @@
 id: 196426454
-type: way
+type: node
 latitude: 42.49254
 longitude: -71.41564
 postcode: ""
 city: Acton
-street: "Strawberry Hill Road"
-housenumber: 4
-phone: "+1 978-263-3535"
+street: Strawberry Hill Road
+housenumber: "4"
+phone: +1 978-263-3535
 opening_hours: ""
-website: "https://www.sageranimalhospital.com/"
+website: https://www.sageranimalhospital.com/

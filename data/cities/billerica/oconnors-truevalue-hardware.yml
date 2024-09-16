@@ -2,10 +2,10 @@ id: 1393189737
 type: node
 latitude: 42.55914
 longitude: -71.26619
-postcode: "01821-2714"
+postcode: 01821-2714
 city: Billerica
-street: "Boston Road"
-housenumber: 446
-phone: "+1 978-663-3520"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00"
+street: Boston Road
+housenumber: "446"
+phone: +1 978-663-3520
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00
 website: ""

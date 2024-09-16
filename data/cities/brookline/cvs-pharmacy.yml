@@ -4,8 +4,8 @@ latitude: 42.35081
 longitude: -71.11619
 postcode: "02215"
 city: Brookline
-street: "Commonwealth Avenue"
-housenumber: 900
+street: Commonwealth Avenue
+housenumber: "900"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/boston-ma-pharmacies/900-commonwealth-avenue-boston-ma-02215/storeid=1876"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/boston-ma-pharmacies/900-commonwealth-avenue-boston-ma-02215/storeid=1876

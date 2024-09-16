@@ -1,11 +1,11 @@
 id: 214916894
-type: way
+type: node
 latitude: 42.16176
 longitude: -71.19941
 postcode: "02062"
 city: Norwood
-street: "Boston-Providence Turnpike"
-housenumber: 1450
+street: Boston-Providence Turnpike
+housenumber: "1450"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35126
 longitude: -71.07704
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 135
-phone: "+1-617-236-5253"
+street: Newbury Street
+housenumber: "135"
+phone: +1-617-236-5253
 opening_hours: ""
-website: "https://www.poggenpohl.com/en/find-a-studio/usa/poggenpohl-boston/"
+website: https://www.poggenpohl.com/en/find-a-studio/usa/poggenpohl-boston/

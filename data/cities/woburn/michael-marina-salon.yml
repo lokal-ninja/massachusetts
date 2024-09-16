@@ -4,8 +4,8 @@ latitude: 42.46593
 longitude: -71.14621
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 2
-phone: "+1-781-369-1228"
-opening_hours: "Tu 09:30-18:00; We-Th 09:30-20:00; Fr 09:30-18:00; Sa 09:00-16:00"
-website: "http://michaelmarinasalon.net"
+street: Main Street
+housenumber: "2"
+phone: +1-781-369-1228
+opening_hours: Tu 09:30-18:00; We-Th 09:30-20:00; Fr 09:30-18:00; Sa 09:00-16:00
+website: http://michaelmarinasalon.net

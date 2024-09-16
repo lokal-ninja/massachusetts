@@ -4,8 +4,9 @@ latitude: 42.33584
 longitude: -72.67186
 postcode: "01062"
 city: Florence
-street: "North Maple Street"
-housenumber: 9
-phone: "+1 (413) 584-5048"
-opening_hours: "Mo 07:00-17:00; Tu 08:00-17:00; We 07:00-17:00; Th 08:00-17:00; Fr 07:00-17:00; Sa 07:00-15:00"
-website: "https://www.florence-barbershop.square.site"
+street: North Maple Street
+housenumber: "9"
+phone: +1 (413) 584-5048
+opening_hours: Mo 07:00-17:00; Tu 08:00-17:00; We 07:00-17:00; Th 08:00-17:00; Fr
+    07:00-17:00; Sa 07:00-15:00
+website: https://www.florence-barbershop.square.site

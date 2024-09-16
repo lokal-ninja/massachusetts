@@ -4,8 +4,8 @@ latitude: 42.34874
 longitude: -71.08633
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 329
+street: Newbury Street
+housenumber: "329"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.madewell.com/us/ma/boston/329-newbury-street"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.madewell.com/us/ma/boston/329-newbury-street

@@ -4,8 +4,8 @@ latitude: 42.30999
 longitude: -71.11548
 postcode: "02130"
 city: Jamaica Plain
-street: "Centre Street"
-housenumber: 777
-phone: "+1 617 524-1570"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00"
+street: Centre Street
+housenumber: "777"
+phone: +1 617 524-1570
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00
 website: ""

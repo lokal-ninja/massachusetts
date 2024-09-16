@@ -4,8 +4,8 @@ latitude: 42.48639
 longitude: -71.21197
 postcode: "01803"
 city: Burlington
-street: "Burlington Mall Road"
-housenumber: 78
+street: Burlington Mall Road
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "http://www.fedex.com/"
+website: http://www.fedex.com/

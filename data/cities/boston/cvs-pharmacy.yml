@@ -4,8 +4,8 @@ latitude: 42.36208
 longitude: -71.06562
 postcode: "02114"
 city: Boston
-street: "Cambridge Street"
-housenumber: 191
+street: Cambridge Street
+housenumber: "191"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boston-ma-pharmacies/191-cambridge-street-boston-ma-02114/storeid=1258"
+website: https://www.cvs.com/store-locator/boston-ma-pharmacies/191-cambridge-street-boston-ma-02114/storeid=1258

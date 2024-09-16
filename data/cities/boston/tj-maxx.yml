@@ -4,8 +4,8 @@ latitude: 42.34794
 longitude: -71.08782
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 360
+street: Newbury Street
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:30-21:00; Su 10:00-20:00
 website: ""

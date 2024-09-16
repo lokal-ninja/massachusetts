@@ -1,11 +1,11 @@
 id: 216414448
-type: way
+type: node
 latitude: 42.15625
 longitude: -71.24205
 postcode: "02081"
 city: Walpole
-street: "Main Street"
-housenumber: 565
+street: Main Street
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

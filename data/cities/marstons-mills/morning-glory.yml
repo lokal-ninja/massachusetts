@@ -1,11 +1,11 @@
 id: 211954208
-type: way
+type: node
 latitude: 41.65606
 longitude: -70.41201
 postcode: "02648"
 city: Marstons Mills
-street: "Cotuit Road"
-housenumber: 211
-phone: "+1-508-428-1115"
+street: Cotuit Road
+housenumber: "211"
+phone: +1-508-428-1115
 opening_hours: ""
 website: ""

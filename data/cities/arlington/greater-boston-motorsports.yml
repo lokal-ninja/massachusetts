@@ -1,11 +1,11 @@
 id: 196448490
-type: way
+type: node
 latitude: 42.42149
 longitude: -71.17234
 postcode: "02476"
 city: Arlington
-street: "Massachusetts Avenue"
+street: Massachusetts Avenue
 housenumber: 1100;1102
 phone: ""
 opening_hours: ""
-website: "https://www.greaterbostonmotorsports.com/"
+website: https://www.greaterbostonmotorsports.com/

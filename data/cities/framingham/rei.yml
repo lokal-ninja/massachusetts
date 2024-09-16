@@ -1,11 +1,11 @@
 id: 257087766
-type: way
+type: node
 latitude: 42.30521
 longitude: -71.39352
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 375
-phone: "+1-508-270-6325"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/framingham"
+street: Cochituate Road
+housenumber: "375"
+phone: +1-508-270-6325
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.rei.com/stores/framingham

@@ -1,11 +1,11 @@
 id: 29806358
-type: way
+type: node
 latitude: 42.47975
 longitude: -71.12055
 postcode: "01801"
 city: Woburn
-street: "Montvale Avenue"
-housenumber: 306
+street: Montvale Avenue
+housenumber: "306"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Woburn/306-MONTVALE-AVE"
+website: https://www.speedway.com/locations/MA/Woburn/306-MONTVALE-AVE

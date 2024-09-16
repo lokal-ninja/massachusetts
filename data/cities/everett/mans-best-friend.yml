@@ -1,11 +1,11 @@
 id: 1074655111
-type: way
+type: node
 latitude: 42.40457
 longitude: -71.04158
 postcode: "02149"
 city: Everett
-street: "Union Street"
-housenumber: 129
-phone: "+1 617 3871546"
+street: Union Street
+housenumber: "129"
+phone: +1 617 3871546
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.34718
 longitude: -71.08111
 postcode: "02199"
 city: Boston
-street: "Boylston Street"
-housenumber: 800
-phone: "+1-857-233-5989"
+street: Boylston Street
+housenumber: "800"
+phone: +1-857-233-5989
 opening_hours: ""
-website: "https://www.johnnywas.com/store-locator/boston"
+website: https://www.johnnywas.com/store-locator/boston

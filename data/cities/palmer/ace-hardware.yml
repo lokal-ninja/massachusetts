@@ -1,11 +1,11 @@
 id: 214970772
-type: way
+type: node
 latitude: 42.16338
 longitude: -72.34129
-postcode: "01069-1217"
+postcode: 01069-1217
 city: Palmer
-street: "North Main Street"
-housenumber: 1583
-phone: "+1 413-283-2840"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
+street: North Main Street
+housenumber: "1583"
+phone: +1 413-283-2840
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 29715711
-type: way
+type: node
 latitude: 42.49454
 longitude: -71.103
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 113
-phone: "+1-781-832-3409"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-20:00; Su 10:00-18:00"
-website: "https://www.target.com/sl/stoneham-redstone/3253"
+street: Main Street
+housenumber: "113"
+phone: +1-781-832-3409
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-20:00; Su 10:00-18:00
+website: https://www.target.com/sl/stoneham-redstone/3253

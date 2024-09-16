@@ -1,11 +1,11 @@
 id: 29841898
-type: way
+type: node
 latitude: 42.26162
 longitude: -70.99306
 postcode: "02169"
 city: Quincy
-street: "Sea Street"
-housenumber: 200
-phone: "+1 617-472-3489"
-opening_hours: "07:00-22:00"
+street: Sea Street
+housenumber: "200"
+phone: +1 617-472-3489
+opening_hours: 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 98625650
-type: way
+type: node
 latitude: 42.42735
 longitude: -71.20682
 postcode: "02421"
 city: Lexington
-street: "Pleasant Street"
-housenumber: 10
+street: Pleasant Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.wilsonfarm.com/"
+website: https://www.wilsonfarm.com/

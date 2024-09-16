@@ -4,8 +4,8 @@ latitude: 42.39305
 longitude: -71.59414
 postcode: "01749"
 city: Hudson
-street: "Coolidge Street"
-housenumber: 212
-phone: "+1 978 562 3002"
-opening_hours: "Mo-We 09:30-21:30; Fr-Sa 07:00-22:00; Su 09:00-22:00"
-website: "https://tjmaxx.tjx.com/store/stores/Hudson-MA-01749/734/aboutstore"
+street: Coolidge Street
+housenumber: "212"
+phone: +1 978 562 3002
+opening_hours: Mo-We 09:30-21:30; Fr-Sa 07:00-22:00; Su 09:00-22:00
+website: https://tjmaxx.tjx.com/store/stores/Hudson-MA-01749/734/aboutstore

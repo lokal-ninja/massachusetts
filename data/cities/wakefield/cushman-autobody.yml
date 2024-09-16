@@ -4,8 +4,8 @@ latitude: 42.47306
 longitude: -71.06163
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 1315
-phone: "+1 781 6651626"
+street: Main Street
+housenumber: "1315"
+phone: +1 781 6651626
 opening_hours: ""
-website: "https://cushmanautobody.com/"
+website: https://cushmanautobody.com/

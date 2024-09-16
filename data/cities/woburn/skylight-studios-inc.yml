@@ -1,11 +1,11 @@
 id: 29940821
-type: way
+type: node
 latitude: 42.48561
 longitude: -71.14423
 postcode: "01801"
 city: Woburn
-street: "Salem Street"
-housenumber: 105
+street: Salem Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.skylightstudiosinc.com/"
+website: https://www.skylightstudiosinc.com/

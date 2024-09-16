@@ -1,11 +1,11 @@
 id: 29960431
-type: way
+type: node
 latitude: 42.45888
 longitude: -70.97002
 postcode: "01905"
 city: Lynn
-street: "Western Avenue"
-housenumber: 873
-phone: "+1 781 5861133"
+street: Western Avenue
+housenumber: "873"
+phone: +1 781 5861133
 opening_hours: ""
 website: ""

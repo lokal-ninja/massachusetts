@@ -1,11 +1,11 @@
 id: 214373203
-type: way
+type: node
 latitude: 42.59101
 longitude: -71.76277
 postcode: "01462"
 city: Lunenburg
-street: "Massachusetts Avenue"
-housenumber: 199
-phone: "+1 978-424-4084"
+street: Massachusetts Avenue
+housenumber: "199"
+phone: +1 978-424-4084
 opening_hours: ""
-website: "https://www.chapdelainegm.com/"
+website: https://www.chapdelainegm.com/

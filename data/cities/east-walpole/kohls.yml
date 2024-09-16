@@ -4,8 +4,8 @@ latitude: 42.1536
 longitude: -71.20302
 postcode: "02032"
 city: East Walpole
-street: "Providence Highway"
-housenumber: 100
-phone: "+1 508-660-9921"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ma/eastwalpole-539.shtml"
+street: Providence Highway
+housenumber: "100"
+phone: +1 508-660-9921
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ma/eastwalpole-539.shtml

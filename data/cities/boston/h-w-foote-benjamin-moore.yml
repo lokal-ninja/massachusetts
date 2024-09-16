@@ -1,11 +1,11 @@
 id: 29821399
-type: way
+type: node
 latitude: 42.36225
 longitude: -71.14044
 postcode: "02135"
 city: Boston
-street: "Western Avenue"
-housenumber: 420
+street: Western Avenue
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

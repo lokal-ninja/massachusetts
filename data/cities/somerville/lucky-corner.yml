@@ -4,8 +4,8 @@ latitude: 42.37939
 longitude: -71.09192
 postcode: "02143"
 city: Somerville
-street: "Washington Street"
-housenumber: 210
+street: Washington Street
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Su 07:30-23:00"
+opening_hours: Mo-Su 07:30-23:00
 website: ""

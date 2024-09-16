@@ -4,8 +4,8 @@ latitude: 42.35192
 longitude: -71.07292
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 38
-phone: "+1-617-236-8393"
+street: Newbury Street
+housenumber: "38"
+phone: +1-617-236-8393
 opening_hours: ""
-website: "https://gemboxboston.com/"
+website: https://gemboxboston.com/

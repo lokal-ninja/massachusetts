@@ -4,8 +4,8 @@ latitude: 42.34587
 longitude: -71.12792
 postcode: "02446"
 city: Brookline
-street: "Harvard Street"
-housenumber: 438
-phone: "+1 617-739-9000"
-opening_hours: "Mo-Fr 08:00-19:30; Sa-Su 09:00-18:00"
-website: "https://www.truevalue.com/"
+street: Harvard Street
+housenumber: "438"
+phone: +1 617-739-9000
+opening_hours: Mo-Fr 08:00-19:30; Sa-Su 09:00-18:00
+website: https://www.truevalue.com/

@@ -1,11 +1,11 @@
 id: 935154175
-type: way
+type: node
 latitude: 42.46099
 longitude: -71.16423
 postcode: "01801"
 city: Woburn
-street: "Cambridge Road"
-housenumber: 352
-phone: "+1-781-281-7473"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-16:00"
-website: "https://www.fantasticsams.com/about/regions/boston-ma-manchester-nh/fantastic-sams-woburn-ma-0"
+street: Cambridge Road
+housenumber: "352"
+phone: +1-781-281-7473
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-16:00
+website: https://www.fantasticsams.com/about/regions/boston-ma-manchester-nh/fantastic-sams-woburn-ma-0

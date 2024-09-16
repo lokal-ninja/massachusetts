@@ -1,11 +1,11 @@
 id: 181272818
-type: way
+type: node
 latitude: 42.61064
 longitude: -71.57567
 postcode: "01450"
 city: Groton
-street: "Elm Street"
-housenumber: 15
+street: Elm Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

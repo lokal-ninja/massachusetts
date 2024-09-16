@@ -4,8 +4,8 @@ latitude: 42.52446
 longitude: -70.92434
 postcode: "01960"
 city: Peabody
-street: "Main Street"
-housenumber: 75
-phone: "+1-978-854-5740"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-14:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-peabody-ma-10202750/"
+street: Main Street
+housenumber: "75"
+phone: +1-978-854-5740
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-14:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-peabody-ma-10202750/

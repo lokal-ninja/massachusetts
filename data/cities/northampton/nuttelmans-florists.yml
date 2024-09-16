@@ -1,11 +1,11 @@
 id: 150119233
-type: way
+type: node
 latitude: 42.32897
 longitude: -72.64503
 postcode: "01060"
 city: Northampton
-street: "Woodlawn Avenue"
-housenumber: 135
-phone: "+1 (413) 584-2272;+1 (800) 981-9403"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.nuttelmansflorist.net"
+street: Woodlawn Avenue
+housenumber: "135"
+phone: +1 (413) 584-2272;+1 (800) 981-9403
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.nuttelmansflorist.net

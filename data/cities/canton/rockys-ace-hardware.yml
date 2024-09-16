@@ -2,10 +2,10 @@ id: 7221148080
 type: node
 latitude: 42.13897
 longitude: -71.14787
-postcode: "02021-4001"
+postcode: 02021-4001
 city: Canton
-street: "Washington Street"
-housenumber: 19
-phone: "+1 781-821-3012"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
+street: Washington Street
+housenumber: "19"
+phone: +1 781-821-3012
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
 website: ""

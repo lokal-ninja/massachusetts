@@ -4,8 +4,8 @@ latitude: 42.36439
 longitude: -71.10241
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 548
-phone: "+1 617 354 2987"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.teddyshoes.com/"
+street: Massachusetts Avenue
+housenumber: "548"
+phone: +1 617 354 2987
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.teddyshoes.com/

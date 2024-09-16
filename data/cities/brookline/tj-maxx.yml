@@ -4,8 +4,8 @@ latitude: 42.3486
 longitude: -71.1294
 postcode: "02446"
 city: Brookline
-street: "Harvard Street"
-housenumber: 525
+street: Harvard Street
+housenumber: "525"
 phone: "+16172325420"
-opening_hours: "09:30-21:30"
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+opening_hours: 09:30-21:30
+website: https://tjmaxx.tjx.com/store/index.jsp

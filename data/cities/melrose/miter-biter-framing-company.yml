@@ -4,8 +4,8 @@ latitude: 42.45467
 longitude: -71.06536
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 479
-phone: "+1 781 6655552"
+street: Main Street
+housenumber: "479"
+phone: +1 781 6655552
 opening_hours: ""
-website: "https://miterbiter.com/"
+website: https://miterbiter.com/

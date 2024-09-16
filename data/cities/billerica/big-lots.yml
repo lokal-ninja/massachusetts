@@ -4,8 +4,8 @@ latitude: 42.55607
 longitude: -71.2637
 postcode: "01821"
 city: Billerica
-street: "Boston Road"
-housenumber: 480
-phone: "+1 978-667-6790"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ma/billerica/480-boston-rd"
+street: Boston Road
+housenumber: "480"
+phone: +1 978-667-6790
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ma/billerica/480-boston-rd

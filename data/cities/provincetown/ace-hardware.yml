@@ -4,8 +4,8 @@ latitude: 42.0562
 longitude: -70.186
 postcode: "02657"
 city: Provincetown
-street: "Conwell Street"
-housenumber: 21
-phone: "+1 508-487-0150"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-16:00"
-website: "http://www.conwellace.com/"
+street: Conwell Street
+housenumber: "21"
+phone: +1 508-487-0150
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-16:00
+website: http://www.conwellace.com/

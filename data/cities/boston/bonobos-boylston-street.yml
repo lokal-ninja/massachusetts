@@ -4,8 +4,8 @@ latitude: 42.34817
 longitude: -71.08247
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 800
-phone: "+1-617-405-0856"
+street: Boylston Street
+housenumber: "800"
+phone: +1-617-405-0856
 opening_hours: ""
-website: "https://bonobos.com/locations/s/prudential-center-boston"
+website: https://bonobos.com/locations/s/prudential-center-boston

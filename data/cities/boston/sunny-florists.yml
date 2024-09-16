@@ -4,8 +4,8 @@ latitude: 42.34271
 longitude: -71.05751
 postcode: "02127"
 city: Boston
-street: "West Broadway"
-housenumber: 9
-phone: "+1-857-496-1830"
+street: West Broadway
+housenumber: "9"
+phone: +1-857-496-1830
 opening_hours: ""
-website: "https://sunnyflorists.com/"
+website: https://sunnyflorists.com/

@@ -1,11 +1,11 @@
 id: 469225862
-type: way
+type: node
 latitude: 42.3032
 longitude: -71.39696
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 1
-phone: "+1 508-655-1535"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/framingham-ma-1549"
+street: Worcester Road
+housenumber: "1"
+phone: +1 508-655-1535
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/framingham-ma-1549

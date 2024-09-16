@@ -1,11 +1,11 @@
 id: 184504638
-type: way
+type: node
 latitude: 42.42742
 longitude: -71.07523
 postcode: ""
 city: Malden
-street: "Pleasant Street"
-housenumber: 293
-phone: "+1 781 3249356"
+street: Pleasant Street
+housenumber: "293"
+phone: +1 781 3249356
 opening_hours: ""
 website: ""

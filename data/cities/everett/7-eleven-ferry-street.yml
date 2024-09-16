@@ -1,11 +1,11 @@
 id: 29861512
-type: way
+type: node
 latitude: 42.41994
 longitude: -71.05393
 postcode: "02149"
 city: Everett
-street: "Ferry Street"
-housenumber: 543
-phone: "+1 617-387-5593"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ma/everett/543-ferry-st-34400"
+street: Ferry Street
+housenumber: "543"
+phone: +1 617-387-5593
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ma/everett/543-ferry-st-34400

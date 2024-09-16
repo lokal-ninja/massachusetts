@@ -1,11 +1,11 @@
 id: 214518063
-type: way
+type: node
 latitude: 42.44567
 longitude: -71.45324
 postcode: "01754"
 city: Maynard
-street: "Acton Street"
-housenumber: 133
+street: Acton Street
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

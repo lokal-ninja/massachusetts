@@ -4,8 +4,8 @@ latitude: 42.35042
 longitude: -71.08014
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 201
-phone: "+1-617-585-1460"
+street: Newbury Street
+housenumber: "201"
+phone: +1-617-585-1460
 opening_hours: ""
-website: "https://www.drmartens.com/"
+website: https://www.drmartens.com/

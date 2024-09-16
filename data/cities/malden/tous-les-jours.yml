@@ -4,8 +4,8 @@ latitude: 42.42715
 longitude: -71.0732
 postcode: "02148"
 city: Malden
-street: "Pleasant Street"
-housenumber: 230
-phone: "+1-781-480-4321"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://www.tljus.com/"
+street: Pleasant Street
+housenumber: "230"
+phone: +1-781-480-4321
+opening_hours: Mo-Su 07:30-21:00
+website: https://www.tljus.com/

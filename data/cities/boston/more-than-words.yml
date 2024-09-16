@@ -4,8 +4,8 @@ latitude: 42.34341
 longitude: -71.06343
 postcode: "02118"
 city: Boston
-street: "East Berkeley Street"
-housenumber: 242
-phone: "+1-781-788-0035"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://mtwyouth.org/shop/boston-bookstore/"
+street: East Berkeley Street
+housenumber: "242"
+phone: +1-781-788-0035
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://mtwyouth.org/shop/boston-bookstore/

@@ -1,11 +1,11 @@
 id: 1134182821
-type: way
+type: node
 latitude: 42.29254
 longitude: -71.77389
 postcode: "01605"
 city: Worcester
-street: "Lincoln Street"
-housenumber: 533
-phone: "+1 508-595-1450"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-worcester/1206"
+street: Lincoln Street
+housenumber: "533"
+phone: +1 508-595-1450
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-worcester/1206

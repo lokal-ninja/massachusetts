@@ -1,11 +1,11 @@
 id: 215981899
-type: way
+type: node
 latitude: 42.29426
 longitude: -71.71842
 postcode: "01545"
 city: Shrewsbury
-street: "Maple Avenue"
-housenumber: 38
-phone: "+1 508-842-9722"
+street: Maple Avenue
+housenumber: "38"
+phone: +1 508-842-9722
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/shrewsbury/38-maple-st-34425"
+website: https://www.7-eleven.com/locations/ma/shrewsbury/38-maple-st-34425

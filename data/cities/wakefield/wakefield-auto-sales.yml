@@ -1,11 +1,11 @@
 id: 216401339
-type: way
+type: node
 latitude: 42.47267
 longitude: -71.06163
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 1321
-phone: "+1 781 6621111"
+street: Main Street
+housenumber: "1321"
+phone: +1 781 6621111
 opening_hours: ""
 website: ""

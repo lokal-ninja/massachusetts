@@ -1,11 +1,11 @@
 id: 652079335
-type: way
+type: node
 latitude: 42.20443
 longitude: -71.15622
 postcode: "02090"
 city: Westwood
-street: "University Avenue"
-housenumber: 231
+street: University Avenue
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

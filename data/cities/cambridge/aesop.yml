@@ -4,8 +4,8 @@ latitude: 42.37419
 longitude: -71.12152
 postcode: "02138"
 city: Cambridge
-street: "Brattle Street"
-housenumber: 49
+street: Brattle Street
+housenumber: "49"
 phone: "+16175470200"
-opening_hours: "Mo-Th 11:00-18:00"
-website: "https://www.aesop.com/us/r/aesop-harvard-square?utm_source=gmb&utm_medium=yext"
+opening_hours: Mo-Th 11:00-18:00
+website: https://www.aesop.com/us/r/aesop-harvard-square?utm_source=gmb&utm_medium=yext

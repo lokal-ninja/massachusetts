@@ -4,8 +4,8 @@ latitude: 42.52516
 longitude: -70.92526
 postcode: "01960"
 city: Peabody
-street: "Main Street"
-housenumber: 58
-phone: "+1-617-820-4488"
+street: Main Street
+housenumber: "58"
+phone: +1-617-820-4488
 opening_hours: ""
 website: ""

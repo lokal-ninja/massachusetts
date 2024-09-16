@@ -1,11 +1,11 @@
 id: 137185500
-type: way
+type: node
 latitude: 42.67696
 longitude: -71.42608
 postcode: "01879"
 city: Tyngsborough
-street: "Kendall Road"
-housenumber: 23
+street: Kendall Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

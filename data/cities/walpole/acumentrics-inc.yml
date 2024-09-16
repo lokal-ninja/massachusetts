@@ -1,11 +1,11 @@
 id: 216414657
-type: way
+type: node
 latitude: 42.11407
 longitude: -71.24348
 postcode: "02081"
 city: Walpole
-street: "Walpole Park South"
-housenumber: 10
-phone: "+1 617-932-7877"
+street: Walpole Park South
+housenumber: "10"
+phone: +1 617-932-7877
 opening_hours: ""
-website: "https://acumentrics.com/"
+website: https://acumentrics.com/

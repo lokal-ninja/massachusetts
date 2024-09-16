@@ -4,8 +4,8 @@ latitude: 42.4
 longitude: -71.11294
 postcode: "02144"
 city: Somerville
-street: "Broadway"
-housenumber: 720
-phone: "+1 617 625-1793"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:00-15:00"
-website: "https://lyndells.com/"
+street: Broadway
+housenumber: "720"
+phone: +1 617 625-1793
+opening_hours: Mo-Sa 07:00-18:00; Su 07:00-15:00
+website: https://lyndells.com/

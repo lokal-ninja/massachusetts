@@ -4,8 +4,8 @@ latitude: 42.35161
 longitude: -71.06028
 postcode: "02111"
 city: Boston
-street: "Oxford Street"
-housenumber: 30
-phone: "+1 617 542 6231"
-opening_hours: "Mo-Su 09:00-19:00"
+street: Oxford Street
+housenumber: "30"
+phone: +1 617 542 6231
+opening_hours: Mo-Su 09:00-19:00
 website: ""

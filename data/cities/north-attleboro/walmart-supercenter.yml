@@ -1,11 +1,11 @@
 id: 217261496
-type: way
+type: node
 latitude: 41.93438
 longitude: -71.35028
 postcode: "02760"
 city: North Attleboro
-street: "South Washington Street"
-housenumber: 1470
-phone: "+1 508-699-0277"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2366/north-attleboro-ma/whats-new"
+street: South Washington Street
+housenumber: "1470"
+phone: +1 508-699-0277
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2366/north-attleboro-ma/whats-new

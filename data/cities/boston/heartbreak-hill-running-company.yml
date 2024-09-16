@@ -4,8 +4,8 @@ latitude: 42.34174
 longitude: -71.07535
 postcode: "02118"
 city: Boston
-street: "Tremont Street"
-housenumber: 652
+street: Tremont Street
+housenumber: "652"
 phone: ""
 opening_hours: ""
-website: "https://www.heartbreakhillrunningcompany.com/"
+website: https://www.heartbreakhillrunningcompany.com/

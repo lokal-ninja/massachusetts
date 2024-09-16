@@ -4,8 +4,8 @@ latitude: 42.39438
 longitude: -71.12659
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2257
+street: Massachusetts Avenue
+housenumber: "2257"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.spindlerconfections.com/"
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.spindlerconfections.com/

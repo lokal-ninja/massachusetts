@@ -1,11 +1,11 @@
 id: 935169166
-type: way
+type: node
 latitude: 42.50537
 longitude: -71.13328
 postcode: "01801"
 city: Woburn
-street: "Mishawum Road"
-housenumber: 300
-phone: "+1 781-939-5970"
-opening_hours: "Mo-Sa 10:00-20:00, Su 22:00-19:00"
-website: "https://stores.dsw.com/usa/ma/woburn/dsw-designer-shoe-warehouse-woburn-mall.html"
+street: Mishawum Road
+housenumber: "300"
+phone: +1 781-939-5970
+opening_hours: Mo-Sa 10:00-20:00, Su 22:00-19:00
+website: https://stores.dsw.com/usa/ma/woburn/dsw-designer-shoe-warehouse-woburn-mall.html

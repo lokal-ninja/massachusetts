@@ -4,8 +4,8 @@ latitude: 42.35807
 longitude: -71.07064
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 76
-phone: "+1-617-227-3062"
+street: Charles Street
+housenumber: "76"
+phone: +1-617-227-3062
 opening_hours: ""
-website: "http://www.eugenegalleries.com/"
+website: http://www.eugenegalleries.com/

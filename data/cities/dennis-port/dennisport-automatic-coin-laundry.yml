@@ -1,11 +1,11 @@
 id: 212604846
-type: way
+type: node
 latitude: 41.66724
 longitude: -70.12351
 postcode: "02639"
 city: Dennis Port
-street: "Hall Street"
-housenumber: 13
+street: Hall Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

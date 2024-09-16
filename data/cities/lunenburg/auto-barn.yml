@@ -1,11 +1,11 @@
 id: 214371981
-type: way
+type: node
 latitude: 42.5973
 longitude: -71.75115
 postcode: "01462"
 city: Lunenburg
-street: "Chase Road"
-housenumber: 53
-phone: "+1 978-582-4302"
+street: Chase Road
+housenumber: "53"
+phone: +1 978-582-4302
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.39079
 longitude: -71.109
 postcode: "02143"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 235
-phone: "+1-617-718-2112"
-opening_hours: "Mo-Sa 09:00-23:00; Su 10:00-23:00"
+street: Highland Avenue
+housenumber: "235"
+phone: +1-617-718-2112
+opening_hours: Mo-Sa 09:00-23:00; Su 10:00-23:00
 website: ""

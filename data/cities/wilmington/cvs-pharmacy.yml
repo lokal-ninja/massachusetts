@@ -1,11 +1,11 @@
 id: 150417048
-type: way
+type: node
 latitude: 42.55672
 longitude: -71.18097
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 222
+street: Main Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wilmington-ma-pharmacies/222-main-st-wilmington-ma-01887/storeid=1845"
+website: https://www.cvs.com/store-locator/wilmington-ma-pharmacies/222-main-st-wilmington-ma-01887/storeid=1845

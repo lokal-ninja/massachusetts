@@ -1,11 +1,11 @@
 id: 214148668
-type: way
+type: node
 latitude: 42.52042
 longitude: -71.15742
 postcode: "01801"
 city: Woburn
-street: "Breed Avenue"
-housenumber: 3
-phone: "+1 781 9388880"
+street: Breed Avenue
+housenumber: "3"
+phone: +1 781 9388880
 opening_hours: ""
-website: "http://www.proequipmentservice.com/"
+website: http://www.proequipmentservice.com/

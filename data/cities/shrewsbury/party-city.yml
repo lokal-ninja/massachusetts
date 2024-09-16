@@ -1,11 +1,11 @@
 id: 188846582
-type: way
+type: node
 latitude: 42.2734
 longitude: -71.75001
 postcode: "01545"
 city: Shrewsbury
-street: "Boston Turnpike"
-housenumber: 100
-phone: "+1 508-925-7775"
+street: Boston Turnpike
+housenumber: "100"
+phone: +1 508-925-7775
 opening_hours: ""
-website: "https://stores.partycity.com/us/ma/shrewsbury/party-store-pc6006.html"
+website: https://stores.partycity.com/us/ma/shrewsbury/party-store-pc6006.html

@@ -1,11 +1,11 @@
 id: 825092371
-type: way
+type: node
 latitude: 42.10264
 longitude: -71.25874
 postcode: "02035"
 city: Foxboro
-street: "North Street"
-housenumber: 211
-phone: "+1 508-698-2453"
+street: North Street
+housenumber: "211"
+phone: +1 508-698-2453
 opening_hours: ""
-website: "https://www.foxborobike.com/"
+website: https://www.foxborobike.com/

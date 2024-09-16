@@ -4,8 +4,8 @@ latitude: 42.56505
 longitude: -71.97649
 postcode: "01440"
 city: Gardner
-street: "Pearson Boulevard"
-housenumber: 60
+street: Pearson Boulevard
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ma/gardner/60-pearson-blvd"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/ma/gardner/60-pearson-blvd

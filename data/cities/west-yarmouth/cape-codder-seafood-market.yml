@@ -1,11 +1,11 @@
 id: 214261166
-type: way
+type: node
 latitude: 41.64823
 longitude: -70.22391
 postcode: ""
 city: West Yarmouth
-street: "Main Street"
-housenumber: 679
+street: Main Street
+housenumber: "679"
 phone: ""
 opening_hours: ""
-website: "http://www.capecodderseafood.market"
+website: http://www.capecodderseafood.market

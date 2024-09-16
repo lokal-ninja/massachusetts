@@ -1,11 +1,11 @@
 id: 217239593
-type: way
+type: node
 latitude: 42.37241
 longitude: -72.50076
 postcode: "01002"
 city: Amherst
-street: "South East Street"
-housenumber: 118
-phone: "+1 413 253 0056"
-opening_hours: "Mo,We,Fr 08:00-18:00; Tu-Th 08:00-19:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "http://www.the-autoexpress.com/"
+street: South East Street
+housenumber: "118"
+phone: +1 413 253 0056
+opening_hours: Mo,We,Fr 08:00-18:00; Tu-Th 08:00-19:00; Sa 08:00-17:00; Su 10:00-16:00
+website: http://www.the-autoexpress.com/

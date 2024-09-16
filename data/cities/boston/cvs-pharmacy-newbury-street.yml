@@ -4,8 +4,8 @@ latitude: 42.34957
 longitude: -71.08189
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 240
-phone: "+1-617-236-4007"
+street: Newbury Street
+housenumber: "240"
+phone: +1-617-236-4007
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boston-ma-pharmacies/240-newbury-street-boston-ma-02116/storeid=1206"
+website: https://www.cvs.com/store-locator/boston-ma-pharmacies/240-newbury-street-boston-ma-02116/storeid=1206

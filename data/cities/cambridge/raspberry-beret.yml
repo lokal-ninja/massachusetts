@@ -4,8 +4,8 @@ latitude: 42.39513
 longitude: -71.12795
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2302
+street: Massachusetts Avenue
+housenumber: "2302"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.raspberryberet.us/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.raspberryberet.us/

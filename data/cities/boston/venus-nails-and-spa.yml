@@ -4,8 +4,8 @@ latitude: 42.34045
 longitude: -71.08216
 postcode: "02118"
 city: Boston
-street: "Columbus Avenue"
-housenumber: 585
+street: Columbus Avenue
+housenumber: "585"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

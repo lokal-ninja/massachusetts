@@ -1,11 +1,11 @@
 id: 213601066
-type: way
+type: node
 latitude: 42.35053
 longitude: -71.86054
 postcode: "01520"
 city: Holden
-street: "Main Street"
-housenumber: 1158
-phone: "+1-508-829-4434"
+street: Main Street
+housenumber: "1158"
+phone: +1-508-829-4434
 opening_hours: ""
-website: "https://www.milesfuneralhome.com"
+website: https://www.milesfuneralhome.com

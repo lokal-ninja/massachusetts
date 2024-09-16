@@ -4,8 +4,8 @@ latitude: 42.30481
 longitude: -71.38131
 postcode: "01760"
 city: Natick
-street: "Chrysler Road"
-housenumber: 2
+street: Chrysler Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00"
+opening_hours: Mo-Fr 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 29944571
-type: way
+type: node
 latitude: 42.31581
 longitude: -71.05624
 postcode: "02125"
 city: Boston
-street: "Dorchester Avenue"
-housenumber: 1020
+street: Dorchester Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

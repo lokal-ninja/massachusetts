@@ -1,11 +1,11 @@
 id: 1025810040
-type: way
+type: node
 latitude: 42.19533
 longitude: -70.71762
 postcode: "02066"
 city: Scituate
-street: "Edward Foster Road"
-housenumber: 119
+street: Edward Foster Road
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://scituateboatworks.com/"
+website: https://scituateboatworks.com/

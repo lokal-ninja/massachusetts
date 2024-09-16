@@ -1,11 +1,11 @@
 id: 213450180
-type: way
+type: node
 latitude: 42.75712
 longitude: -71.11737
 postcode: "01835"
 city: Haverhill
-street: "Shelley Road"
-housenumber: 25
+street: Shelley Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.bjs.com/"
+website: https://www.bjs.com/

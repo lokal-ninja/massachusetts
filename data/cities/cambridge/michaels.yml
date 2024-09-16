@@ -4,8 +4,8 @@ latitude: 42.3897
 longitude: -71.11854
 postcode: "02140"
 city: Cambridge
-street: "White Street"
-housenumber: 37
-phone: "+1 617-499-0925"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ma/cambridge/1081/"
+street: White Street
+housenumber: "37"
+phone: +1 617-499-0925
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ma/cambridge/1081/

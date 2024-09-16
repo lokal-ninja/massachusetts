@@ -4,8 +4,8 @@ latitude: 42.36439
 longitude: -71.08332
 postcode: "02142"
 city: Cambridge
-street: "Third Street"
-housenumber: 295
+street: Third Street
+housenumber: "295"
 phone: "+16179450775"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.prbboulangerie.com/"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.prbboulangerie.com/

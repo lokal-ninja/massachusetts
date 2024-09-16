@@ -4,8 +4,8 @@ latitude: 42.34847
 longitude: -71.08182
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 776
-phone: "+1-617-684-2769"
+street: Boylston Street
+housenumber: "776"
+phone: +1-617-684-2769
 opening_hours: ""
-website: "https://miniluxe.com/locations/prudential-center/"
+website: https://miniluxe.com/locations/prudential-center/

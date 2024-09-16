@@ -4,8 +4,8 @@ latitude: 41.92616
 longitude: -70.64828
 postcode: "02360"
 city: Plymouth
-street: "Camelot Drive"
-housenumber: 88
-phone: "+1 508-746-3898"
+street: Camelot Drive
+housenumber: "88"
+phone: +1 508-746-3898
 opening_hours: ""
-website: "https://mmbhe.com/"
+website: https://mmbhe.com/

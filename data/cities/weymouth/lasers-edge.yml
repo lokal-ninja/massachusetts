@@ -1,11 +1,11 @@
 id: 100692607
-type: way
+type: node
 latitude: 42.20941
 longitude: -70.94339
 postcode: ""
 city: Weymouth
-street: "Middle Street"
-housenumber: 430
+street: Middle Street
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 213399432
-type: way
+type: node
 latitude: 42.05599
 longitude: -72.44008
 postcode: "01036"
 city: Hampden
-street: "Somers Road"
-housenumber: 42
+street: Somers Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

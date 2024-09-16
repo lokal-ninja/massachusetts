@@ -1,11 +1,11 @@
 id: 29729546
-type: way
+type: node
 latitude: 42.41481
 longitude: -71.13913
 postcode: "02474"
 city: Arlington
-street: "River Street"
-housenumber: 86
+street: River Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://www.smoothautomotive.com"
+website: https://www.smoothautomotive.com

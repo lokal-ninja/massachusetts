@@ -1,11 +1,11 @@
 id: 29657158
-type: way
+type: node
 latitude: 42.24293
 longitude: -71.01744
 postcode: "02169"
 city: Quincy
-street: "Copeland Street"
-housenumber: 45
-phone: "+1 617-479-2494"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.candlautobody.biz/"
+street: Copeland Street
+housenumber: "45"
+phone: +1 617-479-2494
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.candlautobody.biz/

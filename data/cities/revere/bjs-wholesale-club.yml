@@ -4,8 +4,8 @@ latitude: 42.4244
 longitude: -71.00538
 postcode: "02151"
 city: Revere
-street: "Ward Street"
-housenumber: 5
-phone: "+1-781-808-0040"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-19:00"
-website: "https://www.bjs.com/cl/revere/0175"
+street: Ward Street
+housenumber: "5"
+phone: +1-781-808-0040
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-19:00
+website: https://www.bjs.com/cl/revere/0175

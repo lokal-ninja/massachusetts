@@ -1,11 +1,11 @@
 id: 29539413
-type: way
+type: node
 latitude: 42.49099
 longitude: -71.13028
 postcode: "01801"
 city: Woburn
-street: "Salem Street"
-housenumber: 278
-phone: "+1 781 9333303"
+street: Salem Street
+housenumber: "278"
+phone: +1 781 9333303
 opening_hours: ""
-website: "http://www.callahansautoservice.com/"
+website: http://www.callahansautoservice.com/

@@ -1,11 +1,11 @@
 id: 408045321
-type: way
+type: node
 latitude: 42.35274
 longitude: -71.12553
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 1
+street: Brighton Avenue
+housenumber: "1"
 phone: "+16177872288"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35038
 longitude: -71.07884
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 170
-phone: "+1-617-266-7888"
+street: Newbury Street
+housenumber: "170"
+phone: +1-617-266-7888
 opening_hours: ""
-website: "https://soodee.com/"
+website: https://soodee.com/

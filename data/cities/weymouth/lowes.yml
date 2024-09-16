@@ -1,11 +1,11 @@
 id: 46995427
-type: way
+type: node
 latitude: 42.24396
 longitude: -70.93571
 postcode: "02191"
 city: Weymouth
-street: "Bridge Street"
-housenumber: 729
-phone: "+1 781-340-5964"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-weymouth/1618"
+street: Bridge Street
+housenumber: "729"
+phone: +1 781-340-5964
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-weymouth/1618

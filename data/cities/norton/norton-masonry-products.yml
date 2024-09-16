@@ -1,11 +1,11 @@
 id: 162802246
-type: way
+type: node
 latitude: 41.96132
 longitude: -71.13802
 postcode: "02766"
 city: Norton
-street: "South Washington Street"
-housenumber: 222
+street: South Washington Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 214642881
-type: way
+type: node
 latitude: 42.28312
 longitude: -71.23637
 postcode: "02492"
 city: Needham
-street: "Highland Avenue"
-housenumber: 1351
-phone: "+1-781-444-0201"
+street: Highland Avenue
+housenumber: "1351"
+phone: +1-781-444-0201
 opening_hours: ""
-website: "https://www.eatonfuneralhomes.com/"
+website: https://www.eatonfuneralhomes.com/

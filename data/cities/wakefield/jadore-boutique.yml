@@ -4,8 +4,8 @@ latitude: 42.50499
 longitude: -71.07123
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 332
-phone: "+1 781 2455552"
+street: Main Street
+housenumber: "332"
+phone: +1 781 2455552
 opening_hours: ""
-website: "http://jadorewakefield.com/"
+website: http://jadorewakefield.com/

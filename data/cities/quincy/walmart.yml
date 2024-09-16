@@ -1,11 +1,11 @@
 id: 29970262
-type: way
+type: node
 latitude: 42.23556
 longitude: -70.9868
 postcode: "02169"
 city: Quincy
-street: "Falls Boulevard"
-housenumber: 301
-phone: "+1 617-745-4390"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2341/quincy-ma/whats-new"
+street: Falls Boulevard
+housenumber: "301"
+phone: +1 617-745-4390
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2341/quincy-ma/whats-new

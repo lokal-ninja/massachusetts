@@ -4,8 +4,8 @@ latitude: 42.34432
 longitude: -71.08659
 postcode: "02115"
 city: Boston
-street: "Massachusetts Avenue"
-housenumber: 231
-phone: "+1-617-266-6775"
+street: Massachusetts Avenue
+housenumber: "231"
+phone: +1-617-266-6775
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boston-ma-pharmacies/231-massachusetts-avenue-boston-ma-02115/storeid=1259"
+website: https://www.cvs.com/store-locator/boston-ma-pharmacies/231-massachusetts-avenue-boston-ma-02115/storeid=1259

@@ -1,11 +1,11 @@
 id: 214532861
-type: way
+type: node
 latitude: 42.72269
 longitude: -71.15782
 postcode: "01844"
 city: Methuen
-street: "Swan Street"
-housenumber: 77
+street: Swan Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

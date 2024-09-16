@@ -4,8 +4,8 @@ latitude: 42.35365
 longitude: -71.06396
 postcode: "02111"
 city: Boston
-street: "Tremont Street"
-housenumber: 170
-phone: "+1-617-556-0044"
+street: Tremont Street
+housenumber: "170"
+phone: +1-617-556-0044
 opening_hours: ""
-website: "https://www.carbonsalonboston.com/"
+website: https://www.carbonsalonboston.com/

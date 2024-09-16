@@ -1,11 +1,11 @@
 id: 29680787
-type: way
+type: node
 latitude: 42.34906
 longitude: -71.12813
 postcode: "02134"
 city: Allston
-street: "Commonwealth Avenue"
-housenumber: 1168
+street: Commonwealth Avenue
+housenumber: "1168"
 phone: ""
 opening_hours: ""
-website: "https://www.herbchambersmini.com/"
+website: https://www.herbchambersmini.com/

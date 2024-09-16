@@ -1,11 +1,11 @@
 id: 214626840
-type: way
+type: node
 latitude: 42.30036
 longitude: -71.3853
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 1245
+street: Worcester Street
+housenumber: "1245"
 phone: ""
 opening_hours: ""
-website: "https://www.moosejaw.com/"
+website: https://www.moosejaw.com/

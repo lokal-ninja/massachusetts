@@ -1,11 +1,11 @@
 id: 212258767
-type: way
+type: node
 latitude: 42.09047
 longitude: -71.05013
 postcode: "02301"
 city: Brockton
-street: "Westgate Drive"
-housenumber: 84
-phone: "+1 774 257 6526"
+street: Westgate Drive
+housenumber: "84"
+phone: +1 774 257 6526
 opening_hours: ""
-website: "https://www.maaco.com/locations/ma/brockton-11064/"
+website: https://www.maaco.com/locations/ma/brockton-11064/

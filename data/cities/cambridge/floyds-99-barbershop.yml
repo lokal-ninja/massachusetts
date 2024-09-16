@@ -4,8 +4,8 @@ latitude: 42.38213
 longitude: -71.1199
 postcode: ""
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1672
-phone: "+1 617 492 0936"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.floydsbarbershop.com/cambridge"
+street: Massachusetts Avenue
+housenumber: "1672"
+phone: +1 617 492 0936
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.floydsbarbershop.com/cambridge

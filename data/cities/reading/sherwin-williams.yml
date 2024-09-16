@@ -4,8 +4,8 @@ latitude: 42.51859
 longitude: -71.10251
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 349
-phone: "+1 781 9420518"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/reading/ma/5384"
+street: Main Street
+housenumber: "349"
+phone: +1 781 9420518
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/reading/ma/5384

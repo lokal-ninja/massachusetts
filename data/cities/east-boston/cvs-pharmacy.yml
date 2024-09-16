@@ -1,11 +1,11 @@
 id: 818690777
-type: way
+type: node
 latitude: 42.3848
 longitude: -70.99935
 postcode: "02128"
 city: East Boston
-street: "Saratoga Street"
-housenumber: 1150
+street: Saratoga Street
+housenumber: "1150"
 phone: "+16175692638"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.cvs.com/store-locator/east-boston-ma-pharmacies/1150-saratoga-street-east-boston-ma-02128/storeid=619"
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.cvs.com/store-locator/east-boston-ma-pharmacies/1150-saratoga-street-east-boston-ma-02128/storeid=619

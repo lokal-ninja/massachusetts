@@ -1,11 +1,11 @@
 id: 138030998
-type: way
+type: node
 latitude: 42.54932
 longitude: -71.175
 postcode: "01887"
 city: Wilmington
-street: "Middlesex Avenue"
-housenumber: 4
-phone: "+1 978 6589182"
+street: Middlesex Avenue
+housenumber: "4"
+phone: +1 978 6589182
 opening_hours: ""
-website: "https://www.napaonline.com/ma/wilmington"
+website: https://www.napaonline.com/ma/wilmington

@@ -4,8 +4,8 @@ latitude: 42.50199
 longitude: -71.06935
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 452
-phone: "+1 781 2454264"
+street: Main Street
+housenumber: "452"
+phone: +1 781 2454264
 opening_hours: ""
-website: "http://www.flawlessmakeupcompany.com/"
+website: http://www.flawlessmakeupcompany.com/

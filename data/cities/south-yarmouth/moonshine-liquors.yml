@@ -1,11 +1,11 @@
 id: 214254419
-type: way
+type: node
 latitude: 41.65492
 longitude: -70.20842
 postcode: "02664"
 city: South Yarmouth
-street: "Willow Street"
-housenumber: 931
+street: Willow Street
+housenumber: "931"
 phone: ""
 opening_hours: ""
 website: ""

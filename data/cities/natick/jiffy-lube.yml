@@ -1,11 +1,11 @@
 id: 214610239
-type: way
+type: node
 latitude: 42.30415
 longitude: -71.33076
 postcode: ""
 city: Natick
-street: "Worcester Street"
-housenumber: 99
+street: Worcester Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

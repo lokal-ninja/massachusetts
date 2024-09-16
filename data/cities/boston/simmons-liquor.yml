@@ -4,8 +4,8 @@ latitude: 42.361
 longitude: -71.0661
 postcode: "02114"
 city: Boston
-street: "Cambridge Street"
-housenumber: 210
+street: Cambridge Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

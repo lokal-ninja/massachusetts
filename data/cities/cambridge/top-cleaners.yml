@@ -4,8 +4,8 @@ latitude: 42.37343
 longitude: -71.09925
 postcode: "02139"
 city: Cambridge
-street: "Cambridge Street"
-housenumber: 1300
-phone: "+1 617 864 7343"
-opening_hours: "Mo,Tu,Th 07:00-19:00; We,Fr 07:00-18:00; Sa 08:00-20:00"
+street: Cambridge Street
+housenumber: "1300"
+phone: +1 617 864 7343
+opening_hours: Mo,Tu,Th 07:00-19:00; We,Fr 07:00-18:00; Sa 08:00-20:00
 website: ""

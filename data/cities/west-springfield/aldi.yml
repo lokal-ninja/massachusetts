@@ -1,11 +1,11 @@
 id: 731157921
-type: way
+type: node
 latitude: 42.12846
 longitude: -72.62414
-postcode: "01089-4613"
+postcode: 01089-4613
 city: West Springfield
-street: "Riverdale Street"
-housenumber: 903
-phone: "+1 877-473-1021"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/west-springfield/903-riverdale-street"
+street: Riverdale Street
+housenumber: "903"
+phone: +1 877-473-1021
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/west-springfield/903-riverdale-street

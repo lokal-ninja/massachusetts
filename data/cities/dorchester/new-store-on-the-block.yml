@@ -4,8 +4,8 @@ latitude: 42.32182
 longitude: -71.05693
 postcode: "02125"
 city: Dorchester
-street: "Dorchester Avenue"
-housenumber: 845
+street: Dorchester Avenue
+housenumber: "845"
 phone: ""
-opening_hours: "Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 06:00-20:30"
+opening_hours: Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 06:00-20:30
 website: ""

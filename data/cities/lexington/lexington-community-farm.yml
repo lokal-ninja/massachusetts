@@ -1,11 +1,11 @@
 id: 214275878
-type: way
+type: node
 latitude: 42.43303
 longitude: -71.18845
 postcode: ""
 city: Lexington
-street: "Lowell Street"
-housenumber: 52
+street: Lowell Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://lexfarm.org/"
+website: https://lexfarm.org/

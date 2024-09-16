@@ -4,8 +4,8 @@ latitude: 42.48772
 longitude: -71.22299
 postcode: "01803"
 city: Burlington
-street: "Third Avenue"
-housenumber: 15
-phone: "+1-781-273-1500"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://doverrug.com/"
+street: Third Avenue
+housenumber: "15"
+phone: +1-781-273-1500
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://doverrug.com/

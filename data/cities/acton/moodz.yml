@@ -1,11 +1,11 @@
 id: 196426932
-type: way
+type: node
 latitude: 42.47585
 longitude: -71.4727
 postcode: "01720"
 city: Acton
-street: "Massachusetts Avenue"
-housenumber: 556
+street: Massachusetts Avenue
+housenumber: "556"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.26899
 longitude: -71.78005
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 304
+street: Shrewsbury Street
+housenumber: "304"
 phone: ""
-opening_hours: "Mo-Fr 15:00-20:00;Sa 10:00-16:00"
-website: "http://www.centralmassscuba.com/"
+opening_hours: Mo-Fr 15:00-20:00;Sa 10:00-16:00
+website: http://www.centralmassscuba.com/

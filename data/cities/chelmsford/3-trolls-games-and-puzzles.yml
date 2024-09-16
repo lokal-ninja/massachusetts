@@ -1,11 +1,11 @@
 id: 257207743
-type: way
+type: node
 latitude: 42.59394
 longitude: -71.34832
 postcode: "01824"
 city: Chelmsford
-street: "Summer Street"
-housenumber: 7
+street: Summer Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.3trolls.com/"
+website: https://www.3trolls.com/

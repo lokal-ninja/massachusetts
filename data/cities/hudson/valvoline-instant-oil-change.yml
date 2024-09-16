@@ -1,11 +1,11 @@
 id: 213649288
-type: way
+type: node
 latitude: 42.38409
 longitude: -71.56949
 postcode: "01749"
 city: Hudson
-street: "Washington Street"
-housenumber: 144
+street: Washington Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ma/hudson/oil-change-ed0001.html"
+website: https://store.vioc.com/ma/hudson/oil-change-ed0001.html

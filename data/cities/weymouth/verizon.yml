@@ -1,11 +1,11 @@
 id: 61594320
-type: way
+type: node
 latitude: 42.18881
 longitude: -70.95531
 postcode: ""
 city: Weymouth
-street: "Main Street"
-housenumber: 522
+street: Main Street
+housenumber: "522"
 phone: ""
 opening_hours: ""
-website: "https://locations.tccrocks.com/ma/weymouth/522-main-st.html"
+website: https://locations.tccrocks.com/ma/weymouth/522-main-st.html

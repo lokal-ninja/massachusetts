@@ -4,8 +4,8 @@ latitude: 42.39483
 longitude: -71.08057
 postcode: "02145"
 city: Somerville
-street: "Artisan Way"
-housenumber: 341
-phone: "+1 617 623 1159"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://stores.puma.com/ma/somerville/341-artisan-way"
+street: Artisan Way
+housenumber: "341"
+phone: +1 617 623 1159
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00
+website: https://stores.puma.com/ma/somerville/341-artisan-way

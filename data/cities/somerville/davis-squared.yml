@@ -4,8 +4,8 @@ latitude: 42.39618
 longitude: -71.12129
 postcode: "02144"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 409
-phone: "+1-617-666-6700"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://davissquared.com/"
+street: Highland Avenue
+housenumber: "409"
+phone: +1-617-666-6700
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://davissquared.com/

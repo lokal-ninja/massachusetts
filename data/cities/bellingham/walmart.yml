@@ -1,11 +1,11 @@
 id: 212005624
-type: way
+type: node
 latitude: 42.11595
 longitude: -71.46483
 postcode: "02019"
 city: Bellingham
-street: "Hartford Avenue"
-housenumber: 250
-phone: "+1 508-966-7633"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/1918-bellingham-ma"
+street: Hartford Avenue
+housenumber: "250"
+phone: +1 508-966-7633
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/1918-bellingham-ma

@@ -1,11 +1,11 @@
 id: 935154176
-type: way
+type: node
 latitude: 42.46082
 longitude: -71.16501
 postcode: "01801"
 city: Woburn
-street: "Cambridge Road"
-housenumber: 348
-phone: "+1-781-281-7166"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-15:00"
-website: "https://locations.theupsstore.com/ma/woburn/348-cambridge-rd"
+street: Cambridge Road
+housenumber: "348"
+phone: +1-781-281-7166
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-15:00
+website: https://locations.theupsstore.com/ma/woburn/348-cambridge-rd

@@ -1,11 +1,11 @@
 id: 214117336
-type: way
+type: node
 latitude: 42.54056
 longitude: -71.15374
 postcode: "01887"
 city: Wilmington
-street: "Lowell Street"
-housenumber: 160
-phone: "+1 978 6585705"
+street: Lowell Street
+housenumber: "160"
+phone: +1 978 6585705
 opening_hours: ""
-website: "https://www.wsaparts.com"
+website: https://www.wsaparts.com

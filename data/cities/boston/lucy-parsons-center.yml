@@ -4,8 +4,8 @@ latitude: 42.32233
 longitude: -71.10751
 postcode: "02130"
 city: Boston
-street: "Centre Street"
-housenumber: 358
+street: Centre Street
+housenumber: "358"
 phone: ""
-opening_hours: "Tu-We, Fr 13:00-19:00"
+opening_hours: Tu-We, Fr 13:00-19:00
 website: ""

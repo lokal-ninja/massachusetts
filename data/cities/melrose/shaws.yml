@@ -1,11 +1,11 @@
 id: 29801187
-type: way
+type: node
 latitude: 42.45591
 longitude: -71.06579
 postcode: "02176"
 city: Melrose
-street: "Essex Street"
-housenumber: 34
+street: Essex Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/ma/melrose/34-essex-st.html"
+website: https://local.shaws.com/ma/melrose/34-essex-st.html

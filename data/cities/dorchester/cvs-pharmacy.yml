@@ -1,11 +1,11 @@
 id: 1223134237
-type: way
+type: node
 latitude: 42.2975
 longitude: -71.04957
 postcode: "02122"
 city: Dorchester
-street: "Morrissey Boulevard"
-housenumber: 715
+street: Morrissey Boulevard
+housenumber: "715"
 phone: "+16178221307"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/dorchester-ma-pharmacies/715-morrissey-boulevard-dorchester-ma-02122/storeid=2283"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/dorchester-ma-pharmacies/715-morrissey-boulevard-dorchester-ma-02122/storeid=2283

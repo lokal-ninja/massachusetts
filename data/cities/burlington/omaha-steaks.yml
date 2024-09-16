@@ -4,8 +4,8 @@ latitude: 42.48449
 longitude: -71.19389
 postcode: "01803"
 city: Burlington
-street: "Wayside Road"
-housenumber: 2
-phone: "+1-781-229-4900"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.omahasteaks.com/"
+street: Wayside Road
+housenumber: "2"
+phone: +1-781-229-4900
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.omahasteaks.com/

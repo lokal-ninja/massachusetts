@@ -1,11 +1,11 @@
 id: 29807348
-type: way
+type: node
 latitude: 42.33134
 longitude: -71.06885
 postcode: "02118"
 city: Boston
-street: "Southampton Street"
-housenumber: 133
+street: Southampton Street
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

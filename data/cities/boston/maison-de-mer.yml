@@ -4,8 +4,8 @@ latitude: 42.3437
 longitude: -71.07402
 postcode: "02116"
 city: Boston
-street: "Dartmouth Street"
-housenumber: 23
-phone: "+1-617-803-2192"
+street: Dartmouth Street
+housenumber: "23"
+phone: +1-617-803-2192
 opening_hours: ""
 website: ""

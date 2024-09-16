@@ -1,11 +1,11 @@
 id: 213027679
-type: way
+type: node
 latitude: 41.69972
 longitude: -71.14704
 postcode: "02720"
 city: Fall River
-street: "Bedford Street"
-housenumber: 489
-phone: "+1 508-679-9307"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-14:00"
-website: "https://portugaliamarketplace.com"
+street: Bedford Street
+housenumber: "489"
+phone: +1 508-679-9307
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-14:00
+website: https://portugaliamarketplace.com

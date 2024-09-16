@@ -4,8 +4,8 @@ latitude: 42.07996
 longitude: -72.52776
 postcode: "01028"
 city: East Longmeadow
-street: "North Main Street"
-housenumber: 431
-phone: "+1 413-525-4764"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: North Main Street
+housenumber: "431"
+phone: +1 413-525-4764
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

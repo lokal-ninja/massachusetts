@@ -1,11 +1,11 @@
 id: 211860773
-type: way
+type: node
 latitude: 41.66437
 longitude: -70.28677
 postcode: "02601"
 city: Hyannis
-street: "Barnstable Road"
-housenumber: 400
-phone: "+1-508-771-5100"
+street: Barnstable Road
+housenumber: "400"
+phone: +1-508-771-5100
 opening_hours: ""
-website: "http://www.hyannisfoodservice.com/"
+website: http://www.hyannisfoodservice.com/

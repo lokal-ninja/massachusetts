@@ -1,11 +1,11 @@
 id: 211949360
-type: way
+type: node
 latitude: 41.63397
 longitude: -70.3893
 postcode: "02655"
 city: Barnstable
-street: "Main Street"
-housenumber: 1056
+street: Main Street
+housenumber: "1056"
 phone: ""
 opening_hours: ""
 website: ""

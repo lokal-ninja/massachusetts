@@ -1,11 +1,11 @@
 id: 306066908
-type: way
+type: node
 latitude: 42.62231
 longitude: -71.36159
 postcode: "01824"
 city: Chelmsford
-street: "Drum Hill Road"
-housenumber: 
-phone: "+1 978-275-9585"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+street: Drum Hill Road
+housenumber: ""
+phone: +1 978-275-9585
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
 website: ""

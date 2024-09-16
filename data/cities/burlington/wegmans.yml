@@ -1,11 +1,11 @@
 id: 345892824
-type: way
+type: node
 latitude: 42.4875
 longitude: -71.22692
 postcode: "01803"
 city: Burlington
-street: "Third Avenue"
-housenumber: 53
-phone: "+1 781-418-0700"
-opening_hours: "06:00-24:00"
-website: "https://www.wegmans.com/stores/burlington-ma"
+street: Third Avenue
+housenumber: "53"
+phone: +1 781-418-0700
+opening_hours: 06:00-24:00
+website: https://www.wegmans.com/stores/burlington-ma

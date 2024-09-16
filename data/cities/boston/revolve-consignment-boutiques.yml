@@ -4,8 +4,8 @@ latitude: 42.34925
 longitude: -71.08305
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 262
-phone: "+1-617-262-0720"
+street: Newbury Street
+housenumber: "262"
+phone: +1-617-262-0720
 opening_hours: ""
-website: "https://revolveboutiques.com/"
+website: https://revolveboutiques.com/

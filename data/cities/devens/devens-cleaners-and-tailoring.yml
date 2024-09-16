@@ -4,8 +4,8 @@ latitude: 42.53989
 longitude: -71.61405
 postcode: "01434"
 city: Devens
-street: "Andrews Parkway"
-housenumber: 22
-phone: "978-772-7722"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://www.devenscleanertailor.com/"
+street: Andrews Parkway
+housenumber: "22"
+phone: 978-772-7722
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://www.devenscleanertailor.com/

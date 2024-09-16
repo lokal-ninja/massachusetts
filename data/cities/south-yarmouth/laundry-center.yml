@@ -1,11 +1,11 @@
 id: 214255568
-type: way
+type: node
 latitude: 41.65359
 longitude: -70.21044
 postcode: "02664"
 city: South Yarmouth
-street: "Main Street"
-housenumber: 897
+street: Main Street
+housenumber: "897"
 phone: ""
 opening_hours: ""
 website: ""

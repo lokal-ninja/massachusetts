@@ -1,11 +1,11 @@
 id: 216161004
-type: way
+type: node
 latitude: 42.13711
 longitude: -72.58228
 postcode: "01104"
 city: Springfield
-street: "Liberty Street"
-housenumber: 1277
+street: Liberty Street
+housenumber: "1277"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.31008
 longitude: -71.1042
 postcode: "02130"
 city: Jamaica Plain
-street: "Washington Street"
-housenumber: 3345
+street: Washington Street
+housenumber: "3345"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00; Sa 08:00-23:00"
+opening_hours: Mo-Su 07:00-23:00; Sa 08:00-23:00
 website: ""

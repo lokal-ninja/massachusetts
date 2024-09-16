@@ -4,8 +4,8 @@ latitude: 42.35225
 longitude: -71.07181
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 8
+street: Newbury Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.rolex.com/"
+website: https://www.rolex.com/

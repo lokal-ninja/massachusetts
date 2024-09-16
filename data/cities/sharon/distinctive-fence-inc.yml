@@ -1,11 +1,11 @@
 id: 215960964
-type: way
+type: node
 latitude: 42.12267
 longitude: -71.23108
 postcode: "02067"
 city: Sharon
-street: "General Edwards Highway"
-housenumber: 1000
-phone: "+1 781-784-5848"
+street: General Edwards Highway
+housenumber: "1000"
+phone: +1 781-784-5848
 opening_hours: ""
-website: "http://distinctivefences-ma.com/"
+website: http://distinctivefences-ma.com/

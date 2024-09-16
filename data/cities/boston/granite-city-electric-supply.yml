@@ -4,8 +4,8 @@ latitude: 42.36213
 longitude: -71.14185
 postcode: "02135"
 city: Boston
-street: "Western Avenue"
-housenumber: 450
+street: Western Avenue
+housenumber: "450"
 phone: "+16172546500"
-opening_hours: "Mo-Fr 06:30-17:00"
-website: "https://www.granitecityelectric.com/"
+opening_hours: Mo-Fr 06:30-17:00
+website: https://www.granitecityelectric.com/

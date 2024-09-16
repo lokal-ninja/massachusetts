@@ -1,11 +1,11 @@
 id: 196456777
-type: way
+type: node
 latitude: 42.42023
 longitude: -71.16691
 postcode: "02476"
 city: Arlington
-street: "Dudley Court"
-housenumber: 14
+street: Dudley Court
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

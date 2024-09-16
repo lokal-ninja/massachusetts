@@ -1,11 +1,11 @@
 id: 164418808
-type: way
+type: node
 latitude: 42.63412
 longitude: -71.35539
 postcode: "01851"
 city: Lowell
-street: "Wood Street"
-housenumber: 12
+street: Wood Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

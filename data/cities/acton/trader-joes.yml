@@ -4,8 +4,8 @@ latitude: 42.4825
 longitude: -71.41456
 postcode: "01720"
 city: Acton
-street: "Great Road"
-housenumber: 145
-phone: "+1 978-266-8908"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ma/acton/511/"
+street: Great Road
+housenumber: "145"
+phone: +1 978-266-8908
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ma/acton/511/

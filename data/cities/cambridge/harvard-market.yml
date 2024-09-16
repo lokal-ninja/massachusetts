@@ -4,8 +4,8 @@ latitude: 42.37494
 longitude: -71.10927
 postcode: "02138"
 city: Cambridge
-street: "Cambridge Street"
-housenumber: 1627
+street: Cambridge Street
+housenumber: "1627"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00
 website: ""

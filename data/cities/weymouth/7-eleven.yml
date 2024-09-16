@@ -2,10 +2,10 @@ id: 600101930
 type: node
 latitude: 42.2293
 longitude: -70.94404
-postcode: "02189-1073"
+postcode: 02189-1073
 city: Weymouth
-street: "North Street"
-housenumber: 585
-phone: "+1 781-331-0942"
+street: North Street
+housenumber: "585"
+phone: +1 781-331-0942
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/weymouth/585-north-street-32444"
+website: https://www.7-eleven.com/locations/ma/weymouth/585-north-street-32444

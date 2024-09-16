@@ -1,11 +1,11 @@
 id: 213947733
-type: way
+type: node
 latitude: 42.16538
 longitude: -70.88758
 postcode: "02061"
 city: Norwell
-street: "Accord Park Drive"
-housenumber: 109
+street: Accord Park Drive
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

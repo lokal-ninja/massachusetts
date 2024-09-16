@@ -1,11 +1,11 @@
 id: 216325033
-type: way
+type: node
 latitude: 41.77023
 longitude: -71.26521
 postcode: "02777"
 city: Swansea
-street: "Grand Army of the Republic Highway"
-housenumber: 2345
+street: Grand Army of the Republic Highway
+housenumber: "2345"
 phone: ""
 opening_hours: ""
-website: "https://www.seasonscornermarket.com"
+website: https://www.seasonscornermarket.com

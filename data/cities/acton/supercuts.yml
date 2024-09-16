@@ -1,11 +1,11 @@
 id: 330676648
-type: way
+type: node
 latitude: 42.47591
 longitude: -71.45118
 postcode: "01720"
 city: Acton
-street: "Main Street"
-housenumber: 293
+street: Main Street
+housenumber: "293"
 phone: ""
 opening_hours: ""
 website: ""

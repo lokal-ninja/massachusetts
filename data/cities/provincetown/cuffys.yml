@@ -4,8 +4,8 @@ latitude: 42.05137
 longitude: -70.18648
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 291
+street: Commercial Street
+housenumber: "291"
 phone: ""
 opening_hours: ""
-website: "https://cuffys.com/"
+website: https://cuffys.com/

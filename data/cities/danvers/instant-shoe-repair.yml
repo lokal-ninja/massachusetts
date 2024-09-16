@@ -1,11 +1,11 @@
 id: 1083629868
-type: way
+type: node
 latitude: 42.56541
 longitude: -70.93625
 postcode: "01923"
 city: Danvers
-street: "Elm Street"
-housenumber: 11
+street: Elm Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

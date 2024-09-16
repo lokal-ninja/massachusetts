@@ -4,8 +4,8 @@ latitude: 42.50347
 longitude: -71.07022
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 394
+street: Main Street
+housenumber: "394"
 phone: ""
 opening_hours: ""
-website: "https://radaboutique.com/"
+website: https://radaboutique.com/

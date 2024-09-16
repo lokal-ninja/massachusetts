@@ -1,11 +1,11 @@
 id: 29574513
-type: way
+type: node
 latitude: 42.36274
 longitude: -71.09835
 postcode: "02139"
 city: Cambridge
-street: "Main Street"
-housenumber: 844
-phone: "+1 617 354 0500"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00"
+street: Main Street
+housenumber: "844"
+phone: +1 617 354 0500
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
 website: ""

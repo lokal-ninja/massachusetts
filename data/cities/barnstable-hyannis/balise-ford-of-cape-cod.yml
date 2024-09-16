@@ -1,11 +1,11 @@
 id: 211861101
-type: way
+type: node
 latitude: 41.65406
 longitude: -70.28732
 postcode: "02601"
 city: Barnstable,Hyannis
-street: "High School Road"
-housenumber: 90
+street: High School Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

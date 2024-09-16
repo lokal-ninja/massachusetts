@@ -1,11 +1,11 @@
 id: 297253855
-type: way
+type: node
 latitude: 42.45881
 longitude: -71.23814
 postcode: "02420"
 city: Lexington
-street: "Bedford Street"
-housenumber: 180
+street: Bedford Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

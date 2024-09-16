@@ -4,8 +4,8 @@ latitude: 42.05306
 longitude: -70.18425
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 353
+street: Commercial Street
+housenumber: "353"
 phone: ""
 opening_hours: ""
-website: "https://cloveandcreek.com/pages/hours-location"
+website: https://cloveandcreek.com/pages/hours-location

@@ -4,8 +4,8 @@ latitude: 42.35231
 longitude: -71.07324
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 43
-phone: "+1-617-236-4999"
+street: Newbury Street
+housenumber: "43"
+phone: +1-617-236-4999
 opening_hours: ""
-website: "https://us.loropiana.com/en/"
+website: https://us.loropiana.com/en/

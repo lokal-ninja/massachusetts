@@ -1,11 +1,11 @@
 id: 214410917
-type: way
+type: node
 latitude: 42.03324
 longitude: -71.23706
 postcode: "02048"
 city: Mansfield
-street: "Chauncy Street"
-housenumber: 377
+street: Chauncy Street
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

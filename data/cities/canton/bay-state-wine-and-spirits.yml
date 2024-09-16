@@ -1,11 +1,11 @@
 id: 212298634
-type: way
+type: node
 latitude: 42.207
 longitude: -71.1202
 postcode: "02021"
 city: Canton
-street: "Washington Street"
-housenumber: 2740
+street: Washington Street
+housenumber: "2740"
 phone: ""
 opening_hours: ""
 website: ""

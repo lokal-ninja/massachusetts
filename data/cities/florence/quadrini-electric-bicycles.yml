@@ -4,8 +4,8 @@ latitude: 42.33584
 longitude: -72.66904
 postcode: "01062"
 city: Florence
-street: "Main Street"
-housenumber: 45
-phone: "+1 (800) 618-1512"
-opening_hours: "by appointment"
-website: "https://www.quadrini-usa.com"
+street: Main Street
+housenumber: "45"
+phone: +1 (800) 618-1512
+opening_hours: '"by appointment"'
+website: https://www.quadrini-usa.com

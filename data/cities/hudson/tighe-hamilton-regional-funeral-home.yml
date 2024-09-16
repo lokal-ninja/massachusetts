@@ -1,11 +1,11 @@
 id: 213650368
-type: way
+type: node
 latitude: 42.39299
 longitude: -71.57451
 postcode: "01749"
 city: Hudson
-street: "Central Street"
-housenumber: 50
+street: Central Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.tighehamilton.com/"
+website: https://www.tighehamilton.com/

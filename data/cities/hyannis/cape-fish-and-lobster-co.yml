@@ -1,11 +1,11 @@
 id: 304727182
-type: way
+type: node
 latitude: 41.65257
 longitude: -70.31814
 postcode: "02601"
 city: Hyannis
-street: "West Main Street"
-housenumber: 626
+street: West Main Street
+housenumber: "626"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su closed"
+opening_hours: Mo-Sa 09:00-18:00; Su closed
 website: ""

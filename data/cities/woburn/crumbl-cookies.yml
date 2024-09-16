@@ -1,11 +1,11 @@
 id: 935169190
-type: way
+type: node
 latitude: 42.50469
 longitude: -71.13294
 postcode: "01801"
 city: Woburn
-street: "Mishawum Road"
-housenumber: 300
-phone: "+1-339-298-7054"
-opening_hours: "Mo-Th 08:00-22:00; Fr-Sa 08:00-24:00"
-website: "https://crumblcookies.com/mawoburn"
+street: Mishawum Road
+housenumber: "300"
+phone: +1-339-298-7054
+opening_hours: Mo-Th 08:00-22:00; Fr-Sa 08:00-24:00
+website: https://crumblcookies.com/mawoburn

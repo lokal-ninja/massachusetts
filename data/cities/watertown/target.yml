@@ -1,11 +1,11 @@
 id: 257991111
-type: way
+type: node
 latitude: 42.36413
 longitude: -71.15798
 postcode: "02472"
 city: Watertown
-street: "Arsenal Street"
-housenumber: 550
+street: Arsenal Street
+housenumber: "550"
 phone: "+16179246574"
-opening_hours: "Su-We 07:00-22:00; Th 07:00-23:59"
-website: "https://www.target.com/sl/watertown/1442"
+opening_hours: Su-We 07:00-22:00; Th 07:00-23:59
+website: https://www.target.com/sl/watertown/1442

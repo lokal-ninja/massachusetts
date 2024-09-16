@@ -1,11 +1,11 @@
 id: 29516095
-type: way
+type: node
 latitude: 42.3936
 longitude: -71.13881
 postcode: ""
 city: Cambridge
-street: "Rindge Avenue"
-housenumber: 372
-phone: "+1 617 354 4561"
+street: Rindge Avenue
+housenumber: "372"
+phone: +1 617 354 4561
 opening_hours: ""
 website: ""

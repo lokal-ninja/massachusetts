@@ -4,8 +4,8 @@ latitude: 42.34958
 longitude: -71.10558
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 712
+street: Commonwealth Avenue
+housenumber: "712"
 phone: ""
-opening_hours: "07:30-18:00"
-website: "https://louies.com/"
+opening_hours: 07:30-18:00
+website: https://louies.com/

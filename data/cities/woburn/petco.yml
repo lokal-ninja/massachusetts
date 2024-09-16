@@ -4,8 +4,8 @@ latitude: 42.5175
 longitude: -71.13696
 postcode: "01801"
 city: Woburn
-street: "Commerce Way"
-housenumber: 103
-phone: "+1 781-933-2193"
-opening_hours: "09:00-17:00"
-website: "https://stores.petco.com/ma/woburn/pet-supplies-woburn-ma-1784.html"
+street: Commerce Way
+housenumber: "103"
+phone: +1 781-933-2193
+opening_hours: 09:00-17:00
+website: https://stores.petco.com/ma/woburn/pet-supplies-woburn-ma-1784.html

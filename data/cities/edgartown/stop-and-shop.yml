@@ -1,11 +1,11 @@
 id: 212976505
-type: way
+type: node
 latitude: 41.39397
 longitude: -70.5249
 postcode: "02539"
 city: Edgartown
-street: "Upper Main Street"
-housenumber: 225
+street: Upper Main Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://stores.stopandshop.com/ma/edgartown/225-upper-main-street"
+website: https://stores.stopandshop.com/ma/edgartown/225-upper-main-street

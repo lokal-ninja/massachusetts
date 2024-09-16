@@ -1,11 +1,11 @@
 id: 325041970
-type: way
+type: node
 latitude: 42.81077
 longitude: -70.86621
 postcode: "01922"
 city: Newburyport
-street: "Water Street"
-housenumber: 50
-phone: "+1 978-462-4662"
+street: Water Street
+housenumber: "50"
+phone: +1 978-462-4662
 opening_hours: ""
-website: "http://www.joppafinefoods.com/"
+website: http://www.joppafinefoods.com/

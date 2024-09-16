@@ -4,8 +4,8 @@ latitude: 42.50495
 longitude: -71.07121
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 334
-phone: "+1 781 2461111"
+street: Main Street
+housenumber: "334"
+phone: +1 781 2461111
 opening_hours: ""
-website: "http://pictureperfecthair.org/"
+website: http://pictureperfecthair.org/

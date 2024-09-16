@@ -1,11 +1,11 @@
 id: 213962331
-type: way
+type: node
 latitude: 42.20825
 longitude: -70.72422
 postcode: "02066"
 city: Scituate
-street: "Turner Road"
-housenumber: 160
-phone: "+1-781-378-0169"
-opening_hours: "Mo-Fr 06:30-21:00; Sa-Su 07:00-21:00"
-website: "http://www.sandhillsgeneralstoredeli.com/"
+street: Turner Road
+housenumber: "160"
+phone: +1-781-378-0169
+opening_hours: Mo-Fr 06:30-21:00; Sa-Su 07:00-21:00
+website: http://www.sandhillsgeneralstoredeli.com/

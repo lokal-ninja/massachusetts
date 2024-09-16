@@ -4,8 +4,8 @@ latitude: 42.39695
 longitude: -71.12218
 postcode: "02144"
 city: Somerville
-street: "College Avenue"
-housenumber: 4
-phone: "+1 617-623-0630"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.7-eleven.com/locations/ma/somerville/4-college-ave-37345"
+street: College Avenue
+housenumber: "4"
+phone: +1 617-623-0630
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.7-eleven.com/locations/ma/somerville/4-college-ave-37345

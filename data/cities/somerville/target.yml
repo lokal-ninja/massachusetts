@@ -4,8 +4,8 @@ latitude: 42.37659
 longitude: -71.09057
 postcode: "02143"
 city: Somerville
-street: "Somerville Avenue"
-housenumber: 180
-phone: "+1 617-776-4036"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/somerville/1441"
+street: Somerville Avenue
+housenumber: "180"
+phone: +1 617-776-4036
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/somerville/1441

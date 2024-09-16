@@ -1,11 +1,11 @@
 id: 212288187
-type: way
+type: node
 latitude: 42.4798
 longitude: -71.21715
 postcode: "01803"
 city: Burlington
-street: "Middlesex Turnpike"
-housenumber: 98
-phone: "+1 781 273 3871"
-opening_hours: "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00"
-website: "https://www.barnesandnoble.com/"
+street: Middlesex Turnpike
+housenumber: "98"
+phone: +1 781 273 3871
+opening_hours: Su-Th 09:00-22:00; Fr-Sa 09:00-23:00
+website: https://www.barnesandnoble.com/

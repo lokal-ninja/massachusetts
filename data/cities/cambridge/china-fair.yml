@@ -4,8 +4,8 @@ latitude: 42.39152
 longitude: -71.12385
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 2100
-phone: "+1 617 864 3050"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
-website: "http://www.chinafairinc.com/"
+street: Massachusetts Avenue
+housenumber: "2100"
+phone: +1 617 864 3050
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
+website: http://www.chinafairinc.com/

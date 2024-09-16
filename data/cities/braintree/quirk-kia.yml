@@ -4,8 +4,8 @@ latitude: 42.23009
 longitude: -70.97398
 postcode: "02184"
 city: Braintree
-street: "Quincy Avenue"
-housenumber: 443
-phone: "+1 781 9171299"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.quirkkia.com/"
+street: Quincy Avenue
+housenumber: "443"
+phone: +1 781 9171299
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.quirkkia.com/

@@ -4,8 +4,8 @@ latitude: 42.30747
 longitude: -71.11531
 postcode: "02130"
 city: Jamaica Plain
-street: "South Street"
-housenumber: 66
-phone: "+1-617-524-2453"
-opening_hours: "Mo-Sa 10:00-18:00; Sa 10:00-17:00"
-website: "https://ferriswheelsbikeshop.com/"
+street: South Street
+housenumber: "66"
+phone: +1-617-524-2453
+opening_hours: Mo-Sa 10:00-18:00; Sa 10:00-17:00
+website: https://ferriswheelsbikeshop.com/

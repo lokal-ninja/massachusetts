@@ -1,11 +1,11 @@
 id: 152165968
-type: way
+type: node
 latitude: 42.50391
 longitude: -71.12725
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 422
-phone: "+1 781 9351375"
+street: Washington Street
+housenumber: "422"
+phone: +1 781 9351375
 opening_hours: ""
-website: "https://www.townfairtire.com/store/tires/massachusetts/woburn/"
+website: https://www.townfairtire.com/store/tires/massachusetts/woburn/

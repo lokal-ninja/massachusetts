@@ -1,11 +1,11 @@
 id: 213984069
-type: way
+type: node
 latitude: 42.11497
 longitude: -72.72964
 postcode: "01085"
 city: Westfield
-street: "East Main Street"
-housenumber: 200
+street: East Main Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ma/westfield/200-e-main-st.html"
+website: https://www.autozone.com/locations/ma/westfield/200-e-main-st.html

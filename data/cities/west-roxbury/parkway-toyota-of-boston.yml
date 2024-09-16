@@ -1,11 +1,11 @@
 id: 29671213
-type: way
+type: node
 latitude: 42.26546
 longitude: -71.16958
 postcode: "02132"
 city: West Roxbury
-street: "VFW Parkway"
-housenumber: 1605
-phone: "+1 617-469-1000"
+street: VFW Parkway
+housenumber: "1605"
+phone: +1 617-469-1000
 opening_hours: ""
-website: "https://www.parkwaytoyotaboston.com/"
+website: https://www.parkwaytoyotaboston.com/

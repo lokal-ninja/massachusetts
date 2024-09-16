@@ -1,11 +1,11 @@
 id: 29661558
-type: way
+type: node
 latitude: 42.37633
 longitude: -71.04082
 postcode: "02128"
 city: East Boston
-street: "Border Street"
-housenumber: 246
+street: Border Street
+housenumber: "246"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/ma/east-boston/246-border-st.html"
+website: https://local.shaws.com/ma/east-boston/246-border-st.html

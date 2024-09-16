@@ -1,11 +1,11 @@
 id: 29760243
-type: way
+type: node
 latitude: 42.27578
 longitude: -71.02723
 postcode: "02171"
 city: Quincy
-street: "Hancock Street"
-housenumber: 324
+street: Hancock Street
+housenumber: "324"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-324+hancock+st-quincy-ma-02171/id=11831"
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-324+hancock+st-quincy-ma-02171/id=11831

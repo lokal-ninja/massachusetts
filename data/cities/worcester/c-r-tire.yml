@@ -1,11 +1,11 @@
 id: 214191184
-type: way
+type: node
 latitude: 42.29835
 longitude: -71.79755
 postcode: ""
 city: Worcester
-street: "Randolph Road"
-housenumber: 111
+street: Randolph Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

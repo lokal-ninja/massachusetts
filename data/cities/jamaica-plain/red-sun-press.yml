@@ -1,11 +1,11 @@
 id: 29582507
-type: way
+type: node
 latitude: 42.3113
 longitude: -71.10882
 postcode: "02130"
 city: Jamaica Plain
-street: "Green Street"
-housenumber: 94
-phone: "+1 617 524 6822"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://redsunpress.com/"
+street: Green Street
+housenumber: "94"
+phone: +1 617 524 6822
+opening_hours: Mo-Fr 09:00-17:00
+website: https://redsunpress.com/

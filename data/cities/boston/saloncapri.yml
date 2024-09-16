@@ -4,8 +4,8 @@ latitude: 42.35273
 longitude: -71.07203
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 11
-phone: "+1-617-236-0020"
+street: Newbury Street
+housenumber: "11"
+phone: +1-617-236-0020
 opening_hours: ""
-website: "https://saloncapri.com/"
+website: https://saloncapri.com/

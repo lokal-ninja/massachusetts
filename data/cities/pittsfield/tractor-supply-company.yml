@@ -1,11 +1,11 @@
 id: 997704285
-type: way
+type: node
 latitude: 42.46774
 longitude: -73.20629
 postcode: "01201"
 city: Pittsfield
-street: "Crane Avenue"
-housenumber: 898
-phone: "+1 413-236-5871"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Crane Avenue
+housenumber: "898"
+phone: +1 413-236-5871
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

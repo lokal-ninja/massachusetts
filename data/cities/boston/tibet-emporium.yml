@@ -4,8 +4,8 @@ latitude: 42.35911
 longitude: -71.07057
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 103
-phone: "+1-617-723-8035"
+street: Charles Street
+housenumber: "103"
+phone: +1-617-723-8035
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35045
 longitude: -71.0786
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 164
-phone: "+1-857-239-8384"
+street: Newbury Street
+housenumber: "164"
+phone: +1-857-239-8384
 opening_hours: ""
-website: "https://www.streetsalonboston.com/"
+website: https://www.streetsalonboston.com/

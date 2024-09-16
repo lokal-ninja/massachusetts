@@ -4,8 +4,8 @@ latitude: 42.37193
 longitude: -71.1205
 postcode: "02138"
 city: Cambridge
-street: "John F. Kennedy Street"
-housenumber: 52
-phone: "+1 617-250-8241"
-opening_hours: "We 11:00-15:00,16:00-19:00; Th 11:00-15:00,16:00-19:00; Fr,Sa 11:00-15:00,16:00-20:00"
-website: "http://www.goodvibes.com/"
+street: John F. Kennedy Street
+housenumber: "52"
+phone: +1 617-250-8241
+opening_hours: We 11:00-15:00,16:00-19:00; Th 11:00-15:00,16:00-19:00; Fr,Sa 11:00-15:00,16:00-20:00
+website: http://www.goodvibes.com/

@@ -4,8 +4,8 @@ latitude: 42.17187
 longitude: -70.92133
 postcode: "02043"
 city: Hingham
-street: "Research Road"
-housenumber: 100
-phone: "+1 866-337-9888"
+street: Research Road
+housenumber: "100"
+phone: +1 866-337-9888
 opening_hours: ""
-website: "https://www.boltdepot.com/"
+website: https://www.boltdepot.com/

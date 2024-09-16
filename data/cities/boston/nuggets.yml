@@ -4,8 +4,8 @@ latitude: 42.34855
 longitude: -71.09434
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 486
-phone: "+1-617-536-0679"
-opening_hours: "Tu-Sa 11:30-19:00; Su 12:00-17:00"
-website: "http://www.nuggetsrecords.com/"
+street: Commonwealth Avenue
+housenumber: "486"
+phone: +1-617-536-0679
+opening_hours: Tu-Sa 11:30-19:00; Su 12:00-17:00
+website: http://www.nuggetsrecords.com/

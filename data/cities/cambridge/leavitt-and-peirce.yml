@@ -4,8 +4,8 @@ latitude: 42.37289
 longitude: -71.1176
 postcode: "02138"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1316
-phone: "+1 617 547 0576"
-opening_hours: "Mo-Th 09:00-18:00, Su 12:00-18:00"
-website: "http://leavitt-peirce.com/"
+street: Massachusetts Avenue
+housenumber: "1316"
+phone: +1 617 547 0576
+opening_hours: Mo-Th 09:00-18:00, Su 12:00-18:00
+website: http://leavitt-peirce.com/

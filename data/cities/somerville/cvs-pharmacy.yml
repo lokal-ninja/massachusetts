@@ -4,8 +4,8 @@ latitude: 42.39629
 longitude: -71.1226
 postcode: "02144"
 city: Somerville
-street: "Davis Square"
-housenumber: 1
-phone: "+1-617-629-4156"
-opening_hours: "PH,Mo-Su 07:00-24:00"
-website: "https://www.cvs.com/store-locator/somerville-ma-pharmacies/1-davis-sq-somerville-ma-02144/storeid=8319"
+street: Davis Square
+housenumber: "1"
+phone: +1-617-629-4156
+opening_hours: PH,Mo-Su 07:00-24:00
+website: https://www.cvs.com/store-locator/somerville-ma-pharmacies/1-davis-sq-somerville-ma-02144/storeid=8319

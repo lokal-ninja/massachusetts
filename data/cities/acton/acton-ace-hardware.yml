@@ -2,10 +2,10 @@ id: 387544815
 type: node
 latitude: 42.46884
 longitude: -71.45655
-postcode: "01720-3640"
+postcode: 01720-3640
 city: Acton
-street: "Main Street"
-housenumber: 210
-phone: "+1 978-263-7754"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-17:00"
+street: Main Street
+housenumber: "210"
+phone: +1 978-263-7754
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-17:00
 website: ""

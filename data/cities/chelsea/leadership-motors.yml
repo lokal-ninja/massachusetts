@@ -1,11 +1,11 @@
 id: 29660779
-type: way
+type: node
 latitude: 42.39985
 longitude: -71.0202
 postcode: "02150"
 city: Chelsea
-street: "Eastern Avenue"
-housenumber: 412
+street: Eastern Avenue
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

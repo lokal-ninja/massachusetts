@@ -4,8 +4,8 @@ latitude: 42.39821
 longitude: -71.12354
 postcode: ""
 city: Somerville
-street: "Holland Street"
-housenumber: 57
-phone: "+1 617 764 4068"
-opening_hours: "Mo 12:00-20:00; Tu-Fr 10:00-20:00; Sa 09:00-17:00"
-website: "https://www.eviesalonstudio.com/"
+street: Holland Street
+housenumber: "57"
+phone: +1 617 764 4068
+opening_hours: Mo 12:00-20:00; Tu-Fr 10:00-20:00; Sa 09:00-17:00
+website: https://www.eviesalonstudio.com/

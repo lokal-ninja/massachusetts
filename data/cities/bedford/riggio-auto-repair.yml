@@ -1,11 +1,11 @@
 id: 173502397
-type: way
+type: node
 latitude: 42.49006
 longitude: -71.2735
 postcode: "01730"
 city: Bedford
-street: "The Great Road"
-housenumber: 180
+street: The Great Road
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

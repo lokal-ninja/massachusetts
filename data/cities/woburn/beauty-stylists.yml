@@ -4,8 +4,8 @@ latitude: 42.48031
 longitude: -71.15118
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 405
-phone: "+1 781 9339722"
+street: Main Street
+housenumber: "405"
+phone: +1 781 9339722
 opening_hours: ""
-website: "https://www.beautystylistwoburn.com/"
+website: https://www.beautystylistwoburn.com/

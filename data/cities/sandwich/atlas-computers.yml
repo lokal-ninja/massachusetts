@@ -1,11 +1,11 @@
 id: 935934857
-type: way
+type: node
 latitude: 41.76445
 longitude: -70.49829
 postcode: "02563"
 city: Sandwich
-street: "Route 6A"
-housenumber: 101
+street: Route 6A
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://atlascs.net/"
+website: https://atlascs.net/

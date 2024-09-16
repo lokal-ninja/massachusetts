@@ -4,8 +4,8 @@ latitude: 42.34408
 longitude: -71.06322
 postcode: "02118"
 city: Boston
-street: "Traveler Street"
-housenumber: 33
-phone: "+1-617-315-6220"
-opening_hours: "24/7"
-website: "https://primestorage.com/locations/MA/boston/MA13/"
+street: Traveler Street
+housenumber: "33"
+phone: +1-617-315-6220
+opening_hours: 24/7
+website: https://primestorage.com/locations/MA/boston/MA13/

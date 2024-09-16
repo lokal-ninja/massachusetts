@@ -1,11 +1,11 @@
 id: 385357716
-type: way
+type: node
 latitude: 42.50535
 longitude: -71.12831
 postcode: "01801"
 city: Woburn
-street: "Commerce Way"
-housenumber: 15
-phone: "+1 781-376-5500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-woburn/1198"
+street: Commerce Way
+housenumber: "15"
+phone: +1 781-376-5500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-woburn/1198

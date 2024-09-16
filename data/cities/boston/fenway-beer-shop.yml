@@ -4,8 +4,8 @@ latitude: 42.34475
 longitude: -71.10009
 postcode: "02215"
 city: Boston
-street: "Van Ness Street"
-housenumber: 98
-phone: "+1-857-250-2967"
-opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-20:00"
-website: "https://fenwaybeershop.com/"
+street: Van Ness Street
+housenumber: "98"
+phone: +1-857-250-2967
+opening_hours: Mo-Sa 10:00-22:00; Su 11:00-20:00
+website: https://fenwaybeershop.com/

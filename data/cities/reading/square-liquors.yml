@@ -4,8 +4,8 @@ latitude: 42.52139
 longitude: -71.10565
 postcode: "01867"
 city: Reading
-street: "High Street"
-housenumber: 13
-phone: "+1 781 8721277"
+street: High Street
+housenumber: "13"
+phone: +1 781 8721277
 opening_hours: ""
-website: "https://square-liquors.business.site/"
+website: https://square-liquors.business.site/

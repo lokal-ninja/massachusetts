@@ -1,11 +1,11 @@
 id: 214576261
-type: way
+type: node
 latitude: 42.1601
 longitude: -71.49736
-postcode: "01757-1743"
+postcode: 01757-1743
 city: Milford
-street: "Fortune Boulevard"
-housenumber: 250
-phone: "+1 508-478-5880"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/milford/1281"
+street: Fortune Boulevard
+housenumber: "250"
+phone: +1 508-478-5880
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/milford/1281

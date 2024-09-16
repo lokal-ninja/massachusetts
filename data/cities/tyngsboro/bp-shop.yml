@@ -1,11 +1,11 @@
 id: 136251259
-type: way
+type: node
 latitude: 42.69395
 longitude: -71.43526
 postcode: "01879"
 city: Tyngsboro
-street: "Middlesex Road"
-housenumber: 397
+street: Middlesex Road
+housenumber: "397"
 phone: ""
 opening_hours: ""
 website: ""

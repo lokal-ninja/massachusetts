@@ -1,11 +1,11 @@
 id: 214715987
-type: way
+type: node
 latitude: 42.77742
 longitude: -70.84229
 postcode: "01951"
 city: Newbury
-street: "High Road"
-housenumber: 186
+street: High Road
+housenumber: "186"
 phone: ""
 opening_hours: ""
-website: "http://www.newharmonyfarm.com/"
+website: http://www.newharmonyfarm.com/

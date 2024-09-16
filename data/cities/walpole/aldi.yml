@@ -4,8 +4,8 @@ latitude: 42.15578
 longitude: -71.20156
 postcode: "02032"
 city: Walpole
-street: "Boston Providence Highway"
-housenumber: 70
-phone: "+1 888-473-1115"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/walpole/70-route-1"
+street: Boston Providence Highway
+housenumber: "70"
+phone: +1 888-473-1115
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/walpole/70-route-1

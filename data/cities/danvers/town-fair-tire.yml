@@ -1,11 +1,11 @@
 id: 212856646
-type: way
+type: node
 latitude: 42.55023
 longitude: -70.93154
 postcode: "01923"
 city: Danvers
-street: "Endicott Street"
-housenumber: 121
-phone: "+1 978 777 8350"
+street: Endicott Street
+housenumber: "121"
+phone: +1 978 777 8350
 opening_hours: ""
-website: "https://www.townfairtire.com/"
+website: https://www.townfairtire.com/

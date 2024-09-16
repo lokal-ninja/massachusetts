@@ -4,8 +4,8 @@ latitude: 42.32194
 longitude: -72.62769
 postcode: "01060"
 city: Northampton
-street: "Bridge Street"
-housenumber: 34
+street: Bridge Street
+housenumber: "34"
 phone: "+14135867978"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://thebakerspin.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://thebakerspin.com/

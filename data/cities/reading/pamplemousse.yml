@@ -4,8 +4,8 @@ latitude: 42.52234
 longitude: -71.10675
 postcode: "01867"
 city: Reading
-street: "Haven Street"
-housenumber: 26
-phone: "+1 781 8721125"
-opening_hours: "Mo-Sa 11:00-19:00; Su closed; PH unknown"
-website: "http://www.pmousse.com/"
+street: Haven Street
+housenumber: "26"
+phone: +1 781 8721125
+opening_hours: Mo-Sa 11:00-19:00; Su closed; PH unknown
+website: http://www.pmousse.com/

@@ -1,11 +1,11 @@
 id: 214276555
-type: way
+type: node
 latitude: 42.42577
 longitude: -71.19329
 postcode: "02420"
 city: Lexington
-street: "Massachusetts Avenue"
-housenumber: 55
+street: Massachusetts Avenue
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

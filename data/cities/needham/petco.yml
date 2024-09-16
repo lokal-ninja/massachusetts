@@ -1,11 +1,11 @@
 id: 643516924
-type: way
+type: node
 latitude: 42.30606
 longitude: -71.22025
-postcode: "02494-3025"
+postcode: 02494-3025
 city: Needham
-street: "Highland Avenue"
+street: Highland Avenue
 housenumber: 161;163
-phone: "+1 781-444-8100"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ma/needham/pet-supplies-needham-ma-284.html"
+phone: +1 781-444-8100
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ma/needham/pet-supplies-needham-ma-284.html

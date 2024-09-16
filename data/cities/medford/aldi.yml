@@ -2,10 +2,10 @@ id: 2623047096
 type: node
 latitude: 42.40695
 longitude: -71.08367
-postcode: "02155-4902"
+postcode: 02155-4902
 city: Medford
-street: "Fellsway"
-housenumber: 630
-phone: "+1 833-473-7079"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/medford/630-fellsway"
+street: Fellsway
+housenumber: "630"
+phone: +1 833-473-7079
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/medford/630-fellsway

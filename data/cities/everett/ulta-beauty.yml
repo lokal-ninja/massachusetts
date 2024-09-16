@@ -4,8 +4,8 @@ latitude: 42.40018
 longitude: -71.06749
 postcode: "02149"
 city: Everett
-street: "Mystic View Road"
-housenumber: 15
-phone: "+1 617-381-0040"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/everett-ma-321"
+street: Mystic View Road
+housenumber: "15"
+phone: +1 617-381-0040
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/everett-ma-321

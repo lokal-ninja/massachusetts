@@ -4,8 +4,8 @@ latitude: 42.3662
 longitude: -72.5367
 postcode: "01035"
 city: Hadley
-street: "Russell Street"
-housenumber: 458
+street: Russell Street
+housenumber: "458"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ma/hadley/1052/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ma/hadley/1052/

@@ -1,11 +1,11 @@
 id: 214004718
-type: way
+type: node
 latitude: 42.56546
 longitude: -71.42381
 postcode: "01886"
 city: Westford
-street: "Carlisle Road"
-housenumber: 1
+street: Carlisle Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ma/westford/7698/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ma/westford/7698/

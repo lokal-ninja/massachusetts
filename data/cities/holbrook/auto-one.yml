@@ -4,8 +4,8 @@ latitude: 42.16201
 longitude: -71.02431
 postcode: "02343"
 city: Holbrook
-street: "Centre Street"
-housenumber: 200
-phone: "+1-781-767-1724"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.autooneholbrook.com/"
+street: Centre Street
+housenumber: "200"
+phone: +1-781-767-1724
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.autooneholbrook.com/

@@ -1,11 +1,11 @@
 id: 214879384
-type: way
+type: node
 latitude: 42.10767
 longitude: -71.69893
 postcode: "01588"
 city: Whitinsville
-street: "Valley Parkway"
-housenumber: 100
-phone: "+1 508-234-9034"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2629/whitinsville-ma/whats-new"
+street: Valley Parkway
+housenumber: "100"
+phone: +1 508-234-9034
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2629/whitinsville-ma/whats-new

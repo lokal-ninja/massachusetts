@@ -4,8 +4,8 @@ latitude: 42.34882
 longitude: -71.08807
 postcode: "02115"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 362
-phone: "+1-617-247-7200"
+street: Commonwealth Avenue
+housenumber: "362"
+phone: +1-617-247-7200
 opening_hours: ""
-website: "https://www.orpheusclassics.com/"
+website: https://www.orpheusclassics.com/

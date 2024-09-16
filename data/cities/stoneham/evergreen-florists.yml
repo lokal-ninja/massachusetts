@@ -4,8 +4,8 @@ latitude: 42.47904
 longitude: -71.10039
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 391
-phone: "+1 781 4386910"
+street: Main Street
+housenumber: "391"
+phone: +1 781 4386910
 opening_hours: ""
-website: "https://evergreen-florist.com/"
+website: https://evergreen-florist.com/

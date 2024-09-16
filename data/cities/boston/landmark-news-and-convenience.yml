@@ -4,8 +4,8 @@ latitude: 42.36616
 longitude: -71.06203
 postcode: "02114"
 city: Boston
-street: "Legends Way"
-housenumber: 100
-phone: "+1-781-938-9944"
+street: Legends Way
+housenumber: "100"
+phone: +1-781-938-9944
 opening_hours: ""
-website: "http://landmarkngc.com/newstands.php"
+website: http://landmarkngc.com/newstands.php

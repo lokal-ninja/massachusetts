@@ -4,8 +4,8 @@ latitude: 42.34968
 longitude: -71.08147
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 232
-phone: "+1-617-262-9798"
+street: Newbury Street
+housenumber: "232"
+phone: +1-617-262-9798
 opening_hours: ""
-website: "https://www.europeanwatch.com/"
+website: https://www.europeanwatch.com/

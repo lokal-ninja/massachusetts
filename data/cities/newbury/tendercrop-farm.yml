@@ -1,11 +1,11 @@
 id: 214716516
-type: way
+type: node
 latitude: 42.78639
 longitude: -70.85137
 postcode: ""
 city: Newbury
-street: "High Road"
-housenumber: 110
+street: High Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

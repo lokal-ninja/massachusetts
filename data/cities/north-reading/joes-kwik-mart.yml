@@ -4,8 +4,8 @@ latitude: 42.58849
 longitude: -71.11542
 postcode: "01864"
 city: North Reading
-street: "Main Street"
-housenumber: 231
-phone: "+1 978 898 8989"
-opening_hours: "24/7"
+street: Main Street
+housenumber: "231"
+phone: +1 978 898 8989
+opening_hours: 24/7
 website: ""

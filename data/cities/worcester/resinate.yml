@@ -1,11 +1,11 @@
 id: 214176270
-type: way
+type: node
 latitude: 42.2213
 longitude: -71.78373
 postcode: "01607"
 city: Worcester
-street: "Millbury Street"
-housenumber: 1191
+street: Millbury Street
+housenumber: "1191"
 phone: ""
 opening_hours: ""
 website: ""

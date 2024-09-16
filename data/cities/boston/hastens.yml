@@ -4,8 +4,8 @@ latitude: 42.3501
 longitude: -71.08154
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 221
-phone: "+1-617-992-6908"
+street: Newbury Street
+housenumber: "221"
+phone: +1-617-992-6908
 opening_hours: ""
-website: "https://www.hastens.com/us/store-locator/united-states/boston/newbury-street"
+website: https://www.hastens.com/us/store-locator/united-states/boston/newbury-street

@@ -1,11 +1,11 @@
 id: 29741560
-type: way
+type: node
 latitude: 42.47751
 longitude: -71.09982
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 444
-phone: "+1 781-438-5555"
-opening_hours: "Mo-Sa 07:30-18:00; Su 10:00-15:00"
+street: Main Street
+housenumber: "444"
+phone: +1 781-438-5555
+opening_hours: Mo-Sa 07:30-18:00; Su 10:00-15:00
 website: ""

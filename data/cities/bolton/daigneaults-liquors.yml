@@ -1,11 +1,11 @@
 id: 212121109
-type: way
+type: node
 latitude: 42.44849
 longitude: -71.63673
 postcode: "01740"
 city: Bolton
-street: "Forbush Mill Road"
-housenumber: 25
+street: Forbush Mill Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

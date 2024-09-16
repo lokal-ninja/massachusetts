@@ -1,11 +1,11 @@
 id: 29839414
-type: way
+type: node
 latitude: 42.44179
 longitude: -71.03139
 postcode: "02148"
 city: Malden
-street: "Broadway"
-housenumber: 616
+street: Broadway
+housenumber: "616"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 652079342
-type: way
+type: node
 latitude: 42.2028
 longitude: -71.15542
 postcode: "02090"
 city: Westwood
-street: "University Avenue"
-housenumber: 271
-phone: "+1 781-355-7781"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ma/westwood-store2415.html"
+street: University Avenue
+housenumber: "271"
+phone: +1 781-355-7781
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ma/westwood-store2415.html

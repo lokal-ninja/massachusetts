@@ -1,11 +1,11 @@
 id: 213257467
-type: way
+type: node
 latitude: 42.27596
 longitude: -71.41558
 postcode: "01702"
 city: Framingham
-street: "Columbia Street"
-housenumber: 11
+street: Columbia Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

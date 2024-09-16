@@ -4,8 +4,8 @@ latitude: 42.34962
 longitude: -71.08339
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 263
-phone: "+1-617-236-5050"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.thethreadingplace.com/"
+street: Newbury Street
+housenumber: "263"
+phone: +1-617-236-5050
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.thethreadingplace.com/

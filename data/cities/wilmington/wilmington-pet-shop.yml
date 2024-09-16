@@ -4,8 +4,8 @@ latitude: 42.52377
 longitude: -71.16062
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 911
-phone: "+1 978 6585041"
+street: Main Street
+housenumber: "911"
+phone: +1 978 6585041
 opening_hours: ""
-website: "http://wilmingtonpetshop.com/"
+website: http://wilmingtonpetshop.com/

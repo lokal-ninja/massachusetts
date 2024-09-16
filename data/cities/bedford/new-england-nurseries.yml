@@ -1,11 +1,11 @@
 id: 211984826
-type: way
+type: node
 latitude: 42.48461
 longitude: -71.29824
 postcode: "01730"
 city: Bedford
-street: "Concord Road"
-housenumber: 216
+street: Concord Road
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

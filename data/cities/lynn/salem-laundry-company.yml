@@ -1,10 +1,10 @@
 id: 29773225
-type: way
+type: node
 latitude: 42.4665
 longitude: -70.9676
 postcode: "01905"
 city: Lynn
-street: "Boston Street"
+street: Boston Street
 housenumber: 429;433
 phone: ""
 opening_hours: ""

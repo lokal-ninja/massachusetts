@@ -4,8 +4,8 @@ latitude: 42.36555
 longitude: -71.18403
 postcode: "02472"
 city: Watertown
-street: "Mount Auburn Street"
-housenumber: 14
+street: Mount Auburn Street
+housenumber: "14"
 phone: ""
-opening_hours: "09:00-17:30"
+opening_hours: 09:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 215752581
-type: way
+type: node
 latitude: 42.04822
 longitude: -70.19152
 postcode: "02657"
 city: Provincetown
-street: "Bradford Street"
-housenumber: 53
-phone: "1-617-513-4095"
+street: Bradford Street
+housenumber: "53"
+phone: 1-617-513-4095
 opening_hours: ""
-website: "https://spotlessnewengland.com"
+website: https://spotlessnewengland.com

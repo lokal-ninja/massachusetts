@@ -1,11 +1,11 @@
 id: 170179993
-type: way
+type: node
 latitude: 42.41728
 longitude: -71.16014
 postcode: ""
 city: Arlington
-street: "Massachusetts Avenue"
-housenumber: 833
+street: Massachusetts Avenue
+housenumber: "833"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/arlington-ma-pharmacies/833-massachusetts-avenue-arlington-ma-02476/storeid=278"
+website: https://www.cvs.com/store-locator/arlington-ma-pharmacies/833-massachusetts-avenue-arlington-ma-02476/storeid=278

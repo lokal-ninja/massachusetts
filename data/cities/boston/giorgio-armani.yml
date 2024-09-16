@@ -4,8 +4,8 @@ latitude: 42.35216
 longitude: -71.07234
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 22
-phone: "+1-617-267-3200"
+street: Newbury Street
+housenumber: "22"
+phone: +1-617-267-3200
 opening_hours: ""
-website: "https://www.armani.com/experience/us/store-locator/#store/235896"
+website: https://www.armani.com/experience/us/store-locator/#store/235896

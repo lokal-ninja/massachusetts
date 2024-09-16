@@ -1,11 +1,11 @@
 id: 453618339
-type: way
+type: node
 latitude: 42.81089
 longitude: -70.86992
 postcode: "01950"
 city: Newburyport
-street: "State Street"
-housenumber: 8
-phone: "+1 978-463-2010"
+street: State Street
+housenumber: "8"
+phone: +1 978-463-2010
 opening_hours: ""
-website: "https://www.lifeisgood.com/"
+website: https://www.lifeisgood.com/

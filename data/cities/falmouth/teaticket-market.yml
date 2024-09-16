@@ -1,11 +1,11 @@
 id: 213069126
-type: way
+type: node
 latitude: 41.56359
 longitude: -70.59599
 postcode: "02536"
 city: Falmouth
-street: "Teaticket Highway"
-housenumber: 125
+street: Teaticket Highway
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

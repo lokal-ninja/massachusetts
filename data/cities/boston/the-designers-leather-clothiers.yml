@@ -4,8 +4,8 @@ latitude: 42.35888
 longitude: -71.07088
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 106
-phone: "+1-617-720-3967"
-opening_hours: "Mo-Sa 01:00-17:00"
-website: "https://www.designerleatherclothes.com/visit-us"
+street: Charles Street
+housenumber: "106"
+phone: +1-617-720-3967
+opening_hours: Mo-Sa 01:00-17:00
+website: https://www.designerleatherclothes.com/visit-us

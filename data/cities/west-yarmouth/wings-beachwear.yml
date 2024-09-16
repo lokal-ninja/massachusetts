@@ -1,11 +1,11 @@
 id: 214266093
-type: way
+type: node
 latitude: 41.65046
 longitude: -70.23495
 postcode: ""
 city: West Yarmouth
-street: "Main Street"
-housenumber: 532
+street: Main Street
+housenumber: "532"
 phone: ""
 opening_hours: ""
 website: ""

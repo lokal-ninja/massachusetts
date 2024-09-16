@@ -1,11 +1,11 @@
 id: 213826761
-type: way
+type: node
 latitude: 41.28325
 longitude: -70.09613
 postcode: "02554"
 city: Nantucket
-street: "Salem Street"
-housenumber: 9
+street: Salem Street
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

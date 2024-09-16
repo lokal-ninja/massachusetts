@@ -1,11 +1,11 @@
 id: 217223027
-type: way
+type: node
 latitude: 42.24159
 longitude: -71.43745
 postcode: "01721"
 city: Ashland
-street: "Eliot Street"
-housenumber: 230
-phone: "+1 508 881 1990"
+street: Eliot Street
+housenumber: "230"
+phone: +1 508 881 1990
 opening_hours: ""
-website: "http://www.hollisautobody.com/"
+website: http://www.hollisautobody.com/

@@ -1,11 +1,11 @@
 id: 80077290
-type: way
+type: node
 latitude: 42.42435
 longitude: -71.18163
 postcode: "02476"
 city: Arlington
-street: "Massachusetts Avenue"
-housenumber: 1293
+street: Massachusetts Avenue
+housenumber: "1293"
 phone: ""
 opening_hours: ""
-website: "https://www.penzeys.com/"
+website: https://www.penzeys.com/

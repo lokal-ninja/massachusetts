@@ -1,11 +1,11 @@
 id: 212528173
-type: way
+type: node
 latitude: 42.20149
 longitude: -72.57047
 postcode: "01020"
 city: Chicopee
-street: "James Street"
-housenumber: 583
+street: James Street
+housenumber: "583"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-583+james+st-chicopee-ma-01020/id=7063"
+website: https://www.walgreens.com/locator/walgreens-583+james+st-chicopee-ma-01020/id=7063

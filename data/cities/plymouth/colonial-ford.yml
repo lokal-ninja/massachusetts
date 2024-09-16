@@ -1,11 +1,11 @@
 id: 680054691
-type: way
+type: node
 latitude: 41.94973
 longitude: -70.68841
 postcode: "02360"
 city: Plymouth
-street: "Pilgrim Hill Road"
-housenumber: 11
+street: Pilgrim Hill Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

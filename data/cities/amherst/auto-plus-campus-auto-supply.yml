@@ -1,11 +1,11 @@
 id: 207135980
-type: way
+type: node
 latitude: 42.36711
 longitude: -72.53528
 postcode: ""
 city: Amherst
-street: "University Drive"
-housenumber: 205
-phone: "+1 413 253 0400"
+street: University Drive
+housenumber: "205"
+phone: +1 413 253 0400
 opening_hours: ""
-website: "https://www.consumerautopartsonline.com/autopartsamherst.html"
+website: https://www.consumerautopartsonline.com/autopartsamherst.html

@@ -1,11 +1,11 @@
 id: 215703069
-type: way
+type: node
 latitude: 42.40875
 longitude: -73.26421
 postcode: "01201"
 city: Pittsfield
-street: "South Street"
-housenumber: 1020
+street: South Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

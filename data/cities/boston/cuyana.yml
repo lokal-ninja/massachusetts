@@ -4,8 +4,8 @@ latitude: 42.35121
 longitude: -71.07585
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 112
-phone: "+1-857-317-4966"
+street: Newbury Street
+housenumber: "112"
+phone: +1-857-317-4966
 opening_hours: ""
-website: "https://www.cuyana.com/visit-us-boston"
+website: https://www.cuyana.com/visit-us-boston

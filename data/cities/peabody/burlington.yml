@@ -1,11 +1,11 @@
 id: 214995061
-type: way
+type: node
 latitude: 42.55068
 longitude: -70.9584
 postcode: "01960"
 city: Peabody
-street: "Andover Street"
+street: Andover Street
 housenumber: 310;320
-phone: "+1 978-531-8822"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ma/peabody/333"
+phone: +1 978-531-8822
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ma/peabody/333

@@ -4,8 +4,8 @@ latitude: 42.35035
 longitude: -71.07891
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 172
-phone: "+1-617-236-6417"
-opening_hours: "We-Su 11:00-18:00"
-website: "https://www.aesop.com/us/r/aesop-newbury-street"
+street: Newbury Street
+housenumber: "172"
+phone: +1-617-236-6417
+opening_hours: We-Su 11:00-18:00
+website: https://www.aesop.com/us/r/aesop-newbury-street

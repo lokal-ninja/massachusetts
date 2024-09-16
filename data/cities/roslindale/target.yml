@@ -1,11 +1,11 @@
 id: 29929280
-type: way
+type: node
 latitude: 42.28804
 longitude: -71.12657
-postcode: "02131-1733"
+postcode: 02131-1733
 city: Roslindale
-street: "Washington Street"
-housenumber: 4165
-phone: "+1 617-390-2176"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/boston-roslindale/3223"
+street: Washington Street
+housenumber: "4165"
+phone: +1 617-390-2176
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/boston-roslindale/3223

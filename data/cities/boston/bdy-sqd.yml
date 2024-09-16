@@ -4,8 +4,8 @@ latitude: 42.34857
 longitude: -71.08726
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 349
-phone: "+1-617-904-7414"
+street: Newbury Street
+housenumber: "349"
+phone: +1-617-904-7414
 opening_hours: ""
-website: "https://gobodysquad.com/"
+website: https://gobodysquad.com/

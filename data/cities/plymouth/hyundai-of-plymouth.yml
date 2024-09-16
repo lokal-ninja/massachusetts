@@ -1,11 +1,11 @@
 id: 215740811
-type: way
+type: node
 latitude: 41.97598
 longitude: -70.68722
 postcode: "02360"
 city: Plymouth
-street: "Court Street"
-housenumber: 356
+street: Court Street
+housenumber: "356"
 phone: ""
 opening_hours: ""
-website: "https://www.hyundaiofplymouth.com/"
+website: https://www.hyundaiofplymouth.com/

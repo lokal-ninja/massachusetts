@@ -1,11 +1,11 @@
 id: 214118014
-type: way
+type: node
 latitude: 42.5691
 longitude: -71.15883
 postcode: "01887"
 city: Wilmington
-street: "Middlesex Avenue"
-housenumber: 381
+street: Middlesex Avenue
+housenumber: "381"
 phone: ""
 opening_hours: ""
-website: "https://www.eliascountrystore.com/"
+website: https://www.eliascountrystore.com/

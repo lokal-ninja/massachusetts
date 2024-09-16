@@ -1,11 +1,11 @@
 id: 211946616
-type: way
+type: node
 latitude: 41.62758
 longitude: -70.38399
 postcode: "02655"
 city: Barnstable
-street: "West Bay Road"
-housenumber: 16
+street: West Bay Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

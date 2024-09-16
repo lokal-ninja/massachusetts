@@ -4,8 +4,8 @@ latitude: 42.2537
 longitude: -71.1702
 postcode: "02026"
 city: Dedham
-street: "Providence Highway"
-housenumber: 302
-phone: "+1 339-204-9543"
-opening_hours: "09:00-22:00"
-website: "https://stores.burlington.com/ma/dedham/1179"
+street: Providence Highway
+housenumber: "302"
+phone: +1 339-204-9543
+opening_hours: 09:00-22:00
+website: https://stores.burlington.com/ma/dedham/1179

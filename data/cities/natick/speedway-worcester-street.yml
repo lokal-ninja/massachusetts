@@ -1,11 +1,11 @@
 id: 214612213
-type: way
+type: node
 latitude: 42.30236
 longitude: -71.33539
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 230
+street: Worcester Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Natick/230-WORCESTER-ST"
+website: https://www.speedway.com/locations/MA/Natick/230-WORCESTER-ST

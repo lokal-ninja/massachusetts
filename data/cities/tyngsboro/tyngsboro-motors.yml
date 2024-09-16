@@ -1,11 +1,11 @@
 id: 136463355
-type: way
+type: node
 latitude: 42.68921
 longitude: -71.43311
 postcode: "01879"
 city: Tyngsboro
-street: "Middlesex Road"
-housenumber: 370
+street: Middlesex Road
+housenumber: "370"
 phone: ""
 opening_hours: ""
-website: "https://www.tyngsboromotors.com/"
+website: https://www.tyngsboromotors.com/

@@ -4,8 +4,8 @@ latitude: 42.37176
 longitude: -71.12063
 postcode: "02138"
 city: Cambridge
-street: "John F. Kennedy Street"
-housenumber: 56
-phone: "+1 617 492 9100"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://shopfortywinks.com/"
+street: John F. Kennedy Street
+housenumber: "56"
+phone: +1 617 492 9100
+opening_hours: Mo-Su 11:00-19:00
+website: https://shopfortywinks.com/

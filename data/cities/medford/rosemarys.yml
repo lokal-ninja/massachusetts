@@ -1,11 +1,11 @@
 id: 1110108758
-type: way
+type: node
 latitude: 42.39875
 longitude: -71.10198
 postcode: "02155"
 city: Medford
-street: "Main Street"
-housenumber: 565
+street: Main Street
+housenumber: "565"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00, Su 07:00-15:00"
+opening_hours: Mo-Sa 07:00-20:00, Su 07:00-15:00
 website: ""

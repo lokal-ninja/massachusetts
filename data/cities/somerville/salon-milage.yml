@@ -4,8 +4,8 @@ latitude: 42.39603
 longitude: -71.12148
 postcode: "02144"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 410
-phone: "+1-617-284-6228"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00"
-website: "http://www.salonmilage.com/"
+street: Highland Avenue
+housenumber: "410"
+phone: +1-617-284-6228
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-19:00
+website: http://www.salonmilage.com/

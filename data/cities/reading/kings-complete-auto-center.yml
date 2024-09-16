@@ -1,11 +1,11 @@
 id: 257491178
-type: way
+type: node
 latitude: 42.52279
 longitude: -71.10322
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 550
-phone: "+1 781 9427375"
+street: Main Street
+housenumber: "550"
+phone: +1 781 9427375
 opening_hours: ""
 website: ""

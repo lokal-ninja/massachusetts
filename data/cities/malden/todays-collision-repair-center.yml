@@ -4,8 +4,8 @@ latitude: 42.43976
 longitude: -71.07122
 postcode: ""
 city: Malden
-street: "Washington Street"
-housenumber: 375
-phone: "+1 781 3216080"
+street: Washington Street
+housenumber: "375"
+phone: +1 781 3216080
 opening_hours: ""
-website: "https://todayscollision.com/"
+website: https://todayscollision.com/

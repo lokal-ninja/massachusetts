@@ -1,11 +1,11 @@
 id: 215736389
-type: way
+type: node
 latitude: 41.95524
 longitude: -70.66199
 postcode: "02360"
 city: Plymouth
-street: "Water Street"
-housenumber: 14
+street: Water Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

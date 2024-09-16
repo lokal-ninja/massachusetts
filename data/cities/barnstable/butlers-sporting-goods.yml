@@ -1,11 +1,11 @@
 id: 211874163
-type: way
+type: node
 latitude: 41.65428
 longitude: -70.32431
 postcode: "02601"
 city: Barnstable
-street: "West Main Street"
-housenumber: 815
-phone: "+1-508-771-4595"
-opening_hours: "09:00-18:00"
-website: "https://butlersportinggoods.com/"
+street: West Main Street
+housenumber: "815"
+phone: +1-508-771-4595
+opening_hours: 09:00-18:00
+website: https://butlersportinggoods.com/

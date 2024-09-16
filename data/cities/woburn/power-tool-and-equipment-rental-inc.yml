@@ -1,11 +1,11 @@
 id: 372779595
-type: way
+type: node
 latitude: 42.51001
 longitude: -71.16092
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 919
-phone: "+1 781 9331902"
+street: Main Street
+housenumber: "919"
+phone: +1 781 9331902
 opening_hours: ""
-website: "http://powertoolandequipment.com/"
+website: http://powertoolandequipment.com/

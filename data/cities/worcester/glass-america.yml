@@ -4,8 +4,8 @@ latitude: 42.2719
 longitude: -71.77419
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 410
+street: Shrewsbury Street
+housenumber: "410"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://glassamerica.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://glassamerica.com/

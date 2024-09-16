@@ -4,8 +4,8 @@ latitude: 42.22629
 longitude: -71.03145
 postcode: "02184"
 city: Braintree
-street: "Granite Street"
-housenumber: 44
-phone: "+1 781 519-6306"
-opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://www.landrys.com/"
+street: Granite Street
+housenumber: "44"
+phone: +1 781 519-6306
+opening_hours: Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-17:00; Su 12:00-17:00
+website: https://www.landrys.com/

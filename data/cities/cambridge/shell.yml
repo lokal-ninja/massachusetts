@@ -1,11 +1,11 @@
 id: 29889592
-type: way
+type: node
 latitude: 42.36175
 longitude: -71.11561
 postcode: "02139"
 city: Cambridge
-street: "Memorial Drive"
-housenumber: 820
+street: Memorial Drive
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

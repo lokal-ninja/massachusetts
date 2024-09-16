@@ -1,11 +1,11 @@
 id: 214147210
-type: way
+type: node
 latitude: 42.48098
 longitude: -71.15429
 postcode: "01801"
 city: Woburn
-street: "Winn Street"
-housenumber: 40
-phone: "+1 866 9008908"
+street: Winn Street
+housenumber: "40"
+phone: +1 866 9008908
 opening_hours: ""
-website: "https://www.lannanchevy.net/"
+website: https://www.lannanchevy.net/

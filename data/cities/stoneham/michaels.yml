@@ -1,11 +1,11 @@
 id: 702944867
-type: way
+type: node
 latitude: 42.4945
 longitude: -71.10196
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 119
-phone: "+1 781-850-4364"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ma/stoneham/1230"
+street: Main Street
+housenumber: "119"
+phone: +1 781-850-4364
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ma/stoneham/1230

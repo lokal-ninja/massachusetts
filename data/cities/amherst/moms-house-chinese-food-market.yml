@@ -4,8 +4,8 @@ latitude: 42.37318
 longitude: -72.50327
 postcode: "01002"
 city: Amherst
-street: "College Street"
-housenumber: 318
-phone: "+1 413 253 1868"
-opening_hours: "10:00-19:00"
+street: College Street
+housenumber: "318"
+phone: +1 413 253 1868
+opening_hours: 10:00-19:00
 website: ""

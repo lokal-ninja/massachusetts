@@ -1,11 +1,11 @@
 id: 373138913
-type: way
+type: node
 latitude: 42.50781
 longitude: -71.15946
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 891
-phone: "+1 781 3761203"
+street: Main Street
+housenumber: "891"
+phone: +1 781 3761203
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/woburn-ma-pharmacies/891-main-st-woburn-ma-01801/storeid=10083"
+website: https://www.cvs.com/store-locator/woburn-ma-pharmacies/891-main-st-woburn-ma-01801/storeid=10083

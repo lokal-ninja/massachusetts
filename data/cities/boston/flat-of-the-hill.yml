@@ -4,8 +4,8 @@ latitude: 42.35751
 longitude: -71.07034
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 60
-phone: "+1-617-619-9977"
-opening_hours: "Th-Sa 11:00-17:00; Sa 10:00-17:00"
-website: "https://www.flatofthehill.com/"
+street: Charles Street
+housenumber: "60"
+phone: +1-617-619-9977
+opening_hours: Th-Sa 11:00-17:00; Sa 10:00-17:00
+website: https://www.flatofthehill.com/

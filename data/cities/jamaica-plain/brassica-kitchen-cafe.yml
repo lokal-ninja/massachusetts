@@ -4,8 +4,8 @@ latitude: 42.30027
 longitude: -71.11313
 postcode: "02130"
 city: Jamaica Plain
-street: "Washington Street"
-housenumber: 3710
-phone: "+1 617 477-4519"
-opening_hours: "We-Sa 17:00-22:00; Th-Fr 09:00-14:00; Sa-Su 10:00-14:00"
-website: "https://www.brassicakitchen.com/"
+street: Washington Street
+housenumber: "3710"
+phone: +1 617 477-4519
+opening_hours: We-Sa 17:00-22:00; Th-Fr 09:00-14:00; Sa-Su 10:00-14:00
+website: https://www.brassicakitchen.com/

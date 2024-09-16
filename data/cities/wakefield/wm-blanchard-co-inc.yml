@@ -4,8 +4,8 @@ latitude: 42.50112
 longitude: -71.06904
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 486
+street: Main Street
+housenumber: "486"
 phone: ""
 opening_hours: ""
-website: "https://wmblanchardco.com/"
+website: https://wmblanchardco.com/

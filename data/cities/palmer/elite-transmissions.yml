@@ -4,8 +4,8 @@ latitude: 42.15407
 longitude: -72.36551
 postcode: "01069"
 city: Palmer
-street: "Wilbraham Street"
-housenumber: 320
-phone: "+1-413-283-2335"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.transmissionelite.com/"
+street: Wilbraham Street
+housenumber: "320"
+phone: +1-413-283-2335
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.transmissionelite.com/

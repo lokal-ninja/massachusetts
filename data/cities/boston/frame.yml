@@ -4,8 +4,8 @@ latitude: 42.35047
 longitude: -71.07822
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 156
-phone: "+1-844-803-7263"
+street: Newbury Street
+housenumber: "156"
+phone: +1-844-803-7263
 opening_hours: ""
-website: "https://frame-store.com/"
+website: https://frame-store.com/

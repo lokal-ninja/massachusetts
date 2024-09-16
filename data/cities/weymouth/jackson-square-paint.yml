@@ -1,11 +1,11 @@
 id: 103022597
-type: way
+type: node
 latitude: 42.21502
 longitude: -70.92532
 postcode: ""
 city: Weymouth
-street: "Pleasant Street"
-housenumber: 1436
+street: Pleasant Street
+housenumber: "1436"
 phone: ""
 opening_hours: ""
 website: ""

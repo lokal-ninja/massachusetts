@@ -1,11 +1,11 @@
 id: 29663636
-type: way
+type: node
 latitude: 42.40435
 longitude: -71.03592
 postcode: "02150"
 city: Chelsea
-street: "Washington Avenue"
-housenumber: 350
+street: Washington Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

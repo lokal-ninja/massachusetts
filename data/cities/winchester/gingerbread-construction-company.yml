@@ -1,11 +1,11 @@
 id: 29806703
-type: way
+type: node
 latitude: 42.4676
 longitude: -71.12561
 postcode: "01890"
 city: Winchester
-street: "Washington Street"
-housenumber: 562
+street: Washington Street
+housenumber: "562"
 phone: ""
 opening_hours: ""
-website: "https://gingerbreadusa.com/"
+website: https://gingerbreadusa.com/

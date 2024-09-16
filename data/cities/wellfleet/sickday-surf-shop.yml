@@ -1,11 +1,11 @@
 id: 217069193
-type: way
+type: node
 latitude: 41.93891
 longitude: -70.03319
 postcode: "02667"
 city: Wellfleet
-street: "Main Street"
-housenumber: 361
+street: Main Street
+housenumber: "361"
 phone: ""
 opening_hours: ""
 website: ""

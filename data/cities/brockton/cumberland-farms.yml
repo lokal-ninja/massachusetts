@@ -1,11 +1,11 @@
 id: 212263333
-type: way
+type: node
 latitude: 42.06079
 longitude: -71.06583
 postcode: "02301"
 city: Brockton
-street: "Belmont Street"
-housenumber: 1205
+street: Belmont Street
+housenumber: "1205"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

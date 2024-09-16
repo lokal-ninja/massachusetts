@@ -1,11 +1,11 @@
 id: 212541885
-type: way
+type: node
 latitude: 42.14475
 longitude: -72.5963
 postcode: "01013"
 city: Chicopee
-street: "Fairview Avenue"
-housenumber: 193
+street: Fairview Avenue
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 212279762
-type: way
+type: node
 latitude: 42.49923
 longitude: -71.19385
 postcode: "01803"
 city: Burlington
-street: "Cambridge Street"
-housenumber: 118
-phone: "+1 781 2706545"
+street: Cambridge Street
+housenumber: "118"
+phone: +1 781 2706545
 opening_hours: ""
-website: "https://stephensautorepair.com/"
+website: https://stephensautorepair.com/

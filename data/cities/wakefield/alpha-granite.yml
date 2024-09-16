@@ -4,8 +4,8 @@ latitude: 42.48267
 longitude: -71.06664
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 925
-phone: "+1 781 5872612"
+street: Main Street
+housenumber: "925"
+phone: +1 781 5872612
 opening_hours: ""
-website: "https://alphagraniteinc.com/"
+website: https://alphagraniteinc.com/

@@ -4,8 +4,8 @@ latitude: 42.35146
 longitude: -71.07155
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 364
+street: Boylston Street
+housenumber: "364"
 phone: ""
 opening_hours: ""
-website: "https://www.sordillos.com/"
+website: https://www.sordillos.com/

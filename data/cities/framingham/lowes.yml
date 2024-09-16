@@ -1,11 +1,11 @@
 id: 464811631
-type: way
+type: node
 latitude: 42.30506
 longitude: -71.40158
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 350
-phone: "+1 508-309-1183"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: Cochituate Road
+housenumber: "350"
+phone: +1 508-309-1183
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

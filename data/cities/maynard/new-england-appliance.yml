@@ -1,11 +1,11 @@
 id: 214518064
-type: way
+type: node
 latitude: 42.43341
 longitude: -71.45346
 postcode: ""
 city: Maynard
-street: "Nason Street"
-housenumber: 44
+street: Nason Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

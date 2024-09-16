@@ -1,11 +1,11 @@
 id: 215981046
-type: way
+type: node
 latitude: 42.29682
 longitude: -71.71523
 postcode: "01545"
 city: Shrewsbury
-street: "Main Street"
-housenumber: 557
+street: Main Street
+housenumber: "557"
 phone: ""
 opening_hours: ""
 website: ""

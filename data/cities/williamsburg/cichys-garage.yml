@@ -1,11 +1,11 @@
 id: 735303653
-type: way
+type: node
 latitude: 42.39273
 longitude: -72.72984
 postcode: "01096"
 city: Williamsburg
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

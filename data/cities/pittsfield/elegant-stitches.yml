@@ -4,8 +4,8 @@ latitude: 42.45618
 longitude: -73.25085
 postcode: "01201"
 city: Pittsfield
-street: "First Street"
-housenumber: 237
-phone: "+1-413-447-9452"
+street: First Street
+housenumber: "237"
+phone: +1-413-447-9452
 opening_hours: ""
-website: "http://elegantstitches.net"
+website: http://elegantstitches.net

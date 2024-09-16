@@ -1,11 +1,11 @@
 id: 212260237
-type: way
+type: node
 latitude: 42.09688
 longitude: -71.0522
 postcode: "02301"
 city: Brockton
-street: "Westgate Drive"
-housenumber: 200
-phone: "+1 508 588 8916"
+street: Westgate Drive
+housenumber: "200"
+phone: +1 508 588 8916
 opening_hours: ""
-website: "https://www.shopatwestgatemall.com/"
+website: https://www.shopatwestgatemall.com/

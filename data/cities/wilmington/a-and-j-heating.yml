@@ -1,11 +1,11 @@
 id: 314115823
-type: way
+type: node
 latitude: 42.54441
 longitude: -71.17114
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 498
-phone: "+1 978 4471189"
+street: Main Street
+housenumber: "498"
+phone: +1 978 4471189
 opening_hours: ""
-website: "https://www.aandjheating.com/"
+website: https://www.aandjheating.com/

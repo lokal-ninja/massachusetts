@@ -4,8 +4,8 @@ latitude: 42.37313
 longitude: -71.12064
 postcode: "02138"
 city: Cambridge
-street: "Brattle Street"
-housenumber: 30
-phone: "+1 617 547 1230"
-opening_hours: "Mo-Sa 09:30-18:30; Su 12:00-17:00"
-website: "https://www.bobslatestationer.com/"
+street: Brattle Street
+housenumber: "30"
+phone: +1 617 547 1230
+opening_hours: Mo-Sa 09:30-18:30; Su 12:00-17:00
+website: https://www.bobslatestationer.com/

@@ -4,8 +4,8 @@ latitude: 42.35202
 longitude: -71.07271
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 34
-phone: "+1-617-536-1001"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.alanbilzerian.com/"
+street: Newbury Street
+housenumber: "34"
+phone: +1-617-536-1001
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.alanbilzerian.com/

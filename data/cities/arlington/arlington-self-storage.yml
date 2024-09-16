@@ -1,11 +1,11 @@
 id: 196451112
-type: way
+type: node
 latitude: 42.42175
 longitude: -71.16978
 postcode: "02476"
 city: Arlington
-street: "Brattle Court"
-housenumber: 12
-phone: "+1 781 6486655"
+street: Brattle Court
+housenumber: "12"
+phone: +1 781 6486655
 opening_hours: ""
-website: "https://arlingtonselfstorageunits.com/"
+website: https://arlingtonselfstorageunits.com/

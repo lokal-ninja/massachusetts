@@ -1,11 +1,11 @@
 id: 213740083
-type: way
+type: node
 latitude: 42.53441
 longitude: -71.7418
 postcode: "01453"
 city: Leominster
-street: "Commercial Road"
-housenumber: 26
+street: Commercial Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

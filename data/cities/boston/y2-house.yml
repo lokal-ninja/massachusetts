@@ -4,8 +4,8 @@ latitude: 42.35116
 longitude: -71.07573
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 110
+street: Newbury Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.y2house.com/"
+website: https://www.y2house.com/

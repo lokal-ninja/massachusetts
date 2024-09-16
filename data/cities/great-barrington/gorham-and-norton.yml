@@ -4,8 +4,8 @@ latitude: 42.19495
 longitude: -73.3621
 postcode: "01230"
 city: Great Barrington
-street: "Main Street"
-housenumber: 278
-phone: "+1 413 528 0900"
+street: Main Street
+housenumber: "278"
+phone: +1 413 528 0900
 opening_hours: ""
-website: "http://gorhamandnorton.com"
+website: http://gorhamandnorton.com

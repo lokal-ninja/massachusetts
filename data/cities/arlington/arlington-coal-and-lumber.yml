@@ -1,11 +1,11 @@
 id: 196453198
-type: way
+type: node
 latitude: 42.42489
 longitude: -71.18319
 postcode: "02476"
 city: Arlington
-street: "Park Avenue"
-housenumber: 41
+street: Park Avenue
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35114
 longitude: -71.07582
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 112
-phone: "+1-617-247-1777"
+street: Newbury Street
+housenumber: "112"
+phone: +1-617-247-1777
 opening_hours: ""
-website: "https://stores.kiehls.com/ma/boston/112-newbury-st.html"
+website: https://stores.kiehls.com/ma/boston/112-newbury-st.html

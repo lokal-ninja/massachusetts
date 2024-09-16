@@ -1,11 +1,11 @@
 id: 128949492
-type: way
+type: node
 latitude: 42.48189
 longitude: -71.2116
-postcode: "01803-5327"
+postcode: 01803-5327
 city: Burlington
-street: "Middlesex Turnpike"
-housenumber: 75
+street: Middlesex Turnpike
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

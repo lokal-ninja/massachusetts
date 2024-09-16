@@ -1,11 +1,11 @@
 id: 213275527
-type: way
+type: node
 latitude: 42.07977
 longitude: -71.38481
 postcode: "02038"
 city: Franklin
-street: "East Central Street"
-housenumber: 272
+street: East Central Street
+housenumber: "272"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/franklin-ma-pharmacies/272-east-central-street-route-140-franklin-ma-02038/storeid=929"
+website: https://www.cvs.com/store-locator/franklin-ma-pharmacies/272-east-central-street-route-140-franklin-ma-02038/storeid=929

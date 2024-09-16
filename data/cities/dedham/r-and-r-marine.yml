@@ -1,11 +1,11 @@
 id: 29639178
-type: way
+type: node
 latitude: 42.2442
 longitude: -71.14422
 postcode: "02026"
 city: Dedham
-street: "Solaris Road"
-housenumber: 54
+street: Solaris Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.diverandr.com/"
+website: https://www.diverandr.com/

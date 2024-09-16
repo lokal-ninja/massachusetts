@@ -4,8 +4,8 @@ latitude: 42.33563
 longitude: -72.67103
 postcode: "01062"
 city: Florence
-street: "Main Street"
-housenumber: 93
-phone: "+1 (413) 586-5829"
+street: Main Street
+housenumber: "93"
+phone: +1 (413) 586-5829
 opening_hours: ""
-website: "https://www.collectivecopies.com"
+website: https://www.collectivecopies.com

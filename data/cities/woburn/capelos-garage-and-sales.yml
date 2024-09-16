@@ -1,11 +1,11 @@
 id: 214146569
-type: way
+type: node
 latitude: 42.48033
 longitude: -71.15329
 postcode: "01801"
 city: Woburn
-street: "Winn Street"
-housenumber: 22
-phone: "+1 781 9350043"
+street: Winn Street
+housenumber: "22"
+phone: +1 781 9350043
 opening_hours: ""
-website: "http://capelosgarageandsales.com/"
+website: http://capelosgarageandsales.com/

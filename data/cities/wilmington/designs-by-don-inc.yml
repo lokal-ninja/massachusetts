@@ -1,11 +1,11 @@
 id: 138005156
-type: way
+type: node
 latitude: 42.54832
 longitude: -71.17436
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 380
-phone: "+1 978 9880044"
+street: Main Street
+housenumber: "380"
+phone: +1 978 9880044
 opening_hours: ""
-website: "https://www.designsbydoninc.com/"
+website: https://www.designsbydoninc.com/

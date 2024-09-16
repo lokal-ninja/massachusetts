@@ -4,8 +4,8 @@ latitude: 42.39474
 longitude: -71.12164
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 230
-phone: "+1 617-628-3618"
-opening_hours: "Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.goodwillmass.org/"
+street: Elm Street
+housenumber: "230"
+phone: +1 617-628-3618
+opening_hours: Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.goodwillmass.org/

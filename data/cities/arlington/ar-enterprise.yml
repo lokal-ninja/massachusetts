@@ -1,11 +1,11 @@
 id: 29641433
-type: way
+type: node
 latitude: 42.41476
 longitude: -71.13873
 postcode: "02474"
 city: Arlington
-street: "River Street"
-housenumber: 85
+street: River Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

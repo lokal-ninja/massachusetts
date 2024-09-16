@@ -1,11 +1,11 @@
 id: 384991957
-type: way
+type: node
 latitude: 42.50236
 longitude: -71.12729
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 406
+street: Washington Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
-website: "https://www.sunandski.com/woburn"
+website: https://www.sunandski.com/woburn

@@ -4,8 +4,8 @@ latitude: 42.21367
 longitude: -71.79777
 postcode: "01607"
 city: Worcester
-street: "Greenwood Street"
-housenumber: 348
-phone: "+1-508-752-1911"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 09:00-17:00;Mo-Sa 08:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-348+greenwood+st-worcester-ma-01607/id=19452"
+street: Greenwood Street
+housenumber: "348"
+phone: +1-508-752-1911
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 09:00-17:00;Mo-Sa 08:00-21:00
+website: https://www.walgreens.com/locator/walgreens-348+greenwood+st-worcester-ma-01607/id=19452

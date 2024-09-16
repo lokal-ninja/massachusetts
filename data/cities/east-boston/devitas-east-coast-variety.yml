@@ -1,11 +1,11 @@
 id: 29965739
-type: way
+type: node
 latitude: 42.37559
 longitude: -71.03651
 postcode: "02128"
 city: East Boston
-street: "Bennington Street"
-housenumber: 67
+street: Bennington Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

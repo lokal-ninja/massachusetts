@@ -1,11 +1,11 @@
 id: 1036989850
-type: way
+type: node
 latitude: 42.11323
 longitude: -72.12408
 postcode: "01566"
 city: Sturbridge
-street: "Main Street"
-housenumber: 660
-phone: "+1-774-241-0588"
+street: Main Street
+housenumber: "660"
+phone: +1-774-241-0588
 opening_hours: ""
-website: "https://healmj.com/"
+website: https://healmj.com/

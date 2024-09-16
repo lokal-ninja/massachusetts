@@ -4,8 +4,8 @@ latitude: 42.35091
 longitude: -71.07696
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 138
-phone: "+1-617-603-0118"
+street: Newbury Street
+housenumber: "138"
+phone: +1-617-603-0118
 opening_hours: ""
-website: "https://www.cosstores.com/"
+website: https://www.cosstores.com/

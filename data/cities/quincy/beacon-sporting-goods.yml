@@ -1,11 +1,11 @@
 id: 29845710
-type: way
+type: node
 latitude: 42.24467
 longitude: -71.02469
 postcode: "02169"
 city: Quincy
-street: "Furnace Brook Parkway"
-housenumber: 1240
+street: Furnace Brook Parkway
+housenumber: "1240"
 phone: ""
 opening_hours: ""
-website: "https://www.BeaconSportingGoods.co"
+website: https://www.BeaconSportingGoods.co

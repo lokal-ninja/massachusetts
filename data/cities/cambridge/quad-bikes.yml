@@ -4,8 +4,8 @@ latitude: 42.38103
 longitude: -71.12343
 postcode: ""
 city: Cambridge
-street: "Shepard Street"
-housenumber: 51
-phone: "+1 617 496-5955"
-opening_hours: "Mo,Su off;Tu-Sa 13:00-18:30"
-website: "https://www.quadbikes.org/"
+street: Shepard Street
+housenumber: "51"
+phone: +1 617 496-5955
+opening_hours: Mo,Su off;Tu-Sa 13:00-18:30
+website: https://www.quadbikes.org/

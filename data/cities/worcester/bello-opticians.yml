@@ -4,8 +4,8 @@ latitude: 42.27021
 longitude: -71.7776
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 348
+street: Shrewsbury Street
+housenumber: "348"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:30-18:00;We 08:30-20:00; Fr 08:30-17:00; Sa 08:30-13:00"
+opening_hours: Mo,Tu,Th 08:30-18:00;We 08:30-20:00; Fr 08:30-17:00; Sa 08:30-13:00
 website: ""

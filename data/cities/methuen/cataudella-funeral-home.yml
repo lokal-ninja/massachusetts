@@ -1,11 +1,11 @@
 id: 214531285
-type: way
+type: node
 latitude: 42.74502
 longitude: -71.14766
 postcode: "01844"
 city: Methuen
-street: "Pleasant Valley Street"
-housenumber: 
+street: Pleasant Valley Street
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

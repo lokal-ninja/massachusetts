@@ -1,11 +1,11 @@
 id: 216405256
-type: way
+type: node
 latitude: 42.52739
 longitude: -71.0744
 postcode: "01880"
 city: Wakefield
-street: "Bay State Road"
-housenumber: 81
-phone: "+1 888 4353659"
+street: Bay State Road
+housenumber: "81"
+phone: +1 888 4353659
 opening_hours: ""
-website: "https://www.libertymazdausa.com/"
+website: https://www.libertymazdausa.com/

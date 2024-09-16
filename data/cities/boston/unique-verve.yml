@@ -4,8 +4,8 @@ latitude: 42.35177
 longitude: -71.07545
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 105
+street: Newbury Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://uniqueverve.com/"
+website: https://uniqueverve.com/

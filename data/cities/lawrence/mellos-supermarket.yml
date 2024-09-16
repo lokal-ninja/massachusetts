@@ -4,8 +4,8 @@ latitude: 42.71638
 longitude: -71.16538
 postcode: "01841"
 city: Lawrence
-street: "Lawrence Street"
-housenumber: 187
-phone: "+1 978-685-2970"
-opening_hours: "7:30-24:00"
+street: Lawrence Street
+housenumber: "187"
+phone: +1 978-685-2970
+opening_hours: 7:30-24:00
 website: ""

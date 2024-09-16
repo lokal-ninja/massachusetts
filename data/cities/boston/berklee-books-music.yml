@@ -4,8 +4,8 @@ latitude: 42.3469
 longitude: -71.0883
 postcode: "02215"
 city: Boston
-street: "Boylston Street"
-housenumber: 1090
+street: Boylston Street
+housenumber: "1090"
 phone: ""
 opening_hours: ""
-website: "https://berklee.bncollege.com/shop/berklee/home"
+website: https://berklee.bncollege.com/shop/berklee/home

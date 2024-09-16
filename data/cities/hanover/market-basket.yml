@@ -1,11 +1,11 @@
 id: 1116960270
-type: way
+type: node
 latitude: 42.14841
 longitude: -70.84196
 postcode: "02339"
 city: Hanover
-street: "Washington Street"
-housenumber: 1775
+street: Washington Street
+housenumber: "1775"
 phone: ""
 opening_hours: ""
 website: ""

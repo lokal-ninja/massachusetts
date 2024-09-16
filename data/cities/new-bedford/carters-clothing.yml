@@ -1,11 +1,11 @@
 id: 214666896
-type: way
+type: node
 latitude: 41.63572
 longitude: -70.92511
 postcode: "02740"
 city: New Bedford
-street: "William Street"
-housenumber: 55
+street: William Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://cartersma.com/"
+website: https://cartersma.com/

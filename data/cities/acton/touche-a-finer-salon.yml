@@ -4,8 +4,9 @@ latitude: 42.51539
 longitude: -71.42804
 postcode: "01720"
 city: Acton
-street: "Great Road"
-housenumber: 485
-phone: "+1-978-266-2755"
-opening_hours: "Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr 09:00-16:00; Sa 08:00-17:00"
-website: "http://www.touchesalon.com"
+street: Great Road
+housenumber: "485"
+phone: +1-978-266-2755
+opening_hours: Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr 09:00-16:00; Sa
+    08:00-17:00
+website: http://www.touchesalon.com

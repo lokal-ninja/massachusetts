@@ -1,11 +1,11 @@
 id: 214893700
-type: way
+type: node
 latitude: 42.57071
 longitude: -71.11256
 postcode: "01864"
 city: North Reading
-street: "Main Street"
-housenumber: 72
-phone: "+1 978-664-3262"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-20:00"
-website: "https://www.walmart.com/store/2660/north-reading-ma/whats-new"
+street: Main Street
+housenumber: "72"
+phone: +1 978-664-3262
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-20:00
+website: https://www.walmart.com/store/2660/north-reading-ma/whats-new

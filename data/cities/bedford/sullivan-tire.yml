@@ -1,11 +1,11 @@
 id: 211983456
-type: way
+type: node
 latitude: 42.49503
 longitude: -71.28518
 postcode: "01730"
 city: Bedford
-street: "North Road"
-housenumber: 25
+street: North Road
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Su off; Sa 07:30-17:00"
+opening_hours: Mo-Fr 07:30-18:00; Su off; Sa 07:30-17:00
 website: ""

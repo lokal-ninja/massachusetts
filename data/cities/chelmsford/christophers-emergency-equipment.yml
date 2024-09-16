@@ -1,11 +1,11 @@
 id: 212355576
-type: way
+type: node
 latitude: 42.60777
 longitude: -71.31038
 postcode: "01824"
 city: Chelmsford
-street: "Riverneck Road"
-housenumber: 76
-phone: "+1 978-265-8363"
+street: Riverneck Road
+housenumber: "76"
+phone: +1 978-265-8363
 opening_hours: ""
 website: ""

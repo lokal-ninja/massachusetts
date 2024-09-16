@@ -1,11 +1,11 @@
 id: 465037247
-type: way
+type: node
 latitude: 42.306
 longitude: -71.40026
 postcode: "01701"
 city: Framingham
-street: "Old Connecticut Path"
-housenumber: 235
+street: Old Connecticut Path
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

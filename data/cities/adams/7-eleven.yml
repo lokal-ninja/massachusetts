@@ -1,11 +1,11 @@
 id: 285113610
-type: way
+type: node
 latitude: 42.63657
 longitude: -73.11263
 postcode: "01220"
 city: Adams
-street: "Columbia Street"
-housenumber: 223
-phone: "+1 (413) 743-0322"
+street: Columbia Street
+housenumber: "223"
+phone: +1 (413) 743-0322
 opening_hours: ""
 website: ""

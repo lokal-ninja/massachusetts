@@ -4,8 +4,8 @@ latitude: 42.35175
 longitude: -71.1319
 postcode: "02134"
 city: Allston
-street: "Harvard Avenue"
-housenumber: 151
+street: Harvard Avenue
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://basicsboston.com/"
+website: https://basicsboston.com/

@@ -1,11 +1,11 @@
 id: 212263577
-type: way
+type: node
 latitude: 42.09987
 longitude: -71.06696
 postcode: "02301"
 city: Brockton
-street: "North Pearl Street"
-housenumber: 316
+street: North Pearl Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/brockton-ma-pharmacies/316-north-pearl-street-brockton-ma-02301/storeid=1006"
+website: https://www.cvs.com/store-locator/brockton-ma-pharmacies/316-north-pearl-street-brockton-ma-02301/storeid=1006

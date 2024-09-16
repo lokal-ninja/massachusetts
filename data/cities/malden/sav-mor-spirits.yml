@@ -4,8 +4,8 @@ latitude: 42.42496
 longitude: -71.04477
 postcode: "02148"
 city: Malden
-street: "Broadway"
-housenumber: 48
-phone: "+1-781-395-6200"
-opening_hours: "Mo 12:00-20:00; Tu-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-19:00"
+street: Broadway
+housenumber: "48"
+phone: +1-781-395-6200
+opening_hours: Mo 12:00-20:00; Tu-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-19:00
 website: ""

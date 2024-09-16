@@ -1,11 +1,11 @@
 id: 29822859
-type: way
+type: node
 latitude: 42.46156
 longitude: -71.14222
 postcode: "01890"
 city: Winchester
-street: "Main Street"
-housenumber: 888
+street: Main Street
+housenumber: "888"
 phone: ""
 opening_hours: ""
-website: "https://www.winchesteroptical.net/"
+website: https://www.winchesteroptical.net/

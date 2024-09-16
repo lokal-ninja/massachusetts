@@ -4,8 +4,8 @@ latitude: 42.27989
 longitude: -71.23722
 postcode: "02492"
 city: Needham
-street: "Chestnut Street"
-housenumber: 17
-phone: "+1-781-444-1064"
-opening_hours: "Su-Mo off; Tu,Th-Fr 07:30-17:00; We 07:30-18:00; Sa 07:00-16:00"
-website: "https://www.needhambarber.com/"
+street: Chestnut Street
+housenumber: "17"
+phone: +1-781-444-1064
+opening_hours: Su-Mo off; Tu,Th-Fr 07:30-17:00; We 07:30-18:00; Sa 07:00-16:00
+website: https://www.needhambarber.com/

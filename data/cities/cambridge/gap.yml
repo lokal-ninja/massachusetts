@@ -4,8 +4,8 @@ latitude: 42.37347
 longitude: -71.12031
 postcode: "02138"
 city: Cambridge
-street: "Brattle Street"
-housenumber: 15
+street: Brattle Street
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.48556
 longitude: -71.19446
 postcode: "01803"
 city: Burlington
-street: "Wayside Road"
-housenumber: 6
-phone: "+1-781-270-2309"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.loft.com/ma/burlington/6-wayside-road.html"
+street: Wayside Road
+housenumber: "6"
+phone: +1-781-270-2309
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.loft.com/ma/burlington/6-wayside-road.html

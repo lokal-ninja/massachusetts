@@ -4,8 +4,8 @@ latitude: 42.52432
 longitude: -71.103
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 648
-phone: "+1 781 9444031"
+street: Main Street
+housenumber: "648"
+phone: +1 781 9444031
 opening_hours: ""
-website: "https://simmsjewelers.net/"
+website: https://simmsjewelers.net/

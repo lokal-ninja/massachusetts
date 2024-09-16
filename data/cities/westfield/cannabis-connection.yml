@@ -1,11 +1,11 @@
 id: 1053409335
-type: way
+type: node
 latitude: 42.14202
 longitude: -72.7295
 postcode: "01085"
 city: Westfield
-street: "Westfield Industrial Park Road"
-housenumber: 40
+street: Westfield Industrial Park Road
+housenumber: "40"
 phone: "+14137522269"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://ccofwestfield.com/"
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://ccofwestfield.com/

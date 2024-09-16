@@ -1,11 +1,11 @@
 id: 213358708
-type: way
+type: node
 latitude: 42.20242
 longitude: -73.35063
 postcode: "01230"
 city: Great Barrington
-street: "State Road"
-housenumber: 155
+street: State Road
+housenumber: "155"
 phone: "+14135281790"
-opening_hours: "Mo-Sa 9:00-9:30, Su 11:00-7:00"
-website: "http://www.plazapackage.com/"
+opening_hours: Mo-Sa 9:00-9:30, Su 11:00-7:00
+website: http://www.plazapackage.com/

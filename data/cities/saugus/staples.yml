@@ -4,8 +4,8 @@ latitude: 42.47938
 longitude: -71.0206
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 444
+street: Broadway
+housenumber: "444"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ma/saugus/444-broadway-(route-1)"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.staples.com/ma/saugus/444-broadway-(route-1)

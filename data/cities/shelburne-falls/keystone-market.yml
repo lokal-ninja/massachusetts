@@ -1,11 +1,11 @@
 id: 215966282
-type: way
+type: node
 latitude: 42.604
 longitude: -72.73865
 postcode: "01370"
 city: Shelburne Falls
-street: "Bridge Street"
-housenumber: 44
-phone: "+1-413-625-8400"
+street: Bridge Street
+housenumber: "44"
+phone: +1-413-625-8400
 opening_hours: ""
 website: ""

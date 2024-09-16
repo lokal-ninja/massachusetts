@@ -4,8 +4,8 @@ latitude: 42.37111
 longitude: -71.15766
 postcode: "02472"
 city: Watertown
-street: "Bigelow Avenue"
-housenumber: 6
+street: Bigelow Avenue
+housenumber: "6"
 phone: "+16179249691"
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

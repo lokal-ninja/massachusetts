@@ -4,8 +4,8 @@ latitude: 42.11792
 longitude: -71.23454
 postcode: "02067"
 city: Sharon
-street: "Merchant Street"
-housenumber: 2
-phone: "+1 508-507-9463"
+street: Merchant Street
+housenumber: "2"
+phone: +1 508-507-9463
 opening_hours: ""
-website: "https://vinovations.us"
+website: https://vinovations.us

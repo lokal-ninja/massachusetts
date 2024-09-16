@@ -4,8 +4,8 @@ latitude: 42.45729
 longitude: -71.39439
 postcode: "01742"
 city: Concord
-street: "Commonwealth Avenue"
-housenumber: 86
-phone: "+1 978 369 9032"
+street: Commonwealth Avenue
+housenumber: "86"
+phone: +1 978 369 9032
 opening_hours: ""
-website: "https://gordonoptical.com"
+website: https://gordonoptical.com

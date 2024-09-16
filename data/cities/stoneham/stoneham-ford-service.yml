@@ -1,11 +1,11 @@
 id: 29810813
-type: way
+type: node
 latitude: 42.48904
 longitude: -71.10095
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 185
+street: Main Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

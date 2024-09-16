@@ -1,11 +1,11 @@
 id: 214148357
-type: way
+type: node
 latitude: 42.48295
 longitude: -71.15639
 postcode: "01801"
 city: Woburn
-street: "Winn Street"
-housenumber: 98
-phone: "+1 781 3760580"
+street: Winn Street
+housenumber: "98"
+phone: +1 781 3760580
 opening_hours: ""
-website: "http://www.usademo.com/"
+website: http://www.usademo.com/

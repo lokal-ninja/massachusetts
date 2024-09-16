@@ -1,11 +1,11 @@
 id: 216082925
-type: way
+type: node
 latitude: 42.14446
 longitude: -72.4892
 postcode: "01129"
 city: Springfield
-street: "Boston Road"
-housenumber: 1600
+street: Boston Road
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

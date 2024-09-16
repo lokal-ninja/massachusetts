@@ -1,11 +1,11 @@
 id: 196435047
-type: way
+type: node
 latitude: 41.71092
 longitude: -70.02397
-postcode: "02645-1360"
+postcode: 02645-1360
 city: Harwich
-street: "Route 137"
-housenumber: 181
-phone: "+1 508-432-3669"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-15:00"
+street: Route 137
+housenumber: "181"
+phone: +1 508-432-3669
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35152
 longitude: -71.07619
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 115
-phone: "+1-617-262-2222"
+street: Newbury Street
+housenumber: "115"
+phone: +1-617-262-2222
 opening_hours: ""
-website: "http://salonmarcharris.com/boston-newbury-st"
+website: http://salonmarcharris.com/boston-newbury-st

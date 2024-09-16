@@ -1,11 +1,11 @@
 id: 214410765
-type: way
+type: node
 latitude: 42.0232
 longitude: -71.23316
 postcode: "02048"
 city: Mansfield
-street: "West Street"
-housenumber: 390
-phone: "+1 508-337-2050"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/mansfield/ma/mansfield/02048/2609"
+street: West Street
+housenumber: "390"
+phone: +1 508-337-2050
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/mansfield/ma/mansfield/02048/2609

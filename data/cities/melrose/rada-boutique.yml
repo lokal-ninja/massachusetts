@@ -4,8 +4,8 @@ latitude: 42.45496
 longitude: -71.06555
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 486
+street: Main Street
+housenumber: "486"
 phone: ""
 opening_hours: ""
-website: "https://radaboutique.com/radaboutique-melrose.html"
+website: https://radaboutique.com/radaboutique-melrose.html

@@ -1,11 +1,11 @@
 id: 29774520
-type: way
+type: node
 latitude: 42.24244
 longitude: -70.95416
 postcode: ""
 city: Weymouth
-street: "Bridge Street"
-housenumber: 291
+street: Bridge Street
+housenumber: "291"
 phone: ""
 opening_hours: ""
 website: ""

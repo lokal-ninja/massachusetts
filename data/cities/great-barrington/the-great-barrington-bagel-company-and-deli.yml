@@ -4,8 +4,8 @@ latitude: 42.17964
 longitude: -73.36313
 postcode: "01230"
 city: Great Barrington
-street: "Main Street"
-housenumber: 777
-phone: "+1-413-528-9055"
-opening_hours: "Mo-Fr 06:30-15:00; Sa 07:30-15:00; Su 07:00-14:00"
-website: "https://www.gbbagel.com/"
+street: Main Street
+housenumber: "777"
+phone: +1-413-528-9055
+opening_hours: Mo-Fr 06:30-15:00; Sa 07:30-15:00; Su 07:00-14:00
+website: https://www.gbbagel.com/

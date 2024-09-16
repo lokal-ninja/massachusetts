@@ -4,8 +4,8 @@ latitude: 42.34935
 longitude: -71.09411
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 485
-phone: "+1-617-651-0044"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 09:30-17:00"
-website: "https://swayspa.com/"
+street: Commonwealth Avenue
+housenumber: "485"
+phone: +1-617-651-0044
+opening_hours: Tu-Fr 11:00-18:00; Sa 09:30-17:00
+website: https://swayspa.com/

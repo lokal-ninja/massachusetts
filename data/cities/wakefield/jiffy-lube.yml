@@ -1,11 +1,11 @@
 id: 216404050
-type: way
+type: node
 latitude: 42.49811
 longitude: -71.06959
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 589
+street: Main Street
+housenumber: "589"
 phone: ""
 opening_hours: ""
-website: "https://www.jiffylube.com/"
+website: https://www.jiffylube.com/

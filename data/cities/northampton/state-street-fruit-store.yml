@@ -4,8 +4,8 @@ latitude: 42.31936
 longitude: -72.6341
 postcode: "01060"
 city: Northampton
-street: "State Street"
-housenumber: 51
-phone: "+1 (413) 584-2301"
-opening_hours: "Mo-Sa 06:30-20:00; Su 06:30-18:00"
-website: "https://www.statestreetfruit.com/"
+street: State Street
+housenumber: "51"
+phone: +1 (413) 584-2301
+opening_hours: Mo-Sa 06:30-20:00; Su 06:30-18:00
+website: https://www.statestreetfruit.com/

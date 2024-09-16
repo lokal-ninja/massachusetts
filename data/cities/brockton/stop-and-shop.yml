@@ -1,11 +1,11 @@
 id: 212244589
-type: way
+type: node
 latitude: 42.10943
 longitude: -71.02622
 postcode: "02301"
 city: Brockton
-street: "Newton Avenue"
-housenumber: 17
+street: Newton Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

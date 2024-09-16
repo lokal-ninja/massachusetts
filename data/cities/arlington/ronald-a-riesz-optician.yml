@@ -4,8 +4,8 @@ latitude: 42.41457
 longitude: -71.15151
 postcode: "02474"
 city: Arlington
-street: "Massachusetts Avenue"
-housenumber: 452
+street: Massachusetts Avenue
+housenumber: "452"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-15:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-15:00; Sa 09:00-13:00
 website: ""

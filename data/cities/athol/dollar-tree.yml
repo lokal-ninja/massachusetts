@@ -4,8 +4,8 @@ latitude: 42.57879
 longitude: -72.18451
 postcode: "01331"
 city: Athol
-street: "Market Drive"
-housenumber: 130
+street: Market Drive
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ma/athol/7407/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ma/athol/7407/

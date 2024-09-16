@@ -1,11 +1,11 @@
 id: 384218957
-type: way
+type: node
 latitude: 42.30401
 longitude: -71.32524
 postcode: "02482"
 city: Wellesley
-street: "Worcester Street"
-housenumber: 984
+street: Worcester Street
+housenumber: "984"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wellesley-ma-pharmacies/984-worcester-street-wellesley-ma-02482/storeid=1254"
+website: https://www.cvs.com/store-locator/wellesley-ma-pharmacies/984-worcester-street-wellesley-ma-02482/storeid=1254

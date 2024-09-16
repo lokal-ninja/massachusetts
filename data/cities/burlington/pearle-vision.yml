@@ -4,8 +4,8 @@ latitude: 42.48647
 longitude: -71.21173
 postcode: "01803"
 city: Burlington
-street: "Burlington Mall Road"
-housenumber: 76
+street: Burlington Mall Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.pearlevision.com/burlingtonMA"
+website: https://www.pearlevision.com/burlingtonMA

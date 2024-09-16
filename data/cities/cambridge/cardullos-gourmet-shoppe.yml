@@ -4,8 +4,8 @@ latitude: 42.37352
 longitude: -71.11978
 postcode: "02138"
 city: Cambridge
-street: "Brattle Street"
-housenumber: 6
-phone: "+1 617-491-8888"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://cardullos.com/"
+street: Brattle Street
+housenumber: "6"
+phone: +1 617-491-8888
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://cardullos.com/

@@ -1,11 +1,11 @@
 id: 214944734
-type: way
+type: node
 latitude: 41.78888
 longitude: -69.98859
-postcode: "02653-2402"
+postcode: 02653-2402
 city: Orleans
-street: "South Orleans Road"
-housenumber: 28
-phone: "+1 508-255-6565"
-opening_hours: "Mo-Sa 07:30-17:30; Su 09:00-16:00"
+street: South Orleans Road
+housenumber: "28"
+phone: +1 508-255-6565
+opening_hours: Mo-Sa 07:30-17:30; Su 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 576788396
-type: way
+type: node
 latitude: 42.36456
 longitude: -71.18831
 postcode: "02472"
 city: Watertown
-street: "Watertown Street"
-housenumber: 39
-phone: "+1 617 926 6822"
-opening_hours: "Mo-Sa 06:00-24:00; Su 08:00-22:00"
+street: Watertown Street
+housenumber: "39"
+phone: +1 617 926 6822
+opening_hours: Mo-Sa 06:00-24:00; Su 08:00-22:00
 website: ""

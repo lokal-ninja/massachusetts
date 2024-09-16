@@ -1,11 +1,11 @@
 id: 630392537
-type: way
+type: node
 latitude: 41.77864
 longitude: -70.74694
 postcode: "02571"
 city: Wareham
-street: "Seth F Tobey Road"
-housenumber: 15
-phone: "+1 508-295-8890"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2095/wareham-ma/whats-new"
+street: Seth F Tobey Road
+housenumber: "15"
+phone: +1 508-295-8890
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2095/wareham-ma/whats-new

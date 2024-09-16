@@ -1,11 +1,11 @@
 id: 215736352
-type: way
+type: node
 latitude: 41.95447
 longitude: -70.66176
 postcode: "02360"
 city: Plymouth
-street: "Sandwich Street"
-housenumber: 36
+street: Sandwich Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://yeoldepilgrimwashingwell.com/"
+website: https://yeoldepilgrimwashingwell.com/

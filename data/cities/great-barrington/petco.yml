@@ -2,10 +2,10 @@ id: 5872666585
 type: node
 latitude: 42.18026
 longitude: -73.3654
-postcode: "01230-2016"
+postcode: 01230-2016
 city: Great Barrington
-street: "Main Street"
-housenumber: 700
-phone: "+1 413-528-4208"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ma/greatbarrington/pet-supplies-greatbarrington-ma-3768.html"
+street: Main Street
+housenumber: "700"
+phone: +1 413-528-4208
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ma/greatbarrington/pet-supplies-greatbarrington-ma-3768.html

@@ -4,8 +4,8 @@ latitude: 42.35118
 longitude: -71.07594
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 114
-phone: "+1-617-536-2610"
+street: Newbury Street
+housenumber: "114"
+phone: +1-617-536-2610
 opening_hours: ""
-website: "https://www.betsyjenney.com/"
+website: https://www.betsyjenney.com/

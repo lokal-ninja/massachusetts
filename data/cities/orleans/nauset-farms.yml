@@ -1,11 +1,11 @@
 id: 214941887
-type: way
+type: node
 latitude: 41.78425
 longitude: -69.96837
 postcode: ""
 city: Orleans
-street: "Main Street"
-housenumber: 199
+street: Main Street
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

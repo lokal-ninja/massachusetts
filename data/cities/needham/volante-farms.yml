@@ -4,8 +4,8 @@ latitude: 42.29262
 longitude: -71.25023
 postcode: "02492"
 city: Needham
-street: "Forest Street"
-housenumber: 292
-phone: "+1-781-444-2351"
-opening_hours: "Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00"
-website: "https://volantefarms.com/"
+street: Forest Street
+housenumber: "292"
+phone: +1-781-444-2351
+opening_hours: Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00
+website: https://volantefarms.com/

@@ -4,8 +4,8 @@ latitude: 42.35061
 longitude: -71.05019
 postcode: "02210"
 city: Boston
-street: "Summer Street"
-housenumber: 268
-phone: "+1-617-217-0455"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.asurion.com/repairs/tech/locations/seaport"
+street: Summer Street
+housenumber: "268"
+phone: +1-617-217-0455
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.asurion.com/repairs/tech/locations/seaport

@@ -4,8 +4,8 @@ latitude: 42.35124
 longitude: -71.07713
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
+street: Newbury Street
 housenumber: 139A
-phone: "+1-617-425-0740"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.longchamp.com/us/en/"
+phone: +1-617-425-0740
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.longchamp.com/us/en/

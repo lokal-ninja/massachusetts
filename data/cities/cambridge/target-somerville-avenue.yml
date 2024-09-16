@@ -4,8 +4,8 @@ latitude: 42.38862
 longitude: -71.11858
 postcode: "02140"
 city: Cambridge
-street: "Somerville Avenue"
-housenumber: 822
-phone: "+1 617-702-1786"
-opening_hours: "Mo-Fr 07:00-23:00; Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.target.com/sl/cambridge-porter-square/3304"
+street: Somerville Avenue
+housenumber: "822"
+phone: +1 617-702-1786
+opening_hours: Mo-Fr 07:00-23:00; Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.target.com/sl/cambridge-porter-square/3304

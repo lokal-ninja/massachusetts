@@ -4,8 +4,8 @@ latitude: 42.35229
 longitude: -71.07164
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 6
-phone: "+1-617-859-0055"
+street: Newbury Street
+housenumber: "6"
+phone: +1-617-859-0055
 opening_hours: ""
-website: "https://www.chanel.com/"
+website: https://www.chanel.com/

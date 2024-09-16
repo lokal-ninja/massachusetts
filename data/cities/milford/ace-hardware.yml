@@ -2,10 +2,10 @@ id: 3311367803
 type: node
 latitude: 42.12558
 longitude: -71.51488
-postcode: "01757-3289"
+postcode: 01757-3289
 city: Milford
-street: "South Main Street"
-housenumber: 146
-phone: "+1 508-634-3339"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: South Main Street
+housenumber: "146"
+phone: +1 508-634-3339
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

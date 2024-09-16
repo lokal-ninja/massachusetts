@@ -1,11 +1,11 @@
 id: 29539250
-type: way
+type: node
 latitude: 42.50212
 longitude: -71.12726
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 408
+street: Washington Street
+housenumber: "408"
 phone: ""
 opening_hours: ""
-website: "https://www.hogantire.com/locations/mode/1/408-washington-st-woburn-ma-01801.aspx"
+website: https://www.hogantire.com/locations/mode/1/408-washington-st-woburn-ma-01801.aspx

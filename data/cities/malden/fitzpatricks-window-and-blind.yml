@@ -4,8 +4,8 @@ latitude: 42.42917
 longitude: -71.07424
 postcode: ""
 city: Malden
-street: "Summer Street"
-housenumber: 70
-phone: "+1 781 3248388"
+street: Summer Street
+housenumber: "70"
+phone: +1 781 3248388
 opening_hours: ""
-website: "http://www.fitzpatrickswindow.com/"
+website: http://www.fitzpatrickswindow.com/

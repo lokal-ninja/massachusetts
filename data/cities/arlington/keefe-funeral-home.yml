@@ -1,11 +1,11 @@
 id: 164449618
-type: way
+type: node
 latitude: 42.41645
 longitude: -71.14958
 postcode: "02474"
 city: Arlington
-street: "Chestnut Street"
-housenumber: 5
-phone: "+1-781-648-5544"
+street: Chestnut Street
+housenumber: "5"
+phone: +1-781-648-5544
 opening_hours: ""
-website: "https://www.keefefuneralhome.com/copy-of-cambridge"
+website: https://www.keefefuneralhome.com/copy-of-cambridge

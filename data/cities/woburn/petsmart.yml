@@ -4,8 +4,8 @@ latitude: 42.51588
 longitude: -71.13904
 postcode: "01801"
 city: Woburn
-street: "Commerce Way"
-housenumber: 114
-phone: "+1 781-460-2240"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ma/woburn-store1961.html"
+street: Commerce Way
+housenumber: "114"
+phone: +1 781-460-2240
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ma/woburn-store1961.html

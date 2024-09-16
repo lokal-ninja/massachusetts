@@ -1,11 +1,11 @@
 id: 29512995
-type: way
+type: node
 latitude: 42.35028
 longitude: -71.12961
 postcode: "02134"
 city: Allston
-street: "Commonwealth Avenue"
-housenumber: 1188
+street: Commonwealth Avenue
+housenumber: "1188"
 phone: ""
-opening_hours: "Mo-Th 08:30-20:00; Fr,Sa 08:30-18:00; Su 11:00-17:00"
-website: "https://www.herbchambers.com/land-rover-jaguar-dealer-boston-ma.htm"
+opening_hours: Mo-Th 08:30-20:00; Fr,Sa 08:30-18:00; Su 11:00-17:00
+website: https://www.herbchambers.com/land-rover-jaguar-dealer-boston-ma.htm

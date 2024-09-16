@@ -1,11 +1,11 @@
 id: 29900120
-type: way
+type: node
 latitude: 42.21912
 longitude: -71.00317
 postcode: "02184"
 city: Braintree
-street: "Washington Street"
-housenumber: 396
-phone: "+1 781-843-1383"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-18:00"
+street: Washington Street
+housenumber: "396"
+phone: +1 781-843-1383
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-18:00
 website: ""

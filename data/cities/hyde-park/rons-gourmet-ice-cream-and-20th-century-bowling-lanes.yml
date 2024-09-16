@@ -1,11 +1,11 @@
 id: 29814630
-type: way
+type: node
 latitude: 42.25664
 longitude: -71.12404
 postcode: "02136"
 city: Hyde Park
-street: "Hyde Park Avenue"
-housenumber: 1231
-phone: "+1 617-364-5274"
-opening_hours: "Mo-Th 07:30-22:00; Fr 07:30-23:00; Sa 08:00-23:00; Su 09:00-22:00"
-website: "https://www.ronsicecream.com/about/"
+street: Hyde Park Avenue
+housenumber: "1231"
+phone: +1 617-364-5274
+opening_hours: Mo-Th 07:30-22:00; Fr 07:30-23:00; Sa 08:00-23:00; Su 09:00-22:00
+website: https://www.ronsicecream.com/about/

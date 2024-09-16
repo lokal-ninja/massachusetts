@@ -4,8 +4,8 @@ latitude: 42.34871
 longitude: -71.08821
 postcode: "02115"
 city: Boston
-street: "Massachusetts Avenue"
-housenumber: 88
-phone: "+1-617-247-4141"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
+street: Massachusetts Avenue
+housenumber: "88"
+phone: +1-617-247-4141
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00
 website: ""

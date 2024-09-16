@@ -4,8 +4,8 @@ latitude: 42.38543
 longitude: -71.11908
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1771
-phone: "+1 617 497 6677"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-18:00"
-website: "https://www.nomadcambridge.com/"
+street: Massachusetts Avenue
+housenumber: "1771"
+phone: +1 617 497 6677
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-18:00
+website: https://www.nomadcambridge.com/

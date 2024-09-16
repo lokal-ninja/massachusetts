@@ -1,11 +1,11 @@
 id: 214145667
-type: way
+type: node
 latitude: 42.48247
 longitude: -71.15121
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 508
+street: Main Street
+housenumber: "508"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-506+main+st-woburn-ma-01801/id=21288"
+website: https://www.walgreens.com/locator/walgreens-506+main+st-woburn-ma-01801/id=21288

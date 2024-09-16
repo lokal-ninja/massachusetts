@@ -1,11 +1,11 @@
 id: 29791551
-type: way
+type: node
 latitude: 42.37707
 longitude: -71.05645
 postcode: "02129"
 city: Charlestown
-street: "Vine Street"
-housenumber: 45
+street: Vine Street
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ma/charlestown/7507/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/ma/charlestown/7507/

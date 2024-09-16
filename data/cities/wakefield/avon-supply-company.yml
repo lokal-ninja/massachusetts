@@ -1,11 +1,11 @@
 id: 216405191
-type: way
+type: node
 latitude: 42.4984
 longitude: -71.07372
 postcode: "01880"
 city: Wakefield
-street: "Foundry Street"
-housenumber: 123
-phone: "+1 781 2458715"
+street: Foundry Street
+housenumber: "123"
+phone: +1 781 2458715
 opening_hours: ""
-website: "https://www.avonsupply.com/"
+website: https://www.avonsupply.com/

@@ -1,11 +1,11 @@
 id: 163127838
-type: way
+type: node
 latitude: 42.23292
 longitude: -71.7905
 postcode: "01607"
 city: Worcester
-street: "Tobias Boland Way"
-housenumber: 25
-phone: "+1 774-314-3157"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4387/worcester-ma/whats-new"
+street: Tobias Boland Way
+housenumber: "25"
+phone: +1 774-314-3157
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4387/worcester-ma/whats-new

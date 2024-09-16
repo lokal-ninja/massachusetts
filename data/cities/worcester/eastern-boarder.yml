@@ -4,8 +4,8 @@ latitude: 42.25674
 longitude: -71.80868
 postcode: "01610"
 city: Worcester
-street: "Jackson Street"
-housenumber: 7
-phone: "+1 508-852-3668"
+street: Jackson Street
+housenumber: "7"
+phone: +1 508-852-3668
 opening_hours: ""
-website: "https://www.easternboarder.com"
+website: https://www.easternboarder.com

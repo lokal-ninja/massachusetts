@@ -1,11 +1,11 @@
 id: 29720168
-type: way
+type: node
 latitude: 42.29409
 longitude: -71.0469
 postcode: "02122"
 city: Dorchester
-street: "William T Morrissey Boulevard"
-housenumber: 818
+street: William T Morrissey Boulevard
+housenumber: "818"
 phone: ""
 opening_hours: ""
-website: "https://www.phillipschocolate.com/"
+website: https://www.phillipschocolate.com/

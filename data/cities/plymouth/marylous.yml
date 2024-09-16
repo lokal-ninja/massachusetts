@@ -1,11 +1,11 @@
 id: 215735178
-type: way
+type: node
 latitude: 41.94069
 longitude: -70.65266
 postcode: "02360"
 city: Plymouth
-street: "Obery Street"
-housenumber: 61
+street: Obery Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://marylous.com/"
+website: https://marylous.com/

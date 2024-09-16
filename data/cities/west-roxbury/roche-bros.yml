@@ -4,8 +4,8 @@ latitude: 42.28638
 longitude: -71.15202
 postcode: "02132"
 city: West Roxbury
-street: "Centre Street"
-housenumber: 1800
-phone: "+1 617 469 5747"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
+street: Centre Street
+housenumber: "1800"
+phone: +1 617 469 5747
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
 website: ""

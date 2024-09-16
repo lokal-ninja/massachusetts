@@ -1,11 +1,11 @@
 id: 212195920
-type: way
+type: node
 latitude: 41.75859
 longitude: -70.06595
 postcode: "02631"
 city: Brewster
-street: "Underpass Road"
-housenumber: 235
+street: Underpass Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

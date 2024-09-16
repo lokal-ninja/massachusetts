@@ -4,8 +4,8 @@ latitude: 42.3493
 longitude: -71.15441
 postcode: "02135"
 city: Brighton
-street: "Washington Street"
-housenumber: 381
-phone: "+1-617-2540500"
-opening_hours: "Mo,We-Fr 08:00-18:00; Sa08:00-15:00"
+street: Washington Street
+housenumber: "381"
+phone: +1-617-2540500
+opening_hours: Mo,We-Fr 08:00-18:00; Sa08:00-15:00
 website: ""

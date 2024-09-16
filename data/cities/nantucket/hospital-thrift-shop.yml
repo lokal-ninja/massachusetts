@@ -1,11 +1,11 @@
 id: 213829310
-type: way
+type: node
 latitude: 41.28409
 longitude: -70.10084
 postcode: ""
 city: Nantucket
-street: "India Street"
-housenumber: 17
+street: India Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

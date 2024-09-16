@@ -4,8 +4,8 @@ latitude: 42.26957
 longitude: -71.77882
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 326
+street: Shrewsbury Street
+housenumber: "326"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 09:00-15:00"
-website: "https://www.crownedbyglory.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 09:00-15:00
+website: https://www.crownedbyglory.com/

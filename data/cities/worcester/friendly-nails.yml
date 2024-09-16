@@ -4,8 +4,8 @@ latitude: 42.26626
 longitude: -71.80083
 postcode: "01608"
 city: Worcester
-street: "Main Street"
-housenumber: 289
-phone: "+1 508 7550200"
+street: Main Street
+housenumber: "289"
+phone: +1 508 7550200
 opening_hours: ""
-website: "http://friendlynails.net"
+website: http://friendlynails.net

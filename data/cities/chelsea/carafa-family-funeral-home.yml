@@ -1,11 +1,11 @@
 id: 29563466
-type: way
+type: node
 latitude: 42.40562
 longitude: -71.03472
 postcode: "02150"
 city: Chelsea
-street: "Washington Avenue"
-housenumber: 389
-phone: "+1-617-884-4188"
+street: Washington Avenue
+housenumber: "389"
+phone: +1-617-884-4188
 opening_hours: ""
-website: "https://www.carafafuneralhome.com/"
+website: https://www.carafafuneralhome.com/

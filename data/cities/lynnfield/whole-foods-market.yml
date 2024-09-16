@@ -4,8 +4,8 @@ latitude: 42.51444
 longitude: -71.03213
 postcode: "01940"
 city: Lynnfield
-street: "Market Street"
-housenumber: 100
-phone: "+1 781-776-4300"
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/lynnfield"
+street: Market Street
+housenumber: "100"
+phone: +1 781-776-4300
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/lynnfield

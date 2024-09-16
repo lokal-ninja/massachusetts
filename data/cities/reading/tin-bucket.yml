@@ -1,11 +1,11 @@
 id: 627473495
-type: way
+type: node
 latitude: 42.52476
 longitude: -71.10345
 postcode: "01867"
 city: Reading
-street: "Woburn Street"
-housenumber: 12
-phone: "+1 781 4399051"
+street: Woburn Street
+housenumber: "12"
+phone: +1 781 4399051
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.21608
 longitude: -70.9993
 postcode: "02184"
 city: Braintree
-street: "Grossman Drive"
-housenumber: 500
-phone: "+1 781-794-2951"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ma/braintree/500-grossman-drive"
+street: Grossman Drive
+housenumber: "500"
+phone: +1 781-794-2951
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ma/braintree/500-grossman-drive

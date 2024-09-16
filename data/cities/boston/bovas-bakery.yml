@@ -4,8 +4,8 @@ latitude: 42.3652
 longitude: -71.05559
 postcode: "02113"
 city: Boston
-street: "Salem Street"
-housenumber: 134
-phone: "+1-617-523-5601"
-opening_hours: "24/7"
-website: "https://bovabakeryboston.net/"
+street: Salem Street
+housenumber: "134"
+phone: +1-617-523-5601
+opening_hours: 24/7
+website: https://bovabakeryboston.net/

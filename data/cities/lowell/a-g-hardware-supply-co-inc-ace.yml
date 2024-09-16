@@ -1,11 +1,11 @@
 id: 214327341
-type: way
+type: node
 latitude: 42.6576
 longitude: -71.31372
 postcode: "01850"
 city: Lowell
-street: "Lakeview Avenue"
-housenumber: 776
+street: Lakeview Avenue
+housenumber: "776"
 phone: ""
 opening_hours: ""
 website: ""

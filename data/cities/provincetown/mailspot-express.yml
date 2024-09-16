@@ -4,8 +4,8 @@ latitude: 42.05289
 longitude: -70.18508
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 336
+street: Commercial Street
+housenumber: "336"
 phone: ""
 opening_hours: ""
-website: "http://mailspotexpress.com/"
+website: http://mailspotexpress.com/

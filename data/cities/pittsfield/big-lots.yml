@@ -4,8 +4,8 @@ latitude: 42.46457
 longitude: -73.21492
 postcode: "01201"
 city: Pittsfield
-street: "Dalton Avenue"
-housenumber: 457
-phone: "+1 413-344-0761"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ma/pittsfield/457-dalton-ave"
+street: Dalton Avenue
+housenumber: "457"
+phone: +1 413-344-0761
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ma/pittsfield/457-dalton-ave

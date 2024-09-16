@@ -4,8 +4,8 @@ latitude: 42.35145
 longitude: -71.07636
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 119
-phone: "+1-857-317-4912"
+street: Newbury Street
+housenumber: "119"
+phone: +1-857-317-4912
 opening_hours: ""
-website: "https://thecandlebar.co/"
+website: https://thecandlebar.co/

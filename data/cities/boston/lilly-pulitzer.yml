@@ -4,8 +4,8 @@ latitude: 42.35133
 longitude: -71.07698
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 133
-phone: "+1-617-536-6423"
+street: Newbury Street
+housenumber: "133"
+phone: +1-617-536-6423
 opening_hours: ""
-website: "https://www.lillypulitzer.com/store/details/?storeId=80228-283&city=boston"
+website: https://www.lillypulitzer.com/store/details/?storeId=80228-283&city=boston

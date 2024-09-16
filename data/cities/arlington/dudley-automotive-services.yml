@@ -1,11 +1,11 @@
 id: 196452105
-type: way
+type: node
 latitude: 42.42064
 longitude: -71.1678
 postcode: "02476"
 city: Arlington
-street: "Dudley Street Place"
-housenumber: 9
+street: Dudley Street Place
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

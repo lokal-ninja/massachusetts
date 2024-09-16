@@ -1,11 +1,11 @@
 id: 94152519
-type: way
+type: node
 latitude: 42.42093
 longitude: -71.36713
 postcode: "01742"
 city: Concord
-street: "Fitchburg Turnpike"
-housenumber: 82
+street: Fitchburg Turnpike
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

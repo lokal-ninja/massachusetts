@@ -1,11 +1,11 @@
 id: 103022462
-type: way
+type: node
 latitude: 42.21535
 longitude: -70.92551
 postcode: "02189"
 city: Weymouth
-street: "Commercial Street"
-housenumber: 1345
-phone: "+1 781-335-9624"
+street: Commercial Street
+housenumber: "1345"
+phone: +1 781-335-9624
 opening_hours: ""
 website: ""

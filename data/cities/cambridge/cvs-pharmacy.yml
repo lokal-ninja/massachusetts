@@ -4,8 +4,8 @@ latitude: 42.36218
 longitude: -71.08507
 postcode: "02142"
 city: Cambridge
-street: "Main Street"
-housenumber: 238
+street: Main Street
+housenumber: "238"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/238-main-street-cambridge-ma-02142/storeid=11242"
+website: https://www.cvs.com/store-locator/cambridge-ma-pharmacies/238-main-street-cambridge-ma-02142/storeid=11242

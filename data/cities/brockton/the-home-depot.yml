@@ -1,11 +1,11 @@
 id: 212222265
-type: way
+type: node
 latitude: 42.07998
 longitude: -70.98945
 postcode: "02302"
 city: Brockton
-street: "Crescent Street"
-housenumber: 715
-phone: "+1 508-427-9970"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/brockton/ma/brockton/02302/2611"
+street: Crescent Street
+housenumber: "715"
+phone: +1 508-427-9970
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/brockton/ma/brockton/02302/2611

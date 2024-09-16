@@ -1,11 +1,11 @@
 id: 29899028
-type: way
+type: node
 latitude: 42.48678
 longitude: -71.01735
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 220
+street: Broadway
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Saugus/220-BROADWAY"
+website: https://www.speedway.com/locations/MA/Saugus/220-BROADWAY

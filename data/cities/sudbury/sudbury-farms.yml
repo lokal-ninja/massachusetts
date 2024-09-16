@@ -1,11 +1,11 @@
 id: 216289505
-type: way
+type: node
 latitude: 42.35939
 longitude: -71.42256
 postcode: "01776"
 city: Sudbury
-street: "Boston Post Road"
-housenumber: 439
+street: Boston Post Road
+housenumber: "439"
 phone: ""
 opening_hours: ""
 website: ""

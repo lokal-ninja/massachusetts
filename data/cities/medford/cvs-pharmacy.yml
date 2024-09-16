@@ -4,8 +4,8 @@ latitude: 42.40565
 longitude: -71.08314
 postcode: "02155"
 city: Medford
-street: "Fellsway"
-housenumber: 590
+street: Fellsway
+housenumber: "590"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/medford-ma-pharmacies/590-fellsway-medford-ma-02155/storeid=26"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/medford-ma-pharmacies/590-fellsway-medford-ma-02155/storeid=26

@@ -1,11 +1,11 @@
 id: 29641304
-type: way
+type: node
 latitude: 42.4167
 longitude: -71.12679
 postcode: "02155"
 city: Medford
-street: "Mystic Valley Parkway"
-housenumber: 2151
-phone: "+1 781-395-4998"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/medford"
+street: Mystic Valley Parkway
+housenumber: "2151"
+phone: +1 781-395-4998
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/medford

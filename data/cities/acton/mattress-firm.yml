@@ -1,11 +1,11 @@
 id: 330678465
-type: way
+type: node
 latitude: 42.47616
 longitude: -71.45095
 postcode: "01720"
 city: Acton
-street: "Main Street"
-housenumber: 301
-phone: "+1 978-263-5801"
+street: Main Street
+housenumber: "301"
+phone: +1 978-263-5801
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ma/acton/157001/"
+website: https://www.mattressfirm.com/en-us/stores/ma/acton/157001/

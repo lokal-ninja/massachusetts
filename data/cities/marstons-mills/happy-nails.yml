@@ -1,11 +1,11 @@
 id: 211956591
-type: way
+type: node
 latitude: 41.64801
 longitude: -70.42258
 postcode: "02648"
 city: Marstons Mills
-street: "Falmouth Road"
-housenumber: 3821
-phone: "+1 508 420 6262"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.happynailscapecod.com/"
+street: Falmouth Road
+housenumber: "3821"
+phone: +1 508 420 6262
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.happynailscapecod.com/

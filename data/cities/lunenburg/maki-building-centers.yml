@@ -1,11 +1,11 @@
 id: 426706174
-type: way
+type: node
 latitude: 42.58921
 longitude: -71.76644
 postcode: "01462"
 city: Lunenburg
-street: "Massachusetts Avenue"
-housenumber: 160
-phone: "+1 978-343-7422"
+street: Massachusetts Avenue
+housenumber: "160"
+phone: +1 978-343-7422
 opening_hours: ""
-website: "https://www.makibuildingcenters.com/"
+website: https://www.makibuildingcenters.com/

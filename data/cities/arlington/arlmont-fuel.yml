@@ -1,11 +1,11 @@
 id: 29518865
-type: way
+type: node
 latitude: 42.40811
 longitude: -71.13414
 postcode: "02474"
 city: Arlington
-street: "Sunnyside Avenue"
-housenumber: 22
-phone: "+1 781 643 1400"
+street: Sunnyside Avenue
+housenumber: "22"
+phone: +1 781 643 1400
 opening_hours: ""
-website: "https://arlmontfuel.com/"
+website: https://arlmontfuel.com/

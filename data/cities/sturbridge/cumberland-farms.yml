@@ -1,11 +1,11 @@
 id: 216282873
-type: way
+type: node
 latitude: 42.1154
 longitude: -72.10945
 postcode: "01518"
 city: Sturbridge
-street: "Main Street"
-housenumber: 506
+street: Main Street
+housenumber: "506"
 phone: "+15083475190"
-opening_hours: "24/7"
-website: "https://www.cumberlandfarms.com/stores/ma/sturbridge-6686"
+opening_hours: 24/7
+website: https://www.cumberlandfarms.com/stores/ma/sturbridge-6686

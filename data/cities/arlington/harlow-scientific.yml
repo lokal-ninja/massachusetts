@@ -1,11 +1,11 @@
 id: 164449651
-type: way
+type: node
 latitude: 42.41885
 longitude: -71.1513
 postcode: "02474"
 city: Arlington
-street: "Mystic Street"
-housenumber: 91
+street: Mystic Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 754442744
-type: way
+type: node
 latitude: 42.37082
 longitude: -71.1588
 postcode: "02472"
 city: Watertown
-street: "Mount Auburn Street"
-housenumber: 598
-phone: "+1 617 924 8787"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://www.fastachi.com/"
+street: Mount Auburn Street
+housenumber: "598"
+phone: +1 617 924 8787
+opening_hours: Tu-Sa 10:00-17:00
+website: https://www.fastachi.com/

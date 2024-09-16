@@ -1,11 +1,11 @@
 id: 29570907
-type: way
+type: node
 latitude: 42.20798
 longitude: -70.95814
 postcode: ""
 city: Weymouth
-street: "Washington Street"
-housenumber: 447
+street: Washington Street
+housenumber: "447"
 phone: ""
 opening_hours: ""
 website: ""

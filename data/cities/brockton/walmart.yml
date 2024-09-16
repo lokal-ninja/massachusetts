@@ -1,11 +1,11 @@
 id: 212261270
-type: way
+type: node
 latitude: 42.09854
 longitude: -71.05663
 postcode: "02301"
 city: Brockton
-street: "Oak Street"
-housenumber: 700
-phone: "+1 508-584-2333"
-opening_hours: "Mo-Sa 07:00-22:00;Su 08:00-20:00"
-website: "https://www.walmart.com/store/2904/brockton-ma/whats-new"
+street: Oak Street
+housenumber: "700"
+phone: +1 508-584-2333
+opening_hours: Mo-Sa 07:00-22:00;Su 08:00-20:00
+website: https://www.walmart.com/store/2904/brockton-ma/whats-new

@@ -1,11 +1,11 @@
 id: 217031096
-type: way
+type: node
 latitude: 42.36681
 longitude: -71.2159
 postcode: "02472"
 city: Watertown
-street: "Pleasant Street"
-housenumber: 700
+street: Pleasant Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

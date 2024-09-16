@@ -1,11 +1,11 @@
 id: 212257472
-type: way
+type: node
 latitude: 42.09119
 longitude: -71.04868
 postcode: "02301"
 city: Brockton
-street: "Westgate Drive"
-housenumber: 87
+street: Westgate Drive
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 198703762
-type: way
+type: node
 latitude: 42.08101
 longitude: -71.38633
 postcode: "02038"
 city: Franklin
-street: "East Central Street"
-housenumber: 255
+street: East Central Street
+housenumber: "255"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/ma/franklin/255-e-central-st.html"
+website: https://local.shaws.com/ma/franklin/255-e-central-st.html

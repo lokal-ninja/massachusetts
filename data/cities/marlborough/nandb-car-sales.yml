@@ -1,11 +1,11 @@
 id: 214492222
-type: way
+type: node
 latitude: 42.33169
 longitude: -71.54094
 postcode: "01752"
 city: Marlborough
-street: "Maple Street"
-housenumber: 417
+street: Maple Street
+housenumber: "417"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.nbcarsalesma.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.nbcarsalesma.com/

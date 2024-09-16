@@ -1,11 +1,11 @@
 id: 213010204
-type: way
+type: node
 latitude: 41.65575
 longitude: -70.91402
 postcode: "02719"
 city: Fairhaven
-street: "Howland Road"
-housenumber: 11
+street: Howland Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

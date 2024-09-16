@@ -1,11 +1,11 @@
 id: 323153169
-type: way
+type: node
 latitude: 42.31862
 longitude: -71.17555
 postcode: "02467"
 city: Chestnut Hill
-street: "Boylston Street"
-housenumber: 200
-phone: "+1 617-762-2000"
-opening_hours: "PH,Mo-Su 06:00-24:00"
-website: "https://www.wegmans.com/stores/chestnut-hill-ma"
+street: Boylston Street
+housenumber: "200"
+phone: +1 617-762-2000
+opening_hours: PH,Mo-Su 06:00-24:00
+website: https://www.wegmans.com/stores/chestnut-hill-ma

@@ -1,11 +1,11 @@
 id: 548378620
-type: way
+type: node
 latitude: 42.81131
 longitude: -70.86937
 postcode: "01950"
 city: Newburyport
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.marketsquarejewelers.com/"
+website: https://www.marketsquarejewelers.com/

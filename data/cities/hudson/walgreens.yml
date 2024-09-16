@@ -1,11 +1,11 @@
 id: 213648065
-type: way
+type: node
 latitude: 42.39187
 longitude: -71.56355
 postcode: "01749"
 city: Hudson
-street: "High Street"
-housenumber: 14
+street: High Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-186+main+st-hudson-ma-01749/id=17166"
+website: https://www.walgreens.com/locator/walgreens-186+main+st-hudson-ma-01749/id=17166

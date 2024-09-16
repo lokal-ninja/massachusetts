@@ -1,11 +1,11 @@
 id: 212139956
-type: way
+type: node
 latitude: 41.65995
 longitude: -70.56566
 postcode: "02542"
 city: Buzzards Bay
-street: "Lee Road"
-housenumber: 5203
+street: Lee Road
+housenumber: "5203"
 phone: ""
 opening_hours: ""
 website: ""

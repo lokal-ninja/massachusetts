@@ -1,11 +1,11 @@
 id: 29782023
-type: way
+type: node
 latitude: 42.24194
 longitude: -71.14767
 postcode: "02026"
 city: Dedham
-street: "Milton Street"
-housenumber: 215
-phone: "+1 781-329-5144"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 8:00-13:00"
-website: "https://www.usedcarsdedhamma.com"
+street: Milton Street
+housenumber: "215"
+phone: +1 781-329-5144
+opening_hours: Mo-Fr 08:00-17:00, Sa 8:00-13:00
+website: https://www.usedcarsdedhamma.com

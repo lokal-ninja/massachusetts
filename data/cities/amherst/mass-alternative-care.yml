@@ -1,11 +1,11 @@
 id: 217245707
-type: way
+type: node
 latitude: 42.37208
 longitude: -72.53336
 postcode: "01002"
 city: Amherst
-street: "University Drive"
-housenumber: 55
-phone: "+1-413-377-6240"
+street: University Drive
+housenumber: "55"
+phone: +1-413-377-6240
 opening_hours: ""
-website: "https://massaltcare.com/"
+website: https://massaltcare.com/

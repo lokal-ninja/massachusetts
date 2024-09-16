@@ -1,11 +1,11 @@
 id: 83368388
-type: way
+type: node
 latitude: 41.95269
 longitude: -70.7175
 postcode: "02360"
 city: Plymouth
-street: "Colony Place"
-housenumber: 205
-phone: "+1 508-746-6932"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ma/plymouth/175/"
+street: Colony Place
+housenumber: "205"
+phone: +1 508-746-6932
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ma/plymouth/175/

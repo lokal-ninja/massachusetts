@@ -1,11 +1,11 @@
 id: 29943672
-type: way
+type: node
 latitude: 42.46382
 longitude: -71.06985
 postcode: "02176"
 city: Melrose
-street: "Tremont Street"
-housenumber: 140
+street: Tremont Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.stephensautobody.com/"
+website: https://www.stephensautobody.com/

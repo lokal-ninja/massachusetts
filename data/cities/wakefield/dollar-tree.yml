@@ -4,8 +4,8 @@ latitude: 42.50388
 longitude: -71.07048
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 376
+street: Main Street
+housenumber: "376"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ma/wakefield/5827/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ma/wakefield/5827/

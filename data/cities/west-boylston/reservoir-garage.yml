@@ -1,11 +1,11 @@
 id: 217082062
-type: way
+type: node
 latitude: 42.36634
 longitude: -71.78135
 postcode: "01583"
 city: West Boylston
-street: "Worcester St"
-housenumber: 45
+street: Worcester St
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

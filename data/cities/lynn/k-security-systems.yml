@@ -4,8 +4,8 @@ latitude: 42.46453
 longitude: -70.97251
 postcode: "01905"
 city: Lynn
-street: "Boston Street"
-housenumber: 543
-phone: "+1 781 5927779"
+street: Boston Street
+housenumber: "543"
+phone: +1 781 5927779
 opening_hours: ""
-website: "https://ksecuritysystems.com/"
+website: https://ksecuritysystems.com/

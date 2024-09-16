@@ -1,11 +1,11 @@
 id: 216405031
-type: way
+type: node
 latitude: 42.52777
 longitude: -71.07254
 postcode: "01880"
 city: Wakefield
-street: "Bay State Road"
-housenumber: 90
-phone: "+1 877 3445895"
+street: Bay State Road
+housenumber: "90"
+phone: +1 877 3445895
 opening_hours: ""
-website: "https://www.libertychevy.com/"
+website: https://www.libertychevy.com/

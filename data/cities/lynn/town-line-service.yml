@@ -1,11 +1,11 @@
 id: 29668797
-type: way
+type: node
 latitude: 42.46085
 longitude: -70.98901
 postcode: "01905"
 city: Lynn
-street: "Boston Street"
-housenumber: 805
-phone: "+1 781 5959365"
+street: Boston Street
+housenumber: "805"
+phone: +1 781 5959365
 opening_hours: ""
-website: "https://www.facebook.com/pages/category/Automotive-Repair-Shop/Town-Line-Service-162423583787010/"
+website: https://www.facebook.com/pages/category/Automotive-Repair-Shop/Town-Line-Service-162423583787010/

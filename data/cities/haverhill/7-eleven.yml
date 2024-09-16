@@ -4,8 +4,8 @@ latitude: 42.78448
 longitude: -71.07809
 postcode: "01830"
 city: Haverhill
-street: "Main Street"
-housenumber: 389
-phone: "+1 978-373-0370"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ma/haverhill/389-main-st,-unit-a-37440"
+street: Main Street
+housenumber: "389"
+phone: +1 978-373-0370
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ma/haverhill/389-main-st,-unit-a-37440

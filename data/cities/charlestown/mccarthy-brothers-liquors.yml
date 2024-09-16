@@ -1,11 +1,11 @@
 id: 29936592
-type: way
+type: node
 latitude: 42.37667
 longitude: -71.05638
 postcode: ""
 city: Charlestown
-street: "Moulton Street"
-housenumber: 9
+street: Moulton Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

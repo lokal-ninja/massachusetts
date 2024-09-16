@@ -4,8 +4,8 @@ latitude: 42.268
 longitude: -71.7819
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 262
+street: Shrewsbury Street
+housenumber: "262"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00"
-website: "http://www.boulevardgarageinc.com/"
+opening_hours: Mo-Fr 07:00-22:00
+website: http://www.boulevardgarageinc.com/

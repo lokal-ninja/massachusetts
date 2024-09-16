@@ -4,8 +4,8 @@ latitude: 42.3558
 longitude: -71.14006
 postcode: "02135"
 city: Boston
-street: "Everett Street"
-housenumber: 60
+street: Everett Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 212565844
-type: way
+type: node
 latitude: 42.41669
 longitude: -71.67987
 postcode: ""
 city: Clinton
-street: "Church Street"
-housenumber: 304
-phone: "+1 978-365-3144"
+street: Church Street
+housenumber: "304"
+phone: +1 978-365-3144
 opening_hours: ""
-website: "https://www.mcnallywatson.com/"
+website: https://www.mcnallywatson.com/

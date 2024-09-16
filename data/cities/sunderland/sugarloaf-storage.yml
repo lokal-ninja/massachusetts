@@ -1,11 +1,11 @@
 id: 899732193
-type: way
+type: node
 latitude: 42.46328
 longitude: -72.57399
 postcode: "01375"
 city: Sunderland
-street: "Amherst Road"
-housenumber: 63
-phone: "+1 413 665 3222"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Amherst Road
+housenumber: "63"
+phone: +1 413 665 3222
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

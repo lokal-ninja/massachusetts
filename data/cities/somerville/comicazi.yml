@@ -4,8 +4,8 @@ latitude: 42.39614
 longitude: -71.12119
 postcode: "02144"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 407
-phone: "+1-617-666-2664"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://comicazi.com/"
+street: Highland Avenue
+housenumber: "407"
+phone: +1-617-666-2664
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+website: https://comicazi.com/

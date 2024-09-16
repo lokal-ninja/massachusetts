@@ -1,11 +1,11 @@
 id: 138031007
-type: way
+type: node
 latitude: 42.54474
 longitude: -71.17137
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 496
-phone: "+1 978 2035677"
+street: Main Street
+housenumber: "496"
+phone: +1 978 2035677
 opening_hours: ""
-website: "https://www.firestonecompleteautocare.com/store-detail/16314/496-main-st-wilmington-ma-01887-3210/"
+website: https://www.firestonecompleteautocare.com/store-detail/16314/496-main-st-wilmington-ma-01887-3210/

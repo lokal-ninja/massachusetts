@@ -4,8 +4,8 @@ latitude: 42.38211
 longitude: -71.12021
 postcode: "02138"
 city: Cambridge
-street: "Hudson Street"
-housenumber: 4
-phone: "+1 617 547 8008"
+street: Hudson Street
+housenumber: "4"
+phone: +1 617 547 8008
 opening_hours: ""
 website: ""

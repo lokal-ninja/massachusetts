@@ -1,11 +1,11 @@
 id: 212529039
-type: way
+type: node
 latitude: 42.20239
 longitude: -72.57234
 postcode: "01020"
 city: Chicopee
-street: "Memorial Drive"
-housenumber: 1616
+street: Memorial Drive
+housenumber: "1616"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/chicopee-ma-pharmacies/1616-memorial-dr-chicopee-ma-01020/storeid=693"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/chicopee-ma-pharmacies/1616-memorial-dr-chicopee-ma-01020/storeid=693

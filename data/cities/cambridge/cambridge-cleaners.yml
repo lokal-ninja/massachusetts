@@ -4,8 +4,8 @@ latitude: 42.37137
 longitude: -71.11667
 postcode: "02138"
 city: Cambridge
-street: "Mount Auburn Street"
-housenumber: 47
-phone: "+1 617-547-1595"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://cambridgecleanersma.com/"
+street: Mount Auburn Street
+housenumber: "47"
+phone: +1 617-547-1595
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://cambridgecleanersma.com/

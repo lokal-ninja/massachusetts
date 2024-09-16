@@ -1,11 +1,11 @@
 id: 1173548702
-type: way
+type: node
 latitude: 42.40637
 longitude: -72.53168
 postcode: "01002"
 city: Amherst
-street: "North Pleasant Street"
-housenumber: 1040
+street: North Pleasant Street
+housenumber: "1040"
 phone: ""
 opening_hours: ""
 website: ""

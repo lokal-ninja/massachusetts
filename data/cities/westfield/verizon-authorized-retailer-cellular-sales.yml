@@ -1,11 +1,11 @@
 id: 47048946
-type: way
+type: node
 latitude: 42.11247
 longitude: -72.7212
 postcode: "01085"
 city: Westfield
-street: "East Main Street"
-housenumber: 495
+street: East Main Street
+housenumber: "495"
 phone: ""
 opening_hours: ""
-website: "http://www.verizonwireless.com/"
+website: http://www.verizonwireless.com/

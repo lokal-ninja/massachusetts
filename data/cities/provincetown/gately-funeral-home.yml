@@ -1,11 +1,11 @@
 id: 215751521
-type: way
+type: node
 latitude: 42.06103
 longitude: -70.18115
 postcode: "02657"
 city: Provincetown
-street: "Harry Kemp Way"
-housenumber: 94
+street: Harry Kemp Way
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.gatelyfuneralservice.com/"
+website: https://www.gatelyfuneralservice.com/

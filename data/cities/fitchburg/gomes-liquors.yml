@@ -1,11 +1,11 @@
 id: 213229267
-type: way
+type: node
 latitude: 42.60367
 longitude: -71.80141
 postcode: ""
 city: Fitchburg
-street: "Ashby State Road"
-housenumber: 58
-phone: "+1 978 3427501"
+street: Ashby State Road
+housenumber: "58"
+phone: +1 978 3427501
 opening_hours: ""
-website: "https://www.gomesliquors.com/"
+website: https://www.gomesliquors.com/

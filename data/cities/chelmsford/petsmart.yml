@@ -4,8 +4,8 @@ latitude: 42.61029
 longitude: -71.33378
 postcode: "01824"
 city: Chelmsford
-street: "Chelmsford Street"
-housenumber: 265
-phone: "+1 978-256-5056"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ma/chelmsford--store2165.html"
+street: Chelmsford Street
+housenumber: "265"
+phone: +1 978-256-5056
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ma/chelmsford--store2165.html

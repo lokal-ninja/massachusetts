@@ -4,8 +4,8 @@ latitude: 42.12323
 longitude: -72.74856
 postcode: "01085"
 city: Westfield
-street: "Elm Street"
-housenumber: 124
+street: Elm Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

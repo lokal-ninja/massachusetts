@@ -4,8 +4,8 @@ latitude: 42.38387
 longitude: -71.09976
 postcode: "02143"
 city: Somerville
-street: "Summer Street"
-housenumber: 55
-phone: "+1 617 764 0036"
+street: Summer Street
+housenumber: "55"
+phone: +1 617 764 0036
 opening_hours: ""
 website: ""

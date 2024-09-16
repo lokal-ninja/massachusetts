@@ -1,11 +1,11 @@
 id: 213648143
-type: way
+type: node
 latitude: 42.39121
 longitude: -71.56387
 postcode: "01749"
 city: Hudson
-street: "Main Street"
-housenumber: 181
+street: Main Street
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

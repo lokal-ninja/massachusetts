@@ -4,8 +4,8 @@ latitude: 42.35269
 longitude: -71.07196
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 11
-phone: "+1-617-375-0002"
+street: Newbury Street
+housenumber: "11"
+phone: +1-617-375-0002
 opening_hours: ""
-website: "https://www.willcharlessalon.com/"
+website: https://www.willcharlessalon.com/

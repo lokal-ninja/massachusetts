@@ -4,8 +4,8 @@ latitude: 42.3504
 longitude: -71.08026
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 201
-phone: "+1-617-266-0103"
+street: Newbury Street
+housenumber: "201"
+phone: +1-617-266-0103
 opening_hours: ""
-website: "https://www.francescas.com/store-locator/201-newbury-street.do"
+website: https://www.francescas.com/store-locator/201-newbury-street.do

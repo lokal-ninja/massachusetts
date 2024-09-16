@@ -4,8 +4,8 @@ latitude: 42.35066
 longitude: -71.07937
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 177
-phone: "+1-617-530-1980"
-opening_hours: "Mo-Su 12:00-17:00"
-website: "https://credobeauty.com/blogs/credo-stores/boston"
+street: Newbury Street
+housenumber: "177"
+phone: +1-617-530-1980
+opening_hours: Mo-Su 12:00-17:00
+website: https://credobeauty.com/blogs/credo-stores/boston

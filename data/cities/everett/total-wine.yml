@@ -4,8 +4,8 @@ latitude: 42.39924
 longitude: -71.06848
 postcode: "02149"
 city: Everett
-street: "Mystic View Road"
-housenumber: 11
-phone: "+1 617-315-4855"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.totalwine.com/store-info/massachusetts-everett/1702"
+street: Mystic View Road
+housenumber: "11"
+phone: +1 617-315-4855
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.totalwine.com/store-info/massachusetts-everett/1702

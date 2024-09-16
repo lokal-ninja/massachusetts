@@ -4,8 +4,8 @@ latitude: 42.12509
 longitude: -72.0607
 postcode: "01566"
 city: Sturbridge
-street: "Charlton Road"
-housenumber: 110
-phone: "+1 774-304-5001"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ma/sturbridge/pet-supplies-sturbridge-ma-3785.html"
+street: Charlton Road
+housenumber: "110"
+phone: +1 774-304-5001
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ma/sturbridge/pet-supplies-sturbridge-ma-3785.html

@@ -4,8 +4,8 @@ latitude: 42.36973
 longitude: -71.11166
 postcode: ""
 city: Cambridge
-street: "Ellery Street"
-housenumber: 2
+street: Ellery Street
+housenumber: "2"
 phone: "+16174929082"
-opening_hours: "Mo-Th 12:00-19:00; Su 13:00-18:00; Fr, Sa 12:00-21:00"
-website: "https://hubbahubba.com/"
+opening_hours: Mo-Th 12:00-19:00; Su 13:00-18:00; Fr, Sa 12:00-21:00
+website: https://hubbahubba.com/

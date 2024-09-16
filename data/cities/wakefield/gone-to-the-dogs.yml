@@ -1,11 +1,11 @@
 id: 216404915
-type: way
+type: node
 latitude: 42.5032
 longitude: -71.07286
 postcode: "01880"
 city: Wakefield
-street: "Albion Street"
-housenumber: 55
-phone: "+1 781 2456787"
+street: Albion Street
+housenumber: "55"
+phone: +1 781 2456787
 opening_hours: ""
-website: "http://www.gonetothedogsgifts.com/"
+website: http://www.gonetothedogsgifts.com/

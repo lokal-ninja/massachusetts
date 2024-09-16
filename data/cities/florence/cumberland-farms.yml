@@ -1,11 +1,11 @@
 id: 780223635
-type: way
+type: node
 latitude: 42.33548
 longitude: -72.66932
 postcode: "01062"
 city: Florence
-street: "Main Street"
-housenumber: 53
-phone: "+1 (413) 584-9853"
-opening_hours: "24/7"
-website: "https://www.cumberlandfarms.com/stores/ma/florence-0129"
+street: Main Street
+housenumber: "53"
+phone: +1 (413) 584-9853
+opening_hours: 24/7
+website: https://www.cumberlandfarms.com/stores/ma/florence-0129

@@ -4,8 +4,8 @@ latitude: 41.9564
 longitude: -70.66423
 postcode: "02360"
 city: Plymouth
-street: "Main Street"
-housenumber: 31
+street: Main Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://plymouth.craftbeercellar.com/"
+website: https://plymouth.craftbeercellar.com/

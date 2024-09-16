@@ -1,11 +1,11 @@
 id: 216278787
-type: way
+type: node
 latitude: 42.12409
 longitude: -72.05805
 postcode: "01566"
 city: Sturbridge
-street: "Charlton Road"
-housenumber: 120
+street: Charlton Road
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ma/sturbridge/120-charlton-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/ma/sturbridge/120-charlton-road

@@ -1,11 +1,11 @@
 id: 29832372
-type: way
+type: node
 latitude: 42.27055
 longitude: -71.02687
 postcode: "02171"
 city: Quincy
-street: "Newport Avenue"
-housenumber: 65
+street: Newport Avenue
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

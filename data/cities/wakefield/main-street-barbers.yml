@@ -4,8 +4,8 @@ latitude: 42.50156
 longitude: -71.06919
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 468
-phone: "+1 781 5871589"
+street: Main Street
+housenumber: "468"
+phone: +1 781 5871589
 opening_hours: ""
-website: "https://www.facebook.com/MainStreetBarbersWakefieldMa/"
+website: https://www.facebook.com/MainStreetBarbersWakefieldMa/

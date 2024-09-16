@@ -4,8 +4,8 @@ latitude: 42.1572
 longitude: -71.39263
 postcode: "02053"
 city: Medway
-street: "Industrial Park Road"
-housenumber: 3
-phone: "+1-508-376-8652"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://atsautoandtransmission.com"
+street: Industrial Park Road
+housenumber: "3"
+phone: +1-508-376-8652
+opening_hours: Mo-Fr 08:00-17:00
+website: http://atsautoandtransmission.com

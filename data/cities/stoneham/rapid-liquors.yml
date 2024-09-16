@@ -4,8 +4,8 @@ latitude: 42.49009
 longitude: -71.10063
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 171
-phone: "+1 781 4380595"
+street: Main Street
+housenumber: "171"
+phone: +1 781 4380595
 opening_hours: ""
-website: "https://rapidliquors.com/"
+website: https://rapidliquors.com/

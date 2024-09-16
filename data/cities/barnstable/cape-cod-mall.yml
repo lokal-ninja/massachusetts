@@ -1,11 +1,11 @@
 id: 211866027
-type: way
+type: node
 latitude: 41.66893
 longitude: -70.29814
 postcode: ""
 city: Barnstable
-street: "Iyannough Road"
-housenumber: 769
-phone: "+1 508-771-0201"
+street: Iyannough Road
+housenumber: "769"
+phone: +1 508-771-0201
 opening_hours: ""
-website: "https://www.simon.com/mall/cape-cod-mall"
+website: https://www.simon.com/mall/cape-cod-mall

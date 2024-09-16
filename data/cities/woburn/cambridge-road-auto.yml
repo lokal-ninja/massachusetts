@@ -1,11 +1,11 @@
 id: 214151184
-type: way
+type: node
 latitude: 42.45994
 longitude: -71.16536
 postcode: "01801"
 city: Woburn
-street: "Cambridge Street"
-housenumber: 293
-phone: "+1 781 9339839"
+street: Cambridge Street
+housenumber: "293"
+phone: +1 781 9339839
 opening_hours: ""
 website: ""

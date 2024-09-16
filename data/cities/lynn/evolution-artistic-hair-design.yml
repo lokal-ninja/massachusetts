@@ -4,8 +4,8 @@ latitude: 42.46259
 longitude: -70.94318
 postcode: "01901"
 city: Lynn
-street: "Washington Street"
-housenumber: 616
-phone: "+1 781-363-6702"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: Washington Street
+housenumber: "616"
+phone: +1 781-363-6702
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

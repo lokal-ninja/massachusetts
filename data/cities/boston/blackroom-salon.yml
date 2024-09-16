@@ -4,8 +4,8 @@ latitude: 42.34667
 longitude: -71.07055
 postcode: "02116"
 city: Boston
-street: "Berkeley Street"
-housenumber: 61
-phone: "+1-617-426-2525"
-opening_hours: "Tu-Th 12:00-20:00; Fr 11:00-19:00; Sa 09:00-17:00"
-website: "https://www.blackroomsalon.com/"
+street: Berkeley Street
+housenumber: "61"
+phone: +1-617-426-2525
+opening_hours: Tu-Th 12:00-20:00; Fr 11:00-19:00; Sa 09:00-17:00
+website: https://www.blackroomsalon.com/

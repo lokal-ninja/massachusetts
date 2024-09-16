@@ -1,11 +1,11 @@
 id: 174207026
-type: way
+type: node
 latitude: 42.39904
 longitude: -71.56821
 postcode: "01749"
 city: Hudson
-street: "Cox Street"
-housenumber: 28
+street: Cox Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

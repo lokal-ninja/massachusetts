@@ -4,8 +4,8 @@ latitude: 42.37657
 longitude: -71.23539
 postcode: "02452"
 city: Waltham
-street: "Main Street"
-housenumber: 623
-phone: "+1-781-893-9465"
-opening_hours: "Tu-Fr 07:00-17:30, Sa 07:00-16:00"
-website: "http://www.franksbarbershopwaltham.com/"
+street: Main Street
+housenumber: "623"
+phone: +1-781-893-9465
+opening_hours: Tu-Fr 07:00-17:30, Sa 07:00-16:00
+website: http://www.franksbarbershopwaltham.com/

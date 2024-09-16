@@ -4,8 +4,8 @@ latitude: 42.11807
 longitude: -72.60723
 postcode: "01107"
 city: Springfield
-street: "Main Street"
-housenumber: 2917
-phone: "+1 413 827 7117"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Main Street
+housenumber: "2917"
+phone: +1 413 827 7117
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 214859639
-type: way
+type: node
 latitude: 41.93522
 longitude: -71.35304
 postcode: "02760"
 city: North Attleboro
-street: "South Washington Street"
-housenumber: 1337
-phone: "+1 508-699-5800"
+street: South Washington Street
+housenumber: "1337"
+phone: +1 508-699-5800
 opening_hours: ""
-website: "https://stores.bestbuy.com/ma/north-attleboro/1337-s-washington-st-441.html"
+website: https://stores.bestbuy.com/ma/north-attleboro/1337-s-washington-st-441.html

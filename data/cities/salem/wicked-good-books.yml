@@ -4,8 +4,8 @@ latitude: 42.52146
 longitude: -70.8945
 postcode: "01970"
 city: Salem
-street: "Essex Street"
-housenumber: 215
+street: Essex Street
+housenumber: "215"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://www.wickedgoodbookstore.com/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://www.wickedgoodbookstore.com/

@@ -1,11 +1,11 @@
 id: 256670793
-type: way
+type: node
 latitude: 42.79486
 longitude: -70.99619
 postcode: "01985"
 city: West Newbury
-street: "Main Street"
-housenumber: 275
+street: Main Street
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

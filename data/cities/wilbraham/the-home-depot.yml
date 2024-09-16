@@ -1,11 +1,11 @@
 id: 214104556
-type: way
+type: node
 latitude: 42.14836
 longitude: -72.4726
 postcode: "01095"
 city: Wilbraham
-street: "Boston Road"
-housenumber: 2001
-phone: "+1 413-543-8100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/E-Springfield/MA/Wilbraham/01095/2678"
+street: Boston Road
+housenumber: "2001"
+phone: +1 413-543-8100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/E-Springfield/MA/Wilbraham/01095/2678

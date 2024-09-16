@@ -4,8 +4,8 @@ latitude: 42.34882
 longitude: -71.08589
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 321
+street: Newbury Street
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Th 11:00-20:00; Fr,Sa 10:00-20:00; Su 11:00-22:00"
-website: "https://corridornyc.com/pages/"
+opening_hours: Mo-Th 11:00-20:00; Fr,Sa 10:00-20:00; Su 11:00-22:00
+website: https://corridornyc.com/pages/

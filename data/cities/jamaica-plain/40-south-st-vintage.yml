@@ -4,8 +4,8 @@ latitude: 42.30828
 longitude: -71.11536
 postcode: "02130"
 city: Jamaica Plain
-street: "South Street"
-housenumber: 40
-phone: "+1-617-522-5066"
-opening_hours: "Th-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://www.fortysouthst.com/"
+street: South Street
+housenumber: "40"
+phone: +1-617-522-5066
+opening_hours: Th-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-17:00
+website: https://www.fortysouthst.com/

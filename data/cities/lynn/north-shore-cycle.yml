@@ -4,8 +4,8 @@ latitude: 42.47714
 longitude: -70.9495
 postcode: "01904"
 city: Lynn
-street: "Western Avenue"
-housenumber: 251
-phone: "+1-781-581-2700"
-opening_hours: "Tu-Sa 10:00-18:00; Su 11:00-15:00"
-website: "https://www.nscycles.com/"
+street: Western Avenue
+housenumber: "251"
+phone: +1-781-581-2700
+opening_hours: Tu-Sa 10:00-18:00; Su 11:00-15:00
+website: https://www.nscycles.com/

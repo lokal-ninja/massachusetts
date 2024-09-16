@@ -1,11 +1,11 @@
 id: 469234710
-type: way
+type: node
 latitude: 42.30046
 longitude: -71.39687
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 1
-phone: "+1 508-872-2223"
+street: Worcester Road
+housenumber: "1"
+phone: +1 508-872-2223
 opening_hours: ""
-website: "https://stores.bestbuy.com/ma/framingham/1-worcester-rd-532.html"
+website: https://stores.bestbuy.com/ma/framingham/1-worcester-rd-532.html

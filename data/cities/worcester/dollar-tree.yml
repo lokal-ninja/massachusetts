@@ -4,8 +4,8 @@ latitude: 42.24774
 longitude: -71.75929
 postcode: "01604"
 city: Worcester
-street: "Grafton Street"
-housenumber: 935
-phone: "+1 508 7542413"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ma/worcester/4031/"
+street: Grafton Street
+housenumber: "935"
+phone: +1 508 7542413
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ma/worcester/4031/

@@ -4,8 +4,8 @@ latitude: 42.19067
 longitude: -71.83252
 postcode: "01501"
 city: Auburn
-street: "Coolidge Street"
-housenumber: 9
-phone: "+1-508-755-1731"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "http://bergeronsappliance.com"
+street: Coolidge Street
+housenumber: "9"
+phone: +1-508-755-1731
+opening_hours: Mo-Sa 08:00-17:00
+website: http://bergeronsappliance.com

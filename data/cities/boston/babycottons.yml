@@ -4,8 +4,8 @@ latitude: 42.35237
 longitude: -71.07297
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 35
-phone: "+1-857-265-2285"
+street: Newbury Street
+housenumber: "35"
+phone: +1-857-265-2285
 opening_hours: ""
-website: "https://www.babycottons.com/"
+website: https://www.babycottons.com/

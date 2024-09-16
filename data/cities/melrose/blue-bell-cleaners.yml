@@ -1,11 +1,11 @@
 id: 29554155
-type: way
+type: node
 latitude: 42.45288
 longitude: -71.06769
 postcode: "02176"
 city: Melrose
-street: "Grove Street"
-housenumber: 35
-phone: "+1 781 6653636"
+street: Grove Street
+housenumber: "35"
+phone: +1 781 6653636
 opening_hours: ""
 website: ""

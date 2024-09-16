@@ -1,11 +1,11 @@
 id: 137270169
-type: way
+type: node
 latitude: 42.29284
 longitude: -71.67415
 postcode: "01532"
 city: Northborough
-street: "Shops Way"
-housenumber: 7102
-phone: "+1 508-393-8295"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ma/northborough-1283.shtml"
+street: Shops Way
+housenumber: "7102"
+phone: +1 508-393-8295
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ma/northborough-1283.shtml

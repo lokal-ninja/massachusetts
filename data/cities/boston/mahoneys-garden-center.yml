@@ -1,11 +1,11 @@
 id: 29824041
-type: way
+type: node
 latitude: 42.36234
 longitude: -71.14193
 postcode: "02135"
 city: Boston
-street: "Western Avenue"
-housenumber: 449
+street: Western Avenue
+housenumber: "449"
 phone: ""
 opening_hours: ""
-website: "https://www.mahoneysgarden.com/"
+website: https://www.mahoneysgarden.com/

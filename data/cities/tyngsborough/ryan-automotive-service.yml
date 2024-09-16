@@ -1,11 +1,11 @@
 id: 140210631
-type: way
+type: node
 latitude: 42.66163
 longitude: -71.40801
 postcode: "01879"
 city: Tyngsborough
-street: "Middlesex Road"
-housenumber: 84
+street: Middlesex Road
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.ryanautomotiveservice.com/"
+website: https://www.ryanautomotiveservice.com/

@@ -1,11 +1,11 @@
 id: 1133294393
-type: way
+type: node
 latitude: 42.2466
 longitude: -71.72531
 postcode: "01545"
 city: Shrewsbury
-street: "Hartford Turnpike"
-housenumber: 200
-phone: "+1-508-841-7990"
+street: Hartford Turnpike
+housenumber: "200"
+phone: +1-508-841-7990
 opening_hours: ""
-website: "https://www.shopmarketbasket.com/store-locations/shrewsbury-massachusetts-market-basket-93"
+website: https://www.shopmarketbasket.com/store-locations/shrewsbury-massachusetts-market-basket-93

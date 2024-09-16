@@ -1,11 +1,11 @@
 id: 214118825
-type: way
+type: node
 latitude: 42.55799
 longitude: -71.16369
 postcode: "01887"
 city: Wilmington
-street: "School Street"
-housenumber: 187
+street: School Street
+housenumber: "187"
 phone: ""
 opening_hours: ""
-website: "https://www.nicholsfuneralhome.com/"
+website: https://www.nicholsfuneralhome.com/

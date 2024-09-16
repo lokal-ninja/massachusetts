@@ -1,11 +1,11 @@
 id: 213273140
-type: way
+type: node
 latitude: 42.29739
 longitude: -71.48487
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 1701
+street: Worcester Road
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Framingham/1701-WORCESTER-RD"
+website: https://www.speedway.com/locations/MA/Framingham/1701-WORCESTER-RD

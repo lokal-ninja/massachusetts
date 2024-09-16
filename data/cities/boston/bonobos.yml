@@ -4,8 +4,8 @@ latitude: 42.35128
 longitude: -71.07771
 postcode: "02116"
 city: Boston
-street: "Dartmouth Street"
-housenumber: 283
-phone: "+1-857-263-7340"
-opening_hours: "Su 12:00-18:00, Mo-Sa 11:00-19:00"
-website: "https://bonobos.com/locations/s/back-bay-boston"
+street: Dartmouth Street
+housenumber: "283"
+phone: +1-857-263-7340
+opening_hours: Su 12:00-18:00, Mo-Sa 11:00-19:00
+website: https://bonobos.com/locations/s/back-bay-boston

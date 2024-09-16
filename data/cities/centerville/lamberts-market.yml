@@ -1,11 +1,11 @@
 id: 211876492
-type: way
+type: node
 latitude: 41.65773
 longitude: -70.32949
 postcode: "02632"
 city: Centerville
-street: "West Main Street"
-housenumber: 1000
-phone: "+1-508-778-4066"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-18:00"
+street: West Main Street
+housenumber: "1000"
+phone: +1-508-778-4066
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-18:00
 website: ""

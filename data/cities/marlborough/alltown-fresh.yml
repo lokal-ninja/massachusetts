@@ -4,8 +4,8 @@ latitude: 42.35092
 longitude: -71.50431
 postcode: "01752"
 city: Marlborough
-street: "Boston Post Road East"
-housenumber: 656
-phone: "+1 508 460 1320"
-opening_hours: "05:00-23:00"
-website: "https://alltownfresh.com/locations/marlborough-ma/"
+street: Boston Post Road East
+housenumber: "656"
+phone: +1 508 460 1320
+opening_hours: 05:00-23:00
+website: https://alltownfresh.com/locations/marlborough-ma/

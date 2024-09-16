@@ -1,11 +1,11 @@
 id: 154256052
-type: way
+type: node
 latitude: 42.58045
 longitude: -71.52392
 postcode: "01450"
 city: Groton
-street: "Boston Road"
-housenumber: 760
+street: Boston Road
+housenumber: "760"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/ma/groton/760-a-boston-rd.html"
+website: https://local.shaws.com/ma/groton/760-a-boston-rd.html

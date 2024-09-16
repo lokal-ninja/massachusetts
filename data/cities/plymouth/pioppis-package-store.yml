@@ -1,11 +1,11 @@
 id: 215738267
-type: way
+type: node
 latitude: 41.96521
 longitude: -70.67545
 postcode: "02360"
 city: Plymouth
-street: "Court Street"
-housenumber: 183
+street: Court Street
+housenumber: "183"
 phone: ""
 opening_hours: ""
-website: "http://pioppis.net/"
+website: http://pioppis.net/

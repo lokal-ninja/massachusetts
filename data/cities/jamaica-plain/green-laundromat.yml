@@ -1,11 +1,11 @@
 id: 744149934
-type: way
+type: node
 latitude: 42.29234
 longitude: -71.11743
 postcode: "02130"
 city: Jamaica Plain
-street: "Hyde Park Avenue"
-housenumber: 266
+street: Hyde Park Avenue
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

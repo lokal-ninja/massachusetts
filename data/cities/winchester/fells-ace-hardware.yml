@@ -1,11 +1,11 @@
 id: 29568827
-type: way
+type: node
 latitude: 42.45447
 longitude: -71.13805
-postcode: "01890-1906"
+postcode: 01890-1906
 city: Winchester
-street: "Main Street"
-housenumber: 654
-phone: "+1 781-729-0902"
-opening_hours: "Mo-Fr 08:00-17:45; Sa 08:00-16:45"
+street: Main Street
+housenumber: "654"
+phone: +1 781-729-0902
+opening_hours: Mo-Fr 08:00-17:45; Sa 08:00-16:45
 website: ""

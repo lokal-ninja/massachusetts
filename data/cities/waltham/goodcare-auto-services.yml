@@ -1,11 +1,11 @@
 id: 216432161
-type: way
+type: node
 latitude: 42.41062
 longitude: -71.23426
 postcode: "02452"
 city: Waltham
-street: "Lexington Street"
-housenumber: 1036
+street: Lexington Street
+housenumber: "1036"
 phone: ""
 opening_hours: ""
 website: ""

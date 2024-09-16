@@ -1,11 +1,11 @@
 id: 29655608
-type: way
+type: node
 latitude: 42.51388
 longitude: -71.08841
 postcode: "01880"
 city: Wakefield
-street: "North Avenue"
-housenumber: 614
-phone: "+1 877 462 2050"
+street: North Avenue
+housenumber: "614"
+phone: +1 877 462 2050
 opening_hours: ""
-website: "https://www.128volvo.com/"
+website: https://www.128volvo.com/

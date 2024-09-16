@@ -4,8 +4,8 @@ latitude: 42.4207
 longitude: -71.07215
 postcode: "02148"
 city: Malden
-street: "Canal Street"
-housenumber: 158
+street: Canal Street
+housenumber: "158"
 phone: ""
-opening_hours: "We 18:00-21:00; Sa 10:00-13:00"
-website: "https://biketothesea.org/bk/"
+opening_hours: We 18:00-21:00; Sa 10:00-13:00
+website: https://biketothesea.org/bk/

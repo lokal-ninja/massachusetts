@@ -1,11 +1,11 @@
 id: 154561428
-type: way
+type: node
 latitude: 42.52798
 longitude: -71.7147
-postcode: "01453-7020"
+postcode: 01453-7020
 city: Leominster
-street: "Orchard Hill Park Drive"
-housenumber: 86
-phone: "+1 978-534-2914"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/leominster/1965"
+street: Orchard Hill Park Drive
+housenumber: "86"
+phone: +1 978-534-2914
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/leominster/1965

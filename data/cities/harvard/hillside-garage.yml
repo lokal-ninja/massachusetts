@@ -1,11 +1,11 @@
 id: 213420594
-type: way
+type: node
 latitude: 42.50561
 longitude: -71.58451
 postcode: "01451"
 city: Harvard
-street: "Ayer Road"
-housenumber: 36
+street: Ayer Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

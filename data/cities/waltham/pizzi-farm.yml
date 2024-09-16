@@ -1,11 +1,11 @@
 id: 216440123
-type: way
+type: node
 latitude: 42.40482
 longitude: -71.24885
 postcode: ""
 city: Waltham
-street: "Lincoln Street"
-housenumber: 495
+street: Lincoln Street
+housenumber: "495"
 phone: ""
 opening_hours: ""
 website: ""

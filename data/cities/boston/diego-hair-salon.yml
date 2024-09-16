@@ -4,8 +4,8 @@ latitude: 42.35123
 longitude: -71.0774
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 143
-phone: "+1-617-262-5003"
+street: Newbury Street
+housenumber: "143"
+phone: +1-617-262-5003
 opening_hours: ""
-website: "https://diegoboston.com/"
+website: https://diegoboston.com/

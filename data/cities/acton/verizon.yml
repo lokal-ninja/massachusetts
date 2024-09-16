@@ -1,11 +1,11 @@
 id: 330678457
-type: way
+type: node
 latitude: 42.47602
 longitude: -71.4511
 postcode: "01720"
 city: Acton
-street: "Main Street"
-housenumber: 295
+street: Main Street
+housenumber: "295"
 phone: ""
 opening_hours: ""
-website: "https://www.gowireless.com/stores/us/ma/acton/verizon-retailer-721/"
+website: https://www.gowireless.com/stores/us/ma/acton/verizon-retailer-721/

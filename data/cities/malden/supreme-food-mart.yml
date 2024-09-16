@@ -4,8 +4,8 @@ latitude: 42.43068
 longitude: -71.04126
 postcode: "02148"
 city: Malden
-street: "Eastern Avenue"
-housenumber: 1018
-phone: "+1-781-480-4737"
-opening_hours: "24/7"
+street: Eastern Avenue
+housenumber: "1018"
+phone: +1-781-480-4737
+opening_hours: 24/7
 website: ""

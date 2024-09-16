@@ -4,8 +4,8 @@ latitude: 42.50331
 longitude: -71.07058
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 391
-phone: "+1 781 2458451"
+street: Main Street
+housenumber: "391"
+phone: +1 781 2458451
 opening_hours: ""
-website: "https://www.shopsweetbay.com/"
+website: https://www.shopsweetbay.com/

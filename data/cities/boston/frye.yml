@@ -4,8 +4,8 @@ latitude: 42.34894
 longitude: -71.08427
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 284
-phone: "+1-617-247-3793"
+street: Newbury Street
+housenumber: "284"
+phone: +1-617-247-3793
 opening_hours: ""
-website: "https://www.thefryecompany.com/"
+website: https://www.thefryecompany.com/

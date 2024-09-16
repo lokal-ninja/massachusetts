@@ -4,8 +4,8 @@ latitude: 42.36338
 longitude: -71.0561
 postcode: "02113"
 city: Boston
-street: "Salem Street"
-housenumber: 64
+street: Salem Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

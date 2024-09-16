@@ -4,8 +4,8 @@ latitude: 42.35797
 longitude: -71.07057
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 70
-phone: "+1-617-262-2029"
+street: Charles Street
+housenumber: "70"
+phone: +1-617-262-2029
 opening_hours: ""
-website: "http://www.agostinosalon.com/"
+website: http://www.agostinosalon.com/

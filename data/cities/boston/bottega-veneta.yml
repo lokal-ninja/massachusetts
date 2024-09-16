@@ -4,8 +4,8 @@ latitude: 42.35186
 longitude: -71.06997
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 310
-phone: "+1-617-960-0880"
+street: Boylston Street
+housenumber: "310"
+phone: +1-617-960-0880
 opening_hours: ""
-website: "https://www.bottegaveneta.com/experience/us/store/boston-boylston/"
+website: https://www.bottegaveneta.com/experience/us/store/boston-boylston/

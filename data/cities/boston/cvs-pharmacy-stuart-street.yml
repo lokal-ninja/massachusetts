@@ -4,8 +4,8 @@ latitude: 42.35117
 longitude: -71.0667
 postcode: "02116"
 city: Boston
-street: "Stuart Street"
-housenumber: 191
+street: Stuart Street
+housenumber: "191"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boston-ma-pharmacies/191-stuart-street-boston-ma-02116/storeid=11201"
+website: https://www.cvs.com/store-locator/boston-ma-pharmacies/191-stuart-street-boston-ma-02116/storeid=11201

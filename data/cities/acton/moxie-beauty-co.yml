@@ -1,11 +1,11 @@
 id: 1157277412
-type: way
+type: node
 latitude: 42.4765
 longitude: -71.47444
 postcode: "01720"
 city: Acton
-street: "Arlington Street"
-housenumber: 260
+street: Arlington Street
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.moxiebeauty.co/"
+website: https://www.moxiebeauty.co/

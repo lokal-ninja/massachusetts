@@ -1,11 +1,11 @@
 id: 215899121
-type: way
+type: node
 latitude: 42.52092
 longitude: -70.88797
 postcode: "01970"
 city: Salem
-street: "Derby Street"
-housenumber: 193
+street: Derby Street
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

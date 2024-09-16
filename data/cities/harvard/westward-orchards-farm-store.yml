@@ -1,11 +1,11 @@
 id: 213418587
-type: way
+type: node
 latitude: 42.4937
 longitude: -71.56062
 postcode: "01451"
 city: Harvard
-street: "Massachusetts Avenue"
-housenumber: 178
+street: Massachusetts Avenue
+housenumber: "178"
 phone: ""
 opening_hours: ""
 website: ""

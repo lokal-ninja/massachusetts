@@ -1,11 +1,11 @@
 id: 398305667
-type: way
+type: node
 latitude: 42.47281
 longitude: -71.02379
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 770
-phone: "+1-781-816-5370"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3114-saugus-ma"
+street: Broadway
+housenumber: "770"
+phone: +1-781-816-5370
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3114-saugus-ma

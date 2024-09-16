@@ -1,11 +1,11 @@
 id: 214215808
-type: way
+type: node
 latitude: 42.24919
 longitude: -71.83262
 postcode: ""
 city: worcester
-street: "Park Avenue"
-housenumber: 582
+street: Park Avenue
+housenumber: "582"
 phone: ""
 opening_hours: ""
 website: ""

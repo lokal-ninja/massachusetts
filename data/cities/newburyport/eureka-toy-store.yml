@@ -1,11 +1,11 @@
 id: 325041968
-type: way
+type: node
 latitude: 42.80982
 longitude: -70.86633
 postcode: "01922"
 city: Newburyport
-street: "Water Street"
-housenumber: 50
-phone: "+1 978-465-9359"
+street: Water Street
+housenumber: "50"
+phone: +1 978-465-9359
 opening_hours: ""
-website: "https://www.eurekatoys.com/"
+website: https://www.eurekatoys.com/

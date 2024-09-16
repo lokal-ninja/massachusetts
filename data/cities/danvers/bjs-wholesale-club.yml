@@ -1,11 +1,11 @@
 id: 212856485
-type: way
+type: node
 latitude: 42.5518
 longitude: -70.93077
 postcode: "01923"
 city: Danvers
-street: "Hutchinson Drive"
-housenumber: 6
-phone: "+1 978 777 0469"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
+street: Hutchinson Drive
+housenumber: "6"
+phone: +1 978 777 0469
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
 website: ""

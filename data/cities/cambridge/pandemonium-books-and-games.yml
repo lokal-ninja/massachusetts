@@ -4,8 +4,8 @@ latitude: 42.36605
 longitude: -71.10558
 postcode: "02139"
 city: Cambridge
-street: "Pleasant Street"
-housenumber: 4
+street: Pleasant Street
+housenumber: "4"
 phone: "+16175473721"
-opening_hours: "Su-Fr 12:00-22:00; Sa 10:00-22:00"
-website: "https://pandemoniumbooks.com/"
+opening_hours: Su-Fr 12:00-22:00; Sa 10:00-22:00
+website: https://pandemoniumbooks.com/

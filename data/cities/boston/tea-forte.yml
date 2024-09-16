@@ -4,8 +4,8 @@ latitude: 42.35181
 longitude: -71.07499
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 91
+street: Newbury Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.teaforte.com/"
+website: https://www.teaforte.com/

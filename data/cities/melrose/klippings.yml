@@ -4,8 +4,8 @@ latitude: 42.45407
 longitude: -71.06609
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 444
+street: Main Street
+housenumber: "444"
 phone: ""
 opening_hours: ""
-website: "https://www.klippingssalon.com/"
+website: https://www.klippingssalon.com/

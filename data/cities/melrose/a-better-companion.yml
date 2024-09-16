@@ -1,11 +1,11 @@
 id: 29947525
-type: way
+type: node
 latitude: 42.46462
 longitude: -71.06923
 postcode: "02176"
 city: Melrose
-street: "Tremont Street"
-housenumber: 162
-phone: "+1 781 6624597"
+street: Tremont Street
+housenumber: "162"
+phone: +1 781 6624597
 opening_hours: ""
-website: "http://abettercompanion.net/"
+website: http://abettercompanion.net/

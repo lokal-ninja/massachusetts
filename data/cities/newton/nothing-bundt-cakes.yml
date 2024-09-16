@@ -4,8 +4,8 @@ latitude: 42.31193
 longitude: -71.2129
 postcode: "02461"
 city: Newton
-street: "Needham Street"
-housenumber: 170
-phone: "+1-617-336-7526"
-opening_hours: "Mo-Sa 10:00-18:00; Su 09:00-15:00"
+street: Needham Street
+housenumber: "170"
+phone: +1-617-336-7526
+opening_hours: Mo-Sa 10:00-18:00; Su 09:00-15:00
 website: ""

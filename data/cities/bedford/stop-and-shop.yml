@@ -4,8 +4,8 @@ latitude: 42.48418
 longitude: -71.26247
 postcode: "01730"
 city: Bedford
-street: "The Great Road"
-housenumber: 337
+street: The Great Road
+housenumber: "337"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
 website: ""

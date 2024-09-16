@@ -4,8 +4,8 @@ latitude: 42.36469
 longitude: -71.17051
 postcode: "02472"
 city: Watertown
-street: "Walnut Street"
-housenumber: 125
-phone: "+1-617-923-7774"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.sevencycles.com/"
+street: Walnut Street
+housenumber: "125"
+phone: +1-617-923-7774
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.sevencycles.com/

@@ -4,8 +4,8 @@ latitude: 42.36147
 longitude: -71.05253
 postcode: "02110"
 city: Boston
-street: "Atlantic Avenue"
-housenumber: 109
-phone: "+1 617 670-0637"
+street: Atlantic Avenue
+housenumber: "109"
+phone: +1 617 670-0637
 opening_hours: ""
-website: "http://urbancycles.com/"
+website: http://urbancycles.com/

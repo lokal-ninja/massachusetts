@@ -1,11 +1,11 @@
 id: 214576012
-type: way
+type: node
 latitude: 42.15909
 longitude: -71.49461
 postcode: "01757"
 city: Milford
-street: "Fortune Boulevard"
-housenumber: 300
+street: Fortune Boulevard
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-17:00"
-website: "https://www.dchtoyotaofmilford.com/"
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-17:00
+website: https://www.dchtoyotaofmilford.com/

@@ -1,11 +1,11 @@
 id: 214878010
-type: way
+type: node
 latitude: 42.15067
 longitude: -71.68029
 postcode: "01534"
 city: Northbridge
-street: "Hill Street"
-housenumber: 1605
+street: Hill Street
+housenumber: "1605"
 phone: ""
 opening_hours: ""
-website: "http://foppemasfarm.com/"
+website: http://foppemasfarm.com/

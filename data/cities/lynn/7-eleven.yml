@@ -1,11 +1,11 @@
 id: 29712488
-type: way
+type: node
 latitude: 42.4616
 longitude: -70.98267
 postcode: "01905"
 city: Lynn
-street: "Austin Square"
-housenumber: 9
-phone: "+1 781-596-0950"
+street: Austin Square
+housenumber: "9"
+phone: +1 781-596-0950
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/lynn/9-austin-sq-34404"
+website: https://www.7-eleven.com/locations/ma/lynn/9-austin-sq-34404

@@ -4,8 +4,8 @@ latitude: 42.3955
 longitude: -71.1197
 postcode: "02144"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 387
-phone: "+1-617-475-0565"
-opening_hours: "Tu 13:00-19:00; We-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.narrativebookshop.com/"
+street: Highland Avenue
+housenumber: "387"
+phone: +1-617-475-0565
+opening_hours: Tu 13:00-19:00; We-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.narrativebookshop.com/

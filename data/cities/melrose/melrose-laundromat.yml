@@ -4,8 +4,8 @@ latitude: 42.45345
 longitude: -71.06642
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 412
+street: Main Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
-website: "http://melroselaundromat.com"
+website: http://melroselaundromat.com

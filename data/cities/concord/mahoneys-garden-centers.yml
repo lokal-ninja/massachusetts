@@ -1,11 +1,11 @@
 id: 94152512
-type: way
+type: node
 latitude: 42.42226
 longitude: -71.37153
 postcode: "01742"
 city: Concord
-street: "Sudbury Road"
-housenumber: 1625
+street: Sudbury Road
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

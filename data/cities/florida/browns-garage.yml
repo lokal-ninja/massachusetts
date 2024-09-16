@@ -1,11 +1,11 @@
 id: 213238362
-type: way
+type: node
 latitude: 42.65243
 longitude: -72.99782
 postcode: "01343"
 city: Florida
-street: "Mohawk Trail"
-housenumber: 461
+street: Mohawk Trail
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

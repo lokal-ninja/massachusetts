@@ -4,8 +4,8 @@ latitude: 42.48628
 longitude: -71.19295
 postcode: "01803"
 city: Burlington
-street: "Wayside Road"
-housenumber: 6
-phone: "+1-781-272-0639"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.carters.com/ma/burlington/carters-burlington-wayside-ma"
+street: Wayside Road
+housenumber: "6"
+phone: +1-781-272-0639
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.carters.com/ma/burlington/carters-burlington-wayside-ma

@@ -4,8 +4,8 @@ latitude: 42.42711
 longitude: -71.01274
 postcode: "02151"
 city: Revere
-street: "Squire Road"
-housenumber: 339
-phone: "+1-781-289-5900"
-opening_hours: "Mo-Th 10:00-19:30; Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.pearlevision.com/pv-us/stores/ma/revere/7947"
+street: Squire Road
+housenumber: "339"
+phone: +1-781-289-5900
+opening_hours: Mo-Th 10:00-19:30; Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.pearlevision.com/pv-us/stores/ma/revere/7947

@@ -4,8 +4,8 @@ latitude: 42.57386
 longitude: -71.07901
 postcode: "01864"
 city: North Reading
-street: "Park Street"
-housenumber: 160
-phone: "+1 (978) 664-6655"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-15:00"
-website: "http://www.oldcenterautorepairinc.com/"
+street: Park Street
+housenumber: "160"
+phone: +1 (978) 664-6655
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-15:00
+website: http://www.oldcenterautorepairinc.com/

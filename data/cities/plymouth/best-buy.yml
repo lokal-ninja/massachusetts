@@ -1,11 +1,11 @@
 id: 83368500
-type: way
+type: node
 latitude: 41.95157
 longitude: -70.71733
 postcode: "02360"
 city: Plymouth
-street: "Colony Place"
-housenumber: 228
-phone: "+1 508-732-3640"
+street: Colony Place
+housenumber: "228"
+phone: +1 508-732-3640
 opening_hours: ""
-website: "https://stores.bestbuy.com/ma/plymouth/228-colony-place-rd-385.html"
+website: https://stores.bestbuy.com/ma/plymouth/228-colony-place-rd-385.html

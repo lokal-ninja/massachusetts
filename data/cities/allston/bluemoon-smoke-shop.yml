@@ -4,8 +4,8 @@ latitude: 42.35113
 longitude: -71.13123
 postcode: "02134"
 city: Allston
-street: "Harvard Avenue"
-housenumber: 180
+street: Harvard Avenue
+housenumber: "180"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.bluemoonsmokeshop.com/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.bluemoonsmokeshop.com/

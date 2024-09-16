@@ -1,11 +1,11 @@
 id: 95125776
-type: way
+type: node
 latitude: 42.27331
 longitude: -71.75074
 postcode: ""
 city: Worcester
-street: "South Quinsigamond Avenue"
-housenumber: 27
+street: South Quinsigamond Avenue
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

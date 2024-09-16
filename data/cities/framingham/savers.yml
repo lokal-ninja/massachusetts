@@ -1,11 +1,11 @@
 id: 213248597
-type: way
+type: node
 latitude: 42.30619
 longitude: -71.39402
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 500
-phone: "+1-508-875-0225"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.savers.com"
+street: Cochituate Road
+housenumber: "500"
+phone: +1-508-875-0225
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.savers.com

@@ -4,8 +4,8 @@ latitude: 42.48033
 longitude: -71.15175
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 394
-phone: "+1 781 9336300"
+street: Main Street
+housenumber: "394"
+phone: +1 781 9336300
 opening_hours: ""
-website: "https://nationalmusicinc.com/"
+website: https://nationalmusicinc.com/

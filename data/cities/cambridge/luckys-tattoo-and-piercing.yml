@@ -4,8 +4,8 @@ latitude: 42.36579
 longitude: -71.10474
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 694
-phone: "+1 617 945 0317"
-opening_hours: "12:00-20:00"
-website: "https://www.luckystattoo.org/boston"
+street: Massachusetts Avenue
+housenumber: "694"
+phone: +1 617 945 0317
+opening_hours: 12:00-20:00
+website: https://www.luckystattoo.org/boston

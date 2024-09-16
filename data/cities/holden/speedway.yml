@@ -4,8 +4,8 @@ latitude: 42.3421
 longitude: -71.8436
 postcode: "01520"
 city: Holden
-street: "Main Street"
-housenumber: 770
+street: Main Street
+housenumber: "770"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Holden/770-MAIN-ST"
+website: https://www.speedway.com/locations/MA/Holden/770-MAIN-ST

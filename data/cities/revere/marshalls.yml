@@ -4,8 +4,8 @@ latitude: 42.41059
 longitude: -70.99569
 postcode: "02151"
 city: Revere
-street: "North Shore Road"
-housenumber: 1399
+street: North Shore Road
+housenumber: "1399"
 phone: "+17812893217"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com

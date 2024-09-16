@@ -1,11 +1,11 @@
 id: 216330992
-type: way
+type: node
 latitude: 41.90624
 longitude: -71.06699
 postcode: "02780"
 city: Taunton
-street: "Dean Street"
-housenumber: 175
+street: Dean Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

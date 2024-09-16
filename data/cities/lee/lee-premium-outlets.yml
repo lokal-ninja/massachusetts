@@ -1,11 +1,11 @@
 id: 44205007
-type: way
+type: node
 latitude: 42.29599
 longitude: -73.23216
 postcode: "01238"
 city: Lee
-street: "Premium Outlet Blvd"
-housenumber: 17
+street: Premium Outlet Blvd
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.premiumoutlets.com/outlet/lee"
+website: https://www.premiumoutlets.com/outlet/lee

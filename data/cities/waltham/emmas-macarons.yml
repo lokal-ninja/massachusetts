@@ -4,8 +4,8 @@ latitude: 42.37189
 longitude: -71.2366
 postcode: "02453"
 city: Waltham
-street: "Moody Street"
-housenumber: 248
-phone: "+1 781 701 8028"
-opening_hours: "Mo-Th 12:00-20:00, Fr-Su 11:00-20:00"
-website: "https://www.emmasmacarons.com"
+street: Moody Street
+housenumber: "248"
+phone: +1 781 701 8028
+opening_hours: Mo-Th 12:00-20:00, Fr-Su 11:00-20:00
+website: https://www.emmasmacarons.com

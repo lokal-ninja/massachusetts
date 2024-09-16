@@ -1,11 +1,11 @@
 id: 29802891
-type: way
+type: node
 latitude: 42.50676
 longitude: -71.12469
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 479
-phone: "+1 781 9388271"
+street: Washington Street
+housenumber: "479"
+phone: +1 781 9388271
 opening_hours: ""
-website: "https://www.russellfarmswoburn.com/"
+website: https://www.russellfarmswoburn.com/

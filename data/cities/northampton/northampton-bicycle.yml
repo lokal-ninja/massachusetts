@@ -4,8 +4,8 @@ latitude: 42.31608
 longitude: -72.62596
 postcode: "01060"
 city: Northampton
-street: "Pleasant Street"
-housenumber: 319
+street: Pleasant Street
+housenumber: "319"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su 12:00-17:00
 website: ""

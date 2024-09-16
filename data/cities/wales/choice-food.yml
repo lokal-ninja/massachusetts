@@ -4,8 +4,8 @@ latitude: 42.06449
 longitude: -72.22299
 postcode: "01081"
 city: Wales
-street: "Main Street"
-housenumber: 2
+street: Main Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

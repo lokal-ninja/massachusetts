@@ -4,8 +4,8 @@ latitude: 42.34999
 longitude: -71.13056
 postcode: "02134"
 city: Allston
-street: "Harvard Avenue"
-housenumber: 202
+street: Harvard Avenue
+housenumber: "202"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-18:00; Mo 00:00-16:00"
-website: "https://www.zenasalonallston.com/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-18:00; Mo 00:00-16:00
+website: https://www.zenasalonallston.com/

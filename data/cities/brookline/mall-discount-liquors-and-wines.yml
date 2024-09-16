@@ -4,8 +4,8 @@ latitude: 42.34868
 longitude: -71.12946
 postcode: "02446"
 city: Brookline
-street: "Harvard Street"
-housenumber: 525
+street: Harvard Street
+housenumber: "525"
 phone: ""
-opening_hours: "09:30-23:00"
+opening_hours: 09:30-23:00
 website: ""

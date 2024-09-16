@@ -1,11 +1,11 @@
 id: 55385310
-type: way
+type: node
 latitude: 42.31874
 longitude: -72.63415
 postcode: "01060"
 city: Northampton
-street: "State Street"
-housenumber: 21
-phone: "+1 (413) 586-1464"
-opening_hours: "Mo-We, Fr-Sa 10:00-18:00; Th 10:00-20:00; Su 12:00-17:00"
-website: "https://www.flybynight.com"
+street: State Street
+housenumber: "21"
+phone: +1 (413) 586-1464
+opening_hours: Mo-We, Fr-Sa 10:00-18:00; Th 10:00-20:00; Su 12:00-17:00
+website: https://www.flybynight.com

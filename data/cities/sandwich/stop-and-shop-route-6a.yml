@@ -1,11 +1,11 @@
 id: 117915712
-type: way
+type: node
 latitude: 41.76693
 longitude: -70.50948
 postcode: "02563"
 city: Sandwich
-street: "Route 6a"
-housenumber: 65
+street: Route 6a
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

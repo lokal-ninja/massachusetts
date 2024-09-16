@@ -1,11 +1,11 @@
 id: 216428029
-type: way
+type: node
 latitude: 42.37904
 longitude: -71.22239
 postcode: "02452"
 city: Waltham
-street: "Linden Street"
-housenumber: 85
+street: Linden Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

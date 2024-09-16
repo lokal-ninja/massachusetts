@@ -4,8 +4,8 @@ latitude: 42.39002
 longitude: -71.03656
 postcode: "02150"
 city: Chelsea
-street: "Park Street"
-housenumber: 139
-phone: "+1 617 884 9738"
-opening_hours: "24/7"
+street: Park Street
+housenumber: "139"
+phone: +1 617 884 9738
+opening_hours: 24/7
 website: ""

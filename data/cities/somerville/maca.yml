@@ -4,8 +4,8 @@ latitude: 42.38127
 longitude: -71.09816
 postcode: "02143"
 city: Somerville
-street: "Bow Market Way"
-housenumber: 1
+street: Bow Market Way
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://macaboston.com/"
+website: https://macaboston.com/

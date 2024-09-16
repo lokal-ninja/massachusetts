@@ -3,9 +3,9 @@ type: node
 latitude: 42.48517
 longitude: -71.41599
 postcode: ""
-city: 161
-street: "Great Road"
-housenumber: 
+city: "161"
+street: Great Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://handworksgallery.net/"
+website: https://handworksgallery.net/

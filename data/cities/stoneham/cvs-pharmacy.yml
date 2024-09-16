@@ -1,11 +1,11 @@
 id: 29820939
-type: way
+type: node
 latitude: 42.49377
 longitude: -71.10155
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 107
-phone: "+1-781-438-3170"
-opening_hours: "07:00-22:00"
-website: "https://www.cvs.com/store-locator/stoneham-ma-pharmacies/107-main-st-stoneham-ma-02180/storeid=301"
+street: Main Street
+housenumber: "107"
+phone: +1-781-438-3170
+opening_hours: 07:00-22:00
+website: https://www.cvs.com/store-locator/stoneham-ma-pharmacies/107-main-st-stoneham-ma-02180/storeid=301

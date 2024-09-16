@@ -1,11 +1,11 @@
 id: 29907326
-type: way
+type: node
 latitude: 42.3627
 longitude: -71.11009
 postcode: "02139"
 city: Cambridge
-street: "Pleasant Street"
-housenumber: 73
+street: Pleasant Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

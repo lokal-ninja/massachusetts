@@ -4,8 +4,8 @@ latitude: 42.38912
 longitude: -71.14175
 postcode: "02138"
 city: Cambridge
-street: "Alewife Brook Parkway"
-housenumber: 200
-phone: "+1 617-491-0040"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/freshpond"
+street: Alewife Brook Parkway
+housenumber: "200"
+phone: +1 617-491-0040
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/freshpond

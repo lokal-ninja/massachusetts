@@ -1,11 +1,11 @@
 id: 29747250
-type: way
+type: node
 latitude: 42.45992
 longitude: -70.96929
 postcode: "01905"
 city: Lynn
-street: "Western Avenue"
-housenumber: 841
+street: Western Avenue
+housenumber: "841"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-841+western+ave-lynn-ma-01905/id=2823"
+website: https://www.walgreens.com/locator/walgreens-841+western+ave-lynn-ma-01905/id=2823

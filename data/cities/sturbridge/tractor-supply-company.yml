@@ -4,8 +4,8 @@ latitude: 42.09674
 longitude: -72.07085
 postcode: "01566"
 city: Sturbridge
-street: "Main Street"
-housenumber: 178
-phone: "+1 508-347-3057"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Main Street
+housenumber: "178"
+phone: +1 508-347-3057
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

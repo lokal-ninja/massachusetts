@@ -1,11 +1,11 @@
 id: 214601202
-type: way
+type: node
 latitude: 42.16813
 longitude: -71.35402
 postcode: "02054"
 city: Millis
-street: "Milliston Road"
-housenumber: 2
+street: Milliston Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/millis-ma-pharmacies/2-milliston-rd-millis-ma-02054/storeid=995"
+website: https://www.cvs.com/store-locator/millis-ma-pharmacies/2-milliston-rd-millis-ma-02054/storeid=995

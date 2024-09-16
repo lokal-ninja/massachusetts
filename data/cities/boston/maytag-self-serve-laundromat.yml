@@ -2,10 +2,10 @@ id: 3369283693
 type: node
 latitude: 42.35789
 longitude: -71.13292
-postcode: "02134-1409"
+postcode: 02134-1409
 city: Boston
-street: "Franklin Street"
-housenumber: 61
+street: Franklin Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

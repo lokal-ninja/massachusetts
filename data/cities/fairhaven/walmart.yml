@@ -1,11 +1,11 @@
 id: 630388812
-type: way
+type: node
 latitude: 41.64442
 longitude: -70.88786
 postcode: "02719"
 city: Fairhaven
-street: "Fairhaven Commons Way"
-housenumber: 42
-phone: "+1 508-993-8100"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/1906/fairhaven-ma/whats-new"
+street: Fairhaven Commons Way
+housenumber: "42"
+phone: +1 508-993-8100
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/1906/fairhaven-ma/whats-new

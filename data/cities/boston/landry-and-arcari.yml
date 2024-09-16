@@ -4,8 +4,8 @@ latitude: 42.35013
 longitude: -71.0706
 postcode: "02116"
 city: Boston
-street: "Stuart Street"
-housenumber: 333
-phone: "+1-617-399-6500"
+street: Stuart Street
+housenumber: "333"
+phone: +1-617-399-6500
 opening_hours: ""
-website: "https://www.landryandarcari.com/"
+website: https://www.landryandarcari.com/

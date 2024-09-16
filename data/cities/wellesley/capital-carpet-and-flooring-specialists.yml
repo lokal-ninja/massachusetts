@@ -1,11 +1,11 @@
 id: 29523803
-type: way
+type: node
 latitude: 42.48732
 longitude: -71.13064
 postcode: "02481"
 city: Wellesley
-street: "Walnut Hill Park"
-housenumber: 12
-phone: "+1 781 9359430"
+street: Walnut Hill Park
+housenumber: "12"
+phone: +1 781 9359430
 opening_hours: ""
-website: "https://www.capitalcarpetonline.com/"
+website: https://www.capitalcarpetonline.com/

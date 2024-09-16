@@ -4,8 +4,8 @@ latitude: 42.35232
 longitude: -71.0656
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 114
+street: Boylston Street
+housenumber: "114"
 phone: "+16178248696"
-opening_hours: "Tu-Fr 10:00-17:00"
-website: "https://emerson.bncollege.com/"
+opening_hours: Tu-Fr 10:00-17:00
+website: https://emerson.bncollege.com/

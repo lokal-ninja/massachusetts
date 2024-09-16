@@ -1,11 +1,11 @@
 id: 29722273
-type: way
+type: node
 latitude: 42.25947
 longitude: -71.04078
 postcode: "02186"
 city: Milton
-street: "Bassett Street"
-housenumber: 10
-phone: "+1 617-696-5274"
+street: Bassett Street
+housenumber: "10"
+phone: +1 617-696-5274
 opening_hours: ""
-website: "https://www.fruitcentermarketplace.com/"
+website: https://www.fruitcentermarketplace.com/

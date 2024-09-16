@@ -4,8 +4,8 @@ latitude: 42.35185
 longitude: -71.07483
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 83
-phone: "+1-617-927-2250"
+street: Newbury Street
+housenumber: "83"
+phone: +1-617-927-2250
 opening_hours: ""
-website: "https://www.georgetowncupcake.com/"
+website: https://www.georgetowncupcake.com/

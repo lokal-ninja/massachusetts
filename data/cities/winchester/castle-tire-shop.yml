@@ -4,8 +4,8 @@ latitude: 42.45871
 longitude: -71.14019
 postcode: "01890"
 city: Winchester
-street: "Main Street"
-housenumber: 786
-phone: "+1-781-729-0019"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa off; Su 08:00-14:00"
-website: "https://castletireshop.com/"
+street: Main Street
+housenumber: "786"
+phone: +1-781-729-0019
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa off; Su 08:00-14:00
+website: https://castletireshop.com/

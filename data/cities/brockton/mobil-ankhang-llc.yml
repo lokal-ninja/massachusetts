@@ -1,11 +1,11 @@
 id: 1007069439
-type: way
+type: node
 latitude: 42.09944
 longitude: -71.06608
 postcode: "02301"
 city: Brockton
-street: "North Pearl Street"
-housenumber: 303
+street: North Pearl Street
+housenumber: "303"
 phone: ""
-opening_hours: "Mo-Su 05:30-24:00"
-website: "https://www.exxon.com/en/find-station/mobil-brockton-ma-ankhangllc-200304829"
+opening_hours: Mo-Su 05:30-24:00
+website: https://www.exxon.com/en/find-station/mobil-brockton-ma-ankhangllc-200304829

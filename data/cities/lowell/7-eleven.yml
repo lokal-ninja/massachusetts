@@ -1,11 +1,11 @@
 id: 164418823
-type: way
+type: node
 latitude: 42.63312
 longitude: -71.35526
 postcode: "01851"
 city: Lowell
-street: "Princeton Boulevard"
-housenumber: 645
+street: Princeton Boulevard
+housenumber: "645"
 phone: ""
 opening_hours: ""
 website: ""

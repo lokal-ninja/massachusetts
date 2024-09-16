@@ -4,8 +4,8 @@ latitude: 42.34671
 longitude: -71.0724
 postcode: "02116"
 city: Boston
-street: "Chandler Street"
-housenumber: 78
+street: Chandler Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://www.bostonlocksmithma.com/"
+website: https://www.bostonlocksmithma.com/

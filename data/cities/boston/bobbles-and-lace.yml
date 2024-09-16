@@ -4,8 +4,8 @@ latitude: 42.35006
 longitude: -71.08169
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 225
-phone: "+1-978-662-4108"
+street: Newbury Street
+housenumber: "225"
+phone: +1-978-662-4108
 opening_hours: ""
-website: "https://www.bobblesandlace.com/"
+website: https://www.bobblesandlace.com/

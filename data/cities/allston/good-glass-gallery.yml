@@ -4,8 +4,8 @@ latitude: 42.35331
 longitude: -71.13615
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 244
-phone: "(617) 202-5492"
+street: Brighton Avenue
+housenumber: "244"
+phone: (617) 202-5492
 opening_hours: ""
-website: "https://www.goodglassgallery.com"
+website: https://www.goodglassgallery.com

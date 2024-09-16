@@ -4,8 +4,8 @@ latitude: 42.3515
 longitude: -71.07638
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 119
+street: Newbury Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://mmlafleur.com/locations/boston"
+website: https://mmlafleur.com/locations/boston

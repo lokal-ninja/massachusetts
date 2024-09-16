@@ -1,11 +1,11 @@
 id: 151454627
-type: way
+type: node
 latitude: 42.61811
 longitude: -71.32292
 postcode: "01851"
 city: Lowell
-street: "Lowes Way"
-housenumber: 50
-phone: "+1 978-677-5679"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-lowell/2657"
+street: Lowes Way
+housenumber: "50"
+phone: +1 978-677-5679
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-lowell/2657

@@ -4,8 +4,8 @@ latitude: 42.35439
 longitude: -71.06352
 postcode: "02111"
 city: Boston
-street: "Tremont Street"
-housenumber: 151
-phone: "+1-617-742-6245"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://local.fedex.com/en-us/ma/boston/47129/"
+street: Tremont Street
+housenumber: "151"
+phone: +1-617-742-6245
+opening_hours: Mo-Fr 09:30-18:00
+website: https://local.fedex.com/en-us/ma/boston/47129/

@@ -4,8 +4,8 @@ latitude: 42.34731
 longitude: -71.07812
 postcode: "02116"
 city: Boston
-street: "Huntington Avenue"
-housenumber: 100
-phone: "+1-617-867-4690"
+street: Huntington Avenue
+housenumber: "100"
+phone: +1-617-867-4690
 opening_hours: ""
-website: "https://www.simon.com/mall/copley-place/stores/truffles-fine-confections"
+website: https://www.simon.com/mall/copley-place/stores/truffles-fine-confections

@@ -4,8 +4,8 @@ latitude: 42.48535
 longitude: -71.19476
 postcode: "01803"
 city: Burlington
-street: "Wayside Road"
-housenumber: 6
-phone: "+1-339-234-5150"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://www.talbots.com/store?StoreID=01229"
+street: Wayside Road
+housenumber: "6"
+phone: +1-339-234-5150
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: https://www.talbots.com/store?StoreID=01229

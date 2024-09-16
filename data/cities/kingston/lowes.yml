@@ -1,11 +1,11 @@
 id: 213669996
-type: way
+type: node
 latitude: 41.97245
 longitude: -70.70704
 postcode: "02364"
 city: Kingston
-street: "William C Gould Junior Way"
+street: William C Gould Junior Way
 housenumber: 32;84
-phone: "+1 781-217-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ma-kingston/1663"
+phone: +1 781-217-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ma-kingston/1663

@@ -1,11 +1,11 @@
 id: 935926848
-type: way
+type: node
 latitude: 41.7671
 longitude: -70.50838
 postcode: ""
 city: Sandwich
-street: "Route 6A"
-housenumber: 65
-phone: "+1 508-888-8810"
+street: Route 6A
+housenumber: "65"
+phone: +1 508-888-8810
 opening_hours: ""
 website: ""

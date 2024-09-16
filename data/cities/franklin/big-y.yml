@@ -1,11 +1,11 @@
 id: 449325441
-type: way
+type: node
 latitude: 42.07912
 longitude: -71.38139
 postcode: "02038"
 city: Franklin
-street: "East Central Street"
-housenumber: 348
+street: East Central Street
+housenumber: "348"
 phone: ""
 opening_hours: ""
 website: ""

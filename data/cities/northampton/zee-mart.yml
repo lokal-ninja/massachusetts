@@ -1,11 +1,11 @@
 id: 151119475
-type: way
+type: node
 latitude: 42.33177
 longitude: -72.65265
 postcode: "01060"
 city: Northampton
-street: "Locust Street"
-housenumber: 15
-phone: "+1 (413) 586-5479"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-northampton-ma-zeemart-200324060"
+street: Locust Street
+housenumber: "15"
+phone: +1 (413) 586-5479
+opening_hours: Mo-Su 05:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-northampton-ma-zeemart-200324060

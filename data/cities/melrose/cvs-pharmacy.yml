@@ -4,8 +4,8 @@ latitude: 42.46512
 longitude: -71.06231
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 884
+street: Main Street
+housenumber: "884"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-21:00"
-website: "https://cvs.com"
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-21:00
+website: https://cvs.com

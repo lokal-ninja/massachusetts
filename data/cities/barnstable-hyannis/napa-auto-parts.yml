@@ -1,11 +1,11 @@
 id: 211868886
-type: way
+type: node
 latitude: 41.67377
 longitude: -70.30878
 postcode: ""
 city: Barnstable,Hyannis
-street: "Bearses Way"
-housenumber: 949
+street: Bearses Way
+housenumber: "949"
 phone: "508775"
 opening_hours: ""
-website: "https://www.napaonline.com/"
+website: https://www.napaonline.com/

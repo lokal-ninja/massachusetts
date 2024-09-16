@@ -4,8 +4,8 @@ latitude: 42.48742
 longitude: -71.22433
 postcode: "01803"
 city: Burlington
-street: "Third Avenue"
-housenumber: 19
-phone: "+1-781-365-0168"
-opening_hours: "Mo-Tu,Fr-Sa 09:00-17:00; We-Th 09:00-19:00"
-website: "https://www.kohler.com/en/locations/massachusetts/burlington/kohler-signature-store-by-supply-new-england"
+street: Third Avenue
+housenumber: "19"
+phone: +1-781-365-0168
+opening_hours: Mo-Tu,Fr-Sa 09:00-17:00; We-Th 09:00-19:00
+website: https://www.kohler.com/en/locations/massachusetts/burlington/kohler-signature-store-by-supply-new-england

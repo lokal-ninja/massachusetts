@@ -4,8 +4,8 @@ latitude: 42.3515
 longitude: -71.07613
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 115
-phone: "+1-617-421-0777"
+street: Newbury Street
+housenumber: "115"
+phone: +1-617-421-0777
 opening_hours: ""
-website: "https://locations.alexandani.com/us/ma/boston/115-newbury-street"
+website: https://locations.alexandani.com/us/ma/boston/115-newbury-street

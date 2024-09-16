@@ -4,8 +4,8 @@ latitude: 42.36344
 longitude: -71.13003
 postcode: "02134"
 city: Allston
-street: "North Harvard Street"
-housenumber: 199
-phone: "+1 617-787-1238"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/ma/allston/561/"
+street: North Harvard Street
+housenumber: "199"
+phone: +1 617-787-1238
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/ma/allston/561/

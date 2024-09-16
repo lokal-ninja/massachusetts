@@ -1,11 +1,11 @@
 id: 627365475
-type: way
+type: node
 latitude: 42.65698
 longitude: -71.31259
 postcode: "01850"
 city: Lowell
-street: "Aiken Avenue"
-housenumber: 23
+street: Aiken Avenue
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 212352233
-type: way
+type: node
 latitude: 41.67329
 longitude: -70.00646
 postcode: "02633"
 city: chatham
-street: "Ridgevale Road"
-housenumber: 434
-phone: "+1-508-432-4339"
+street: Ridgevale Road
+housenumber: "434"
+phone: +1-508-432-4339
 opening_hours: ""
-website: "https://www.chathamsail.com/snack-bar"
+website: https://www.chathamsail.com/snack-bar

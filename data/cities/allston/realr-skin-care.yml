@@ -4,8 +4,8 @@ latitude: 42.35297
 longitude: -71.13043
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 105
+street: Brighton Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://realrskin.com/"
+website: https://realrskin.com/

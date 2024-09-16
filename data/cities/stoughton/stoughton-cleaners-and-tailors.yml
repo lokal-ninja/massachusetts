@@ -4,8 +4,8 @@ latitude: 42.12762
 longitude: -71.10098
 postcode: "02072"
 city: Stoughton
-street: "Washington Street"
-housenumber: 682
-phone: "+1 781-335-1906"
+street: Washington Street
+housenumber: "682"
+phone: +1 781-335-1906
 opening_hours: ""
-website: "http://www.stoughtoncleaners.com/"
+website: http://www.stoughtoncleaners.com/

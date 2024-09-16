@@ -1,11 +1,11 @@
 id: 29608921
-type: way
+type: node
 latitude: 42.28307
 longitude: -71.04733
 postcode: "02124"
 city: Dorchester Center
-street: "Gallivan Boulevard"
-housenumber: 703
+street: Gallivan Boulevard
+housenumber: "703"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dorchester-ma-pharmacies/703-gallivan-boulevard-dorchester-ma-02124/storeid=2282"
+website: https://www.cvs.com/store-locator/dorchester-ma-pharmacies/703-gallivan-boulevard-dorchester-ma-02124/storeid=2282

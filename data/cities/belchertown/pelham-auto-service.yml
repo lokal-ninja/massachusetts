@@ -1,11 +1,11 @@
 id: 212002742
-type: way
+type: node
 latitude: 42.35043
 longitude: -72.47138
 postcode: "01007"
 city: Belchertown
-street: "Federal Street"
-housenumber: 1315
-phone: "+1 413 253 9302"
+street: Federal Street
+housenumber: "1315"
+phone: +1 413 253 9302
 opening_hours: ""
-website: "https://pelhamauto.com/auto-service"
+website: https://pelhamauto.com/auto-service

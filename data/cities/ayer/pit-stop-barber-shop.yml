@@ -4,8 +4,8 @@ latitude: 42.55401
 longitude: -71.60559
 postcode: "01432"
 city: Ayer
-street: "West Main Street"
-housenumber: 246
-phone: "978-796-5679"
-opening_hours: "Mo-Fr 07:00-16:00; Sa 07:00-12:00"
+street: West Main Street
+housenumber: "246"
+phone: 978-796-5679
+opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-12:00
 website: ""

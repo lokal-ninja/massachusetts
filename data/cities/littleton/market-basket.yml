@@ -1,11 +1,11 @@
 id: 321352998
-type: way
+type: node
 latitude: 42.55355
 longitude: -71.47733
 postcode: "01460"
 city: Littleton
-street: "Constitution Avenue"
-housenumber: 301
-phone: "+1 978 486 0828"
-opening_hours: "Mo-Sa 07:00-21:00;Su 07:00-19:00"
-website: "https://www.shopmarketbasket.com/"
+street: Constitution Avenue
+housenumber: "301"
+phone: +1 978 486 0828
+opening_hours: Mo-Sa 07:00-21:00;Su 07:00-19:00
+website: https://www.shopmarketbasket.com/

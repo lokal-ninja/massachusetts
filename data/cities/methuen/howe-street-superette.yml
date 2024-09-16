@@ -1,11 +1,11 @@
 id: 214537017
-type: way
+type: node
 latitude: 42.75081
 longitude: -71.17215
 postcode: "01844"
 city: Methuen
-street: "Howe Street"
-housenumber: 163
+street: Howe Street
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

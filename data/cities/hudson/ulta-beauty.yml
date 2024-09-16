@@ -4,8 +4,8 @@ latitude: 42.39272
 longitude: -71.59441
 postcode: "01749"
 city: Hudson
-street: "Highland Commons East"
-housenumber: 16
-phone: "+1 978-567-5812"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/hudson-ma-1102"
+street: Highland Commons East
+housenumber: "16"
+phone: +1 978-567-5812
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/hudson-ma-1102

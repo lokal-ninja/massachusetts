@@ -4,8 +4,8 @@ latitude: 42.39521
 longitude: -71.12162
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 241
-phone: "+1 617 776 0021"
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://www.sendbread.com/"
+street: Elm Street
+housenumber: "241"
+phone: +1 617 776 0021
+opening_hours: Mo-Su 10:00-19:30
+website: https://www.sendbread.com/

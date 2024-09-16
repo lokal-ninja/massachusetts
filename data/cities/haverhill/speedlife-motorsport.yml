@@ -1,11 +1,11 @@
 id: 530444993
-type: way
+type: node
 latitude: 42.78266
 longitude: -71.08486
 postcode: "01830"
 city: Haverhill
-street: "6th Avenue"
-housenumber: 79
-phone: "+1-978-494-4104"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.speedlifemotorsport.com/"
+street: 6th Avenue
+housenumber: "79"
+phone: +1-978-494-4104
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.speedlifemotorsport.com/

@@ -1,11 +1,11 @@
 id: 1047731675
-type: way
+type: node
 latitude: 42.4795
 longitude: -71.20744
 postcode: "01803"
 city: Burlington
-street: "Wheeler Road"
-housenumber: 7
-phone: "+1-781-730-6111"
+street: Wheeler Road
+housenumber: "7"
+phone: +1-781-730-6111
 opening_hours: ""
-website: "https://www.extraspace.com/storage/facilities/us/massachusetts/burlington/7810/"
+website: https://www.extraspace.com/storage/facilities/us/massachusetts/burlington/7810/

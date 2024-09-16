@@ -4,8 +4,8 @@ latitude: 42.52933
 longitude: -71.7425
 postcode: "01453"
 city: Leominster
-street: "Commercial Road"
-housenumber: 100
+street: Commercial Road
+housenumber: "100"
 phone: "+19785375196"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://oldnavy.gap.com/stores/ma/leominster/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://oldnavy.gap.com/stores/ma/leominster/

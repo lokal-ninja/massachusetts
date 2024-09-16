@@ -1,11 +1,11 @@
 id: 214250544
-type: way
+type: node
 latitude: 41.66188
 longitude: -70.20042
 postcode: "02664"
 city: South Yarmouth
-street: "Main Street"
-housenumber: 1111
+street: Main Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "https://www.bobsdiscounthouse.com/"
+website: https://www.bobsdiscounthouse.com/

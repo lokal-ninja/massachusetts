@@ -1,11 +1,11 @@
 id: 257207725
-type: way
+type: node
 latitude: 42.59427
 longitude: -71.34713
 postcode: "01824"
 city: Chelmsford
-street: "Summer Street"
-housenumber: 7
+street: Summer Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://chelmsfordfireplace.com/"
+website: https://chelmsfordfireplace.com/

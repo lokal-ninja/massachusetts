@@ -4,8 +4,8 @@ latitude: 42.31828
 longitude: -72.63117
 postcode: "01060"
 city: Northampton
-street: "Main Street"
-housenumber: 164
+street: Main Street
+housenumber: "164"
 phone: ""
 opening_hours: ""
-website: "https://www.birdhousemusic.com"
+website: https://www.birdhousemusic.com

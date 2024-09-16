@@ -4,8 +4,8 @@ latitude: 42.55218
 longitude: -70.93895
 postcode: "01923"
 city: Danvers
-street: "Independence Way"
-housenumber: 100
-phone: "+1-844-473-1146"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/danvers/100-independence-way"
+street: Independence Way
+housenumber: "100"
+phone: +1-844-473-1146
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/danvers/100-independence-way

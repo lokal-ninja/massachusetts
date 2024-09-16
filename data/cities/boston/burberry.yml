@@ -4,8 +4,8 @@ latitude: 42.35244
 longitude: -71.07134
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 2
-phone: "+1-617-236-1000"
+street: Newbury Street
+housenumber: "2"
+phone: +1-617-236-1000
 opening_hours: ""
-website: "https://us.burberry.com/store-locator/united-states/massachusetts/boston-flagship-boston/262"
+website: https://us.burberry.com/store-locator/united-states/massachusetts/boston-flagship-boston/262

@@ -4,8 +4,8 @@ latitude: 42.362
 longitude: -71.06534
 postcode: "02114"
 city: Boston
-street: "Cambridge Street"
-housenumber: 181
-phone: "+1 617-723-0004"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/charlesriver"
+street: Cambridge Street
+housenumber: "181"
+phone: +1 617-723-0004
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/charlesriver

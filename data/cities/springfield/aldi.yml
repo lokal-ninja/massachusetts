@@ -1,11 +1,11 @@
 id: 216089705
-type: way
+type: node
 latitude: 42.14115
 longitude: -72.50123
-postcode: "01119-1323"
+postcode: 01119-1323
 city: Springfield
-street: "Boston Road"
-housenumber: 1284
-phone: "+1 844-473-1020"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/springfield/1284-boston-road"
+street: Boston Road
+housenumber: "1284"
+phone: +1 844-473-1020
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/springfield/1284-boston-road

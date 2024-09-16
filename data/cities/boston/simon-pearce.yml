@@ -4,8 +4,8 @@ latitude: 42.3517
 longitude: -71.07542
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 103
-phone: "+1-617-450-8388"
+street: Newbury Street
+housenumber: "103"
+phone: +1-617-450-8388
 opening_hours: ""
-website: "https://www.simonpearce.com/our-stores/boston/"
+website: https://www.simonpearce.com/our-stores/boston/

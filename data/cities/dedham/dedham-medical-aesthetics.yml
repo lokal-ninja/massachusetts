@@ -4,8 +4,8 @@ latitude: 42.2468
 longitude: -71.17394
 postcode: "02026"
 city: Dedham
-street: "Washington Street"
-housenumber: 414
-phone: "+1-781-821-0734"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.dedhammedicalaesthetics.com"
+street: Washington Street
+housenumber: "414"
+phone: +1-781-821-0734
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.dedhammedicalaesthetics.com

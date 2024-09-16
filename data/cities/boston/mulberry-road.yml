@@ -4,8 +4,8 @@ latitude: 42.34969
 longitude: -71.08286
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 251
-phone: "+1-617-859-5861"
+street: Newbury Street
+housenumber: "251"
+phone: +1-617-859-5861
 opening_hours: ""
-website: "https://mulberryroad.com/"
+website: https://mulberryroad.com/

@@ -1,11 +1,11 @@
 id: 214195540
-type: way
+type: node
 latitude: 42.28886
 longitude: -71.80654
 postcode: "01605"
 city: Worcester
-street: "West Boylston Street"
-housenumber: 14
+street: West Boylston Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 07:00-21:00"
-website: "https://local.shaws.com/ma/worcester/14-w-boylston-st.html"
+opening_hours: Mo-Sa 07:00-23:00; Su 07:00-21:00
+website: https://local.shaws.com/ma/worcester/14-w-boylston-st.html

@@ -4,8 +4,8 @@ latitude: 42.3359
 longitude: -71.19308
 postcode: "02459"
 city: Newton
-street: "Commonwealth Avenue"
-housenumber: 638
-phone: "+1-617-467-4487"
+street: Commonwealth Avenue
+housenumber: "638"
+phone: +1-617-467-4487
 opening_hours: ""
-website: "https://heartbreak.run/pages/boston"
+website: https://heartbreak.run/pages/boston

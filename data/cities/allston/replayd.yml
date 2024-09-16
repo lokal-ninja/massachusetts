@@ -4,8 +4,8 @@ latitude: 42.35331
 longitude: -71.13659
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 252
-phone: "+1-617-202-5817"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://replayd.com"
+street: Brighton Avenue
+housenumber: "252"
+phone: +1-617-202-5817
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-18:00
+website: https://replayd.com

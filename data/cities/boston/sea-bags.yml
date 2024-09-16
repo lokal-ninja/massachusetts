@@ -4,8 +4,8 @@ latitude: 42.35102
 longitude: -71.07654
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 128
+street: Newbury Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "https://seabags.com/"
+website: https://seabags.com/

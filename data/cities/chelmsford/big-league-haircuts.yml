@@ -1,11 +1,11 @@
 id: 257207720
-type: way
+type: node
 latitude: 42.59425
 longitude: -71.34721
 postcode: "01824"
 city: Chelmsford
-street: "Summer Street"
-housenumber: 7
+street: Summer Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.bigleaguebarbers.com/"
+website: http://www.bigleaguebarbers.com/

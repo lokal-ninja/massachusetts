@@ -4,8 +4,8 @@ latitude: 42.3173
 longitude: -71.36298
 postcode: "01778"
 city: Wayland
-street: "Main Street"
-housenumber: 35
+street: Main Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-35+main+st-wayland-ma-01778/id=17570"
+website: https://www.walgreens.com/locator/walgreens-35+main+st-wayland-ma-01778/id=17570

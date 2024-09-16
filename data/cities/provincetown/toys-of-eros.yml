@@ -4,8 +4,8 @@ latitude: 42.04899
 longitude: -70.18911
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 200
+street: Commercial Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://toysoferos.com/"
+website: https://toysoferos.com/

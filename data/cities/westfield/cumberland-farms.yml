@@ -1,11 +1,11 @@
 id: 717019603
-type: way
+type: node
 latitude: 42.18267
 longitude: -72.72705
 postcode: "01085"
 city: Westfield
-street: "Southampton Road"
-housenumber: 1134
-phone: "+1-413-568-1526"
-opening_hours: "24/7"
-website: "https://locations.cumberlandfarms.com/us/ma/westfield/1134-southampton-rd"
+street: Southampton Road
+housenumber: "1134"
+phone: +1-413-568-1526
+opening_hours: 24/7
+website: https://locations.cumberlandfarms.com/us/ma/westfield/1134-southampton-rd

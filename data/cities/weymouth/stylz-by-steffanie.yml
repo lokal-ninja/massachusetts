@@ -1,11 +1,11 @@
 id: 130608319
-type: way
+type: node
 latitude: 42.21629
 longitude: -70.92553
 postcode: ""
 city: Weymouth
-street: "Commercial Street"
-housenumber: 1310
+street: Commercial Street
+housenumber: "1310"
 phone: ""
 opening_hours: ""
 website: ""

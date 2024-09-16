@@ -1,11 +1,11 @@
 id: 1226797004
-type: way
+type: node
 latitude: 42.24768
 longitude: -71.72352
 postcode: "01545"
 city: Shrewsbury
-street: "Hartford Turnpike"
-housenumber: 200
-phone: "(508) 841-7997"
+street: Hartford Turnpike
+housenumber: "200"
+phone: (508) 841-7997
 opening_hours: ""
 website: ""

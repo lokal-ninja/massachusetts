@@ -1,11 +1,11 @@
 id: 215685725
-type: way
+type: node
 latitude: 42.46424
 longitude: -73.21382
 postcode: "01201"
 city: Pittsfield
-street: "Dalton Avenue"
-housenumber: 457
-phone: "+1 413 464 9151"
+street: Dalton Avenue
+housenumber: "457"
+phone: +1 413 464 9151
 opening_hours: ""
-website: "https://bensonspet.com/"
+website: https://bensonspet.com/

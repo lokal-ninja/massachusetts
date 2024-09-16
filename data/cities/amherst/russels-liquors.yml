@@ -4,8 +4,8 @@ latitude: 42.37582
 longitude: -72.51937
 postcode: ""
 city: Amherst
-street: "Main Street"
-housenumber: 18
-phone: "+1 413 253 5441"
-opening_hours: "Mo-We 10:00-21:00; Th 10:00-22:00; Fr-Sa 10:00-23:00"
+street: Main Street
+housenumber: "18"
+phone: +1 413 253 5441
+opening_hours: Mo-We 10:00-21:00; Th 10:00-22:00; Fr-Sa 10:00-23:00
 website: ""

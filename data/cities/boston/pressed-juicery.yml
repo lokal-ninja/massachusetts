@@ -4,8 +4,8 @@ latitude: 42.34887
 longitude: -71.0845
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 288
-phone: "+1-617-638-3240"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://pressedjuicery.com/"
+street: Newbury Street
+housenumber: "288"
+phone: +1-617-638-3240
+opening_hours: Mo-Su 09:00-20:00
+website: https://pressedjuicery.com/

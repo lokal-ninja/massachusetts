@@ -1,11 +1,11 @@
 id: 29598133
-type: way
+type: node
 latitude: 42.46922
 longitude: -70.95872
 postcode: "01901"
 city: Lynn
-street: "Washington Street"
-housenumber: 35
-phone: "+1 781-596-1882"
-opening_hours: "Mo-Sa 07:30-23:00; Su 07:30-22:00"
-website: "https://stores.stopandshop.com/ma/lynn/35-washington-street"
+street: Washington Street
+housenumber: "35"
+phone: +1 781-596-1882
+opening_hours: Mo-Sa 07:30-23:00; Su 07:30-22:00
+website: https://stores.stopandshop.com/ma/lynn/35-washington-street

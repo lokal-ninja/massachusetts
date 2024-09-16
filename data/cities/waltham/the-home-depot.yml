@@ -1,11 +1,11 @@
 id: 59150601
-type: way
+type: node
 latitude: 42.39346
 longitude: -71.26826
 postcode: "02451"
 city: Waltham
-street: "First Avenue"
-housenumber: 100
-phone: "+1 781-672-0900"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.homedepot.com/l/Waltham/MA/Waltham/02451/2674"
+street: First Avenue
+housenumber: "100"
+phone: +1 781-672-0900
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.homedepot.com/l/Waltham/MA/Waltham/02451/2674

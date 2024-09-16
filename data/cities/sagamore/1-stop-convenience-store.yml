@@ -1,11 +1,11 @@
 id: 212135565
-type: way
+type: node
 latitude: 41.7702
 longitude: -70.52955
 postcode: "02561"
 city: Sagamore
-street: "Cranberry Highway"
-housenumber: 227
-phone: "+1 508 7435586"
-opening_hours: "07:00-22:00"
-website: "1stopconveniencestore.com"
+street: Cranberry Highway
+housenumber: "227"
+phone: +1 508 7435586
+opening_hours: 07:00-22:00
+website: 1stopconveniencestore.com

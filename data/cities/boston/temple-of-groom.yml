@@ -4,8 +4,8 @@ latitude: 42.34861
 longitude: -71.09331
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 464
-phone: "+1-617-945-1621"
+street: Commonwealth Avenue
+housenumber: "464"
+phone: +1-617-945-1621
 opening_hours: ""
-website: "https://templeofgroom.net/"
+website: https://templeofgroom.net/

@@ -1,11 +1,11 @@
 id: 702944862
-type: way
+type: node
 latitude: 42.49508
 longitude: -71.10305
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 109
-phone: "+1-781-984-0525"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://handandstone.com/"
+street: Main Street
+housenumber: "109"
+phone: +1-781-984-0525
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://handandstone.com/

@@ -4,8 +4,8 @@ latitude: 42.35132
 longitude: -71.07679
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 129
-phone: "+1-857-263-7542"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.lelabofragrances.com/front/app/store/search?execution=e1s3"
+street: Newbury Street
+housenumber: "129"
+phone: +1-857-263-7542
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.lelabofragrances.com/front/app/store/search?execution=e1s3

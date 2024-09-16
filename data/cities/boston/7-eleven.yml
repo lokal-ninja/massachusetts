@@ -2,10 +2,10 @@ id: 1997344339
 type: node
 latitude: 42.35121
 longitude: -71.06643
-postcode: "02116-3952"
+postcode: 02116-3952
 city: Boston
-street: "Park Plaza"
-housenumber: 8
-phone: "+1 508-207-5575"
+street: Park Plaza
+housenumber: "8"
+phone: +1 508-207-5575
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/boston/8-park-plaza-32480"
+website: https://www.7-eleven.com/locations/ma/boston/8-park-plaza-32480

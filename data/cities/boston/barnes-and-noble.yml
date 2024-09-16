@@ -4,8 +4,8 @@ latitude: 42.34595
 longitude: -71.08168
 postcode: "02199"
 city: Boston
-street: "Boylston Street"
-housenumber: 800
-phone: "+1-617-247-6959"
+street: Boylston Street
+housenumber: "800"
+phone: +1-617-247-6959
 opening_hours: ""
-website: "https://stores.barnesandnoble.com/store/2115"
+website: https://stores.barnesandnoble.com/store/2115

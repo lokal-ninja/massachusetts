@@ -1,11 +1,11 @@
 id: 776007669
-type: way
+type: node
 latitude: 42.13882
 longitude: -71.10048
 postcode: "02072"
 city: Stoughton
-street: "Washington Street"
-housenumber: 278
+street: Washington Street
+housenumber: "278"
 phone: ""
 opening_hours: ""
 website: ""

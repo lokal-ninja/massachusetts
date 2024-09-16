@@ -1,11 +1,11 @@
 id: 212259605
-type: way
+type: node
 latitude: 42.10022
 longitude: -71.05154
 postcode: "02301"
 city: Brockton
-street: "Campanelli Industrial Drive"
-housenumber: 105
-phone: "+1 774 250 3107"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.oceanstatejoblot.com/store-details?storeid=256"
+street: Campanelli Industrial Drive
+housenumber: "105"
+phone: +1 774 250 3107
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.oceanstatejoblot.com/store-details?storeid=256

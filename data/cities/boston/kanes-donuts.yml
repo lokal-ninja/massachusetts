@@ -4,8 +4,8 @@ latitude: 42.35627
 longitude: -71.0528
 postcode: "02110"
 city: Boston
-street: "Oliver Street"
-housenumber: 90
+street: Oliver Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

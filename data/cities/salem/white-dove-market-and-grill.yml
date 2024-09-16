@@ -1,11 +1,11 @@
 id: 989704301
-type: way
+type: node
 latitude: 42.50224
 longitude: -70.89383
 postcode: "01970"
 city: Salem
-street: "Loring Avenue"
-housenumber: 59
+street: Loring Avenue
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

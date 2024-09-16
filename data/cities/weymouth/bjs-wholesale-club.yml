@@ -1,11 +1,11 @@
 id: 29602328
-type: way
+type: node
 latitude: 42.20535
 longitude: -70.95163
 postcode: ""
 city: Weymouth
-street: "Washington Street"
-housenumber: 622
+street: Washington Street
+housenumber: "622"
 phone: ""
 opening_hours: ""
 website: ""

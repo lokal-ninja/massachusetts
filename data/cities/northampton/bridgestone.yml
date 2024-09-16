@@ -4,8 +4,8 @@ latitude: 42.33539
 longitude: -72.63593
 postcode: "01060"
 city: Northampton
-street: "King Street"
-housenumber: 327
+street: King Street
+housenumber: "327"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:00
 website: ""

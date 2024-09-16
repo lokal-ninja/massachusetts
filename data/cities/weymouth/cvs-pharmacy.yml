@@ -1,11 +1,11 @@
 id: 29969477
-type: way
+type: node
 latitude: 42.20755
 longitude: -70.95647
 postcode: ""
 city: Weymouth
-street: "Washington Street"
-housenumber: 474
+street: Washington Street
+housenumber: "474"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/weymouth-ma-pharmacies/474-washington-st-weymouth-ma-02188/storeid=43"
+website: https://www.cvs.com/store-locator/weymouth-ma-pharmacies/474-washington-st-weymouth-ma-02188/storeid=43

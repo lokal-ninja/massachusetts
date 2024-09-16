@@ -1,11 +1,11 @@
 id: 29587433
-type: way
+type: node
 latitude: 42.34891
 longitude: -71.12858
 postcode: "02134"
 city: Allston
-street: "Commonwealth Avenue"
-housenumber: 1172
+street: Commonwealth Avenue
+housenumber: "1172"
 phone: ""
 opening_hours: ""
-website: "https://chambers.porschedealer.com/"
+website: https://chambers.porschedealer.com/

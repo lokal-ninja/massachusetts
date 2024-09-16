@@ -4,8 +4,8 @@ latitude: 42.35189
 longitude: -71.07476
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 81
-phone: "+1-617-841-7730"
+street: Newbury Street
+housenumber: "81"
+phone: +1-617-841-7730
 opening_hours: ""
-website: "https://www.brideside.com/locations/boston/bridal"
+website: https://www.brideside.com/locations/boston/bridal

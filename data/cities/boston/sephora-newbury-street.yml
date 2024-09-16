@@ -4,8 +4,8 @@ latitude: 42.35146
 longitude: -71.07473
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 88
-phone: "+1-617-236-0808"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.sephora.com/happening/stores/boston-newbury"
+street: Newbury Street
+housenumber: "88"
+phone: +1-617-236-0808
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.sephora.com/happening/stores/boston-newbury

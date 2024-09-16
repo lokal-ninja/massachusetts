@@ -4,8 +4,8 @@ latitude: 42.35134
 longitude: -71.07163
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 419
-phone: "+1-617-424-1090"
+street: Boylston Street
+housenumber: "419"
+phone: +1-617-424-1090
 opening_hours: ""
-website: "https://www.lelite.com/"
+website: https://www.lelite.com/

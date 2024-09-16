@@ -4,8 +4,8 @@ latitude: 42.39509
 longitude: -71.12185
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 240
+street: Elm Street
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.siranaturals.org/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.siranaturals.org/

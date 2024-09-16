@@ -1,11 +1,11 @@
 id: 216409693
-type: way
+type: node
 latitude: 42.14135
 longitude: -71.21519
 postcode: "02081"
 city: Walpole
-street: "Boston Providence Highway"
-housenumber: 550
-phone: "+1 508-668-4144"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2103/walpole-ma/whats-new"
+street: Boston Providence Highway
+housenumber: "550"
+phone: +1 508-668-4144
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2103/walpole-ma/whats-new

@@ -1,11 +1,11 @@
 id: 29626416
-type: way
+type: node
 latitude: 42.2884
 longitude: -71.04678
 postcode: "02122"
 city: Dorchester
-street: "Neponset Avenue"
-housenumber: 320
+street: Neponset Avenue
+housenumber: "320"
 phone: ""
-opening_hours: "06:00-01:00"
+opening_hours: 06:00-01:00
 website: ""

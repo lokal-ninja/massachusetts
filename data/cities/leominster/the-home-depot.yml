@@ -1,11 +1,11 @@
 id: 213739040
-type: way
+type: node
 latitude: 42.52502
 longitude: -71.7397
 postcode: "01453"
 city: Leominster
-street: "Commercial Road"
-housenumber: 135
-phone: "+1 978-840-0800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/leominster/ma/leominster/01453/2676"
+street: Commercial Road
+housenumber: "135"
+phone: +1 978-840-0800
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/leominster/ma/leominster/01453/2676

@@ -4,8 +4,8 @@ latitude: 42.35041
 longitude: -71.0802
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 201
-phone: "+1-617-450-8339"
+street: Newbury Street
+housenumber: "201"
+phone: +1-617-450-8339
 opening_hours: ""
-website: "https://www.tedbaker.com/us/stores/store/70090"
+website: https://www.tedbaker.com/us/stores/store/70090

@@ -1,11 +1,11 @@
 id: 75299580
-type: way
+type: node
 latitude: 42.11385
 longitude: -72.74701
 postcode: "01085"
 city: Westfield
-street: "East Silver Street"
-housenumber: 7
+street: East Silver Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7+e+silver+st-westfield-ma-01085/id=18949"
+website: https://www.walgreens.com/locator/walgreens-7+e+silver+st-westfield-ma-01085/id=18949

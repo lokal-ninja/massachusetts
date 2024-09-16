@@ -4,8 +4,9 @@ latitude: 42.52554
 longitude: -70.92619
 postcode: "01960"
 city: Peabody
-street: "Main Street"
-housenumber: 18
-phone: "+1-978-532-1615"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 09:00-17:00; Dec 1-23 Mo 12:00-18:00; Dec 1-23 Su 12:00-16:00"
-website: "https://netrains.com/"
+street: Main Street
+housenumber: "18"
+phone: +1-978-532-1615
+opening_hours: Tu-Fr 10:00-17:00; Sa 09:00-17:00; Dec 1-23 Mo 12:00-18:00; Dec 1-23
+    Su 12:00-16:00
+website: https://netrains.com/

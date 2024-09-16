@@ -4,8 +4,8 @@ latitude: 42.23052
 longitude: -71.84962
 postcode: "01603"
 city: Worcester
-street: "South Ludlow Street"
-housenumber: 60
+street: South Ludlow Street
+housenumber: "60"
 phone: "+15087975705"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/worcester/ma/705158?utm_source=google&utm_medium=local_listing&utm_campaign=tag_local_listing"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-18:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/worcester/ma/705158?utm_source=google&utm_medium=local_listing&utm_campaign=tag_local_listing

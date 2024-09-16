@@ -1,11 +1,11 @@
 id: 29635533
-type: way
+type: node
 latitude: 42.39121
 longitude: -71.11849
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 145
-phone: "+1 617-776-2100"
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 09:30-18:00; Su 12:00-17:00"
-website: "https://www.wheelworks.com/"
+street: Elm Street
+housenumber: "145"
+phone: +1 617-776-2100
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 09:30-18:00; Su 12:00-17:00
+website: https://www.wheelworks.com/

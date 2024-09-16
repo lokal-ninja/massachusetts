@@ -1,11 +1,11 @@
 id: 1051431996
-type: way
+type: node
 latitude: 42.5735
 longitude: -70.88008
 postcode: "01915"
 city: Beverly
-street: "Brimbal Avenue"
-housenumber: 150
-phone: "+1 978-529-9151"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/beverly"
+street: Brimbal Avenue
+housenumber: "150"
+phone: +1 978-529-9151
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/beverly

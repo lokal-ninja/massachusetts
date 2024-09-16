@@ -4,8 +4,8 @@ latitude: 42.5879
 longitude: -72.60387
 postcode: "01301"
 city: Greenfield
-street: "Main Street"
-housenumber: 144
-phone: "+1 413 773 9567"
+street: Main Street
+housenumber: "144"
+phone: +1 413 773 9567
 opening_hours: ""
-website: "http://greenfieldsmarket.coop/"
+website: http://greenfieldsmarket.coop/

@@ -1,11 +1,11 @@
 id: 297253850
-type: way
+type: node
 latitude: 42.45836
 longitude: -71.23765
 postcode: "02420"
 city: Lexington
-street: "Bedford Street"
-housenumber: 166
+street: Bedford Street
+housenumber: "166"
 phone: ""
 opening_hours: ""
-website: "https://www.mycleanerslexington.com/"
+website: https://www.mycleanerslexington.com/

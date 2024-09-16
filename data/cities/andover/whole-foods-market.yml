@@ -1,11 +1,11 @@
 id: 30183125
-type: way
+type: node
 latitude: 42.66066
 longitude: -71.1442
 postcode: "01810"
 city: Andover
-street: "Railroad Street"
-housenumber: 40
-phone: "+1 978-749-6664"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/andover"
+street: Railroad Street
+housenumber: "40"
+phone: +1 978-749-6664
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/andover

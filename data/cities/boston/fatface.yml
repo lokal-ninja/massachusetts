@@ -4,8 +4,8 @@ latitude: 42.35147
 longitude: -71.07628
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 117
-phone: "+1-857-233-4804"
+street: Newbury Street
+housenumber: "117"
+phone: +1-857-233-4804
 opening_hours: ""
-website: "https://us.fatface.com/store/5024"
+website: https://us.fatface.com/store/5024

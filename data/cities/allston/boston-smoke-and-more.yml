@@ -4,8 +4,8 @@ latitude: 42.35231
 longitude: -71.14056
 postcode: "02134"
 city: Allston
-street: "Cambridge Street"
-housenumber: 574
+street: Cambridge Street
+housenumber: "574"
 phone: "+16172088353"
-opening_hours: "Mo-Th, Su 09:00-21:00; Fr, Sa 09:00-22:00"
+opening_hours: Mo-Th, Su 09:00-21:00; Fr, Sa 09:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.3947
 longitude: -71.12126
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 225
-phone: "+1-617-625-7777"
-opening_hours: "Mo-Sa 09:00-23:00; PH,Su 10:00-23:00"
-website: "https://www.downtownwineandspirits.com/"
+street: Elm Street
+housenumber: "225"
+phone: +1-617-625-7777
+opening_hours: Mo-Sa 09:00-23:00; PH,Su 10:00-23:00
+website: https://www.downtownwineandspirits.com/

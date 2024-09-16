@@ -4,8 +4,8 @@ latitude: 42.04856
 longitude: -70.1892
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 191
+street: Commercial Street
+housenumber: "191"
 phone: ""
 opening_hours: ""
-website: "https://ptownwine.com/"
+website: https://ptownwine.com/

@@ -4,8 +4,8 @@ latitude: 42.26825
 longitude: -71.78139
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 276
+street: Shrewsbury Street
+housenumber: "276"
 phone: ""
-opening_hours: "Mo-Tu,Sa 10:00-17:00;We 08:00-14:00;Th-Fr 10:00-18:00;Su 10:00-15:00"
-website: "http://www.petbarnwarehouse.com"
+opening_hours: Mo-Tu,Sa 10:00-17:00;We 08:00-14:00;Th-Fr 10:00-18:00;Su 10:00-15:00
+website: http://www.petbarnwarehouse.com

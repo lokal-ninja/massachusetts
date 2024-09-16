@@ -1,11 +1,11 @@
 id: 215949267
-type: way
+type: node
 latitude: 41.79462
 longitude: -71.32509
 postcode: "02771"
 city: Seekonk
-street: "Fall River Avenue"
-housenumber: 1180
-phone: "+1 508-336-0290"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2184-seekonk-ma"
+street: Fall River Avenue
+housenumber: "1180"
+phone: +1 508-336-0290
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2184-seekonk-ma

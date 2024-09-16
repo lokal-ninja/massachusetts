@@ -1,11 +1,11 @@
 id: 215941877
-type: way
+type: node
 latitude: 42.4906
 longitude: -71.01811
 postcode: "01906"
 city: Saugus
-street: "Walnut Street"
-housenumber: 166
+street: Walnut Street
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walgreens.com/locator/walgreens-166+walnut+st-saugus-ma-01906/id=2471"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walgreens.com/locator/walgreens-166+walnut+st-saugus-ma-01906/id=2471

@@ -1,11 +1,11 @@
 id: 472262659
-type: way
+type: node
 latitude: 42.30742
 longitude: -71.38498
 postcode: "01701"
 city: Framingham
-street: "Cochituate Road"
-housenumber: 665
-phone: "508-309-7036"
+street: Cochituate Road
+housenumber: "665"
+phone: 508-309-7036
 opening_hours: ""
-website: "https://ma.temescalwellness.com/"
+website: https://ma.temescalwellness.com/

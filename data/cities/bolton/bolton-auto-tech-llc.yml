@@ -1,11 +1,11 @@
 id: 138641187
-type: way
+type: node
 latitude: 42.42999
 longitude: -71.5875
 postcode: "01740"
 city: Bolton
-street: "Main Street"
-housenumber: 460
+street: Main Street
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

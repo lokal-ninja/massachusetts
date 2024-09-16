@@ -1,11 +1,11 @@
 id: 29651960
-type: way
+type: node
 latitude: 42.4238
 longitude: -71.07181
 postcode: "02148"
 city: Malden
-street: "Charles Street"
-housenumber: 99
-phone: "+1-781-397-0006"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://stores.stopandshop.com/ma/malden/99-charles-street"
+street: Charles Street
+housenumber: "99"
+phone: +1-781-397-0006
+opening_hours: Mo-Su 06:00-00:00
+website: https://stores.stopandshop.com/ma/malden/99-charles-street

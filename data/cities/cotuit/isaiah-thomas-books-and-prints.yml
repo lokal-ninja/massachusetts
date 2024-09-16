@@ -1,11 +1,11 @@
 id: 211963083
-type: way
+type: node
 latitude: 41.6385
 longitude: -70.44941
 postcode: "02635"
 city: Cotuit
-street: "Falmouth Road"
-housenumber: 4632
+street: Falmouth Road
+housenumber: "4632"
 phone: ""
 opening_hours: ""
 website: ""

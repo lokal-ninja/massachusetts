@@ -4,8 +4,8 @@ latitude: 42.37257
 longitude: -71.11635
 postcode: "02138"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1256
-phone: "+1 617 661 1515"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.harvard.com/"
+street: Massachusetts Avenue
+housenumber: "1256"
+phone: +1 617 661 1515
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.harvard.com/

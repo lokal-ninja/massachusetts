@@ -2,10 +2,11 @@ id: 6080908845
 type: node
 latitude: 42.3817
 longitude: -71.12002
-postcode: "02138-2706"
+postcode: 02138-2706
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1654
-phone: "+1 617-354-4161"
-opening_hours: "Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.marathonsports.com/"
+street: Massachusetts Avenue
+housenumber: "1654"
+phone: +1 617-354-4161
+opening_hours: Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-18:00;
+    Su 11:00-18:00
+website: https://www.marathonsports.com/

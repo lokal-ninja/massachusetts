@@ -1,11 +1,11 @@
 id: 214119997
-type: way
+type: node
 latitude: 42.54367
 longitude: -71.16973
 postcode: "01887"
 city: Wilmington
-street: "Main Street"
-housenumber: 520
+street: Main Street
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

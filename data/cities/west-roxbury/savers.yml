@@ -1,11 +1,11 @@
 id: 29670826
-type: way
+type: node
 latitude: 42.27768
 longitude: -71.16975
 postcode: "02132"
 city: West Roxbury
-street: "Veterans of Foreign Wars Parkway"
-housenumber: 1230
-phone: "+1-617-323-9213"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-20:00"
-website: "https://stores.savers.com/ma/westroxbury/savers-thrift-store-1065.html"
+street: Veterans of Foreign Wars Parkway
+housenumber: "1230"
+phone: +1-617-323-9213
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-20:00
+website: https://stores.savers.com/ma/westroxbury/savers-thrift-store-1065.html

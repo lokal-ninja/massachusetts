@@ -1,11 +1,11 @@
 id: 216410550
-type: way
+type: node
 latitude: 42.13971
 longitude: -71.22068
 postcode: "02081"
 city: Walpole
-street: "Route 1"
+street: Route 1
 housenumber: 999;1111
-phone: "+1-508-660-9710"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.bigy.com/rs/storelocator/detail/65"
+phone: +1-508-660-9710
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.bigy.com/rs/storelocator/detail/65

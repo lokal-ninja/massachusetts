@@ -1,11 +1,11 @@
 id: 214943612
-type: way
+type: node
 latitude: 41.79538
 longitude: -69.98213
 postcode: ""
 city: Orleans
-street: "Old County Road"
-housenumber: 13
+street: Old County Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

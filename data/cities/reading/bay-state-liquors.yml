@@ -4,8 +4,8 @@ latitude: 42.5185
 longitude: -71.103
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 345
-phone: "+1 781 9447474"
+street: Main Street
+housenumber: "345"
+phone: +1 781 9447474
 opening_hours: ""
-website: "http://www.baystateliquors.com/"
+website: http://www.baystateliquors.com/

@@ -1,11 +1,11 @@
 id: 216359545
-type: way
+type: node
 latitude: 41.45337
 longitude: -70.59611
 postcode: "02586"
 city: Martha's Vineyard
-street: "Beach Road"
+street: Beach Road
 housenumber: 145;147
-phone: "+1-508-693-5208"
+phone: +1-508-693-5208
 opening_hours: ""
 website: ""

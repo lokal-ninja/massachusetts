@@ -1,11 +1,11 @@
 id: 29955522
-type: way
+type: node
 latitude: 42.46624
 longitude: -71.02596
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 1161
+street: Broadway
+housenumber: "1161"
 phone: ""
 opening_hours: ""
-website: "https://mccormick-kitchens.com/"
+website: https://mccormick-kitchens.com/

@@ -1,11 +1,11 @@
 id: 216064837
-type: way
+type: node
 latitude: 42.02427
 longitude: -72.78756
 postcode: "01077"
 city: southwick
-street: "College Highway"
-housenumber: 185
-phone: "+1 413-998-3646"
+street: College Highway
+housenumber: "185"
+phone: +1 413-998-3646
 opening_hours: ""
 website: ""

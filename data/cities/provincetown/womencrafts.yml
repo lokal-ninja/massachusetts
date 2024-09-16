@@ -1,11 +1,11 @@
 id: 170530729
-type: way
+type: node
 latitude: 42.05403
 longitude: -70.18341
 postcode: "02657"
 city: Provincetown
-street: "Commercial Street"
-housenumber: 376
-phone: "+1 (508) 487-2501"
+street: Commercial Street
+housenumber: "376"
+phone: +1 (508) 487-2501
 opening_hours: ""
-website: "http://www.womencrafts.com"
+website: http://www.womencrafts.com

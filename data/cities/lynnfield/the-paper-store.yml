@@ -4,8 +4,8 @@ latitude: 42.51475
 longitude: -71.03234
 postcode: "01940"
 city: Lynnfield
-street: "Market Street"
-housenumber: 105
-phone: "+1 781 334 8700"
+street: Market Street
+housenumber: "105"
+phone: +1 781 334 8700
 opening_hours: ""
-website: "https://www.thepaperstore.com/"
+website: https://www.thepaperstore.com/

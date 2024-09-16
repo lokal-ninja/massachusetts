@@ -1,11 +1,11 @@
 id: 216372275
-type: way
+type: node
 latitude: 42.6683
 longitude: -71.70508
 postcode: "01469"
 city: Townsend
-street: "Highland Street"
-housenumber: 18
-phone: "+1 978-597-5117"
+street: Highland Street
+housenumber: "18"
+phone: +1 978-597-5117
 opening_hours: ""
-website: "https://www.evansonthecommon.com/"
+website: https://www.evansonthecommon.com/

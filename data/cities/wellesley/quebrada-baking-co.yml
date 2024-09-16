@@ -4,8 +4,8 @@ latitude: 42.31287
 longitude: -71.27355
 postcode: "02481"
 city: Wellesley
-street: "Washington Street"
-housenumber: 272
-phone: "+1-781-591-0100"
-opening_hours: "06:00-18:00"
-website: "https://www.quebradabakingco.com/location/wellesley/"
+street: Washington Street
+housenumber: "272"
+phone: +1-781-591-0100
+opening_hours: 06:00-18:00
+website: https://www.quebradabakingco.com/location/wellesley/

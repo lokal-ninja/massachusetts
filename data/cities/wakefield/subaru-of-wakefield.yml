@@ -1,11 +1,11 @@
 id: 29611635
-type: way
+type: node
 latitude: 42.51413
 longitude: -71.0892
 postcode: "01880"
 city: Wakefield
-street: "North Avenue"
-housenumber: 618
-phone: "+1 781 246 3331"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.subaruofwakefield.com/"
+street: North Avenue
+housenumber: "618"
+phone: +1 781 246 3331
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.subaruofwakefield.com/

@@ -1,11 +1,11 @@
 id: 990581220
-type: way
+type: node
 latitude: 42.48312
 longitude: -70.90478
 postcode: "01907"
 city: Swampscott
-street: "Paradise Road"
-housenumber: 450
-phone: "+1 781-592-0105"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Paradise Road
+housenumber: "450"
+phone: +1 781-592-0105
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

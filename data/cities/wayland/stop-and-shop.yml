@@ -1,11 +1,11 @@
 id: 389365898
-type: way
+type: node
 latitude: 42.36481
 longitude: -71.36595
 postcode: "01778"
 city: Wayland
-street: "Andrew Avenue"
-housenumber: 101
+street: Andrew Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

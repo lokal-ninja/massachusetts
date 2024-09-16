@@ -1,11 +1,11 @@
 id: 213648041
-type: way
+type: node
 latitude: 42.38754
 longitude: -71.56349
 postcode: ""
 city: Hudson
-street: "Broad Street"
-housenumber: 66
+street: Broad Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

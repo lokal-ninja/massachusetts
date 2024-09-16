@@ -4,8 +4,8 @@ latitude: 42.34813
 longitude: -71.08726
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 352
-phone: "+1-617-421-8601"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://stores.arcteryx.com/shop/boston"
+street: Newbury Street
+housenumber: "352"
+phone: +1-617-421-8601
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://stores.arcteryx.com/shop/boston

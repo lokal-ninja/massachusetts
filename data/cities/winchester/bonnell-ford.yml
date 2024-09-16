@@ -4,8 +4,8 @@ latitude: 42.45848
 longitude: -71.16061
 postcode: "01890"
 city: Winchester
-street: "Cambridge Street"
-housenumber: 353
-phone: "+1-877-729-9700"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.bonnellford.com"
+street: Cambridge Street
+housenumber: "353"
+phone: +1-877-729-9700
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.bonnellford.com

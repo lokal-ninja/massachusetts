@@ -4,8 +4,8 @@ latitude: 42.35005
 longitude: -71.08015
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 200
-phone: "+1-617-267-3400"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.nike.com/retail/s/nike-boston"
+street: Newbury Street
+housenumber: "200"
+phone: +1-617-267-3400
+opening_hours: Mo 10:00-19:00; Tu-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.nike.com/retail/s/nike-boston

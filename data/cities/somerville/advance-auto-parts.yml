@@ -1,11 +1,11 @@
 id: 29537957
-type: way
+type: node
 latitude: 42.37717
 longitude: -71.09147
 postcode: "02143"
 city: Somerville
-street: "Somerville Avenue"
-housenumber: 196
-phone: "+1 617 623 0803"
-opening_hours: "Mo-Fr 07:30-21:00; Su 09:00-18:00"
-website: "https://stores.advanceautoparts.com/ma/somerville/196-somerville-ave"
+street: Somerville Avenue
+housenumber: "196"
+phone: +1 617 623 0803
+opening_hours: Mo-Fr 07:30-21:00; Su 09:00-18:00
+website: https://stores.advanceautoparts.com/ma/somerville/196-somerville-ave

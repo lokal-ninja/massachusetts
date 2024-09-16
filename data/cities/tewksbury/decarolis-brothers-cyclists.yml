@@ -1,11 +1,11 @@
 id: 148857689
-type: way
+type: node
 latitude: 42.59131
 longitude: -71.20699
 postcode: "01876"
 city: Tewksbury
-street: "Main St."
-housenumber: 1875
+street: Main St.
+housenumber: "1875"
 phone: ""
 opening_hours: ""
 website: ""

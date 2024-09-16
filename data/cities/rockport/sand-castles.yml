@@ -4,8 +4,8 @@ latitude: 42.65818
 longitude: -70.61609
 postcode: ""
 city: Rockport
-street: "Mount Pleasant Street"
-housenumber: 9
-phone: "+1 978 546 9002"
-opening_hours: "Mo-Su 10:00-17:00"
+street: Mount Pleasant Street
+housenumber: "9"
+phone: +1 978 546 9002
+opening_hours: Mo-Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 82806199
-type: way
+type: node
 latitude: 42.13075
 longitude: -71.06662
 postcode: "02322"
 city: Avon
-street: "Stockwell Drive"
-housenumber: 60
-phone: "+1 508-580-0600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/avon/ma/avon/02322/2671"
+street: Stockwell Drive
+housenumber: "60"
+phone: +1 508-580-0600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/avon/ma/avon/02322/2671

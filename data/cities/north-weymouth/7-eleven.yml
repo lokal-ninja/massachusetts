@@ -1,11 +1,11 @@
 id: 214076781
-type: way
+type: node
 latitude: 42.24219
 longitude: -70.9445
 postcode: "02191"
 city: North Weymouth
-street: "Sea Street"
-housenumber: 11
-phone: "+1 781-331-1268"
+street: Sea Street
+housenumber: "11"
+phone: +1 781-331-1268
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/weymouth/11-sea-st-37411"
+website: https://www.7-eleven.com/locations/ma/weymouth/11-sea-st-37411

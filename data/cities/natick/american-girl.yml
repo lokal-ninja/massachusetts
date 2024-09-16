@@ -1,11 +1,11 @@
 id: 257087742
-type: way
+type: node
 latitude: 42.30037
 longitude: -71.38514
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 1245
+street: Worcester Street
+housenumber: "1245"
 phone: ""
 opening_hours: ""
-website: "https://www.americangirl.com/"
+website: https://www.americangirl.com/

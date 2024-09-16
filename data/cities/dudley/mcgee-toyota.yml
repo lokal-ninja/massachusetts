@@ -1,11 +1,11 @@
 id: 212676072
-type: way
+type: node
 latitude: 42.04025
 longitude: -71.91101
 postcode: "01571"
 city: Dudley
-street: "West Main Street"
-housenumber: 191
-phone: "+1 508 943 7474"
+street: West Main Street
+housenumber: "191"
+phone: +1 508 943 7474
 opening_hours: ""
-website: "http://www.tristatetoyota.com/"
+website: http://www.tristatetoyota.com/

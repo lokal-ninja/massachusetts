@@ -4,8 +4,8 @@ latitude: 42.35906
 longitude: -71.07052
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 101
-phone: "+1-617-497-1221"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "http://blackinkboston.com/black-ink-boston/"
+street: Charles Street
+housenumber: "101"
+phone: +1-617-497-1221
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: http://blackinkboston.com/black-ink-boston/

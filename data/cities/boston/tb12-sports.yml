@@ -4,8 +4,8 @@ latitude: 42.34983
 longitude: -71.07924
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 699
-phone: "+1-857-449-7525"
+street: Boylston Street
+housenumber: "699"
+phone: +1-857-449-7525
 opening_hours: ""
-website: "https://tb12sports.com/services/tb12-boston"
+website: https://tb12sports.com/services/tb12-boston

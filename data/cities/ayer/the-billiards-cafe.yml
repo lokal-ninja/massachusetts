@@ -4,8 +4,8 @@ latitude: 42.55976
 longitude: -71.58852
 postcode: "01432"
 city: Ayer
-street: "Main Street"
-housenumber: 39
-phone: "+1 978 772 7665"
+street: Main Street
+housenumber: "39"
+phone: +1 978 772 7665
 opening_hours: ""
-website: "https://thebilliardscafe.com/"
+website: https://thebilliardscafe.com/

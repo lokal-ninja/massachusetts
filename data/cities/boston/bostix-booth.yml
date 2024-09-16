@@ -1,11 +1,11 @@
 id: 827790872
-type: way
+type: node
 latitude: 42.34995
 longitude: -71.07698
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 560
+street: Boylston Street
+housenumber: "560"
 phone: ""
 opening_hours: ""
-website: "https://calendar.artsboston.org/venue/bostix-booth-copley-square/"
+website: https://calendar.artsboston.org/venue/bostix-booth-copley-square/

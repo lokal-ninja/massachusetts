@@ -1,11 +1,11 @@
 id: 214432418
-type: way
+type: node
 latitude: 42.34939
 longitude: -71.50142
 postcode: "01752"
 city: Marlborough
-street: "Boston Post Road East"
-housenumber: 701
-phone: "+1 508-357-2223"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/marlborough/ma/marlborough/01752/2607"
+street: Boston Post Road East
+housenumber: "701"
+phone: +1 508-357-2223
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/marlborough/ma/marlborough/01752/2607

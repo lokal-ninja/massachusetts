@@ -4,8 +4,8 @@ latitude: 42.35187
 longitude: -71.0699
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 300
+street: Boylston Street
+housenumber: "300"
 phone: "+16172741311"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.audemarspiguet.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.audemarspiguet.com/

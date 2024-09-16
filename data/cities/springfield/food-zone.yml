@@ -1,11 +1,11 @@
 id: 216141351
-type: way
+type: node
 latitude: 42.08869
 longitude: -72.56416
 postcode: "01108"
 city: Springfield
-street: "Belmont Avenue"
-housenumber: 355
+street: Belmont Avenue
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

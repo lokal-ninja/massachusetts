@@ -1,11 +1,11 @@
 id: 678514889
-type: way
+type: node
 latitude: 42.53869
 longitude: -71.14841
 postcode: ""
 city: Wilmington
-street: "Lowell Street"
-housenumber: 211
+street: Lowell Street
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-18:00
 website: ""

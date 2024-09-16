@@ -1,11 +1,11 @@
 id: 138261428
-type: way
+type: node
 latitude: 42.66074
 longitude: -71.42739
 postcode: "01879"
 city: Tyngsborough
-street: "Westford Road"
-housenumber: 95
+street: Westford Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

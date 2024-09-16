@@ -4,8 +4,8 @@ latitude: 42.35645
 longitude: -71.05913
 postcode: "02108"
 city: Boston
-street: "Washington Street"
-housenumber: 350
-phone: "+1 617-574-4813"
-opening_hours: "Mo-Sa 09:30-21:00; Su 10:00-20:00"
+street: Washington Street
+housenumber: "350"
+phone: +1 617-574-4813
+opening_hours: Mo-Sa 09:30-21:00; Su 10:00-20:00
 website: ""

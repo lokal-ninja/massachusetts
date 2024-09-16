@@ -4,8 +4,8 @@ latitude: 42.27163
 longitude: -71.77472
 postcode: "01604"
 city: Worcester
-street: "Shrewsbury Street"
-housenumber: 400
+street: Shrewsbury Street
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Sa 12:00-20:00;Su 13:00-18:00"
-website: "https://www.piercingemporium.com/"
+opening_hours: Mo-Sa 12:00-20:00;Su 13:00-18:00
+website: https://www.piercingemporium.com/

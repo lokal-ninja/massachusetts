@@ -4,8 +4,8 @@ latitude: 42.36183
 longitude: -71.09734
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 259
-phone: "+1 617 876-6555"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "http://cambridgebicycle.com/"
+street: Massachusetts Avenue
+housenumber: "259"
+phone: +1 617 876-6555
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: http://cambridgebicycle.com/

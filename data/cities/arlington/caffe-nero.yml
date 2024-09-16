@@ -4,8 +4,8 @@ latitude: 42.4146
 longitude: -71.15068
 postcode: "02474"
 city: Arlington
-street: "Broadway"
-housenumber: 321
+street: Broadway
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Su 06:30-19:30"
+opening_hours: Mo-Su 06:30-19:30
 website: ""

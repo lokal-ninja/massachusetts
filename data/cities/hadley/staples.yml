@@ -1,11 +1,11 @@
 id: 40688755
-type: way
+type: node
 latitude: 42.36096
 longitude: -72.54349
 postcode: "01035"
 city: Hadley
-street: "Westgate Center Drive"
-housenumber: 125
+street: Westgate Center Drive
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ma/hadley/125-westgate-center-drive"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/ma/hadley/125-westgate-center-drive

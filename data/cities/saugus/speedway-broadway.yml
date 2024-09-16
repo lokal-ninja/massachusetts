@@ -1,11 +1,11 @@
 id: 1008739907
-type: way
+type: node
 latitude: 42.45577
 longitude: -71.02333
 postcode: "01906"
 city: Saugus
-street: "Broadway"
-housenumber: 1252
-phone: "+1 781 231 2319"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/MA/Saugus/1252-BROADWAY"
+street: Broadway
+housenumber: "1252"
+phone: +1 781 231 2319
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MA/Saugus/1252-BROADWAY

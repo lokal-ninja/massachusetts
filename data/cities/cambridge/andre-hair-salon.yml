@@ -4,8 +4,8 @@ latitude: 42.37185
 longitude: -71.11528
 postcode: "02138"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1206
-phone: "+1-617-354-5210"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00"
+street: Massachusetts Avenue
+housenumber: "1206"
+phone: +1-617-354-5210
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00
 website: ""

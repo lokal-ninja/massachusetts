@@ -4,8 +4,8 @@ latitude: 42.45961
 longitude: -70.95041
 postcode: "01902"
 city: Lynn
-street: "Alley Street"
-housenumber: 35
-phone: "+1 781-598-1100"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+street: Alley Street
+housenumber: "35"
+phone: +1 781-598-1100
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

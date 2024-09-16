@@ -4,8 +4,8 @@ latitude: 42.34353
 longitude: -72.5888
 postcode: "01035"
 city: Hadley
-street: "Middle Street"
-housenumber: 44
+street: Middle Street
+housenumber: "44"
 phone: "+14135860332"
 opening_hours: ""
-website: "http://www.hadleypictureframing.com/"
+website: http://www.hadleypictureframing.com/

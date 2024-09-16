@@ -1,11 +1,11 @@
 id: 215001177
-type: way
+type: node
 latitude: 42.54893
 longitude: -70.98342
 postcode: "01960"
 city: Peabody
-street: "Newbury Street"
-housenumber: 234
-phone: "+1 978 535 6550"
-opening_hours: "Mo-Sa 07:00-17:00, Su 08:00-18:00"
-website: "https://northeastnursery.com/"
+street: Newbury Street
+housenumber: "234"
+phone: +1 978 535 6550
+opening_hours: Mo-Sa 07:00-17:00, Su 08:00-18:00
+website: https://northeastnursery.com/

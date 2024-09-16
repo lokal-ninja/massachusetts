@@ -1,11 +1,11 @@
 id: 212361703
-type: way
+type: node
 latitude: 42.59509
 longitude: -71.34902
 postcode: "01824"
 city: Chelmsford
-street: "Summer Street"
-housenumber: 10
+street: Summer Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.harringtonwineandliquors.com/"
+website: https://www.harringtonwineandliquors.com/

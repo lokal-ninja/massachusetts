@@ -1,11 +1,11 @@
 id: 297253851
-type: way
+type: node
 latitude: 42.45355
 longitude: -71.2322
 postcode: "02420"
 city: Lexington
-street: "Bedford Street"
-housenumber: 53
+street: Bedford Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.neillioscatering.com/"
+website: https://www.neillioscatering.com/

@@ -4,8 +4,8 @@ latitude: 42.34981
 longitude: -71.07982
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 711
-phone: "+1-617-262-2220"
+street: Boylston Street
+housenumber: "711"
+phone: +1-617-262-2220
 opening_hours: ""
-website: "https://www.g2ospasalon.com/"
+website: https://www.g2ospasalon.com/

@@ -4,8 +4,8 @@ latitude: 42.20775
 longitude: -71.83423
 postcode: "01501"
 city: Auburn
-street: "Auburn Street"
-housenumber: 64
-phone: "+1 508-507-8468"
+street: Auburn Street
+housenumber: "64"
+phone: +1 508-507-8468
 opening_hours: ""
-website: "https://raycoauto.store/"
+website: https://raycoauto.store/

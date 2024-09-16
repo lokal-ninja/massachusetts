@@ -1,11 +1,11 @@
 id: 212090823
-type: way
+type: node
 latitude: 42.58109
 longitude: -71.28738
 postcode: "01862"
 city: North Billerica
-street: "Boston Road"
-housenumber: 210
+street: Boston Road
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/north-billerica-ma-pharmacies/210-boston-rd-north-billerica-ma-01862/storeid=131"
+website: https://www.cvs.com/store-locator/north-billerica-ma-pharmacies/210-boston-rd-north-billerica-ma-01862/storeid=131

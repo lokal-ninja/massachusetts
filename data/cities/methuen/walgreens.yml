@@ -1,11 +1,11 @@
 id: 214536369
-type: way
+type: node
 latitude: 42.74109
 longitude: -71.16937
 postcode: "01844"
 city: Methuen
-street: "Pleasant Street"
-housenumber: 256
+street: Pleasant Street
+housenumber: "256"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa,Su 08:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-256+pleasant+st-methuen-ma-01844/id=17486"
+opening_hours: Mo-Fr 08:00-22:00; Sa,Su 08:00-20:00
+website: https://www.walgreens.com/locator/walgreens-256+pleasant+st-methuen-ma-01844/id=17486

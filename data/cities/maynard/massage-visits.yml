@@ -1,11 +1,11 @@
 id: 330601571
-type: way
+type: node
 latitude: 42.43223
 longitude: -71.45423
 postcode: "01754"
 city: Maynard
-street: "Main Street"
-housenumber: 95
+street: Main Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

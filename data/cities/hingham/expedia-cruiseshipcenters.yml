@@ -4,8 +4,8 @@ latitude: 42.252
 longitude: -70.92292
 postcode: "02043"
 city: Hingham
-street: "Shipyard Drive"
-housenumber: 18
-phone: "+1-781-791-7729"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.cruiseshipcenters.com/en-US/900155/Contact"
+street: Shipyard Drive
+housenumber: "18"
+phone: +1-781-791-7729
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.cruiseshipcenters.com/en-US/900155/Contact

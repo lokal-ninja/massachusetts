@@ -1,11 +1,11 @@
 id: 129030742
-type: way
+type: node
 latitude: 42.21593
 longitude: -70.92655
 postcode: ""
 city: Weymouth
-street: "Broad Street"
-housenumber: 791
+street: Broad Street
+housenumber: "791"
 phone: ""
 opening_hours: ""
 website: ""

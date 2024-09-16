@@ -1,11 +1,11 @@
 id: 214270854
-type: way
+type: node
 latitude: 41.65386
 longitude: -70.25198
 postcode: "02673"
 city: West Yarmouth
-street: "Main Street"
-housenumber: 280
+street: Main Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.unfinishedbusinessofcapecod.com/"
+website: https://www.unfinishedbusinessofcapecod.com/

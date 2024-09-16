@@ -4,8 +4,8 @@ latitude: 42.55654
 longitude: -71.26267
 postcode: "01821"
 city: Billerica
-street: "Boston Road"
-housenumber: 480
-phone: "+1 978-663-0405"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ma/billerica/238"
+street: Boston Road
+housenumber: "480"
+phone: +1 978-663-0405
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ma/billerica/238

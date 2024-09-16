@@ -4,8 +4,8 @@ latitude: 42.37197
 longitude: -71.07632
 postcode: "02141"
 city: Cambridge
-street: "Morgan Avenue"
-housenumber: 181
-phone: "+1 781-827-3700"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/cambridge"
+street: Morgan Avenue
+housenumber: "181"
+phone: +1 781-827-3700
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 10:00-18:00
+website: https://www.rei.com/stores/cambridge

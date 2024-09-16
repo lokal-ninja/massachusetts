@@ -1,11 +1,11 @@
 id: 212215116
-type: way
+type: node
 latitude: 41.9684
 longitude: -71.02342
 postcode: "02324"
 city: Bridgewater
-street: "Pleasant Street"
-housenumber: 1453
-phone: "+1 508-697-0327"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/bridgewater/ma/bridgewater/02324/2603"
+street: Pleasant Street
+housenumber: "1453"
+phone: +1 508-697-0327
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/bridgewater/ma/bridgewater/02324/2603

@@ -4,8 +4,8 @@ latitude: 42.35218
 longitude: -71.05791
 postcode: "02111"
 city: Boston
-street: "Lincoln Street"
-housenumber: 66
-phone: "+1 617 261 0158"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
+street: Lincoln Street
+housenumber: "66"
+phone: +1 617 261 0158
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.34918
 longitude: -71.08475
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 285
-phone: "+1-781-235-0027"
+street: Newbury Street
+housenumber: "285"
+phone: +1-781-235-0027
 opening_hours: ""
-website: "https://www.tracksmith.com/"
+website: https://www.tracksmith.com/

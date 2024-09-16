@@ -4,8 +4,8 @@ latitude: 42.34976
 longitude: -71.08262
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 245
-phone: "+1-617-450-0021"
+street: Newbury Street
+housenumber: "245"
+phone: +1-617-450-0021
 opening_hours: ""
-website: "https://www.barbershoplounge.com/"
+website: https://www.barbershoplounge.com/

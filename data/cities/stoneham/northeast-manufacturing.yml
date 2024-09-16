@@ -1,11 +1,11 @@
 id: 29523052
-type: way
+type: node
 latitude: 42.47668
 longitude: -71.09971
 postcode: "02180"
 city: Stoneham
-street: "Spencer Street"
-housenumber: 35
-phone: "+1 781 4383022"
+street: Spencer Street
+housenumber: "35"
+phone: +1 781 4383022
 opening_hours: ""
-website: "http://northeastmfg.com/"
+website: http://northeastmfg.com/

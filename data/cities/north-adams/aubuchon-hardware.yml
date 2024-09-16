@@ -1,11 +1,11 @@
 id: 214830350
-type: way
+type: node
 latitude: 42.70069
 longitude: -73.10709
 postcode: "01247"
 city: North Adams
-street: "Union Street"
-housenumber: 31
+street: Union Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

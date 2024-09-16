@@ -1,11 +1,11 @@
 id: 216191778
-type: way
+type: node
 latitude: 42.12071
 longitude: -71.0897
 postcode: ""
 city: Stoughton
-street: "Park Street"
-housenumber: 358
+street: Park Street
+housenumber: "358"
 phone: ""
 opening_hours: ""
 website: ""

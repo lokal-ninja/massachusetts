@@ -1,11 +1,11 @@
 id: 29846936
-type: way
+type: node
 latitude: 42.27005
 longitude: -71.0205
 postcode: ""
 city: Quincy
-street: "Hancock Street"
-housenumber: 549
-phone: "+1-617-763-1066"
+street: Hancock Street
+housenumber: "549"
+phone: +1-617-763-1066
 opening_hours: ""
 website: ""

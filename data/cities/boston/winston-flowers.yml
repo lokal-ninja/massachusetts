@@ -4,8 +4,8 @@ latitude: 42.35133
 longitude: -71.07689
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 131
-phone: "+1-800-457-4901"
+street: Newbury Street
+housenumber: "131"
+phone: +1-800-457-4901
 opening_hours: ""
-website: "https://www.winstonflowers.com/locations/back-bay"
+website: https://www.winstonflowers.com/locations/back-bay

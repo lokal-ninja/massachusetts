@@ -1,11 +1,11 @@
 id: 213358517
-type: way
+type: node
 latitude: 42.20646
 longitude: -73.34706
 postcode: "01230"
 city: Great Barrington
-street: "Stockbridge Road"
-housenumber: 229
+street: Stockbridge Road
+housenumber: "229"
 phone: "+14135285101"
 opening_hours: ""
-website: "https://find.shell.com/"
+website: https://find.shell.com/

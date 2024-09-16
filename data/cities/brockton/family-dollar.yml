@@ -1,11 +1,11 @@
 id: 212263270
-type: way
+type: node
 latitude: 42.09956
 longitude: -71.06538
 postcode: "02301"
 city: Brockton
-street: "Oak Street Extension"
-housenumber: 25
-phone: "+1 774 360 8600"
+street: Oak Street Extension
+housenumber: "25"
+phone: +1 774 360 8600
 opening_hours: ""
-website: "https://www.familydollar.com/locations/ma/brockton/32376/"
+website: https://www.familydollar.com/locations/ma/brockton/32376/

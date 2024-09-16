@@ -1,11 +1,11 @@
 id: 214595897
-type: way
+type: node
 latitude: 42.20238
 longitude: -71.77427
 postcode: "01527"
 city: Millbury
-street: "N. Main Street"
-housenumber: 214
+street: N. Main Street
+housenumber: "214"
 phone: "+15088654828"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.35686
 longitude: -71.07015
 postcode: "02108"
 city: Boston
-street: "Chestnut Street"
-housenumber: 84
-phone: "+1-617-377-4054"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.saracampbell.com/"
+street: Chestnut Street
+housenumber: "84"
+phone: +1-617-377-4054
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.saracampbell.com/

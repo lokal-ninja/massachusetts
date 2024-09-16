@@ -1,11 +1,11 @@
 id: 217051685
-type: way
+type: node
 latitude: 42.32477
 longitude: -71.26013
 postcode: "02481"
 city: Wellesley
-street: "Washington Street"
-housenumber: 26
-phone: "+1-781-237-4156"
-opening_hours: "Mo-Sa 07:30-16:00; Su off"
-website: "https://taylorrentalwellesley.net/"
+street: Washington Street
+housenumber: "26"
+phone: +1-781-237-4156
+opening_hours: Mo-Sa 07:30-16:00; Su off
+website: https://taylorrentalwellesley.net/

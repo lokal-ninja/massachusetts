@@ -1,11 +1,11 @@
 id: 992747237
-type: way
+type: node
 latitude: 42.04181
 longitude: -71.00969
 postcode: "02379"
 city: West Bridgewater
-street: "North Main Street"
-housenumber: 800
-phone: "+1 508 513 1753"
+street: North Main Street
+housenumber: "800"
+phone: +1 508 513 1753
 opening_hours: ""
-website: "https://www.familydollar.com/locations/ma/west-bridgewater/23730/"
+website: https://www.familydollar.com/locations/ma/west-bridgewater/23730/

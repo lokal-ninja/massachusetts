@@ -4,8 +4,8 @@ latitude: 42.35268
 longitude: -71.07187
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 9
-phone: "+1-617-424-6676"
+street: Newbury Street
+housenumber: "9"
+phone: +1-617-424-6676
 opening_hours: ""
-website: "https://mariorusso.com/9-newbury/"
+website: https://mariorusso.com/9-newbury/

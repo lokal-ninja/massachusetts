@@ -1,11 +1,11 @@
 id: 1237357291
-type: way
+type: node
 latitude: 42.64478
 longitude: -71.31404
 postcode: ""
 city: Lowell
-street: "Dutton Street"
-housenumber: 215
+street: Dutton Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

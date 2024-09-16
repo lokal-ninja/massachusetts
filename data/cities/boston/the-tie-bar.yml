@@ -4,8 +4,8 @@ latitude: 42.35072
 longitude: -71.0793
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 175
-phone: "+1-617-275-8143"
-opening_hours: "Mo-Sa 12:00-18:00"
-website: "https://www.thetiebar.com/"
+street: Newbury Street
+housenumber: "175"
+phone: +1-617-275-8143
+opening_hours: Mo-Sa 12:00-18:00
+website: https://www.thetiebar.com/

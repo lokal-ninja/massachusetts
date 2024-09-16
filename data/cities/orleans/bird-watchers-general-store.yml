@@ -1,11 +1,11 @@
 id: 214943896
-type: way
+type: node
 latitude: 41.79375
 longitude: -69.9849
 postcode: ""
 city: Orleans
-street: "Route 6A"
-housenumber: 36
+street: Route 6A
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 196455109
-type: way
+type: node
 latitude: 42.41765
 longitude: -71.1639
 postcode: ""
 city: Arlington
-street: "Massachusetts Avenue"
-housenumber: 901
+street: Massachusetts Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

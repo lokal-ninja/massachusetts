@@ -4,8 +4,8 @@ latitude: 42.50424
 longitude: -71.07074
 postcode: "01880"
 city: Wakefield
-street: "Main Street"
-housenumber: 364
-phone: "+1 781 2451682"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-17:30"
-website: "http://www.alanostore.com/"
+street: Main Street
+housenumber: "364"
+phone: +1 781 2451682
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-17:30
+website: http://www.alanostore.com/

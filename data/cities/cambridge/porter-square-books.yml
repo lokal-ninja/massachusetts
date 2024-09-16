@@ -4,8 +4,8 @@ latitude: 42.38963
 longitude: -71.11885
 postcode: "02140"
 city: Cambridge
-street: "White Street"
-housenumber: 25
-phone: "+1 617 491 2220"
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00"
-website: "https://www.portersquarebooks.com/"
+street: White Street
+housenumber: "25"
+phone: +1 617 491 2220
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00
+website: https://www.portersquarebooks.com/

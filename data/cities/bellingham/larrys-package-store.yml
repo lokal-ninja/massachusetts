@@ -1,11 +1,11 @@
 id: 212007599
-type: way
+type: node
 latitude: 42.11329
 longitude: -71.47335
 postcode: "02019"
 city: Bellingham
-street: "North Main Street"
-housenumber: 264
+street: North Main Street
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

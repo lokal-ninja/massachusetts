@@ -1,11 +1,11 @@
 id: 257087750
-type: way
+type: node
 latitude: 42.30028
 longitude: -71.38606
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 1245
+street: Worcester Street
+housenumber: "1245"
 phone: ""
 opening_hours: ""
-website: "https://www.crateandbarrel.com/"
+website: https://www.crateandbarrel.com/

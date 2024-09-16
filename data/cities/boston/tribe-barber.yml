@@ -4,8 +4,8 @@ latitude: 42.34188
 longitude: -71.07961
 postcode: "02118"
 city: Boston
-street: "Concord Square"
-housenumber: 50
-phone: "+1-617-530-1666"
+street: Concord Square
+housenumber: "50"
+phone: +1-617-530-1666
 opening_hours: ""
-website: "https://tribebarber.com/"
+website: https://tribebarber.com/

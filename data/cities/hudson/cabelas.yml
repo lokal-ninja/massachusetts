@@ -1,11 +1,11 @@
 id: 373822327
-type: way
+type: node
 latitude: 42.39187
 longitude: -71.59792
 postcode: "01749"
 city: Hudson
-street: "Highland Common"
-housenumber: 44
+street: Highland Common
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "http://www.cabelas.com/stores/store_info.jsp?pageName=063"
+website: http://www.cabelas.com/stores/store_info.jsp?pageName=063

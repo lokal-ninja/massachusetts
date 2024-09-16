@@ -1,11 +1,11 @@
 id: 217099611
-type: way
+type: node
 latitude: 41.41753
 longitude: -70.6677
 postcode: ""
 city: West Tisbury
-street: "State Road"
-housenumber: 469
-phone: "+1 508 693 2234"
+street: State Road
+housenumber: "469"
+phone: +1 508 693 2234
 opening_hours: ""
-website: "https://cronigsmarket.com/locations/"
+website: https://cronigsmarket.com/locations/

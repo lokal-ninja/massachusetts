@@ -4,8 +4,8 @@ latitude: 42.35878
 longitude: -71.15326
 postcode: "02135"
 city: Brighton
-street: "Soldiers Field Road"
-housenumber: 1660
+street: Soldiers Field Road
+housenumber: "1660"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ma/brighton/1660-soldiers-field-rd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.staples.com/ma/brighton/1660-soldiers-field-rd

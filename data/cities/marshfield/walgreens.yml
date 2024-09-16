@@ -1,11 +1,11 @@
 id: 213770685
-type: way
+type: node
 latitude: 42.09326
 longitude: -70.71797
 postcode: "02050"
 city: Marshfield
-street: "Ocean Street"
-housenumber: 2177
+street: Ocean Street
+housenumber: "2177"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2177+ocean+st-marshfield-ma-02050/id=9477"
+website: https://www.walgreens.com/locator/walgreens-2177+ocean+st-marshfield-ma-02050/id=9477

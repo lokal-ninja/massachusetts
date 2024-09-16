@@ -4,8 +4,8 @@ latitude: 42.28123
 longitude: -71.64627
 postcode: "01581"
 city: Westborough
-street: "Turnpike Road"
-housenumber: 290
-phone: "+1 508-366-4167"
-opening_hours: "09:00-23:00"
-website: "https://stores.burlington.com/ma/westborough/455"
+street: Turnpike Road
+housenumber: "290"
+phone: +1 508-366-4167
+opening_hours: 09:00-23:00
+website: https://stores.burlington.com/ma/westborough/455

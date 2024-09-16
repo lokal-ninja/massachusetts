@@ -1,11 +1,11 @@
 id: 214511959
-type: way
+type: node
 latitude: 41.66224
 longitude: -70.49991
 postcode: "02649"
 city: Mashpee
-street: "Main Street"
-housenumber: 628
-phone: "+1 774-238-7020"
-opening_hours: "Mo-Sa 08:00-16:00; Su 08:00-13:00; PH closed"
-website: "https://www.chocolaterosecakes.com/"
+street: Main Street
+housenumber: "628"
+phone: +1 774-238-7020
+opening_hours: Mo-Sa 08:00-16:00; Su 08:00-13:00; PH closed
+website: https://www.chocolaterosecakes.com/

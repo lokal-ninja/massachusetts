@@ -1,11 +1,11 @@
 id: 136462151
-type: way
+type: node
 latitude: 42.45611
 longitude: -71.35651
 postcode: "01742"
 city: Concord
-street: "Thoreau Street"
-housenumber: 120
+street: Thoreau Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

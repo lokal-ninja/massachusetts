@@ -1,11 +1,11 @@
 id: 29534430
-type: way
+type: node
 latitude: 42.23836
 longitude: -70.94967
 postcode: ""
 city: Weymouth
-street: "Pearl Street"
-housenumber: 109
+street: Pearl Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

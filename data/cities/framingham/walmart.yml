@@ -1,11 +1,11 @@
 id: 213249495
-type: way
+type: node
 latitude: 42.30118
 longitude: -71.39916
 postcode: "01701"
 city: Framingham
-street: "Worcester Road"
-housenumber: 121
-phone: "+1 508-872-6575"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2902/framingham-ma/whats-new"
+street: Worcester Road
+housenumber: "121"
+phone: +1 508-872-6575
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2902/framingham-ma/whats-new

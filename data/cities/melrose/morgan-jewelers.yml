@@ -4,8 +4,8 @@ latitude: 42.45912
 longitude: -71.06275
 postcode: "02176"
 city: Melrose
-street: "Main Street"
-housenumber: 695
-phone: "+1 781 6625855"
+street: Main Street
+housenumber: "695"
+phone: +1 781 6625855
 opening_hours: ""
-website: "https://www.morganjewelersinc.com/"
+website: https://www.morganjewelersinc.com/

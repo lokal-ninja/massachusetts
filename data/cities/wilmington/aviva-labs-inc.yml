@@ -4,8 +4,8 @@ latitude: 42.59626
 longitude: -71.15993
 postcode: "01887"
 city: Wilmington
-street: "Ballardvale Street"
-housenumber: 265
-phone: "+1 781-209-1551"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.avivalabs.com/"
+street: Ballardvale Street
+housenumber: "265"
+phone: +1 781-209-1551
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.avivalabs.com/

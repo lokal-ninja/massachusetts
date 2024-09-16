@@ -1,11 +1,11 @@
 id: 212287591
-type: way
+type: node
 latitude: 42.47679
 longitude: -71.2161
 postcode: "01803"
 city: Burlington
-street: "Middlesex Turnpike"
-housenumber: 84
-phone: "+1 781-238-8149"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/ma/burlington/84-middlesex-tpke-1532.html"
+street: Middlesex Turnpike
+housenumber: "84"
+phone: +1 781-238-8149
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/ma/burlington/84-middlesex-tpke-1532.html

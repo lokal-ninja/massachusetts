@@ -4,8 +4,8 @@ latitude: 42.37366
 longitude: -71.09944
 postcode: "02139"
 city: Cambridge
-street: "Cambridge Street"
-housenumber: 1307
+street: Cambridge Street
+housenumber: "1307"
 phone: "+18579978907"
-opening_hours: "Th-Sa 11:00-18:00; Su 11:00-17:00"
-website: "https://wethieves.com/"
+opening_hours: Th-Sa 11:00-18:00; Su 11:00-17:00
+website: https://wethieves.com/

@@ -1,11 +1,11 @@
 id: 1190389685
-type: way
+type: node
 latitude: 41.65997
 longitude: -70.49787
 postcode: "02649"
 city: Mashpee
-street: "Main Street"
-housenumber: 600
-phone: "+1-508-539-4117"
+street: Main Street
+housenumber: "600"
+phone: +1-508-539-4117
 opening_hours: ""
-website: "https://anchor-selfstorage.com/"
+website: https://anchor-selfstorage.com/

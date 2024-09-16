@@ -4,8 +4,8 @@ latitude: 42.37987
 longitude: -71.09576
 postcode: "02143"
 city: Somerville
-street: "Union Square"
-housenumber: 57
+street: Union Square
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 06:30-22:00; Su 08:00-17:00"
+opening_hours: Mo-Sa 06:30-22:00; Su 08:00-17:00
 website: ""

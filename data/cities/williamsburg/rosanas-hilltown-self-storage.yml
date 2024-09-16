@@ -1,11 +1,11 @@
 id: 214107524
-type: way
+type: node
 latitude: 42.40332
 longitude: -72.7566
 postcode: "01096"
 city: Williamsburg
-street: "Hyde Hill Road"
-housenumber: 15
+street: Hyde Hill Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

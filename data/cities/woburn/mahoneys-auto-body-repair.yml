@@ -1,11 +1,11 @@
 id: 29829562
-type: way
+type: node
 latitude: 42.49261
 longitude: -71.12709
 postcode: "01801"
 city: Woburn
-street: "Salem Street"
-housenumber: 293
-phone: "+1 781 9335350"
+street: Salem Street
+housenumber: "293"
+phone: +1 781 9335350
 opening_hours: ""
 website: ""

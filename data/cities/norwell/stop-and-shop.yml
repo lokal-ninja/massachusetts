@@ -1,11 +1,11 @@
 id: 213406130
-type: way
+type: node
 latitude: 42.15747
 longitude: -70.85357
 postcode: "02061"
 city: Norwell
-street: "Washington Street"
-housenumber: 468
+street: Washington Street
+housenumber: "468"
 phone: ""
 opening_hours: ""
 website: ""

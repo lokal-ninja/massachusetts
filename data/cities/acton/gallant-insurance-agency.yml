@@ -1,11 +1,11 @@
 id: 196427913
-type: way
+type: node
 latitude: 42.48815
 longitude: -71.41608
 postcode: "01720"
 city: Acton
-street: "Great Road"
-housenumber: 199
+street: Great Road
+housenumber: "199"
 phone: ""
 opening_hours: ""
-website: "https://www.gallantins.com/"
+website: https://www.gallantins.com/

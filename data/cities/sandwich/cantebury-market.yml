@@ -1,11 +1,11 @@
 id: 780002615
-type: way
+type: node
 latitude: 41.70756
 longitude: -70.48765
 postcode: "02563"
 city: Sandwich
-street: "Cotuit Road"
-housenumber: 311
+street: Cotuit Road
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 193819042
-type: way
+type: node
 latitude: 42.69635
 longitude: -71.43997
 postcode: "01879"
 city: Tyngsboro
-street: "Middlesex Road"
-housenumber: 440
-phone: "+1-978-649-3880"
-opening_hours: "Tu-Th 10:00-19:00; Fr,Sa 10:00-17:00"
-website: "https://www.pearlevision.com/"
+street: Middlesex Road
+housenumber: "440"
+phone: +1-978-649-3880
+opening_hours: Tu-Th 10:00-19:00; Fr,Sa 10:00-17:00
+website: https://www.pearlevision.com/

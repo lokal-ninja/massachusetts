@@ -1,11 +1,11 @@
 id: 214266446
-type: way
+type: node
 latitude: 41.64941
 longitude: -70.23642
 postcode: ""
 city: West Yarmouth
-street: "Main Street"
-housenumber: 511
+street: Main Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
-website: "http://www.lukescapecod.com"
+website: http://www.lukescapecod.com

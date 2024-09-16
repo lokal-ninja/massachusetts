@@ -1,11 +1,11 @@
 id: 825092372
-type: way
+type: node
 latitude: 42.1029
 longitude: -71.25879
 postcode: "02035"
 city: Foxboro
-street: "North Street"
-housenumber: 211
-phone: "+1 774-215-6127"
+street: North Street
+housenumber: "211"
+phone: +1 774-215-6127
 opening_hours: ""
 website: ""

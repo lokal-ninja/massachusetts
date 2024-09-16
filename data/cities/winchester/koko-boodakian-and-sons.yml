@@ -4,8 +4,8 @@ latitude: 42.45954
 longitude: -71.14041
 postcode: "01890"
 city: Winchester
-street: "Main Street"
-housenumber: 808
+street: Main Street
+housenumber: "808"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
-website: "https://kokorugs.com/"
+opening_hours: Mo-Sa 09:00-17:00; Su off
+website: https://kokorugs.com/

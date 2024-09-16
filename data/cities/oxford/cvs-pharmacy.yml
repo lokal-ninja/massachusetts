@@ -4,8 +4,8 @@ latitude: 42.11649
 longitude: -71.86443
 postcode: "01540"
 city: Oxford
-street: "Main Street"
-housenumber: 302
+street: Main Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/oxford-ma-pharmacies/302-main-street-oxford-ma-01540/storeid=2161"
+website: https://www.cvs.com/store-locator/oxford-ma-pharmacies/302-main-street-oxford-ma-01540/storeid=2161

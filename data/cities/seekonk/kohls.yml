@@ -4,8 +4,8 @@ latitude: 41.79226
 longitude: -71.32318
 postcode: "02771"
 city: Seekonk
-street: "Commerce Way"
-housenumber: 1
-phone: "+1 508-336-2109"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ma/seekonk-551.shtml"
+street: Commerce Way
+housenumber: "1"
+phone: +1 508-336-2109
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ma/seekonk-551.shtml

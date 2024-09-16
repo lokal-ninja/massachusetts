@@ -1,11 +1,11 @@
 id: 257207719
-type: way
+type: node
 latitude: 42.59379
 longitude: -71.34888
 postcode: "01824"
 city: Chelmsford
-street: "Summer Street"
-housenumber: 7
+street: Summer Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://paintstore.benjaminmoore.com/"
+website: http://paintstore.benjaminmoore.com/

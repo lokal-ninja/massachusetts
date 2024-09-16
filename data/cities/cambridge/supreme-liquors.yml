@@ -4,8 +4,8 @@ latitude: 42.36492
 longitude: -71.10331
 postcode: "02139"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 600
+street: Massachusetts Avenue
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Sa 08:00-23:00; Su 10:00-23:00"
-website: "http://www.supremeliquors.com"
+opening_hours: Mo-Sa 08:00-23:00; Su 10:00-23:00
+website: http://www.supremeliquors.com

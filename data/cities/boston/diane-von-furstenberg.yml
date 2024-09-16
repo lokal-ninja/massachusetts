@@ -4,8 +4,8 @@ latitude: 42.35203
 longitude: -71.07445
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 73
-phone: "+1-617-247-7300"
+street: Newbury Street
+housenumber: "73"
+phone: +1-617-247-7300
 opening_hours: ""
-website: "https://www.dvf.com/"
+website: https://www.dvf.com/

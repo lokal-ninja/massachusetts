@@ -4,8 +4,8 @@ latitude: 42.16122
 longitude: -72.50449
 postcode: "01151"
 city: Springfield
-street: "Front Street"
-housenumber: 34
+street: Front Street
+housenumber: "34"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cashedoutvintage.com/"
+opening_hours: 24/7
+website: https://www.cashedoutvintage.com/

@@ -1,11 +1,11 @@
 id: 214593010
-type: way
+type: node
 latitude: 42.19367
 longitude: -71.75477
 postcode: "01527"
 city: Millbury
-street: "Canal Street"
-housenumber: 63
+street: Canal Street
+housenumber: "63"
 phone: ""
-opening_hours: "Su-Th 08:00-22:00; Fr,Sa 08:00-23:00"
-website: "https://www.cvs.com/store-locator/millbury-ma-pharmacies/63-canal-street-millbury-ma-01527/storeid=2171"
+opening_hours: Su-Th 08:00-22:00; Fr,Sa 08:00-23:00
+website: https://www.cvs.com/store-locator/millbury-ma-pharmacies/63-canal-street-millbury-ma-01527/storeid=2171

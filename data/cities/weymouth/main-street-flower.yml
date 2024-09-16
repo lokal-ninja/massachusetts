@@ -4,8 +4,8 @@ latitude: 42.14965
 longitude: -70.95465
 postcode: "02190"
 city: Weymouth
-street: "Main St"
-housenumber: 1602
-phone: "+1 -339-201-4167"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://mainstreetflowerinc.com"
+street: Main St
+housenumber: "1602"
+phone: +1 -339-201-4167
+opening_hours: Mo-Su 09:00-17:00
+website: https://mainstreetflowerinc.com

@@ -4,8 +4,8 @@ latitude: 42.3633
 longitude: -71.05356
 postcode: "02113"
 city: Boston
-street: "North Street"
-housenumber: 189
+street: North Street
+housenumber: "189"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa-Su 11:00-18:00"
-website: "https://www.uvidashop.com"
+opening_hours: Tu-Fr 12:00-18:00; Sa-Su 11:00-18:00
+website: https://www.uvidashop.com

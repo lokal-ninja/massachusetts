@@ -1,11 +1,11 @@
 id: 214628818
-type: way
+type: node
 latitude: 42.29988
 longitude: -71.38974
 postcode: "01760"
 city: Natick
-street: "Worcester Street"
-housenumber: 1265
+street: Worcester Street
+housenumber: "1265"
 phone: ""
 opening_hours: ""
-website: "http://www.containerstore.com/"
+website: http://www.containerstore.com/

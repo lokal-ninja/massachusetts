@@ -4,8 +4,8 @@ latitude: 42.37641
 longitude: -71.23673
 postcode: "02451"
 city: Waltham
-street: "Main Street"
-housenumber: 669
-phone: "+1-781-894-4488"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-17:00"
+street: Main Street
+housenumber: "669"
+phone: +1-781-894-4488
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-17:00
 website: ""

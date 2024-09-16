@@ -4,8 +4,8 @@ latitude: 42.81036
 longitude: -70.86603
 postcode: "01950"
 city: Newburyport
-street: "Water Street"
-housenumber: 50
+street: Water Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.thenewburyportfarmersmarket.org/"
+website: https://www.thenewburyportfarmersmarket.org/

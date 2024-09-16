@@ -1,11 +1,11 @@
 id: 29579076
-type: way
+type: node
 latitude: 42.38689
 longitude: -71.14077
 postcode: ""
 city: Cambridge
-street: "Concord Avenue"
-housenumber: 493
-phone: "+1 877 441 7878"
-opening_hours: "Th 10:00-20:00; Mo-We,Fr,Sa 10:00-17:00"
-website: "http://www.sozio.com/cambridg.htm"
+street: Concord Avenue
+housenumber: "493"
+phone: +1 877 441 7878
+opening_hours: Th 10:00-20:00; Mo-We,Fr,Sa 10:00-17:00
+website: http://www.sozio.com/cambridg.htm

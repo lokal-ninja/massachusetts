@@ -1,11 +1,11 @@
 id: 568406129
-type: way
+type: node
 latitude: 42.36348
 longitude: -71.18653
 postcode: "02472"
 city: Watertown
-street: "Galen Street"
-housenumber: 61
-phone: "+1 617 926 1717"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://farinas.com/"
+street: Galen Street
+housenumber: "61"
+phone: +1 617 926 1717
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://farinas.com/

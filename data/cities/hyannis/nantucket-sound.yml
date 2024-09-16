@@ -1,11 +1,12 @@
 id: 211860815
-type: way
+type: node
 latitude: 41.66442
 longitude: -70.28642
 postcode: "02601"
 city: Hyannis
-street: "Iyannough Road"
-housenumber: 491
-phone: "+1-508-771-4434"
-opening_hours: "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 12:00-17:00"
-website: "https://www.nantucketsound.com/"
+street: Iyannough Road
+housenumber: "491"
+phone: +1-508-771-4434
+opening_hours: Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-20:00; Fr
+    09:00-20:00; Sa 09:00-18:00; Su 12:00-17:00
+website: https://www.nantucketsound.com/

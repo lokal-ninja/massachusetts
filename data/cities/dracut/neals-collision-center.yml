@@ -1,11 +1,11 @@
 id: 212668541
-type: way
+type: node
 latitude: 42.69127
 longitude: -71.35239
 postcode: "01826"
 city: Dracut
-street: "Mammoth Road"
-housenumber: 1450
-phone: "+1-978-957-1057"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Mammoth Road
+housenumber: "1450"
+phone: +1-978-957-1057
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.05297
 longitude: -71.01045
 postcode: "02301"
 city: Brockton
-street: "Main Street"
-housenumber: 1650
-phone: "+1 508 510 3085"
-opening_hours: "Mo-Fr 07:00-21:00; Sa,Su 08:00-19:00"
+street: Main Street
+housenumber: "1650"
+phone: +1 508 510 3085
+opening_hours: Mo-Fr 07:00-21:00; Sa,Su 08:00-19:00
 website: ""

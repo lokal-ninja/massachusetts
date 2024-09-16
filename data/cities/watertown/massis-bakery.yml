@@ -4,8 +4,8 @@ latitude: 42.37019
 longitude: -71.15993
 postcode: "02472"
 city: Watertown
-street: "Mount Auburn Street"
-housenumber: 569
-phone: "+1 617 924 0537"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-17:00"
-website: "https://www.massisbakery.com"
+street: Mount Auburn Street
+housenumber: "569"
+phone: +1 617 924 0537
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-17:00
+website: https://www.massisbakery.com

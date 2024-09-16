@@ -1,11 +1,11 @@
 id: 214988694
-type: way
+type: node
 latitude: 42.54658
 longitude: -70.94586
 postcode: "01960"
 city: Peabody
-street: "Sylvan Street"
-housenumber: 10
-phone: "+1 978-531-7387"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://stores.petco.com/ma/peabody/pet-supplies-peabody-ma-740.html"
+street: Sylvan Street
+housenumber: "10"
+phone: +1 978-531-7387
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://stores.petco.com/ma/peabody/pet-supplies-peabody-ma-740.html

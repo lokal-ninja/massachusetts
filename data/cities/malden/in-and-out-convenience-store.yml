@@ -1,11 +1,11 @@
 id: 29956230
-type: way
+type: node
 latitude: 42.44193
 longitude: -71.04898
 postcode: "02148"
 city: Malden
-street: "Lebanon Street"
-housenumber: 463
+street: Lebanon Street
+housenumber: "463"
 phone: ""
 opening_hours: ""
 website: ""

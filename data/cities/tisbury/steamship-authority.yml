@@ -1,11 +1,11 @@
 id: 216360059
-type: way
+type: node
 latitude: 41.4554
 longitude: -70.60089
 postcode: ""
 city: Tisbury
-street: "Water Street"
-housenumber: 47
+street: Water Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

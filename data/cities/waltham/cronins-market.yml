@@ -4,8 +4,8 @@ latitude: 42.37166
 longitude: -71.23751
 postcode: "02453"
 city: Waltham
-street: "Crescent Street"
-housenumber: 12
-phone: "+1 781 899 4488"
-opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-22:00"
+street: Crescent Street
+housenumber: "12"
+phone: +1 781 899 4488
+opening_hours: Mo-Sa 06:00-23:00, Su 07:00-22:00
 website: ""

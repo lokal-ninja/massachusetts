@@ -1,11 +1,11 @@
 id: 215867438
-type: way
+type: node
 latitude: 42.12969
 longitude: -70.91596
 postcode: "02370"
 city: Rockland
-street: "Union Street"
-housenumber: 268
+street: Union Street
+housenumber: "268"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "www.tedeschifoodshops.com"
+opening_hours: Mo-Su 06:00-23:00
+website: www.tedeschifoodshops.com

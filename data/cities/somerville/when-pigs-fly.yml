@@ -4,8 +4,8 @@ latitude: 42.39577
 longitude: -71.122
 postcode: "02144"
 city: Somerville
-street: "Elm Street"
-housenumber: 259
+street: Elm Street
+housenumber: "259"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:30"
+opening_hours: Mo-Su 10:00-19:30
 website: ""

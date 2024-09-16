@@ -1,11 +1,11 @@
 id: 663625859
-type: way
+type: node
 latitude: 42.24196
 longitude: -71.12754
 postcode: "02136"
 city: Boston
-street: "Truman Parkway"
-housenumber: 1025
-phone: "+1 617-333-0273"
-opening_hours: "Mo-Sa 07:00-20:00, Su 07:00-19:00"
+street: Truman Parkway
+housenumber: "1025"
+phone: +1 617-333-0273
+opening_hours: Mo-Sa 07:00-20:00, Su 07:00-19:00
 website: ""

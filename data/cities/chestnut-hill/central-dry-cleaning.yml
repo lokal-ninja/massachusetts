@@ -1,11 +1,11 @@
 id: 29855608
-type: way
+type: node
 latitude: 42.32273
 longitude: -71.16381
 postcode: "02467"
 city: Chestnut Hill
-street: "Hammond Street"
-housenumber: 621
+street: Hammond Street
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "http://www.central-cleaners.com/"
+website: http://www.central-cleaners.com/

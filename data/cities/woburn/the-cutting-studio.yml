@@ -4,8 +4,8 @@ latitude: 42.47298
 longitude: -71.1499
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 168
-phone: "+1 781 9353575"
+street: Main Street
+housenumber: "168"
+phone: +1 781 9353575
 opening_hours: ""
-website: "https://www.facebook.com/TheCuttingStudio/"
+website: https://www.facebook.com/TheCuttingStudio/

@@ -1,11 +1,11 @@
 id: 216404916
-type: way
+type: node
 latitude: 42.49754
 longitude: -71.07252
 postcode: "01880"
 city: Wakefield
-street: "Broadway"
-housenumber: 71
-phone: "+1 781 2450897"
+street: Broadway
+housenumber: "71"
+phone: +1 781 2450897
 opening_hours: ""
 website: ""

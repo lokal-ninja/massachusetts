@@ -4,8 +4,8 @@ latitude: 42.35663
 longitude: -71.06945
 postcode: "02114"
 city: Boston
-street: "Charles Street"
-housenumber: 15
-phone: "+1-888-602-6026"
-opening_hours: "Sa 11:00-17:00"
-website: "https://www.uwilawarrior.com/"
+street: Charles Street
+housenumber: "15"
+phone: +1-888-602-6026
+opening_hours: Sa 11:00-17:00
+website: https://www.uwilawarrior.com/

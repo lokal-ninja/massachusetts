@@ -4,8 +4,8 @@ latitude: 42.29968
 longitude: -71.11354
 postcode: "02130"
 city: Boston
-street: "Hyde Park Avenue"
-housenumber: 8
-phone: "+1 617-524-0282"
-opening_hours: "Mo-Su 09:00-20:00"
+street: Hyde Park Avenue
+housenumber: "8"
+phone: +1 617-524-0282
+opening_hours: Mo-Su 09:00-20:00
 website: ""

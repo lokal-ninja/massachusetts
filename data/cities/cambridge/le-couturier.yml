@@ -4,8 +4,9 @@ latitude: 42.38455
 longitude: -71.11965
 postcode: "02138"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1738
-phone: "+1 617 497 1258;+1 617 547 2455"
-opening_hours: "Mo-Tu 09:00-18:00; We 09:00-20:00; Th 09:00-18:00; Fr 09:00-20:00; Sa 10:00-17:00"
-website: "https://lecouturierma.com/"
+street: Massachusetts Avenue
+housenumber: "1738"
+phone: +1 617 497 1258;+1 617 547 2455
+opening_hours: Mo-Tu 09:00-18:00; We 09:00-20:00; Th 09:00-18:00; Fr 09:00-20:00;
+    Sa 10:00-17:00
+website: https://lecouturierma.com/

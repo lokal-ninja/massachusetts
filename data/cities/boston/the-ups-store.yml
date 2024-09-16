@@ -4,8 +4,8 @@ latitude: 42.34456
 longitude: -71.07639
 postcode: "02116"
 city: Boston
-street: "Columbus Avenue"
-housenumber: 398
-phone: "+1-617-859-7780"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00"
-website: "https://locations.theupsstore.com/ma/boston/398-columbus-ave"
+street: Columbus Avenue
+housenumber: "398"
+phone: +1-617-859-7780
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00
+website: https://locations.theupsstore.com/ma/boston/398-columbus-ave

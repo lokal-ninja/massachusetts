@@ -1,11 +1,11 @@
 id: 1074655105
-type: way
+type: node
 latitude: 42.40319
 longitude: -71.04206
 postcode: "02149"
 city: Everett
-street: "Malden Street"
-housenumber: 2
-phone: "+1 617 2948097"
+street: Malden Street
+housenumber: "2"
+phone: +1 617 2948097
 opening_hours: ""
-website: "https://www.facebook.com/Prestigebestbarbers/"
+website: https://www.facebook.com/Prestigebestbarbers/

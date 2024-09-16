@@ -1,11 +1,11 @@
 id: 137600100
-type: way
+type: node
 latitude: 42.69121
 longitude: -71.42544
 postcode: "01879"
 city: Tyngsboro
-street: "Farwell Road"
-housenumber: 95
+street: Farwell Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://parleefarms.com/farmstand.html"
+website: https://parleefarms.com/farmstand.html

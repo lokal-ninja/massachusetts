@@ -1,11 +1,11 @@
 id: 29527243
-type: way
+type: node
 latitude: 42.20711
 longitude: -70.95739
 postcode: ""
 city: Weymouth
-street: "Main Street"
-housenumber: 11
+street: Main Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

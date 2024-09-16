@@ -1,11 +1,11 @@
 id: 29834383
-type: way
+type: node
 latitude: 42.38842
 longitude: -71.04116
 postcode: "02150"
 city: Chelsea
-street: "Broadway"
-housenumber: 115
-phone: "+1 617-884-3750"
+street: Broadway
+housenumber: "115"
+phone: +1 617-884-3750
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ma/chelsea/115-broadway-32429"
+website: https://www.7-eleven.com/locations/ma/chelsea/115-broadway-32429

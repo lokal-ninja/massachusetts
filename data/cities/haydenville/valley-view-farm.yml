@@ -1,11 +1,11 @@
 id: 571696220
-type: way
+type: node
 latitude: 42.37638
 longitude: -72.70957
 postcode: "01039"
 city: Haydenville
-street: "Walpole Road"
-housenumber: 16
+street: Walpole Road
+housenumber: "16"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 212872635
-type: way
+type: node
 latitude: 42.55932
 longitude: -70.96684
 postcode: "01923"
 city: Danvers
-street: "Andover Street"
-housenumber: 153
-phone: "+1 978-646-9099"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ma-danvers/1094"
+street: Andover Street
+housenumber: "153"
+phone: +1 978-646-9099
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ma-danvers/1094

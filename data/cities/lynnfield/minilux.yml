@@ -4,8 +4,8 @@ latitude: 42.51526
 longitude: -71.03298
 postcode: "01940"
 city: Lynnfield
-street: "Market Street"
-housenumber: 245
-phone: "+1 781 587 0919"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.miniluxe.com/"
+street: Market Street
+housenumber: "245"
+phone: +1 781 587 0919
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.miniluxe.com/

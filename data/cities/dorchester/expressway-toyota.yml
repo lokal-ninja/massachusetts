@@ -1,11 +1,11 @@
 id: 720315390
-type: way
+type: node
 latitude: 42.29993
 longitude: -71.04919
 postcode: "02122"
 city: Dorchester
-street: "William T Morrissey Boulevard"
-housenumber: 700
+street: William T Morrissey Boulevard
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

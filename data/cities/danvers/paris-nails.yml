@@ -4,8 +4,8 @@ latitude: 42.56674
 longitude: -70.9364
 postcode: "01923"
 city: Danvers
-street: "Maple Street"
-housenumber: 43
-phone: "+1 978-762-0126"
-opening_hours: "Mo-Su 10:00-19:00"
+street: Maple Street
+housenumber: "43"
+phone: +1 978-762-0126
+opening_hours: Mo-Su 10:00-19:00
 website: ""

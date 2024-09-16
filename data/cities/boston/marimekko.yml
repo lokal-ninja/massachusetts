@@ -4,8 +4,8 @@ latitude: 42.35089
 longitude: -71.07704
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 140
-phone: "+1-617-247-2500"
+street: Newbury Street
+housenumber: "140"
+phone: +1-617-247-2500
 opening_hours: ""
-website: "https://www.marimekko.com/us_en/"
+website: https://www.marimekko.com/us_en/

@@ -4,8 +4,8 @@ latitude: 42.34972
 longitude: -71.08297
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 253
-phone: "+1-617-536-5638"
+street: Newbury Street
+housenumber: "253"
+phone: +1-617-536-5638
 opening_hours: ""
-website: "https://www.michaelalbor.com/salons"
+website: https://www.michaelalbor.com/salons

@@ -1,11 +1,11 @@
 id: 29637137
-type: way
+type: node
 latitude: 42.36919
 longitude: -71.11023
 postcode: ""
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 975
+street: Massachusetts Avenue
+housenumber: "975"
 phone: ""
 opening_hours: ""
 website: ""

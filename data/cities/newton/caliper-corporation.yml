@@ -4,8 +4,8 @@ latitude: 42.3308
 longitude: -71.2108
 postcode: "02461"
 city: Newton
-street: "Beacon Street"
-housenumber: 1172
-phone: "+1-617-527-4700"
-opening_hours: "24/7"
-website: "https://www.caliper.com/"
+street: Beacon Street
+housenumber: "1172"
+phone: +1-617-527-4700
+opening_hours: 24/7
+website: https://www.caliper.com/

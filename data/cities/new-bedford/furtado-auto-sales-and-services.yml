@@ -1,11 +1,11 @@
 id: 214659221
-type: way
+type: node
 latitude: 41.61171
 longitude: -70.91527
 postcode: "02744"
 city: New Bedford
-street: "Brock Avenue"
-housenumber: 805
+street: Brock Avenue
+housenumber: "805"
 phone: "+17742066547"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off
 website: ""

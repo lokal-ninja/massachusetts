@@ -4,8 +4,8 @@ latitude: 42.35038
 longitude: -71.08032
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 201
-phone: "+1-617-247-1478"
+street: Newbury Street
+housenumber: "201"
+phone: +1-617-247-1478
 opening_hours: ""
-website: "https://locations.timberland.com/ma/boston/251/"
+website: https://locations.timberland.com/ma/boston/251/

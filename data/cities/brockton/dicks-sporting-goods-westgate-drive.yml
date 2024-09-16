@@ -1,11 +1,11 @@
 id: 212260846
-type: way
+type: node
 latitude: 42.09461
 longitude: -71.05567
 postcode: "02301"
 city: Brockton
-street: "Westgate Drive"
-housenumber: 435
+street: Westgate Drive
+housenumber: "435"
 phone: ""
 opening_hours: ""
-website: "https://stores.dickssportinggoods.com/ma/brockton/5408/"
+website: https://stores.dickssportinggoods.com/ma/brockton/5408/

@@ -1,11 +1,11 @@
 id: 217074922
-type: way
+type: node
 latitude: 42.28611
 longitude: -71.59496
 postcode: "01581"
 city: Westborough
-street: "Turnpike Road"
-housenumber: 88
-phone: "+1-855-277-2777"
+street: Turnpike Road
+housenumber: "88"
+phone: +1-855-277-2777
 opening_hours: ""
-website: "https://www.autobahnusa.com/"
+website: https://www.autobahnusa.com/

@@ -1,11 +1,11 @@
 id: 213420538
-type: way
+type: node
 latitude: 42.50058
 longitude: -71.58398
 postcode: "01451"
 city: Harvard
-street: "Still River Road"
-housenumber: 1
-phone: "+1 978 430 0062"
+street: Still River Road
+housenumber: "1"
+phone: +1 978 430 0062
 opening_hours: ""
-website: "https://www.harvardgeneralstore.com/"
+website: https://www.harvardgeneralstore.com/

@@ -1,11 +1,11 @@
 id: 214979114
-type: way
+type: node
 latitude: 42.52346
 longitude: -70.91659
 postcode: "01960"
 city: Peabody
-street: "Howley Street"
-housenumber: 19
-phone: "+1 978-977-3900"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.stopandshop.com/ma/peabody/19-howley-street?y_source=1_NDE5NTQ0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+street: Howley Street
+housenumber: "19"
+phone: +1 978-977-3900
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.stopandshop.com/ma/peabody/19-howley-street?y_source=1_NDE5NTQ0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D

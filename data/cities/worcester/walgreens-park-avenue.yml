@@ -1,11 +1,11 @@
 id: 89633216
-type: way
+type: node
 latitude: 42.26087
 longitude: -71.82144
 postcode: "01610"
 city: Worcester
-street: "Park Avenue"
-housenumber: 320
+street: Park Avenue
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-320+park+ave-worcester-ma-01610/id=3151"
+website: https://www.walgreens.com/locator/walgreens-320+park+ave-worcester-ma-01610/id=3151

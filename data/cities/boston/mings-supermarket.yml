@@ -4,8 +4,8 @@ latitude: 42.34418
 longitude: -71.06558
 postcode: "02118"
 city: Boston
-street: "Washington Street"
-housenumber: 1102
-phone: "+1-617-338-1588"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.newyorkmart.com/en/stores/boston1-store/"
+street: Washington Street
+housenumber: "1102"
+phone: +1-617-338-1588
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.newyorkmart.com/en/stores/boston1-store/

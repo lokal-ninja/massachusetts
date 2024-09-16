@@ -1,11 +1,11 @@
 id: 697908142
-type: way
+type: node
 latitude: 41.39157
 longitude: -70.52203
 postcode: "02539"
 city: Edgartown
-street: "Cooke Street"
-housenumber: 138
+street: Cooke Street
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://www.edgartownseafood.com/"
+website: https://www.edgartownseafood.com/

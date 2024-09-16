@@ -4,8 +4,8 @@ latitude: 42.08621
 longitude: -71.27093
 postcode: "02035"
 city: Foxborough
-street: "Patriot Place"
-housenumber: 386
-phone: "+1 508-698-5293"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/foxborough-ma-660"
+street: Patriot Place
+housenumber: "386"
+phone: +1 508-698-5293
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/foxborough-ma-660

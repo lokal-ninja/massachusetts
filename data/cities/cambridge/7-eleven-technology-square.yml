@@ -2,10 +2,10 @@ id: 5633722505
 type: node
 latitude: 42.36313
 longitude: -71.09344
-postcode: "02139-3589"
+postcode: 02139-3589
 city: Cambridge
-street: "Technology Square"
-housenumber: 600
-phone: "+1 617-945-2304"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ma/cambridge/600-technology-square-33486"
+street: Technology Square
+housenumber: "600"
+phone: +1 617-945-2304
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ma/cambridge/600-technology-square-33486

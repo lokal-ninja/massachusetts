@@ -4,8 +4,8 @@ latitude: 42.38238
 longitude: -71.06087
 postcode: "02129"
 city: Charlestown
-street: "Terminal Street"
-housenumber: 50
-phone: "+1 617 241 5550"
+street: Terminal Street
+housenumber: "50"
+phone: +1 617 241 5550
 opening_hours: ""
-website: "https://charlestownselfstorage.com/"
+website: https://charlestownselfstorage.com/

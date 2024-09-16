@@ -1,11 +1,11 @@
 id: 214519138
-type: way
+type: node
 latitude: 42.43064
 longitude: -71.46054
 postcode: ""
 city: Maynard
-street: "Main Street"
-housenumber: 187
+street: Main Street
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

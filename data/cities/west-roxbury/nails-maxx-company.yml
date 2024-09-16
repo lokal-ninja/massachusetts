@@ -1,11 +1,11 @@
 id: 312345611
-type: way
+type: node
 latitude: 42.28723
 longitude: -71.15194
 postcode: "02132"
 city: West Roxbury
-street: "Centre Street"
-housenumber: 1780
-phone: "+1 617-323-2181"
+street: Centre Street
+housenumber: "1780"
+phone: +1 617-323-2181
 opening_hours: ""
 website: ""

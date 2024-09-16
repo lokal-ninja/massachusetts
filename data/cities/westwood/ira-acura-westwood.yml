@@ -1,11 +1,11 @@
 id: 711816882
-type: way
+type: node
 latitude: 42.21469
 longitude: -71.18299
 postcode: "02090"
 city: Westwood
-street: "Providence Highway"
-housenumber: 395
-phone: "+1-508-921-1900"
+street: Providence Highway
+housenumber: "395"
+phone: +1-508-921-1900
 opening_hours: ""
-website: "https://www.iraacurawestwood.com/"
+website: https://www.iraacurawestwood.com/

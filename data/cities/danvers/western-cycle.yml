@@ -1,11 +1,11 @@
 id: 212861822
-type: way
+type: node
 latitude: 42.5679
 longitude: -70.93732
 postcode: "01923"
 city: Danvers
-street: "Maple Street"
-housenumber: 89
+street: Maple Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

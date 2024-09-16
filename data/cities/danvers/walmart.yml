@@ -1,11 +1,11 @@
 id: 212872652
-type: way
+type: node
 latitude: 42.55374
 longitude: -70.96797
 postcode: "01923"
 city: Danvers
-street: "Brooksby Village Way"
-housenumber: 55
-phone: "+1 978-777-6977"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2180/danvers-ma/whats-new"
+street: Brooksby Village Way
+housenumber: "55"
+phone: +1 978-777-6977
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2180/danvers-ma/whats-new

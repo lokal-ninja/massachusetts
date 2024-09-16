@@ -4,8 +4,8 @@ latitude: 42.38552
 longitude: -71.11908
 postcode: "02140"
 city: Cambridge
-street: "Massachusetts Avenue"
-housenumber: 1773
+street: Massachusetts Avenue
+housenumber: "1773"
 phone: ""
-opening_hours: "Tu-Sa 11:00-17:00; Su 12:00-16:00"
-website: "http://www.clothware.com/"
+opening_hours: Tu-Sa 11:00-17:00; Su 12:00-16:00
+website: http://www.clothware.com/

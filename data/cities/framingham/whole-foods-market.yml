@@ -1,11 +1,11 @@
 id: 213259971
-type: way
+type: node
 latitude: 42.29861
 longitude: -71.42052
 postcode: "01702"
 city: Framingham
-street: "Worcester Road"
-housenumber: 575
-phone: "+1 508-628-9525"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/framingham"
+street: Worcester Road
+housenumber: "575"
+phone: +1 508-628-9525
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/framingham

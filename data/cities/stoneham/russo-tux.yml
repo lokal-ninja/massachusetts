@@ -1,11 +1,11 @@
 id: 29939970
-type: way
+type: node
 latitude: 42.49284
 longitude: -71.10112
 postcode: "02180"
 city: Stoneham
-street: "Main Street"
-housenumber: 149
-phone: "+1 781 4383200"
+street: Main Street
+housenumber: "149"
+phone: +1 781 4383200
 opening_hours: ""
-website: "http://www.russotuxandlimousine.com/"
+website: http://www.russotuxandlimousine.com/

@@ -4,8 +4,8 @@ latitude: 42.47659
 longitude: -70.95079
 postcode: "01904"
 city: Lynn
-street: "Western Avenue"
-housenumber: 271
-phone: "+1-603-292-5673"
-opening_hours: "Mo-Fr 09:00-18:00 || Shop visits by appointment only"
-website: "https://ifbikes.com/"
+street: Western Avenue
+housenumber: "271"
+phone: +1-603-292-5673
+opening_hours: Mo-Fr 09:00-18:00 || "Shop visits by appointment only"
+website: https://ifbikes.com/

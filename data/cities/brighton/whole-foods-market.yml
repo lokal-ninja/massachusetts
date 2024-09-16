@@ -4,8 +4,8 @@ latitude: 42.3428
 longitude: -71.14038
 postcode: "02135"
 city: Brighton
-street: "Washington Street"
-housenumber: 15
-phone: "+1 617-738-8187"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/brighton"
+street: Washington Street
+housenumber: "15"
+phone: +1 617-738-8187
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/brighton

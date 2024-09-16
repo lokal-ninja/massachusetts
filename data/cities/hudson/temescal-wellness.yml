@@ -1,11 +1,11 @@
 id: 213652707
-type: way
+type: node
 latitude: 42.39675
 longitude: -71.602
 postcode: "01749"
 city: Hudson
-street: "Coolidge Street"
-housenumber: 252
+street: Coolidge Street
+housenumber: "252"
 phone: ""
 opening_hours: ""
-website: "https://ma.temescalwellness.com/"
+website: https://ma.temescalwellness.com/

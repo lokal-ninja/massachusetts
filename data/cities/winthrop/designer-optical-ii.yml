@@ -1,11 +1,11 @@
 id: 658639799
-type: way
+type: node
 latitude: 42.38562
 longitude: -70.9746
 postcode: "02152"
 city: Winthrop
-street: "Crest Avenue"
-housenumber: 50
+street: Crest Avenue
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

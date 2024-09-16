@@ -1,11 +1,11 @@
 id: 508027017
-type: way
+type: node
 latitude: 42.17128
 longitude: -72.57571
-postcode: "01020-5036"
+postcode: 01020-5036
 city: Chicopee
-street: "Memorial Drive"
-housenumber: 505
-phone: "+1 844-473-1022"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/chicopee/505-memorial-drive"
+street: Memorial Drive
+housenumber: "505"
+phone: +1 844-473-1022
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/chicopee/505-memorial-drive

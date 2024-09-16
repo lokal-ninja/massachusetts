@@ -4,8 +4,8 @@ latitude: 42.17265
 longitude: -70.88266
 postcode: "02061"
 city: Norwell
-street: "Washington Street"
-housenumber: 10
-phone: "+1 781-878-0868"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Washington Street
+housenumber: "10"
+phone: +1 781-878-0868
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

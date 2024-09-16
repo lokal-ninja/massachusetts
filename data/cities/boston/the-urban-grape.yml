@@ -4,8 +4,8 @@ latitude: 42.34657
 longitude: -71.07469
 postcode: "02116"
 city: Boston
-street: "Columbus Avenue"
-housenumber: 303
-phone: "+1-857-250-2509"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 12:00-20:00"
-website: "http://theurbangrape.com/"
+street: Columbus Avenue
+housenumber: "303"
+phone: +1-857-250-2509
+opening_hours: Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 12:00-20:00
+website: http://theurbangrape.com/

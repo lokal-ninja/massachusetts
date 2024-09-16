@@ -1,11 +1,11 @@
 id: 212256179
-type: way
+type: node
 latitude: 42.08972
 longitude: -71.04234
 postcode: "02301"
 city: Brockton
-street: "Pleasant Street"
-housenumber: 555
-phone: "+1 508-588-0422"
-opening_hours: "Mo-Fr 08:00-19:00; Sa,Su 08:00-17:00"
-website: "https://www.noonanlawma.com/"
+street: Pleasant Street
+housenumber: "555"
+phone: +1 508-588-0422
+opening_hours: Mo-Fr 08:00-19:00; Sa,Su 08:00-17:00
+website: https://www.noonanlawma.com/

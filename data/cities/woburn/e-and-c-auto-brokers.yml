@@ -4,8 +4,8 @@ latitude: 42.48335
 longitude: -71.15099
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 505
-phone: "+1-781-281-2425"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://www.ecautobrokers.com"
+street: Main Street
+housenumber: "505"
+phone: +1-781-281-2425
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://www.ecautobrokers.com

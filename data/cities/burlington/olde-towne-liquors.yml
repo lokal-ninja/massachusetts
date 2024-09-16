@@ -1,11 +1,11 @@
 id: 212283212
-type: way
+type: node
 latitude: 42.51509
 longitude: -71.20452
 postcode: "01803"
 city: Burlington
-street: "Cambridge Street"
-housenumber: 286
-phone: "+1 781 2721120"
+street: Cambridge Street
+housenumber: "286"
+phone: +1 781 2721120
 opening_hours: ""
-website: "http://oldetowneliquors.com/"
+website: http://oldetowneliquors.com/

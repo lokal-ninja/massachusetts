@@ -1,11 +1,11 @@
 id: 214327301
-type: way
+type: node
 latitude: 42.64565
 longitude: -71.31358
 postcode: "01852"
 city: Lowell
-street: "Merrimack Street"
-housenumber: 322
+street: Merrimack Street
+housenumber: "322"
 phone: ""
 opening_hours: ""
 website: ""

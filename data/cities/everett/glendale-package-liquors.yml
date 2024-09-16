@@ -4,8 +4,8 @@ latitude: 42.41481
 longitude: -71.04668
 postcode: "02149"
 city: Everett
-street: "Ferry Street"
-housenumber: 315
+street: Ferry Street
+housenumber: "315"
 phone: "+16173899626"
-opening_hours: "Mo-Sa 09:00-23:00; Su 10:00-21:00"
+opening_hours: Mo-Sa 09:00-23:00; Su 10:00-21:00
 website: ""

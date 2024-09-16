@@ -4,8 +4,8 @@ latitude: 42.25693
 longitude: -71.79729
 postcode: "01604"
 city: Worcester
-street: "Harrison Street"
-housenumber: 9
-phone: "+1-774-314-2632"
+street: Harrison Street
+housenumber: "9"
+phone: +1-774-314-2632
 opening_hours: ""
-website: "https://ma.goodchem.org/"
+website: https://ma.goodchem.org/

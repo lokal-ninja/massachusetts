@@ -1,11 +1,11 @@
 id: 212956236
-type: way
+type: node
 latitude: 42.07994
 longitude: -72.53633
 postcode: "01028"
 city: East Longmeadow
-street: "North Main Street"
-housenumber: 612
+street: North Main Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

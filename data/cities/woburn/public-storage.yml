@@ -1,11 +1,11 @@
 id: 152165967
-type: way
+type: node
 latitude: 42.50332
 longitude: -71.12701
 postcode: "01801"
 city: Woburn
-street: "Washington Street"
-housenumber: 420
+street: Washington Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

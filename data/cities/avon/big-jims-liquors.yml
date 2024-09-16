@@ -1,11 +1,11 @@
 id: 196504988
-type: way
+type: node
 latitude: 42.12643
 longitude: -71.03738
 postcode: "02322"
 city: Avon
-street: "East Main Street"
-housenumber: 155
+street: East Main Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

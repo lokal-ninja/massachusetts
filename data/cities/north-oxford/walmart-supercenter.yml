@@ -1,11 +1,11 @@
 id: 214959158
-type: way
+type: node
 latitude: 42.17007
 longitude: -71.87904
 postcode: "01537"
 city: North Oxford
-street: "Main Street"
-housenumber: 742
-phone: "+1 508-987-1444"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2012/north-oxford-ma/whats-new"
+street: Main Street
+housenumber: "742"
+phone: +1 508-987-1444
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2012/north-oxford-ma/whats-new

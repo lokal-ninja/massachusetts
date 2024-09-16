@@ -4,8 +4,8 @@ latitude: 42.39143
 longitude: -71.11041
 postcode: "02143"
 city: Somerville
-street: "Highland Avenue"
-housenumber: 257
-phone: "+1-617-628-3929"
-opening_hours: "We-Th 11:00-19:00; Fr-Sa 11:00-17:00; Su 11:00-15:00"
-website: "http://jademoran.com/"
+street: Highland Avenue
+housenumber: "257"
+phone: +1-617-628-3929
+opening_hours: We-Th 11:00-19:00; Fr-Sa 11:00-17:00; Su 11:00-15:00
+website: http://jademoran.com/

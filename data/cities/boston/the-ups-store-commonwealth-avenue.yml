@@ -4,8 +4,8 @@ latitude: 42.3524
 longitude: -71.12467
 postcode: "02215"
 city: Boston
-street: "Commonwealth Avenue"
-housenumber: 1089
-phone: "+1 617 254 7173"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00"
-website: "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave"
+street: Commonwealth Avenue
+housenumber: "1089"
+phone: +1 617 254 7173
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00
+website: https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave

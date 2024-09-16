@@ -1,11 +1,11 @@
 id: 214147404
-type: way
+type: node
 latitude: 42.48193
 longitude: -71.15421
 postcode: "01801"
 city: Woburn
-street: "Winn Street"
-housenumber: 65
-phone: "+1 781-933-2021"
-opening_hours: "Mo-Sa 08:00-17:00; Su 09:00-16:00"
+street: Winn Street
+housenumber: "65"
+phone: +1 781-933-2021
+opening_hours: Mo-Sa 08:00-17:00; Su 09:00-16:00
 website: ""

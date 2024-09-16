@@ -1,11 +1,11 @@
 id: 752003513
-type: way
+type: node
 latitude: 42.45994
 longitude: -71.02764
 postcode: ""
 city: Saugus
-street: "Broadway"
-housenumber: 1201
+street: Broadway
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

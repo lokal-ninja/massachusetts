@@ -4,8 +4,8 @@ latitude: 42.481
 longitude: -71.15127
 postcode: "01801"
 city: Woburn
-street: "Main Street"
-housenumber: 438
-phone: "+1-978-361-6943"
-opening_hours: "Su-Th 10:00-21:30; Fr-Sa 10:00-22:00"
-website: "https://woburnhotbreads.com"
+street: Main Street
+housenumber: "438"
+phone: +1-978-361-6943
+opening_hours: Su-Th 10:00-21:30; Fr-Sa 10:00-22:00
+website: https://woburnhotbreads.com

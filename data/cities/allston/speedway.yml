@@ -1,11 +1,11 @@
 id: 1008244980
-type: way
+type: node
 latitude: 42.35238
 longitude: -71.1298
 postcode: "02134"
 city: Allston
-street: "Brighton Avenue"
-housenumber: 100
+street: Brighton Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Allston/100-BRIGHTON-AVE"
+website: https://www.speedway.com/locations/MA/Allston/100-BRIGHTON-AVE

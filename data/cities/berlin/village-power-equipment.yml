@@ -1,11 +1,11 @@
 id: 173873746
-type: way
+type: node
 latitude: 42.36176
 longitude: -71.62847
 postcode: "01503"
 city: Berlin
-street: "Pleasant Street"
-housenumber: 244
+street: Pleasant Street
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

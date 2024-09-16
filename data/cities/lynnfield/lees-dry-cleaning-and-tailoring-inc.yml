@@ -4,8 +4,8 @@ latitude: 42.51218
 longitude: -71.03634
 postcode: "01940"
 city: Lynnfield
-street: "Salem Street"
-housenumber: 12
-phone: "+1-781-213-7907"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-20:00"
+street: Salem Street
+housenumber: "12"
+phone: +1-781-213-7907
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-20:00
 website: ""

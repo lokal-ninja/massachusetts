@@ -1,11 +1,11 @@
 id: 212583633
-type: way
+type: node
 latitude: 42.46165
 longitude: -71.3482
 postcode: "01742"
 city: Concord
-street: "Bedford Street"
-housenumber: 27
+street: Bedford Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

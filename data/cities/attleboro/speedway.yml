@@ -1,11 +1,11 @@
 id: 217263562
-type: way
+type: node
 latitude: 41.90011
 longitude: -71.36778
 postcode: "02703"
 city: Attleboro
-street: "Washington Street"
-housenumber: 946
+street: Washington Street
+housenumber: "946"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MA/Attleboro/946-WASHINGTON-ST"
+website: https://www.speedway.com/locations/MA/Attleboro/946-WASHINGTON-ST

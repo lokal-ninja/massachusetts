@@ -1,11 +1,11 @@
 id: 213962443
-type: way
+type: node
 latitude: 42.19361
 longitude: -70.72546
 postcode: "02066"
 city: Scituate
-street: "Cole Parkway"
-housenumber: 1
-phone: "+1 781-545-8370"
+street: Cole Parkway
+housenumber: "1"
+phone: +1 781-545-8370
 opening_hours: ""
-website: "https://stores.truevalue.com/ma/quincy/21443/"
+website: https://stores.truevalue.com/ma/quincy/21443/

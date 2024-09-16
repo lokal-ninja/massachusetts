@@ -1,11 +1,11 @@
 id: 113728035
-type: way
+type: node
 latitude: 42.32944
 longitude: -72.63333
 postcode: "01060"
 city: Northampton
-street: "King Street"
-housenumber: 237
+street: King Street
+housenumber: "237"
 phone: ""
-opening_hours: "Su-Sa 05:00-22:00"
+opening_hours: Su-Sa 05:00-22:00
 website: ""

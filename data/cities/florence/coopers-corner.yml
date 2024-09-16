@@ -4,8 +4,8 @@ latitude: 42.335
 longitude: -72.66804
 postcode: "01062"
 city: Florence
-street: "Main Street"
-housenumber: 31
-phone: "+1 (413) 586-1684"
-opening_hours: "Mo-Sa 6:00-20:00, Su 6:00-18:00"
-website: "https://statestreetfruit.com/coopers-corner/"
+street: Main Street
+housenumber: "31"
+phone: +1 (413) 586-1684
+opening_hours: Mo-Sa 6:00-20:00, Su 6:00-18:00
+website: https://statestreetfruit.com/coopers-corner/

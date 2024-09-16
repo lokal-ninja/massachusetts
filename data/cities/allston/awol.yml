@@ -4,8 +4,8 @@ latitude: 42.35089
 longitude: -71.13111
 postcode: "02134"
 city: Allston
-street: "Harvard Avenue"
-housenumber: 190
+street: Harvard Avenue
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Th 00:00-18:00; Fr,Sa 00:00-19:00"
-website: "https://shopawol.com/"
+opening_hours: Mo-Th 00:00-18:00; Fr,Sa 00:00-19:00
+website: https://shopawol.com/

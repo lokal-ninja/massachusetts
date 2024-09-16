@@ -4,8 +4,8 @@ latitude: 42.58057
 longitude: -71.2883
 postcode: "01862"
 city: North Billerica
-street: "Boston Road"
-housenumber: 199
+street: Boston Road
+housenumber: "199"
 phone: ""
-opening_hours: "Su 10:00-17:00, Sa 09:00-17:00, Mo-Fr 09:00-07:00"
-website: "https://www.supercuts.com/locations/ma/north-billerica/treble-cove-plaza-haircuts-80928.html"
+opening_hours: Su 10:00-17:00, Sa 09:00-17:00, Mo-Fr 09:00-07:00
+website: https://www.supercuts.com/locations/ma/north-billerica/treble-cove-plaza-haircuts-80928.html

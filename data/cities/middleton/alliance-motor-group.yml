@@ -1,11 +1,11 @@
 id: 214574716
-type: way
+type: node
 latitude: 42.60635
 longitude: -71.03263
 postcode: "01949"
 city: Middleton
-street: "North Main Street"
-housenumber: 184
+street: North Main Street
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 11:00-16:00
 website: ""

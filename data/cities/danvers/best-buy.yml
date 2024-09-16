@@ -1,11 +1,11 @@
 id: 991054355
-type: way
+type: node
 latitude: 42.55245
 longitude: -70.93863
 postcode: "01923"
 city: Danvers
-street: "Independence Way"
-housenumber: 230
-phone: "+1 978-774-9494"
+street: Independence Way
+housenumber: "230"
+phone: +1 978-774-9494
 opening_hours: ""
-website: "https://stores.bestbuy.com/ma/danvers/230-independence-way-533.html"
+website: https://stores.bestbuy.com/ma/danvers/230-independence-way-533.html

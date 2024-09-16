@@ -4,8 +4,8 @@ latitude: 42.52425
 longitude: -71.103
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 642
-phone: "+1 781 9429700"
+street: Main Street
+housenumber: "642"
+phone: +1 781 9429700
 opening_hours: ""
-website: "https://goodheartsshop.com/"
+website: https://goodheartsshop.com/

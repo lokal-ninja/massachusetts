@@ -1,11 +1,11 @@
 id: 29579467
-type: way
+type: node
 latitude: 42.35459
 longitude: -71.18678
 postcode: "02458"
 city: Newton
-street: "Centre Street"
-housenumber: 465
-phone: "+1-617-244-2034"
+street: Centre Street
+housenumber: "465"
+phone: +1-617-244-2034
 opening_hours: ""
 website: ""

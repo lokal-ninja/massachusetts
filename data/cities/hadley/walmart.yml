@@ -1,11 +1,11 @@
 id: 633665055
-type: way
+type: node
 latitude: 42.35434
 longitude: -72.55298
 postcode: "01035"
 city: Hadley
-street: "Russell Street"
-housenumber: 337
-phone: "+1 413-586-4231"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2683/hadley-ma/whats-new"
+street: Russell Street
+housenumber: "337"
+phone: +1 413-586-4231
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2683/hadley-ma/whats-new

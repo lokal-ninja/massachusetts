@@ -1,11 +1,11 @@
 id: 215684914
-type: way
+type: node
 latitude: 42.46774
 longitude: -73.20679
-postcode: "01201-1788"
+postcode: 01201-1788
 city: Pittsfield
-street: "Crane Avenue"
-housenumber: 898
-phone: "+1 844-473-1024"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/pittsfield/898-crane-avenue"
+street: Crane Avenue
+housenumber: "898"
+phone: +1 844-473-1024
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/pittsfield/898-crane-avenue

@@ -1,11 +1,11 @@
 id: 325041967
-type: way
+type: node
 latitude: 42.80998
 longitude: -70.86621
 postcode: "01922"
 city: Newburyport
-street: "Water Street"
-housenumber: 50
-phone: "+1 978-465-9359"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.jabberwockybookshop.com/"
+street: Water Street
+housenumber: "50"
+phone: +1 978-465-9359
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.jabberwockybookshop.com/

@@ -4,8 +4,8 @@ latitude: 42.31575
 longitude: -72.71815
 postcode: "01062"
 city: Florence
-street: "Sylvester Road"
-housenumber: 198
+street: Sylvester Road
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://passalongs.com/"
+website: https://passalongs.com/

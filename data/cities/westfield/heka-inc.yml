@@ -4,8 +4,8 @@ latitude: 42.14651
 longitude: -72.72181
 postcode: "01085"
 city: Westfield
-street: "Sergeant Thomas Dion Way"
-housenumber: 98
+street: Sergeant Thomas Dion Way
+housenumber: "98"
 phone: "+14133544352"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://www.hekainc.com/"
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://www.hekainc.com/

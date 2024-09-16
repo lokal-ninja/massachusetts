@@ -4,8 +4,8 @@ latitude: 42.35163
 longitude: -71.07247
 postcode: "02116"
 city: Boston
-street: "Boylston Street"
-housenumber: 419
+street: Boylston Street
+housenumber: "419"
 phone: ""
 opening_hours: ""
-website: "https://www.pompy.com/showrooms/0/30"
+website: https://www.pompy.com/showrooms/0/30

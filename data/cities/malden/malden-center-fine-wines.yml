@@ -4,8 +4,8 @@ latitude: 42.42716
 longitude: -71.07293
 postcode: "02148"
 city: Malden
-street: "Pleasant Street"
-housenumber: 220
-phone: "+1-781-497-6900"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00"
-website: "https://maldencenterfinewines.com/pages/contact-us"
+street: Pleasant Street
+housenumber: "220"
+phone: +1-781-497-6900
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00
+website: https://maldencenterfinewines.com/pages/contact-us

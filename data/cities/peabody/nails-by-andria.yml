@@ -4,8 +4,8 @@ latitude: 42.52466
 longitude: -70.92402
 postcode: "01960"
 city: Peabody
-street: "Main Street"
-housenumber: 86
+street: Main Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00, Sa 09:30-18:00"
-website: "http://www.nailsbyandria.com/"
+opening_hours: Mo-Fr 09:30-20:00, Sa 09:30-18:00
+website: http://www.nailsbyandria.com/

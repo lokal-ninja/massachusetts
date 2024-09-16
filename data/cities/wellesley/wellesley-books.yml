@@ -4,8 +4,8 @@ latitude: 42.29577
 longitude: -71.29734
 postcode: "02482"
 city: Wellesley
-street: "Central Street"
-housenumber: 82
-phone: "+1-781-431-1160"
-opening_hours: "Mo-Sa 9:00-20:00, Su 11:00-18:00"
-website: "https://www.wellesleybooks.com/"
+street: Central Street
+housenumber: "82"
+phone: +1-781-431-1160
+opening_hours: Mo-Sa 9:00-20:00, Su 11:00-18:00
+website: https://www.wellesleybooks.com/

@@ -1,11 +1,11 @@
 id: 125830834
-type: way
+type: node
 latitude: 42.39663
 longitude: -71.56842
 postcode: "01749"
 city: Hudson
-street: "Lake Street"
-housenumber: 29
+street: Lake Street
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 06:30-16:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 06:30-16:00; Sa 07:00-12:30
 website: ""

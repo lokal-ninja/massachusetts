@@ -4,8 +4,8 @@ latitude: 42.70255
 longitude: -71.16598
 postcode: "01840"
 city: Lawrence
-street: "Broadway"
-housenumber: 0
-phone: "+1 978-738-5063"
-opening_hours: "Tu-Sa 10:00-17:00; Th 10:00-19:00"
+street: Broadway
+housenumber: "0"
+phone: +1 978-738-5063
+opening_hours: Tu-Sa 10:00-17:00; Th 10:00-19:00
 website: ""

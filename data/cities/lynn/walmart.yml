@@ -1,11 +1,11 @@
 id: 29533172
-type: way
+type: node
 latitude: 42.44811
 longitude: -70.96054
 postcode: "01905"
 city: Lynn
-street: "Lynnway"
-housenumber: 780
-phone: "+1-781-592-4300"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2139-lynn-ma"
+street: Lynnway
+housenumber: "780"
+phone: +1-781-592-4300
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2139-lynn-ma

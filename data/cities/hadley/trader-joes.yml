@@ -1,11 +1,11 @@
 id: 213384670
-type: way
+type: node
 latitude: 42.35767
 longitude: -72.54938
 postcode: "01035"
 city: Hadley
-street: "Russell Street"
-housenumber: 375
-phone: "+1 413-587-3260"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ma/hadley/512/"
+street: Russell Street
+housenumber: "375"
+phone: +1 413-587-3260
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ma/hadley/512/

@@ -1,11 +1,11 @@
 id: 212279689
-type: way
+type: node
 latitude: 42.49916
 longitude: -71.19339
 postcode: "01803"
 city: Burlington
-street: "Edwards Road"
+street: Edwards Road
 housenumber: 3A
-phone: "+1 781 2729750"
+phone: +1 781 2729750
 opening_hours: ""
-website: "http://tomscollisionrepair.com/"
+website: http://tomscollisionrepair.com/

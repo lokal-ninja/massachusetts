@@ -4,8 +4,8 @@ latitude: 42.40718
 longitude: -72.52961
 postcode: ""
 city: Amherst
-street: "North Pleasant Street"
-housenumber: 1089
-phone: "+1 413 230 3262"
-opening_hours: "Mo-Fr 10:00-19:00; Sa,Su 08:00-19:00"
+street: North Pleasant Street
+housenumber: "1089"
+phone: +1 413 230 3262
+opening_hours: Mo-Fr 10:00-19:00; Sa,Su 08:00-19:00
 website: ""

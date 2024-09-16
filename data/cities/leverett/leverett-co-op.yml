@@ -1,11 +1,11 @@
 id: 213755989
-type: way
+type: node
 latitude: 42.49425
 longitude: -72.46951
 postcode: "01054"
 city: Leverett
-street: "Rattlesnake Gutter Road"
-housenumber: 180
-phone: "+1-413-367-9794"
-opening_hours: "Mo-Su 08:00-18:00"
+street: Rattlesnake Gutter Road
+housenumber: "180"
+phone: +1-413-367-9794
+opening_hours: Mo-Su 08:00-18:00
 website: ""

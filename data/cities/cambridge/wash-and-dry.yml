@@ -4,8 +4,8 @@ latitude: 42.3644
 longitude: -71.10748
 postcode: "02139"
 city: Cambridge
-street: "River Street"
-housenumber: 73
-phone: "+1 617 491 4977"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
+street: River Street
+housenumber: "73"
+phone: +1 617 491 4977
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
 website: ""

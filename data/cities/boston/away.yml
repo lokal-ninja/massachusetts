@@ -4,8 +4,8 @@ latitude: 42.35328
 longitude: -71.04807
 postcode: "02210"
 city: Boston
-street: "Seaport Boulevard"
-housenumber: 50
-phone: "+1-617-535-3366"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.awaytravel.com/stores/boston"
+street: Seaport Boulevard
+housenumber: "50"
+phone: +1-617-535-3366
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: https://www.awaytravel.com/stores/boston

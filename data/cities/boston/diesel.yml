@@ -4,8 +4,8 @@ latitude: 42.34864
 longitude: -71.08673
 postcode: "02115"
 city: Boston
-street: "Newbury Street"
-housenumber: 339
-phone: "+1-617-424-6555"
+street: Newbury Street
+housenumber: "339"
+phone: +1-617-424-6555
 opening_hours: ""
-website: "https://shop.diesel.com/on/demandware.store/Sites-DieselUS-Site/en_US/StoreFinder-Detail?sid=323"
+website: https://shop.diesel.com/on/demandware.store/Sites-DieselUS-Site/en_US/StoreFinder-Detail?sid=323

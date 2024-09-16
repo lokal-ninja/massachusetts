@@ -1,11 +1,11 @@
 id: 149702197
-type: way
+type: node
 latitude: 42.33762
 longitude: -72.63676
 postcode: ""
 city: Northampton
-street: "King Street"
-housenumber: 375
+street: King Street
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

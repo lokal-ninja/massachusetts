@@ -1,11 +1,11 @@
 id: 377403991
-type: way
+type: node
 latitude: 42.4669
 longitude: -71.17606
 postcode: "01801"
 city: Woburn
-street: "Cambridge Road"
-housenumber: 200
-phone: "+1 781 9331385"
+street: Cambridge Road
+housenumber: "200"
+phone: +1 781 9331385
 opening_hours: ""
-website: "https://www.mccuegardencenter.com/"
+website: https://www.mccuegardencenter.com/

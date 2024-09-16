@@ -4,8 +4,8 @@ latitude: 42.37371
 longitude: -71.09996
 postcode: "02139"
 city: Cambridge
-street: "Cambridge Street"
-housenumber: 1343
-phone: "+1 617 714 4880"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Su 12:00-18:00"
-website: "https://gatherhereonline.com/"
+street: Cambridge Street
+housenumber: "1343"
+phone: +1 617 714 4880
+opening_hours: Mo-Th 12:00-20:00; Fr-Su 12:00-18:00
+website: https://gatherhereonline.com/

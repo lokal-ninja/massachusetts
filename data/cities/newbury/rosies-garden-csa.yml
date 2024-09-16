@@ -1,11 +1,11 @@
 id: 214716123
-type: way
+type: node
 latitude: 42.78022
 longitude: -70.84469
 postcode: "01951"
 city: Newbury
-street: "High Road"
-housenumber: 162
+street: High Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
-website: "https://rosiesgardenmarket.wordpress.com/about/"
+website: https://rosiesgardenmarket.wordpress.com/about/

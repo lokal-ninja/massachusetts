@@ -4,8 +4,8 @@ latitude: 42.43181
 longitude: -71.45555
 postcode: "01754"
 city: Maynard
-street: "Main Street"
-housenumber: 129
+street: Main Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
-website: "http://www.designingwomenhairstudio.com/index.html"
+website: http://www.designingwomenhairstudio.com/index.html

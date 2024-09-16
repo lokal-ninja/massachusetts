@@ -1,11 +1,11 @@
 id: 213832380
-type: way
+type: node
 latitude: 41.28998
 longitude: -70.10728
 postcode: ""
 city: Nantucket
-street: "Cliff Road"
-housenumber: 50
+street: Cliff Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

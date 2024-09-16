@@ -1,11 +1,11 @@
 id: 29645959
-type: way
+type: node
 latitude: 42.52203
 longitude: -71.10326
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 504
-phone: "+1 781 9443010"
+street: Main Street
+housenumber: "504"
+phone: +1 781 9443010
 opening_hours: ""
-website: "https://www.villagecarpetinc.com/"
+website: https://www.villagecarpetinc.com/

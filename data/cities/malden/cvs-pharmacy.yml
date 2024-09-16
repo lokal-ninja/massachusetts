@@ -1,11 +1,11 @@
 id: 618685503
-type: way
+type: node
 latitude: 42.42617
 longitude: -71.06575
 postcode: "02148"
 city: Malden
-street: "Ferry Street"
-housenumber: 32
-phone: "+1-781-324-1101"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.cvs.com/store-locator/malden-ma-pharmacies/32-ferry-st-malden-ma-02148/storeid=672"
+street: Ferry Street
+housenumber: "32"
+phone: +1-781-324-1101
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.cvs.com/store-locator/malden-ma-pharmacies/32-ferry-st-malden-ma-02148/storeid=672

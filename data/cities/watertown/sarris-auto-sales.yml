@@ -1,11 +1,11 @@
 id: 29811338
-type: way
+type: node
 latitude: 42.36264
 longitude: -71.15388
 postcode: "02472"
 city: Watertown
-street: "Arsenal Street"
-housenumber: 626
+street: Arsenal Street
+housenumber: "626"
 phone: ""
 opening_hours: ""
-website: "https://www.sarrisauto.com/"
+website: https://www.sarrisauto.com/

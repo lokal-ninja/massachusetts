@@ -1,11 +1,11 @@
 id: 29663901
-type: way
+type: node
 latitude: 42.4651
 longitude: -71.0104
 postcode: "01906"
 city: Saugus
-street: "Main Street"
-housenumber: 7
+street: Main Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 29513288
-type: way
+type: node
 latitude: 42.34169
 longitude: -71.12065
 postcode: "02446"
 city: Brookline
-street: "Beacon Street"
-housenumber: 1317
-phone: "+1 617-278-9997"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ma/brookline/501/"
+street: Beacon Street
+housenumber: "1317"
+phone: +1 617-278-9997
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ma/brookline/501/

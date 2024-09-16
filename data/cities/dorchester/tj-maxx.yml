@@ -4,8 +4,8 @@ latitude: 42.32643
 longitude: -71.06206
 postcode: "02125"
 city: Dorchester
-street: "Allstate Road"
-housenumber: 6
+street: Allstate Road
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

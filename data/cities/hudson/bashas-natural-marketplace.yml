@@ -1,11 +1,11 @@
 id: 213648905
-type: way
+type: node
 latitude: 42.38178
 longitude: -71.56777
 postcode: "01749"
 city: Hudson
-street: "Washington Street"
-housenumber: 190
+street: Washington Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

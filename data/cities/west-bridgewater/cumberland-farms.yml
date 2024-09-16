@@ -1,11 +1,11 @@
 id: 217086251
-type: way
+type: node
 latitude: 42.01956
 longitude: -71.00865
 postcode: "02379"
 city: West Bridgewater
-street: "North Main Street"
-housenumber: 8
+street: North Main Street
+housenumber: "8"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

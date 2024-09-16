@@ -4,8 +4,8 @@ latitude: 42.48455
 longitude: -71.19381
 postcode: "01803"
 city: Burlington
-street: "Wayside Road"
-housenumber: 2
-phone: "+1-781-222-0990"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-17:00"
-website: "https://locations.waxcenter.com/ma/burlington/burlington-0491.html"
+street: Wayside Road
+housenumber: "2"
+phone: +1-781-222-0990
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 09:00-17:00
+website: https://locations.waxcenter.com/ma/burlington/burlington-0491.html

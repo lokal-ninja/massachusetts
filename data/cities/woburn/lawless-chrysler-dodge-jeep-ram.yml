@@ -1,11 +1,11 @@
 id: 214155219
-type: way
+type: node
 latitude: 42.46831
 longitude: -71.17769
 postcode: "01801"
 city: Woburn
-street: "Lexington Street"
-housenumber: 196
-phone: "+1-781-622-9692"
-opening_hours: "Mo-Th 08:30-20:00; Fr 08:30-18:00; Sa 08:30-17:00; Su 11:00-17:00"
-website: "https://www.lawless.com/"
+street: Lexington Street
+housenumber: "196"
+phone: +1-781-622-9692
+opening_hours: Mo-Th 08:30-20:00; Fr 08:30-18:00; Sa 08:30-17:00; Su 11:00-17:00
+website: https://www.lawless.com/

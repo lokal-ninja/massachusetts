@@ -2,10 +2,10 @@ id: 8786724857
 type: node
 latitude: 42.30366
 longitude: -71.38007
-postcode: "01760-1506"
+postcode: 01760-1506
 city: Natick
-street: "Speen Street"
-housenumber: 321
-phone: "+1 844-473-1113"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ma/natick/321-speen-street"
+street: Speen Street
+housenumber: "321"
+phone: +1 844-473-1113
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ma/natick/321-speen-street

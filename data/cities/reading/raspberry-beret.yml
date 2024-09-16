@@ -4,8 +4,8 @@ latitude: 42.52336
 longitude: -71.10288
 postcode: "01867"
 city: Reading
-street: "Main Street"
-housenumber: 587
-phone: "+1 781 7791853"
+street: Main Street
+housenumber: "587"
+phone: +1 781 7791853
 opening_hours: ""
-website: "https://www.raspberryberet.us/Reading.html"
+website: https://www.raspberryberet.us/Reading.html

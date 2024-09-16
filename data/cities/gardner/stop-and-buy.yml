@@ -1,11 +1,11 @@
 id: 213304643
-type: way
+type: node
 latitude: 42.56702
 longitude: -71.98231
 postcode: "01440"
 city: Gardner
-street: "Union Square"
-housenumber: 56
+street: Union Square
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

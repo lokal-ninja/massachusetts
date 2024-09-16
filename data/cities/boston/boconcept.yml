@@ -4,8 +4,8 @@ latitude: 42.34944
 longitude: -71.08381
 postcode: "02116"
 city: Boston
-street: "Newbury Street"
-housenumber: 275
-phone: "+1-617-588-7777"
+street: Newbury Street
+housenumber: "275"
+phone: +1-617-588-7777
 opening_hours: ""
-website: "https://www.boconcept.com/en-us/stores/find-your-local-store/usa/massachusetts/boconcept-newbury-street"
+website: https://www.boconcept.com/en-us/stores/find-your-local-store/usa/massachusetts/boconcept-newbury-street
