@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /quincy/the-home-depot-centre-street/
+url: /danvers/the-home-depot-independence-way/
 shop: doityourself
 ---
