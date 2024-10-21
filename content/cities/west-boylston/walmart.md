@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /west-boylston/walmart/
-shop: supermarket
+shop: department store
 ---
