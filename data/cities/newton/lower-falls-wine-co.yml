@@ -7,5 +7,6 @@ city: Newton
 street: Washington Street
 housenumber: "2366"
 phone: +1-617-332-3000
-opening_hours: ""
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off "Business hours" || Mo off;
+    Tu-Fr 12:00-16:00; Sa,Su off "Delivery hours"
 website: https://lowerfallswine.com/
