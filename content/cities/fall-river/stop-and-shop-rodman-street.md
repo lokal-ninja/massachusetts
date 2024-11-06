@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /shrewsbury/stop-and-shop/
+url: /fall-river/stop-and-shop-rodman-street/
 shop: supermarket
 ---
