@@ -1,6 +1,6 @@
 ---
 title: North Dartmouth
 url: /north-dartmouth/
-latitude: 41.64
-longitude: -71.003
+latitude: 41.642
+longitude: -70.99
 ---
