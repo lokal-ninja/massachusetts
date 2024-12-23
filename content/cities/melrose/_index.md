@@ -1,6 +1,6 @@
 ---
 title: Melrose
 url: /melrose/
-latitude: 42.452
-longitude: -71.067
+latitude: 42.467
+longitude: -71.061
 ---
