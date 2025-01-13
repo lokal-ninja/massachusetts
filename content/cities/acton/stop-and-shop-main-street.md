@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /fall-river/stop-and-shop-rodman-street/
+url: /acton/stop-and-shop-main-street/
 shop: supermarket
 ---
