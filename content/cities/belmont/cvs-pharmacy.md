@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /allston/cvs-pharmacy-harvard-avenue/
+url: /belmont/cvs-pharmacy/
 shop: chemist
 ---
