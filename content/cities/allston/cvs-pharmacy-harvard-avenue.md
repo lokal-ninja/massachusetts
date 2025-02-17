@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /lowell/cvs-pharmacy-wood-street/
+url: /allston/cvs-pharmacy-harvard-avenue/
 shop: chemist
 ---
