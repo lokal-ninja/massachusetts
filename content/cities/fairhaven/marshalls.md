@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /fairhaven/marshalls/
-shop: clothes
+shop: department store
 ---

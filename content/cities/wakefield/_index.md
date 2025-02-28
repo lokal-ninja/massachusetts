@@ -1,6 +1,6 @@
 ---
 title: Wakefield
 url: /wakefield/
-latitude: 42.474
-longitude: -71.062
+latitude: 42.483
+longitude: -71.067
 ---
