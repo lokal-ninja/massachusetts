@@ -7,5 +7,6 @@ city: Cambridge
 street: Cambridge Street
 housenumber: "1300"
 phone: +1 617 864 7343
-opening_hours: Mo,Tu,Th 07:00-19:00; We,Fr 07:00-18:00; Sa 08:00-20:00
+opening_hours: Mar-Dec Mo,Tu,Th 07:00-19:00; Mar-Dec We,Fr 07:00-18:00; Mar-Dec Sa
+    08:00-20:00; Jan-Feb Mo-Fr 08:00-18:00; Jan-Feb Sa 08:00-15:00
 website: ""
