@@ -1,5 +1,5 @@
 ---
-title: "Mavis Tires and Brakes"
+title: "Mavis Tires & Brakes"
 url: /saugus/mavis-tires-and-brakes/
 shop: car repair
 ---
