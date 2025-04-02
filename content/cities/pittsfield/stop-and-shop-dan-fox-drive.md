@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /acton/stop-and-shop-main-street/
+url: /pittsfield/stop-and-shop-dan-fox-drive/
 shop: supermarket
 ---
