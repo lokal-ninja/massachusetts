@@ -7,5 +7,5 @@ city: Melrose
 street: Franklin Street
 housenumber: "377"
 phone: +1 781 6622149
-opening_hours: ""
+opening_hours: Mo,Tu,Fr 10:00-15:00; We,Th 10:00-19:00; Sa 10:00-16:00
 website: https://www.appleofmyeye.us/
