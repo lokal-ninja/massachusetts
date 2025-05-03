@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hyannis/speedway-north-street/
+url: /worcester/speedway-belmont-street/
 shop: convenience
 ---
