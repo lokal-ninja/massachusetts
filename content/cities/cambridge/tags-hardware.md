@@ -1,5 +1,5 @@
 ---
-title: "TAGS Hardware"
+title: "Tags Hardware"
 url: /cambridge/tags-hardware/
 shop: hardware
 ---

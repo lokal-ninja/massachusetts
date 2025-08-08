@@ -1,5 +1,5 @@
 ---
-title: "When pigs fly"
+title: "When Pigs Fly"
 url: /somerville/when-pigs-fly/
 shop: bakery
 ---

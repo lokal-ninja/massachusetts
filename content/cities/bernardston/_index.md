@@ -1,6 +1,6 @@
 ---
 title: Bernardston
 url: /bernardston/
-latitude: 42.67
-longitude: -72.537
+latitude: 42.669
+longitude: -72.535
 ---
