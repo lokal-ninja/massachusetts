@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raynham/speedway-broadway/
+url: /fall-river/speedway-eastern-avenue/
 shop: convenience
 ---

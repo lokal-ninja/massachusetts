@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fall-river/speedway-pleasant-street/
+url: /raynham/speedway-route-44/
 shop: convenience
 ---
