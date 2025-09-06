@@ -1,6 +1,6 @@
 ---
 title: Malden
 url: /malden/
-latitude: 42.417
-longitude: -71.077
+latitude: 42.423
+longitude: -71.085
 ---

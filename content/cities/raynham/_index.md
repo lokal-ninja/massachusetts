@@ -1,6 +1,6 @@
 ---
 title: Raynham
 url: /raynham/
-latitude: 41.937
-longitude: -71.084
+latitude: 41.905
+longitude: -71.045
 ---
