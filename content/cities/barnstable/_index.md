@@ -1,6 +1,6 @@
 ---
 title: Barnstable
 url: /barnstable/
-latitude: 41.634
-longitude: -70.389
+latitude: 41.654
+longitude: -70.324
 ---
