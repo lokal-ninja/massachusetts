@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raynham/speedway-route-44/
+url: /seekonk/speedway-newman-avenue/
 shop: convenience
 ---
