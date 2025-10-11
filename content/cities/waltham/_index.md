@@ -1,6 +1,6 @@
 ---
 title: Waltham
 url: /waltham/
-latitude: 42.366
-longitude: -71.238
+latitude: 42.413
+longitude: -71.233
 ---
