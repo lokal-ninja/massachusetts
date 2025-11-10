@@ -7,6 +7,5 @@ city: Dedham
 street: Providence Highway
 housenumber: "916"
 phone: +1-781-613-2006
-opening_hours: 'Tue: 09:00AM-05:00PM, Wed: 09:00AM-06:00PM, Thu: 11:00AM-07:00PM,
-    Fri & Sat: 09:00AM-05:00PM'
+opening_hours: Tu 09:00AM-17:00; We 09:00AM-18:00PM; Th 11:00-19:00; Fr,Sa 09:00AM-17:00
 website: https://www.trubella.com/
