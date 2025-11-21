@@ -1,6 +1,6 @@
 ---
 title: Rockland
 url: /rockland/
-latitude: 42.165
-longitude: -70.895
+latitude: 42.124
+longitude: -70.908
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /woburn/saloncentric/
-shop: beauty
+shop: hairdresser supply
 ---
