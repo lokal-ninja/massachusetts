@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /west-springfield/aldi/
 shop: supermarket
 ---
