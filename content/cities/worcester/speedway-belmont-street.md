@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /worcester/speedway-park-avenue/
+url: /worcester/speedway-belmont-street/
 shop: convenience
 ---

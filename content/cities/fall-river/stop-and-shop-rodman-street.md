@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /springfield/stop-and-shop-boston-road/
+url: /fall-river/stop-and-shop-rodman-street/
 shop: supermarket
 ---
