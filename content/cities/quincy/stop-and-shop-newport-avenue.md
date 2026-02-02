@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /quincy/stop-and-shop-southern-artery/
+url: /quincy/stop-and-shop-newport-avenue/
 shop: supermarket
 ---
