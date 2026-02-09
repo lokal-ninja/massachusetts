@@ -1,6 +1,6 @@
 ---
 title: Ware
 url: /ware/
-latitude: 42.261
-longitude: -72.241
+latitude: 42.256
+longitude: -72.252
 ---

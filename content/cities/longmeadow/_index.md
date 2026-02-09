@@ -1,6 +1,6 @@
 ---
 title: Longmeadow
 url: /longmeadow/
-latitude: 42.067
-longitude: -72.579
+latitude: 42.058
+longitude: -72.58
 ---

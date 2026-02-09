@@ -1,5 +1,5 @@
 ---
-title: "Adi's Bike World"
+title: "Adis Bike World"
 url: /west-roxbury/adis-bike-world-centre-street/
-shop: books
+shop: bicycle
 ---

@@ -7,5 +7,5 @@ city: Cambridge
 street: Cambridge Street
 housenumber: "738"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th,Sa 08:00-18:00; Fr 08:00-18:30; Su 08:00-14:00
 website: ""
