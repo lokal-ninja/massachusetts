@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /quincy/stop-and-shop-newport-avenue/
+url: /pittsfield/stop-and-shop-dan-fox-drive/
 shop: supermarket
 ---

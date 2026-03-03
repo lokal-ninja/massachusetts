@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /pittsfield/stop-and-shop-merrill-road/
+url: /springfield/stop-and-shop-boston-road/
 shop: supermarket
 ---
