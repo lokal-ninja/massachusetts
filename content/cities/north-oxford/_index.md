@@ -1,6 +1,6 @@
 ---
 title: North Oxford
 url: /north-oxford/
-latitude: 42.17
-longitude: -71.879
+latitude: 42.183
+longitude: -71.85
 ---

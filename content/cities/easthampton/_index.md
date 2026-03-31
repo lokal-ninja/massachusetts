@@ -1,6 +1,6 @@
 ---
 title: Easthampton
 url: /easthampton/
-latitude: 42.264
-longitude: -72.665
+latitude: 42.265
+longitude: -72.67
 ---
