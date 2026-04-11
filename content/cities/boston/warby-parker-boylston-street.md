@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
-url: /boston/warby-parker-newbury-street/
+url: /boston/warby-parker-boylston-street/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raynham/speedway-route-44/
+url: /worcester/speedway-park-avenue/
 shop: convenience
 ---
