@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /quincy/stop-and-shop-newport-avenue/
+url: /fall-river/stop-and-shop-rodman-street/
 shop: supermarket
 ---

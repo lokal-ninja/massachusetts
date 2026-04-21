@@ -1,6 +1,6 @@
 ---
 title: Acton
 url: /acton/
-latitude: 42.469
-longitude: -71.457
+latitude: 42.475
+longitude: -71.449
 ---
