@@ -1,6 +1,6 @@
 ---
 title: West Roxbury
 url: /west-roxbury/
-latitude: 42.27
-longitude: -71.068
+latitude: 42.287
+longitude: -71.151
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paxton
 url: /paxton/
-latitude: 42.329
-longitude: -71.915
+latitude: 42.289
+longitude: -71.89
 ---

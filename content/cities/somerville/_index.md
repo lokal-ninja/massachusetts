@@ -1,6 +1,6 @@
 ---
 title: Somerville
 url: /somerville/
-latitude: 42.383
-longitude: -71.105
+latitude: 42.406
+longitude: -71.131
 ---
