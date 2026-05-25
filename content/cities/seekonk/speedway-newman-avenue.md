@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /seekonk/speedway-progress-street/
+url: /seekonk/speedway-newman-avenue/
 shop: convenience
 ---
