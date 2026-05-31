@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hyannis/speedway-falmouth-road/
+url: /raynham/speedway-broadway/
 shop: convenience
 ---

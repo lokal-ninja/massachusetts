@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raynham/speedway-route-44/
+url: /hyannis/speedway-iyannough-road-2/
 shop: convenience
 ---
