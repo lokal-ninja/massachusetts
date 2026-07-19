@@ -7,5 +7,6 @@ city: Lexington
 street: Lowell Street
 housenumber: "52"
 phone: ""
-opening_hours: ""
+opening_hours: We 12:00-18:00; Th 12:00-19:00; Fr 12:00-18:00; Sa 12:00-16:00; Su-Tu
+    off
 website: https://lexfarm.org/
