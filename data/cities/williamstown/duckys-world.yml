@@ -7,5 +7,7 @@ city: Williamstown
 street: Spring Street
 housenumber: "72"
 phone: "+14134586223"
-opening_hours: Thursday-Sunday 12-5
+opening_hours: |-
+    Th-Sa 12:00-17:00;
+    Su 12:00-16:00
 website: http://www.duckysvintage.com/

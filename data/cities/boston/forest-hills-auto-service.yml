@@ -7,7 +7,5 @@ city: Boston
 street: 235 Hyde Park Ave
 housenumber: ""
 phone: +1-617-522-9595
-opening_hours: 'Sunday: CLOSED Monday: 8:30AM to 6:00PM Tuesday: 8:30AM to 6:00PM
-    Wednesday: 8:30AM to 6:00PM Thursday: 8:30AM to 6:00PM Friday: 8:30AM to 6:00PM
-    Saturday: 8:30AM to 5:00PM'
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
 website: https://foresthillsautoservices.com

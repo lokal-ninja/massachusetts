@@ -7,5 +7,5 @@ city: Peabody
 street: Andover Street
 housenumber: "300"
 phone: +1-978-535-5300
-opening_hours: Mo-Fr 09:00-17:00 Sa 09:00-13:00
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""
