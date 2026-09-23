@@ -1,6 +1,6 @@
 ---
 title: Dennis Port
 url: /dennis-port/
-latitude: 41.667
-longitude: -70.124
+latitude: 41.655
+longitude: -70.154
 ---

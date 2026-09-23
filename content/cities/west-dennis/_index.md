@@ -1,6 +1,6 @@
 ---
 title: West Dennis
 url: /west-dennis/
-latitude: 41.667
-longitude: -70.155
+latitude: 41.666
+longitude: -70.166
 ---
