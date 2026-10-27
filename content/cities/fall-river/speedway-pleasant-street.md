@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fall-river/speedway-eastern-avenue/
+url: /fall-river/speedway-pleasant-street/
 shop: convenience
 ---
