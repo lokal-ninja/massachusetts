@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /boston/gnc-newbury-street/
+url: /boston/gnc-boylston-street/
 shop: nutrition supplements
 ---
