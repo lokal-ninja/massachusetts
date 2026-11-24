@@ -1,6 +1,6 @@
 ---
 title: West Yarmouth
 url: /west-yarmouth/
-latitude: 41.658
-longitude: -70.269
+latitude: 41.65
+longitude: -70.241
 ---
